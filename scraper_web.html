@@ -140,8 +140,8 @@
           <input type="text" id="item_pattern" placeholder="e.g. /news/\d+">
         </div>
         <div>
-          <label class="field" for="prefix">ID prefix</label>
-          <input type="text" id="prefix" placeholder="default depends on the format">
+          <label class="field" for="prefix">ID prefix <span class="hint">— start of each record's id, e.g. <b>moe-news</b> gives ids like moe-news-123</span></label>
+          <input type="text" id="prefix" placeholder="article">
         </div>
         <div>
           <label class="field" for="delay">Seconds between requests</label>
@@ -212,10 +212,16 @@ $("formats").innerHTML = FORMATS.map(([value, name, desc], i) => `
   <div><input type="radio" name="format" id="f-${value}" value="${value}" ${i === 0 ? "checked" : ""}>
   <label for="f-${value}"><b>${name}</b><span>${desc}</span></label></div>`).join("");
 
+// Show the format's default prefix in the empty ID prefix box.
+const PREFIXES = { publications: "article", legacy: "article", downloads: "download", gallery: "gallery", projects: "project", video: "video" };
+const showPrefix = () => ($("prefix").placeholder = `${PREFIXES[document.querySelector("input[name=format]:checked").value]} (default)`);
+document.querySelectorAll("input[name=format]").forEach((r) => r.addEventListener("change", showPrefix));
+
 const saved = store.get();
 FIELDS.forEach((f) => { if (saved[f] !== undefined) $(f).value = saved[f]; });
 CHECKS.forEach((f) => { if (saved[f] !== undefined) $(f).checked = saved[f]; });
 if (saved.format && $("f-" + saved.format)) $("f-" + saved.format).checked = true;
+showPrefix();
 
 fetch("/api/status").then((r) => r.json()).then((s) => {
   const pill = $("claude-pill");
