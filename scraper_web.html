@@ -191,7 +191,7 @@
 <script>
 const FORMATS = [
   ["publications", "Publications", "News, press releases, articles"],
-  ["legacy", "Legacy", "Same shape as publications"],
+  ["newsroom", "Newsroom", "Same shape as publications"],
   ["downloads", "Downloads", "Forms and documents"],
   ["gallery", "Gallery", "Photo albums"],
   ["projects", "Projects", "Sector, funding, timeline"],
@@ -213,7 +213,7 @@ $("formats").innerHTML = FORMATS.map(([value, name, desc], i) => `
   <label for="f-${value}"><b>${name}</b><span>${desc}</span></label></div>`).join("");
 
 // Show the format's default prefix in the empty ID prefix box.
-const PREFIXES = { publications: "article", legacy: "article", downloads: "download", gallery: "gallery", projects: "project", video: "video" };
+const PREFIXES = { publications: "article", newsroom: "article", downloads: "download", gallery: "gallery", projects: "project", video: "video" };
 const showPrefix = () => ($("prefix").placeholder = `${PREFIXES[document.querySelector("input[name=format]:checked").value]} (default)`);
 document.querySelectorAll("input[name=format]").forEach((r) => r.addEventListener("change", showPrefix));
 

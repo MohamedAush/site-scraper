@@ -6,7 +6,7 @@ format, and it returns records in the shape of the matching file in [samples/](s
 | Format | For | Sample |
 | --- | --- | --- |
 | `publications` | News, press releases, articles | [publications-api-sample.json](samples/publications-api-sample.json) |
-| `legacy` | Same shape as publications | [legacy-api-sample.json](samples/legacy-api-sample.json) |
+| `newsroom` | Same shape as publications | [newsroom-api-sample.json](samples/newsroom-api-sample.json) |
 | `downloads` | Forms and documents | [downloads-api-sample.json](samples/downloads-api-sample.json) |
 | `gallery` | Photo albums | [gallery-api-sample.json](samples/gallery-api-sample.json) |
 | `projects` | Projects with sector, funding and timeline | [projects-api-sample.json](samples/projects-api-sample.json) |

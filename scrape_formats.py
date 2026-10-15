@@ -17,7 +17,7 @@ from pydantic import BaseModel
 # Format -> default id prefix and the top-level keys of its sample file.
 FORMATS = {
     "publications": {"prefix": "article", "totals": True},
-    "legacy": {"prefix": "article", "totals": True},
+    "newsroom": {"prefix": "article", "totals": True},
     "downloads": {"prefix": "download", "totals": False},
     "gallery": {"prefix": "gallery", "totals": False},
     "projects": {"prefix": "project", "totals": False},
@@ -117,7 +117,7 @@ when it names one.
 published_date: the date the item was published.
 description_en / description_dv: a one- or two-sentence summary taken from the item's own opening, \
 in that language; null if that language's page is missing."""),
-    "legacy": None,  # same as publications
+    "newsroom": None,  # same as publications
     "downloads": (DownloadFields, """\
 type_name: the kind of document, as a short plural Title Case label such as Forms, Reports, \
 Guidelines, Policies, Regulations or Templates.
@@ -366,7 +366,7 @@ def build_project(item, fields, args):
     }
 
 
-BUILDERS = {"publications": build_publication, "legacy": build_publication, "downloads": build_download,
+BUILDERS = {"publications": build_publication, "newsroom": build_publication, "downloads": build_download,
             "gallery": build_gallery, "projects": build_project, "video": build_video}
 
 

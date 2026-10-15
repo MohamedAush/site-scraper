@@ -2,7 +2,7 @@
 """Scrape any website into one of the sample JSON formats.
 
 Give it a listing page (every item on it is followed, across pages) or a single item page, and the
-format to produce: publications, legacy, downloads, gallery, projects or video. Structure (titles,
+format to produce: publications, newsroom, downloads, gallery, projects or video. Structure (titles,
 dates, bodies, images, files, videos) is read from the HTML. Fields the HTML has no fixed place for
 (project sector, funding and timeline, download types, categories) are filled in by Claude when
 ANTHROPIC_API_KEY is set; --no-llm skips that. The Dhivehi version of each page is found through the
