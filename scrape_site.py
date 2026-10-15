@@ -22,6 +22,7 @@ import re
 import sys
 import time
 from datetime import datetime
+from html import escape
 from urllib.parse import parse_qs, quote, unquote, urldefrag, urljoin, urlparse
 
 import requests
@@ -192,6 +193,10 @@ def find_title(soup, content):
     menu = {text_of(a).lower() for a in soup.find_all("a")}
     site = soup.find("meta", property="og:site_name")
     site = (site.get("content") or "").strip().lower() if site else ""
+    if site and og.lower().startswith(site):
+        og = og[len(site):].lstrip(" -|–—:")
+    elif site and og.lower().endswith(site):
+        og = og[:-len(site)].rstrip(" -|–—:")
     home = lambda h: h.find_parent("a", href=lambda u: urlparse(u).path.strip("/") in ("", "en", "dv"))
     candidates = (content.find_all("h1") if content else []) + soup.find_all("h1")
     # The site's own name sits in an h1 inside the logo link or page header on many sites.
@@ -376,11 +381,14 @@ def parse_page(html, url):
         "videos": find_videos(content, url),
         "data": None,
         "other_lang": None,
+        "facts": {},
         "soup": soup,
     }
     data = embedded_data(soup)
     if data is not None and len(page_text) < 300:
         use_embedded_data(page, data)
+    if data is not None:
+        use_record(page, main_record(data), clean_url(og and og.get("content"), url) or "")
     page["empty"] = len(page_text) < 40 and not page["images"] and not page["videos"] and not page["data"]
     return page
 
@@ -430,6 +438,92 @@ def use_embedded_data(page, data):
         description_dv = pick(["description", "descriptiondv", "description_dv"], thaana=True)
         page["other_lang"] = {**page, "lang": "dv", "title": title_dv, "description": description_dv or "",
                               "body": description_dv or "", "other_lang": None}
+
+
+RICH_TAGS = {"paragraph": "p", "bulletList": "ul", "orderedList": "ol", "listItem": "li", "blockquote": "blockquote",
+             "table": "table", "tableRow": "tr", "tableCell": "td", "tableHeader": "th"}
+MARK_TAGS = {"bold": "strong", "italic": "em", "code": "code"}
+# Record keys (lowercased) of the facts a project page lists, in the CMS names seen on gov.mv sites.
+FACT_KEYS = {
+    "status": ("status", "projectstatus"),
+    "start": ("startdate", "start_date"),
+    "end": ("enddate", "end_date", "expecteddate", "completiondate"),
+    "location": ("location",),
+    "funding": ("funding", "fundingorganisation", "donor"),
+    "contact_name": ("contactname",),
+    "contact_phone": ("contactnumber", "contactphone"),
+    "contact_email": ("contactmail", "contactemail"),
+}
+
+
+def rich_html(node):
+    """HTML for rich text stored as ProseMirror (Tiptap) JSON."""
+    if isinstance(node, list):
+        return "".join(rich_html(n) for n in node)
+    if not isinstance(node, dict):
+        return ""
+    kind = node.get("type")
+    if kind == "text":
+        html = escape(node.get("text", ""))
+        for mark in node.get("marks", []):
+            tag = MARK_TAGS.get(mark.get("type"))
+            if tag:
+                html = f"<{tag}>{html}</{tag}>"
+            elif mark.get("type") == "link":
+                html = f'<a href="{escape((mark.get("attrs") or {}).get("href") or "")}">{html}</a>'
+        return html
+    if kind == "hardBreak":
+        return "<br>"
+    inner = rich_html(node.get("content", []))
+    tag = f"h{(node.get('attrs') or {}).get('level', 3)}" if kind == "heading" else RICH_TAGS.get(kind)
+    return f"<{tag}>{inner}</{tag}>" if tag else inner
+
+
+def main_record(data):
+    """The item's own record in a JavaScript app's page data, e.g. pageProps["news"]."""
+    records = [v for v in data.values() if isinstance(v, dict)] if isinstance(data, dict) else []
+    return max(records, key=len) if records else None
+
+
+def use_record(page, record, share_image):
+    """Facts, files and the full body from the item's record; the HTML shows only part of them."""
+    if not record:
+        return
+    fields = {k.lower(): v for k, v in record.items()}
+    value = lambda v: v.strip() if isinstance(v, str) and v.strip() not in ("", "-") else None
+    facts = {name: next((value(fields.get(k)) for k in keys if value(fields.get(k))), None)
+             for name, keys in FACT_KEYS.items()}
+    category = fields.get("category")
+    if isinstance(category, dict):
+        facts["sector_en"] = value(category.get("nameEn")) or (None if THAANA.search(category.get("name") or "")
+                                                              else value(category.get("name")))
+        facts["sector_dv"] = value(category.get("nameDv")) or (value(category.get("name"))
+                                                              if THAANA.search(category.get("name") or "") else None)
+    page["facts"] = {k: v for k, v in facts.items() if v}
+    page["date"] = page["date"] or next((parse_date(v) for k in ("publisheddate", "publishedat", "createdat")
+                                         if isinstance(v := fields.get(k), str) and parse_date(v)), None)
+
+    # Sections stored as rich text, most of which the page only shows after a click.
+    sections = fields.get("details") if isinstance(fields.get("details"), list) else []
+    html = "".join(f"<h3>{escape(value(d.get('title')) or '')}</h3>{rich_html(d.get('body'))}"
+                   for d in sections if isinstance(d, dict))
+    body = to_markdown(html) if html else ""
+    if len(body) > len(page["body"]):
+        page["body"] = body
+        page["description"] = describe(BeautifulSoup(html, "html.parser")) or page["description"]
+
+    # Files are stored by name; this CMS serves them next to its images (…/images/1500/x.webp -> …/images/x.pdf).
+    base = re.match(r"(.*/images/)", share_image)
+    entries = fields.get("files") if isinstance(fields.get("files"), list) else []
+    for entry in entries:
+        if not isinstance(entry, dict):
+            continue
+        url = value(entry.get("href")) if entry.get("link") else None
+        if not url and base and value(entry.get("file")):
+            url = base.group(1) + quote(entry["file"])
+        if url and url not in {f["url"] for f in page["files"]}:
+            label = " ".join((value(entry.get("titleEn")) or value(entry.get("title")) or label_for(url)).split())
+            page["files"].append({"label": label, "url": url})
 
 
 # ---------------------------------------------------------------------------------------------- listings
