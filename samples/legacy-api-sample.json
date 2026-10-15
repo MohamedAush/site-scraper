@@ -1,0 +1,57 @@
+{
+  "docs": [
+    {
+      "id": "article-7099",
+      "source_type": "News",
+      "published_at": "2026-10-08T08:00:00Z",
+      "featuredImage": {
+        "url": "https://example.com/cover.jpg",
+        "alt": "Cover description"
+      },
+      "files": [
+        {
+          "label": "Annual report",
+          "file": {
+            "url": "https://example.com/report.pdf"
+          }
+        }
+      ],
+      "translations": {
+        "en": {
+          "title": "Example bilingual article",
+          "description": "English summary.",
+          "body": "## English article\n\nContent with **bold text**."
+        },
+        "dv": {
+          "title": "ދިވެހި ސުރުޚީ",
+          "description": "ދިވެހި ޚުލާސާ",
+          "body": "## ދިވެހި\n\nދިވެހި ލިޔުން."
+        }
+      }
+    },
+    {
+      "id": "article-7100-en",
+      "translation_group": "article-7100",
+      "locale": "en",
+      "source_type": "News",
+      "title": "Separate-record example",
+      "body": "English content.",
+      "featuredImage": "https://example.com/cover-2.jpg",
+      "image_alt": "Cover description",
+      "files": [
+        "https://example.com/appendix.pdf"
+      ]
+    },
+    {
+      "id": "article-7100-dv",
+      "translation_group": "article-7100",
+      "locale": "dv",
+      "source_type": "News",
+      "title": "ދިވެހި ސުރުޚީ",
+      "body": "ދިވެހި ލިޔުން."
+    }
+  ],
+  "totalDocs": 3,
+  "hasNextPage": false,
+  "nextPage": null
+}

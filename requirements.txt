@@ -1,0 +1,5 @@
+requests>=2.31
+beautifulsoup4>=4.12
+markdownify>=0.13
+urllib3<2  # system Python 3.9 on macOS is built against LibreSSL, which urllib3 v2 warns about
+anthropic  # Claude fills fields the HTML has no fixed place for (scrape_site.py)

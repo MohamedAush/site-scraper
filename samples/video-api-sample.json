@@ -1,0 +1,26 @@
+{
+  "docs": [
+    {
+      "id": "video-7",
+      "title": "Opening speech",
+      "category": {
+        "name": "Events"
+      },
+      "publishedAt": "2026-10-08T08:00:00Z",
+      "videoUrl": "https://www.youtube.com/watch?v=XXXXXXXXXXX"
+    },
+    {
+      "id": "video-8",
+      "title": "Hosted elsewhere, so it brings its own cover",
+      "category": {
+        "name": "Events"
+      },
+      "videoUrl": "https://vimeo.com/76979871",
+      "coverPhoto": {
+        "url": "https://example.com/video-cover.jpg",
+        "alt": "Video cover"
+      }
+    }
+  ],
+  "hasNextPage": false
+}

@@ -1,0 +1,15 @@
+.venv/
+__pycache__/
+.DS_Store
+
+# Scraped data and exports stay local
+output.json
+fishagriocean.json
+*.zip
+scraped/
+education/
+finance/
+fisheries-sample/
+infrastructure/
+mach/
+moe/

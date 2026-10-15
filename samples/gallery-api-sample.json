@@ -1,0 +1,34 @@
+{
+  "docs": [
+    {
+      "id": "gallery-7099",
+      "category": {
+        "name": "Events"
+      },
+      "publishedAt": "2026-10-08T08:00:00Z",
+      "coverPhoto": {
+        "url": "https://example.com/cover.jpg",
+        "alt": "Cover description"
+      },
+      "photos": [
+        {
+          "url": "https://example.com/photo-1.jpg",
+          "alt": "First photo"
+        },
+        {
+          "url": "https://example.com/photo-2.jpg",
+          "alt": "Second photo"
+        }
+      ],
+      "translations": {
+        "en": {
+          "title": "Example bilingual gallery"
+        },
+        "dv": {
+          "title": "ދިވެހި ސުރުޚީ"
+        }
+      }
+    }
+  ],
+  "hasNextPage": false
+}

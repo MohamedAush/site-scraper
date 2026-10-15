@@ -1,0 +1,80 @@
+{
+  "docs": [
+    {
+      "id": "project-15",
+      "projectStatus": "ongoing",
+      "startDate": "2025-07-23",
+      "endDate": "2030-07-23",
+      "publishedAt": "2026-08-30T08:00:00Z",
+      "coverPhoto": {
+        "url": "https://example.com/cover.jpg",
+        "alt": "Project site"
+      },
+      "contact": {
+        "phone": "+960 000 0000",
+        "email": "projects@example.com"
+      },
+      "timeline": [
+        {
+          "date": "2025-07-23",
+          "type": "milestone",
+          "completed": true
+        },
+        {
+          "date": "2026-03-01",
+          "type": "procurement",
+          "completed": false
+        }
+      ],
+      "resources": [
+        {
+          "label": "Project brief",
+          "file": {
+            "url": "https://example.com/brief.pdf"
+          }
+        }
+      ],
+      "translations": {
+        "en": {
+          "title": "Example coastal protection project",
+          "description": "Protecting the shoreline of an inhabited island.",
+          "body": "## Objectives\n\nThe full project description in Markdown.",
+          "sector": "Environment",
+          "location": "Baa Atoll",
+          "implementingOrganisation": "Ministry of Example",
+          "fundingOrganisation": "Example Fund",
+          "fundingSource": "Grant",
+          "contact": {
+            "name": "Project office"
+          },
+          "timeline": [
+            {
+              "title": "Project launched",
+              "description": "Signing ceremony with partners"
+            },
+            {
+              "title": "Tender for construction"
+            }
+          ]
+        },
+        "dv": {
+          "title": "ދިވެހި ސުރުޚީ",
+          "sector": "ތިމާވެށި",
+          "location": "ބ. އަތޮޅު",
+          "implementingOrganisation": "މިސާލު މިނިސްޓްރީ",
+          "fundingOrganisation": "މިސާލު ފަންޑު",
+          "fundingSource": "ގްރާންޓު",
+          "timeline": [
+            {
+              "title": "މަޝްރޫޢު ފެށުން"
+            },
+            {
+              "title": "އިމާރާތްކުރުމުގެ ޓެންޑަރު"
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "hasNextPage": false
+}

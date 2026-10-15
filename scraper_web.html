@@ -1,0 +1,363 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Site Scraper</title>
+<style>
+  :root {
+    --bg: #f6f7f9; --panel: #ffffff; --text: #16181d; --muted: #5f6672; --line: #e2e5ea;
+    --accent: #1f6feb; --accent-text: #ffffff; --accent-soft: #e8f0fe;
+    --ok: #1a7f37; --ok-soft: #e6f4ea; --warn: #9a6700; --warn-soft: #fff4d6; --bad: #c62828; --bad-soft: #fdecec;
+    --code-bg: #f3f4f7; --k: #8250df; --s: #0a7d50; --n: #b35900; --l: #c62828;
+    --radius: 10px;
+  }
+  @media (prefers-color-scheme: dark) {
+    :root {
+      --bg: #0f1115; --panel: #171a21; --text: #e7e9ee; --muted: #9aa2b1; --line: #2a2f3a;
+      --accent: #4c8dff; --accent-text: #0b0d12; --accent-soft: #1b2740;
+      --ok: #4ac26b; --ok-soft: #13261a; --warn: #e3b341; --warn-soft: #2b2312; --bad: #ff6b6b; --bad-soft: #2d1616;
+      --code-bg: #12151b; --k: #c297ff; --s: #5fd0a0; --n: #ffb366; --l: #ff7b7b;
+    }
+  }
+  * { box-sizing: border-box; }
+  body { margin: 0; background: var(--bg); color: var(--text);
+         font: 15px/1.5 -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif; }
+  main { max-width: 960px; margin: 0 auto; padding: 32px 16px 64px; }
+  header { display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; margin-bottom: 20px; }
+  h1 { font-size: 22px; margin: 0; letter-spacing: -0.01em; }
+  .sub { color: var(--muted); margin: 2px 0 0; font-size: 14px; }
+  .pill { font-size: 13px; padding: 4px 10px; border-radius: 999px; border: 1px solid var(--line); color: var(--muted); white-space: nowrap; }
+  .pill.on { color: var(--ok); background: var(--ok-soft); border-color: transparent; }
+  .panel { background: var(--panel); border: 1px solid var(--line); border-radius: var(--radius); padding: 20px; margin-bottom: 16px; }
+  label.field { display: block; font-weight: 600; font-size: 13px; margin-bottom: 6px; }
+  .hint { color: var(--muted); font-size: 13px; font-weight: 400; }
+  input[type=text], input[type=url], input[type=number], input[type=password], select {
+    width: 100%; padding: 10px 12px; font: inherit; color: var(--text); background: var(--bg);
+    border: 1px solid var(--line); border-radius: 8px; outline: none; }
+  input:focus, select:focus { border-color: var(--accent); box-shadow: 0 0 0 3px var(--accent-soft); }
+  .url-row { display: flex; gap: 10px; }
+  .url-row input { font-size: 16px; padding: 12px 14px; }
+  button { font: inherit; font-weight: 600; border-radius: 8px; padding: 10px 18px; cursor: pointer;
+           border: 1px solid var(--line); background: var(--panel); color: var(--text); white-space: nowrap; }
+  button.primary { background: var(--accent); color: var(--accent-text); border-color: var(--accent); }
+  button:disabled { opacity: .55; cursor: default; }
+  .formats { display: grid; grid-template-columns: repeat(3, 1fr); gap: 10px; margin-top: 18px; }
+  .formats input { position: absolute; opacity: 0; pointer-events: none; }
+  .formats label { display: block; border: 1px solid var(--line); border-radius: 8px; padding: 10px 12px; cursor: pointer; height: 100%; }
+  .formats label b { display: block; font-size: 14px; }
+  .formats label span { color: var(--muted); font-size: 12.5px; }
+  .formats input:checked + label { border-color: var(--accent); background: var(--accent-soft); }
+  .formats input:focus-visible + label { box-shadow: 0 0 0 3px var(--accent-soft); }
+  details { margin-top: 18px; }
+  summary { cursor: pointer; color: var(--muted); font-size: 14px; user-select: none; }
+  .grid { display: grid; grid-template-columns: repeat(2, 1fr); gap: 14px 16px; margin-top: 14px; }
+  .checks { display: flex; gap: 18px; flex-wrap: wrap; margin-top: 14px; font-size: 14px; }
+  .checks label { display: flex; gap: 6px; align-items: center; cursor: pointer; }
+  .key { margin-top: 18px; }
+  .status { display: flex; align-items: center; gap: 10px; justify-content: space-between; flex-wrap: wrap; }
+  .badge { font-size: 13px; font-weight: 600; padding: 3px 10px; border-radius: 999px; }
+  .badge.running, .badge.waiting { background: var(--accent-soft); color: var(--accent); }
+  .badge.done { background: var(--ok-soft); color: var(--ok); }
+  .badge.error, .badge.cancelled { background: var(--bad-soft); color: var(--bad); }
+  .log { margin-top: 12px; max-height: 220px; overflow: auto; background: var(--code-bg); border-radius: 8px; padding: 10px 12px;
+         font: 12.5px/1.55 ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; color: var(--muted); white-space: pre-wrap; word-break: break-word; }
+  .error-box { margin-top: 12px; padding: 10px 12px; border-radius: 8px; background: var(--bad-soft); color: var(--bad); font-size: 14px; }
+  .warn-box { margin-top: 12px; padding: 10px 12px; border-radius: 8px; background: var(--warn-soft); color: var(--warn); font-size: 13.5px; word-break: break-word; }
+  .tabs { display: flex; gap: 4px; border-bottom: 1px solid var(--line); margin: 14px 0 0; }
+  .tabs button { border: none; border-bottom: 2px solid transparent; border-radius: 0; background: none; padding: 8px 12px; color: var(--muted); }
+  .tabs button.active { color: var(--text); border-bottom-color: var(--accent); }
+  .actions { display: flex; gap: 8px; flex-wrap: wrap; }
+  .table-wrap { overflow-x: auto; margin-top: 12px; }
+  table { width: 100%; border-collapse: collapse; font-size: 13.5px; }
+  th, td { text-align: left; padding: 8px 10px; border-bottom: 1px solid var(--line); vertical-align: top; }
+  th { color: var(--muted); font-weight: 600; font-size: 12.5px; white-space: nowrap; }
+  td.mono { font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; font-size: 12px; color: var(--muted); }
+  td .dv { display: block; direction: rtl; text-align: right; color: var(--muted); margin-top: 2px; }
+  pre.json { margin: 12px 0 0; max-height: 560px; overflow: auto; background: var(--code-bg); border-radius: 8px; padding: 14px;
+             font: 12.5px/1.55 ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; white-space: pre; }
+  .json .k { color: var(--k); } .json .s { color: var(--s); } .json .n { color: var(--n); } .json .l { color: var(--l); }
+  .hidden { display: none !important; }
+  @media (max-width: 700px) {
+    .formats { grid-template-columns: repeat(2, 1fr); }
+    .grid { grid-template-columns: 1fr; }
+    .url-row { flex-direction: column; }
+  }
+</style>
+</head>
+<body>
+<main>
+  <header>
+    <div>
+      <h1>Site Scraper</h1>
+      <p class="sub">Paste a page, pick a format, get the JSON.</p>
+    </div>
+    <span class="pill" id="claude-pill">Checking Claude…</span>
+  </header>
+
+  <form class="panel" id="form" autocomplete="off">
+    <label class="field" for="url">Website link <span class="hint">— a listing page (all items are followed) or a single item</span></label>
+    <div class="url-row">
+      <input type="url" id="url" placeholder="https://education.gov.mv/en/news" required>
+      <button type="submit" class="primary" id="go">Scrape</button>
+    </div>
+
+    <div class="formats" id="formats" role="radiogroup" aria-label="Output format"></div>
+
+    <details id="advanced">
+      <summary>More options</summary>
+      <div class="grid">
+        <div>
+          <label class="field" for="limit">Items to scrape <span class="hint">— 0 means all</span></label>
+          <input type="number" id="limit" min="0" value="10">
+        </div>
+        <div>
+          <label class="field" for="model">Claude model</label>
+          <select id="model">
+            <option value="claude-opus-5-5">Opus 5.5 — best quality</option>
+            <option value="claude-sonnet-5-5">Sonnet 5.5 — cheaper</option>
+            <option value="claude-haiku-5-5">Haiku 5.5 — cheapest, for big crawls</option>
+          </select>
+        </div>
+        <div>
+          <label class="field" for="dv_url">Dhivehi listing link <span class="hint">— if not found automatically</span></label>
+          <input type="url" id="dv_url" placeholder="https://example.gov.mv/dv/news">
+        </div>
+        <div>
+          <label class="field" for="category">Category / type <span class="hint">— same for every item</span></label>
+          <input type="text" id="category" placeholder="e.g. News, Events, Forms">
+        </div>
+        <div>
+          <label class="field" for="title_selector">Title CSS selector <span class="hint">— when titles come out wrong</span></label>
+          <input type="text" id="title_selector" placeholder="e.g. span.heading-font">
+        </div>
+        <div>
+          <label class="field" for="content_selector">Content CSS selector</label>
+          <input type="text" id="content_selector" placeholder="e.g. article .entry-content">
+        </div>
+        <div>
+          <label class="field" for="item_pattern">Item link pattern <span class="hint">— regex</span></label>
+          <input type="text" id="item_pattern" placeholder="e.g. /news/\d+">
+        </div>
+        <div>
+          <label class="field" for="prefix">ID prefix</label>
+          <input type="text" id="prefix" placeholder="default depends on the format">
+        </div>
+        <div>
+          <label class="field" for="delay">Seconds between requests</label>
+          <input type="number" id="delay" min="0" max="10" step="0.5" value="1">
+        </div>
+      </div>
+      <div class="checks">
+        <label><input type="checkbox" id="use_claude" checked> Use Claude for extra fields</label>
+        <label><input type="checkbox" id="find_dv" checked> Look for Dhivehi versions</label>
+        <label><input type="checkbox" id="single"> Treat the link as one item</label>
+      </div>
+    </details>
+
+    <div class="key hidden" id="key-row">
+      <label class="field" for="api_key">Anthropic API key <span class="hint">— optional; used for this scrape only and never saved</span></label>
+      <input type="password" id="api_key" placeholder="sk-ant-…" autocomplete="off">
+    </div>
+  </form>
+
+  <section class="panel hidden" id="job">
+    <div class="status">
+      <div><span class="badge" id="badge"></span> <span class="hint" id="elapsed"></span></div>
+      <button type="button" id="cancel">Cancel</button>
+    </div>
+    <div class="log" id="log"></div>
+    <div class="error-box hidden" id="error"></div>
+  </section>
+
+  <section class="panel hidden" id="result">
+    <div class="status">
+      <div><b id="count"></b> <span class="hint" id="result-meta"></span></div>
+      <div class="actions">
+        <button type="button" id="copy">Copy JSON</button>
+        <button type="button" class="primary" id="download">Download .json</button>
+      </div>
+    </div>
+    <div class="warn-box hidden" id="failed"></div>
+    <div class="tabs" role="tablist">
+      <button type="button" class="active" data-tab="preview">Preview</button>
+      <button type="button" data-tab="json">JSON</button>
+    </div>
+    <div id="tab-preview" class="table-wrap"></div>
+    <pre class="json hidden" id="tab-json"></pre>
+  </section>
+</main>
+
+<script>
+const FORMATS = [
+  ["publications", "Publications", "News, press releases, articles"],
+  ["legacy", "Legacy", "Same shape as publications"],
+  ["downloads", "Downloads", "Forms and documents"],
+  ["gallery", "Gallery", "Photo albums"],
+  ["projects", "Projects", "Sector, funding, timeline"],
+  ["video", "Video", "YouTube, Vimeo and others"],
+];
+const FIELDS = ["url", "limit", "model", "dv_url", "category", "title_selector", "content_selector", "item_pattern", "prefix", "delay"];
+const CHECKS = ["use_claude", "find_dv", "single"];
+const $ = (id) => document.getElementById(id);
+let job = null, result = null, poll = null;
+
+// Remember the last choices in this browser (never the API key).
+const store = {
+  get() { try { return JSON.parse(localStorage.getItem("scraper-form") || "{}"); } catch { return {}; } },
+  set(v) { try { localStorage.setItem("scraper-form", JSON.stringify(v)); } catch {} },
+};
+
+$("formats").innerHTML = FORMATS.map(([value, name, desc], i) => `
+  <div><input type="radio" name="format" id="f-${value}" value="${value}" ${i === 0 ? "checked" : ""}>
+  <label for="f-${value}"><b>${name}</b><span>${desc}</span></label></div>`).join("");
+
+const saved = store.get();
+FIELDS.forEach((f) => { if (saved[f] !== undefined) $(f).value = saved[f]; });
+CHECKS.forEach((f) => { if (saved[f] !== undefined) $(f).checked = saved[f]; });
+if (saved.format && $("f-" + saved.format)) $("f-" + saved.format).checked = true;
+
+fetch("/api/status").then((r) => r.json()).then((s) => {
+  const pill = $("claude-pill");
+  if (s.claude) { pill.textContent = "Claude on"; pill.classList.add("on"); }
+  else { pill.textContent = "Claude off — no API key"; $("key-row").classList.remove("hidden"); }
+}).catch(() => { $("claude-pill").textContent = "Server not reachable"; });
+
+function formValues() {
+  const v = { format: document.querySelector("input[name=format]:checked").value };
+  FIELDS.forEach((f) => (v[f] = $(f).value.trim()));
+  CHECKS.forEach((f) => (v[f] = $(f).checked));
+  return v;
+}
+
+$("form").addEventListener("submit", async (e) => {
+  e.preventDefault();
+  const values = formValues();
+  store.set(values);
+  const body = { ...values, limit: Number(values.limit || 0), delay: Number(values.delay || 1), api_key: $("api_key").value.trim() };
+  $("go").disabled = true;
+  $("result").classList.add("hidden");
+  try {
+    const r = await fetch("/api/scrape", { method: "POST", headers: { "Content-Type": "application/json" }, body: JSON.stringify(body) });
+    const data = await r.json();
+    if (!r.ok) throw new Error(data.error || "Could not start");
+    showJob(data);
+    poll = setInterval(refresh, 800);
+  } catch (err) {
+    $("go").disabled = false;
+    $("job").classList.remove("hidden");
+    $("badge").className = "badge error"; $("badge").textContent = "Not started";
+    $("log").textContent = ""; $("error").textContent = err.message; $("error").classList.remove("hidden");
+    $("cancel").classList.add("hidden");
+  }
+});
+
+async function refresh() {
+  try {
+    const r = await fetch(`/api/jobs/${job.id}`);
+    showJob(await r.json());
+  } catch { /* server busy; try again on the next tick */ }
+}
+
+function showJob(data) {
+  job = data;
+  const labels = { waiting: "Waiting for another scrape", running: "Scraping…", done: "Done", error: "Failed", cancelled: "Cancelled" };
+  $("job").classList.remove("hidden");
+  $("badge").className = "badge " + data.status;
+  $("badge").textContent = labels[data.status] || data.status;
+  $("elapsed").textContent = `${data.elapsed}s`;
+  const log = $("log");
+  const atBottom = log.scrollTop + log.clientHeight >= log.scrollHeight - 8;
+  log.textContent = data.log.join("\n") || "Starting…";
+  if (atBottom) log.scrollTop = log.scrollHeight;
+  $("error").classList.toggle("hidden", !data.error);
+  $("error").textContent = data.error || "";
+  const finished = ["done", "error", "cancelled"].includes(data.status);
+  $("cancel").classList.toggle("hidden", finished);
+  if (finished) {
+    clearInterval(poll);
+    $("go").disabled = false;
+    if (data.status === "done") showResult(data);
+  }
+}
+
+$("cancel").addEventListener("click", () => {
+  if (job) fetch(`/api/jobs/${job.id}/cancel`, { method: "POST" });
+  $("cancel").disabled = true;
+  setTimeout(() => ($("cancel").disabled = false), 1500);
+});
+
+function titleOf(d) {
+  const t = d.translations || {};
+  return { en: (t.en && t.en.title) || d.title || "", dv: (t.dv && t.dv.title) || "" };
+}
+
+function detailOf(d, format) {
+  const n = (list, word) => (list && list.length ? `${list.length} ${word}${list.length > 1 ? "s" : ""}` : "");
+  switch (format) {
+    case "downloads": return [d.type && d.type.name, n(d.files, "file")].filter(Boolean).join(" · ");
+    case "gallery": return [d.category && d.category.name, n(d.photos, "photo")].filter(Boolean).join(" · ");
+    case "video": return [d.category && d.category.name, d.videoUrl].filter(Boolean).join(" · ");
+    case "projects": return [d.projectStatus, d.translations && d.translations.en && d.translations.en.sector, n(d.resources, "file")].filter(Boolean).join(" · ");
+    default: return [d.source_type, n(d.files, "file")].filter(Boolean).join(" · ");
+  }
+}
+
+const esc = (s) => String(s).replace(/[&<>"]/g, (c) => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;" }[c]));
+
+function showResult(data) {
+  result = data;
+  const docs = data.result.docs;
+  $("result").classList.remove("hidden");
+  $("count").textContent = `${docs.length} ${docs.length === 1 ? "doc" : "docs"}`;
+  $("result-meta").textContent = `· ${data.format} · ${new URL(data.url).hostname}`;
+  $("failed").classList.toggle("hidden", !data.failed.length);
+  $("failed").innerHTML = data.failed.length
+    ? `<b>${data.failed.length} page${data.failed.length > 1 ? "s" : ""} could not be read:</b> ${data.failed.map(esc).join(", ")}` : "";
+  const rows = docs.map((d) => {
+    const t = titleOf(d);
+    const date = (d.published_at || d.publishedAt || d.startDate || "").slice(0, 10);
+    return `<tr><td class="mono">${esc(d.id)}</td>
+      <td>${esc(t.en)}${t.dv ? `<span class="dv" lang="dv">${esc(t.dv)}</span>` : ""}</td>
+      <td class="mono">${esc(date)}</td><td>${esc(detailOf(d, data.format))}</td></tr>`;
+  }).join("");
+  $("tab-preview").innerHTML = docs.length
+    ? `<table><thead><tr><th>ID</th><th>Title</th><th>Date</th><th>Details</th></tr></thead><tbody>${rows}</tbody></table>`
+    : `<p class="hint">Nothing was scraped. Check the log above.</p>`;
+  const text = JSON.stringify(data.result, null, 2);
+  $("tab-json").innerHTML = text.length < 400000 ? highlight(text) : esc(text);
+}
+
+function highlight(json) {
+  return esc(json).replace(/("(?:\\.|[^"\\])*")(\s*:)?|\b(true|false|null)\b|-?\b\d+(?:\.\d+)?(?:[eE][+-]?\d+)?\b/g,
+    (m, str, colon, lit) => str ? `<span class="${colon ? "k" : "s"}">${str}</span>${colon || ""}`
+      : lit ? `<span class="l">${m}</span>` : `<span class="n">${m}</span>`);
+}
+
+document.querySelectorAll(".tabs button").forEach((b) => b.addEventListener("click", () => {
+  document.querySelectorAll(".tabs button").forEach((x) => x.classList.toggle("active", x === b));
+  $("tab-preview").classList.toggle("hidden", b.dataset.tab !== "preview");
+  $("tab-json").classList.toggle("hidden", b.dataset.tab !== "json");
+}));
+
+$("copy").addEventListener("click", async () => {
+  const text = JSON.stringify(result.result, null, 2);
+  try { await navigator.clipboard.writeText(text); }
+  catch {
+    const area = Object.assign(document.createElement("textarea"), { value: text });
+    document.body.append(area); area.select(); document.execCommand("copy"); area.remove();
+  }
+  $("copy").textContent = "Copied"; setTimeout(() => ($("copy").textContent = "Copy JSON"), 1500);
+});
+
+$("download").addEventListener("click", () => {
+  const blob = new Blob([JSON.stringify(result.result, null, 2)], { type: "application/json" });
+  const a = Object.assign(document.createElement("a"), {
+    href: URL.createObjectURL(blob),
+    download: `${new URL(result.url).hostname}-${result.format}.json`,
+  });
+  a.click(); URL.revokeObjectURL(a.href);
+});
+</script>
+</body>
+</html>
