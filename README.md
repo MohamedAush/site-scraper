@@ -54,8 +54,3 @@ Useful options (`--help` lists them all):
 
 Pages that load their content with JavaScript requests (not embedded in the HTML) can't be scraped; the tool
 says so instead of producing empty records.
-
-## Other scripts
-
-The `scrape_<site>.py` and `convert_*.py` scripts are earlier one-site scrapers and converters.
-`scrape_site.py` reuses a few helpers from `scrape_finance.py` and `to_sample_format.py`.

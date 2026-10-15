@@ -26,13 +26,13 @@ from urllib.parse import parse_qs, quote, unquote, urldefrag, urljoin, urlparse
 
 import requests
 from bs4 import BeautifulSoup
+from markdownify import markdownify
 
-from scrape_finance import describe, to_markdown
 from scrape_formats import FORMATS, Claude, build_docs, checkpoint, envelope, log
-from to_sample_format import label_for
 
 USER_AGENT = "simple-crawler/1.0"
 CHUNK_SIZE = 100
+DESCRIPTION_MAX = 300
 THAANA = re.compile("[ހ-޿]")
 FILE_EXT = re.compile(r"\.(pdf|docx?|xlsx?|pptx?|csv|zip|rar|odt|ods)$", re.I)
 VIDEO_URL = re.compile(r"(youtube\.com/(watch|embed|shorts)|youtu\.be/|vimeo\.com/|facebook\.com/.+/videos/)", re.I)
@@ -163,6 +163,28 @@ def main_content(soup):
     return scope
 
 
+def describe(soup):
+    text = next((t for t in (" ".join(p.get_text(" ").split()) for p in soup.find_all("p")) if t), "")
+    if len(text) > DESCRIPTION_MAX:
+        text = text[:DESCRIPTION_MAX].rsplit(" ", 1)[0] + "…"
+    return text
+
+
+def to_markdown(html):
+    body = markdownify(html, heading_style="ATX", bullets="-").replace("\xa0", " ")
+    body = "\n".join(line.rstrip() for line in body.splitlines())
+    return re.sub(r"\n{3,}", "\n\n", body).strip()
+
+
+def label_for(url):
+    name = os.path.basename(unquote(urlparse(url).path))
+    stem = os.path.splitext(name)[0]
+    # Drop upload timestamps appended by the CMS, e.g. "-1791778465021" (one or more).
+    stem = re.sub(r"(-\d{10,})+$", "", stem)
+    stem = re.sub(r"[_\s]+", " ", stem).strip()
+    return stem or name
+
+
 def find_title(soup, content):
     meta = soup.find("meta", property="og:title") or soup.find("meta", attrs={"name": "twitter:title"})
     og = " ".join((meta.get("content") or "").split()) if meta else ""
@@ -174,6 +196,9 @@ def find_title(soup, content):
     candidates = (content.find_all("h1") if content else []) + soup.find_all("h1")
     # The site's own name sits in an h1 inside the logo link or page header on many sites.
     headings = [text_of(h) for h in candidates if not home(h) and not h.find_parent(["header", "nav", "footer"])]
+    # A "latest news" sidebar links to the current item too, so its title also shows up as a link.
+    if og in headings:
+        return og
     headings = [h for h in dict.fromkeys(headings) if h and h.lower() not in menu and h.lower() != site]
     for heading in headings:
         if og and heading in og:
