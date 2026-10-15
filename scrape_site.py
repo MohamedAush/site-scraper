@@ -639,6 +639,11 @@ def read_pages(session, url, args, single=False):
             failed.append(link)
         if count % 10 == 0 or count == len(links):
             log(f"  read {count}/{len(links)}")
+    # A cover every item shares is the site's default share image, not the item's own.
+    covers = [page["cover"]["url"] for page in pages if page["cover"]]
+    for page in pages:
+        if page["cover"] and covers.count(page["cover"]["url"]) > 1:
+            page["cover"] = dict(page["images"][0]) if page["images"] else None
     return pages, failed
 
 
@@ -706,7 +711,11 @@ def scrape(args, api_key=None):
             log(f"  other-language versions found for {len(others)}/{len(pages)}")
     items = []
     for i, page in enumerate(pages):
-        other = others.get(i) or page["other_lang"]
+        # A page from the Dhivehi listing is still English when the site picks the language with JavaScript;
+        # its Dhivehi text is then in its embedded data.
+        paired = others.get(i)
+        candidates = [paired, paired and paired["other_lang"], page["other_lang"]]
+        other = next((c for c in candidates if c and c["lang"] != page["lang"]), None)
         en, dv = (page, other) if page["lang"] == "en" else (other, page)
         items.append({"en": en, "dv": dv})
     return build_docs(args.format, items, args, claude), failed
