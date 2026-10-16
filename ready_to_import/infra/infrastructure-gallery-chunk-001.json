@@ -547,7 +547,7 @@
       }
     },
     {
-      "id": "gallery-c554d774-d9e0-4ebb-a0ac-abe6611cd930",
+      "id": "gallery-c554d774-d9e0-4ebb-a0ac-abe6611cd930-part-1",
       "publishedAt": "2026-08-30T00:00:00Z",
       "coverPhoto": {
         "url": "https://infrastructure.gov.mv/uploads/d7c31a44-13e9-46e8-ad98-ce3369b7ea3b.webp",
@@ -801,7 +801,25 @@
         {
           "url": "https://infrastructure.gov.mv/uploads/6875c01d-341f-4f37-b03d-61d2fb987bbb.webp",
           "alt": "His Excellency President Dr. Mohamed Muizzu inspects the Thilamale’ Bridge during an official site visit, accompanied by Cabinet Ministers, the Indian High Commissioner, project representatives and Government officials."
+        }
+      ],
+      "translations": {
+        "en": {
+          "title": "His Excellency President Dr. Mohamed Muizzu inspects the Thilamale’ Bridge during an official site visit, accompanied by Cabinet Ministers, the Indian High Commissioner, project representatives and Government officials. - Part 1"
         },
+        "dv": {
+          "title": "ރައީސުލްޖުމްހޫރިއްޔާ ޑޮކްޓަރ މުޙައްމަދު މުޢިއްޒު، ތިލަމާލެ ބްރިޖް މަޝްރޫޢުގެ މަސައްކަތް ކުރިއަށްދާ ގޮތް ބައްލަވާލެއްވުން - ބައި 1"
+        }
+      }
+    },
+    {
+      "id": "gallery-c554d774-d9e0-4ebb-a0ac-abe6611cd930-part-2",
+      "publishedAt": "2026-08-30T00:00:00Z",
+      "coverPhoto": {
+        "url": "https://infrastructure.gov.mv/uploads/18b5a0f4-3261-43ed-bbca-e6360e8409ce.webp",
+        "alt": "His Excellency President Dr. Mohamed Muizzu inspects the Thilamale’ Bridge during an official site visit, accompanied by Cabinet Ministers, the Indian High Commissioner, project representatives and Government officials."
+      },
+      "photos": [
         {
           "url": "https://infrastructure.gov.mv/uploads/18b5a0f4-3261-43ed-bbca-e6360e8409ce.webp",
           "alt": "His Excellency President Dr. Mohamed Muizzu inspects the Thilamale’ Bridge during an official site visit, accompanied by Cabinet Ministers, the Indian High Commissioner, project representatives and Government officials."
@@ -1053,10 +1071,10 @@
       ],
       "translations": {
         "en": {
-          "title": "His Excellency President Dr. Mohamed Muizzu inspects the Thilamale’ Bridge during an official site visit, accompanied by Cabinet Ministers, the Indian High Commissioner, project representatives and Government officials."
+          "title": "His Excellency President Dr. Mohamed Muizzu inspects the Thilamale’ Bridge during an official site visit, accompanied by Cabinet Ministers, the Indian High Commissioner, project representatives and Government officials. - Part 2"
         },
         "dv": {
-          "title": "ރައީސުލްޖުމްހޫރިއްޔާ ޑޮކްޓަރ މުޙައްމަދު މުޢިއްޒު، ތިލަމާލެ ބްރިޖް މަޝްރޫޢުގެ މަސައްކަތް ކުރިއަށްދާ ގޮތް ބައްލަވާލެއްވުން"
+          "title": "ރައީސުލްޖުމްހޫރިއްޔާ ޑޮކްޓަރ މުޙައްމަދު މުޢިއްޒު، ތިލަމާލެ ބްރިޖް މަޝްރޫޢުގެ މަސައްކަތް ކުރިއަށްދާ ގޮތް ބައްލަވާލެއްވުން - ބައި 2"
         }
       }
     },
