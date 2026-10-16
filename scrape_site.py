@@ -42,6 +42,11 @@ BOILERPLATE = re.compile(r"(^|[\s_-])(nav|navbar|menu|sidebar|breadcrumbs?|share
                          r"footer|header|pagination|pager|widget|comments?|subscribe|search)([\s_-]|$)", re.I)
 SHARE_LINK = re.compile(r"(facebook\.com/sharer|twitter\.com/(intent|share)|x\.com/intent|linkedin\.com/share|"
                         r"wa\.me/|api\.whatsapp\.com/send|t\.me/share|telegram\.me/share|viber://|mailto:\?)", re.I)
+# Page builders put "widget" in every block's class (elementor-widget-container); only the rest of the name counts.
+BUILDER_PREFIXES = ("elementor", "et_pb", "fl-", "vc_")
+# Photo gallery blocks (Elementor, WordPress); they hold the item's own photos, not "more galleries" thumbnails.
+GALLERY_BLOCKS = ".elementor-gallery__container, .elementor-image-gallery, .wp-block-gallery, div.gallery[id^=gallery-]"
+SIZED = re.compile(r"(-\d+x\d+|-scaled)(\.\w+)$")  # WordPress copies of one picture: photo-768x512.jpg
 REMOVE_TAGS =["script", "style", "noscript", "nav", "header", "footer", "aside", "form", "svg", "button", "template"]
 NEXT_TEXT = re.compile(r"^\s*(next|next page|older|older posts|more|»|›|>|→|ކުރިއަށް)\s*[»›>→]?\s*$", re.I)
 # CSS selectors given on the command line for sites the general rules misread.
@@ -131,7 +136,8 @@ def strip_boilerplate(soup):
     for el in soup.find_all(True):
         if getattr(el, "decomposed", False) or el.attrs is None:
             continue
-        names = " ".join(el.get("class") or []) + " " + (el.get("id") or "") + " " + (el.get("role") or "")
+        classes = [c.replace("widget", "") if c.startswith(BUILDER_PREFIXES) else c for c in el.get("class") or []]
+        names = " ".join(classes) + " " + (el.get("id") or "") + " " + (el.get("role") or "")
         # Only small blocks: a page wrapper called "page-header-wrap" must not take the content with it.
         if BOILERPLATE.search(names) and len(text_of(el)) < total * 0.4:
             el.decompose()
@@ -279,23 +285,25 @@ def image_url(img, base):
 
 def find_images(content, base):
     images = []
-    for img in content.find_all("img"):
-        url = image_url(img, base)
-        small = any((img.get(dim) or "").isdigit() and int(img.get(dim)) < 80 for dim in ("width", "height"))
-        if url and not small and not IMAGE_SKIP.search(urlparse(url).path):
-            images.append({"url": url, "alt": (img.get("alt") or "").strip()})
-    # Gallery links that open the full-size picture.
-    for a in content.find_all("a", href=re.compile(r"\.(jpe?g|png|webp|gif)(\?|$)", re.I)):
-        url = clean_url(a["href"], base)
-        if url:
-            images.append({"url": url, "alt": (a.get("title") or "").strip()})
-    seen, unique = set(), []
+    for node in content if isinstance(content, list) else [content]:
+        for img in node.find_all("img"):
+            url = image_url(img, base)
+            small = any((img.get(dim) or "").isdigit() and int(img.get(dim)) < 80 for dim in ("width", "height"))
+            if url and not small and not IMAGE_SKIP.search(urlparse(url).path):
+                images.append({"url": url, "alt": (img.get("alt") or "").strip()})
+        # Gallery links that open the full-size picture.
+        for a in node.find_all("a", href=re.compile(r"\.(jpe?g|png|webp|gif)(\?|$)", re.I)):
+            url = clean_url(a["href"], base)
+            if url:
+                images.append({"url": url, "alt": (a.get("title") or "").strip()})
+    unique = {}
     for image in images:
-        key = re.sub(r"(-\d+x\d+)(\.\w+)$", r"\2", image["url"])  # WordPress thumbnails of the same picture
-        if key not in seen:
-            seen.add(key)
-            unique.append(image)
-    return unique
+        key = SIZED.sub(r"\2", image["url"])
+        if key not in unique:
+            unique[key] = image
+        elif SIZED.search(unique[key]["url"]) and not SIZED.search(image["url"]):
+            unique[key] = {**image, "alt": unique[key]["alt"] or image["alt"]}  # the full-size copy wins
+    return list(unique.values())
 
 
 def find_files(content, base):
@@ -353,7 +361,9 @@ def parse_page(html, url):
     picked = SELECTORS["title"] and soup.select_one(SELECTORS["title"])
     title = text_of(picked) if picked else find_title(soup, content)
     og = soup.find("meta", property="og:image")
-    images = find_images(content, url)
+    # The content guess misses a gallery block on pages with little text, or takes "more galleries" with it.
+    blocks = soup.select(GALLERY_BLOCKS)
+    images = find_images(blocks if blocks else content, url)
     cover = None
     if og and clean_url(og.get("content"), url) and not IMAGE_SKIP.search(og["content"]):
         cover = {"url": clean_url(og["content"], url), "alt": ""}
@@ -555,7 +565,8 @@ def item_links(soup, url, pattern=None):
     for link in links:
         path = urlparse(link).path.rstrip("/")
         parent, _, last = path.rpartition("/")
-        if parent and (re.search(r"\d", last) or "-" in last or len(last) > 12):
+        # Posts can also sit at the site root under a number (WordPress: /45759).
+        if (parent and (re.search(r"\d", last) or "-" in last or len(last) > 12)) or re.fullmatch(r"\d+", last):
             groups.setdefault(parent, []).append(link)
     best = max(groups.values(), key=len, default=[])
     return best if len(best) >= 3 else under
