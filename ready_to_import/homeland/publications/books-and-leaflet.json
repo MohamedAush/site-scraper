@@ -1,0 +1,28 @@
+{
+  "docs": [
+    {
+      "id": "publication-611",
+      "source_type": "Books and Leaflet",
+      "published_at": "2026-09-03T05:37:45Z",
+      "files": [
+        {
+          "label": "Home Team: Results of 104 Weeks",
+          "file": {
+            "url": "https://moha.sgp1.digitaloceanspaces.com/attachment/file/104%20Hafthaage%20Natheeja%20-%202025_compressed.pdf"
+          }
+        }
+      ],
+      "translations": {
+        "en": {
+          "title": "Home Team: Results of 104 Weeks"
+        },
+        "dv": {
+          "title": "ހޯމްޓީމް: 104 ހަފްތާގެ ނަތީޖާ"
+        }
+      }
+    }
+  ],
+  "totalDocs": 1,
+  "hasNextPage": false,
+  "nextPage": null
+}

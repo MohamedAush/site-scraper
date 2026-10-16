@@ -1,0 +1,30 @@
+{
+  "docs": [
+    {
+      "id": "publication-185",
+      "source_type": "Press Released",
+      "published_at": "2024-02-27T14:33:07Z",
+      "files": [
+        {
+          "label": "ނޫސް ބަޔާން",
+          "file": {
+            "url": "https://moha.sgp1.digitaloceanspaces.com/attachment/file/Noos%20bayaan%20Released%2020242.pdf"
+          }
+        }
+      ],
+      "translations": {
+        "en": {
+          "title": "Press Released",
+          "description": "Press Released"
+        },
+        "dv": {
+          "title": "ނޫސް ބަޔާން",
+          "description": "ނޫސް ބަޔާން"
+        }
+      }
+    }
+  ],
+  "totalDocs": 1,
+  "hasNextPage": false,
+  "nextPage": null
+}
