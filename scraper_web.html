@@ -42,6 +42,7 @@
            border: 1px solid var(--line); background: var(--panel); color: var(--text); white-space: nowrap; }
   button.primary { background: var(--accent); color: var(--accent-text); border-color: var(--accent); }
   button:disabled { opacity: .55; cursor: default; }
+  button.stop { background: var(--bad); color: #fff; border-color: var(--bad); }
   .formats { display: grid; grid-template-columns: repeat(3, 1fr); gap: 10px; margin-top: 18px; }
   .formats input { position: absolute; opacity: 0; pointer-events: none; }
   .formats label { display: block; border: 1px solid var(--line); border-radius: 8px; padding: 10px 12px; cursor: pointer; height: 100%; }
@@ -164,7 +165,7 @@
   <section class="panel hidden" id="job">
     <div class="status">
       <div><span class="badge" id="badge"></span> <span class="hint" id="elapsed"></span></div>
-      <button type="button" id="cancel">Cancel</button>
+      <button type="button" class="stop" id="cancel">Stop</button>
     </div>
     <div class="log" id="log"></div>
     <div class="error-box hidden" id="error"></div>
@@ -200,7 +201,7 @@ const FORMATS = [
 const FIELDS = ["url", "limit", "model", "dv_url", "category", "title_selector", "content_selector", "item_pattern", "prefix", "delay"];
 const CHECKS = ["use_claude", "find_dv", "single"];
 const $ = (id) => document.getElementById(id);
-let job = null, result = null, poll = null;
+let job = null, result = null, poll = null, running = false, stopping = false;
 
 // Remember the last choices in this browser (never the API key).
 const store = {
@@ -238,6 +239,7 @@ function formValues() {
 
 $("form").addEventListener("submit", async (e) => {
   e.preventDefault();
+  if (running) return stopJob();  // the Scrape button is a Stop button while a scrape runs
   const values = formValues();
   store.set(values);
   const body = { ...values, limit: Number(values.limit || 0), delay: Number(values.delay || 1), api_key: $("api_key").value.trim() };
@@ -249,6 +251,7 @@ $("form").addEventListener("submit", async (e) => {
     if (!r.ok) throw new Error(data.error || "Could not start");
     showJob(data);
     poll = setInterval(refresh, 800);
+    $("go").disabled = false;
   } catch (err) {
     $("go").disabled = false;
     $("job").classList.remove("hidden");
@@ -279,19 +282,28 @@ function showJob(data) {
   $("error").classList.toggle("hidden", !data.error);
   $("error").textContent = data.error || "";
   const finished = ["done", "error", "cancelled"].includes(data.status);
+  running = !finished;
   $("cancel").classList.toggle("hidden", finished);
+  $("go").textContent = !running ? "Scrape" : stopping ? "Stopping…" : "Stop";
+  $("go").classList.toggle("primary", !running);
+  $("go").classList.toggle("stop", running);
   if (finished) {
+    stopping = false;
+    $("cancel").disabled = false;
+    $("cancel").textContent = "Stop";
     clearInterval(poll);
     $("go").disabled = false;
     if (data.status === "done") showResult(data);
   }
 }
 
-$("cancel").addEventListener("click", () => {
-  if (job) fetch(`/api/jobs/${job.id}/cancel`, { method: "POST" });
-  $("cancel").disabled = true;
-  setTimeout(() => ($("cancel").disabled = false), 1500);
-});
+function stopJob() {
+  if (!job) return;
+  stopping = true;
+  fetch(`/api/jobs/${job.id}/cancel`, { method: "POST" });
+  for (const id of ["go", "cancel"]) { $(id).disabled = true; $(id).textContent = "Stopping…"; }
+}
+$("cancel").addEventListener("click", stopJob);
 
 function titleOf(d) {
   const t = d.translations || {};
