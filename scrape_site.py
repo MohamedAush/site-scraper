@@ -62,9 +62,10 @@ DATE_PATTERNS = [
     (re.compile(rf"\b{MONTH_RE}\s+(\d{{1,2}})(?:st|nd|rd|th)?,?\s+(\d{{4}})\b", re.I), lambda m: (m[3], m[1], m[2])),
     (re.compile(r"(\d{1,2})\s+([ހ-޿]+)،?\s+(\d{4})"), lambda m: (m[3], m[2], m[1])),
 ]
-# Dhivehi month names by their first three letters, as spellings vary after that.
-DV_MONTHS = {name: i for i, name in enumerate(
-    ["ޖަނ", "ފެބ", "މާރ", "އޭޕ", "މޭ", "ޖޫނ", "ޖުލ", "އޮގ", "ސެޕ", "އޮކ", "ނޮވ", "ޑިސ"], 1)}
+# Dhivehi month names by their first three letters, as spellings vary after that (އޯގަސްޓު as well as އޮގަސްޓު).
+DV_MONTHS = {name: i for i, names in enumerate(
+    [["ޖަނ", "ޖެނ"], ["ފެބ"], ["މާރ"], ["އޭޕ", "އެޕ"], ["މޭ"], ["ޖޫނ"], ["ޖުލ"], ["އޮގ", "އޯގ"], ["ސެޕ"], ["އޮކ"],
+     ["ނޮވ"], ["ޑިސ"]], 1) for name in names}
 
 
 # ---------------------------------------------------------------------------------------------- fetching
