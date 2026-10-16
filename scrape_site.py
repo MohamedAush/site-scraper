@@ -192,6 +192,18 @@ def label_for(url):
     return stem or name
 
 
+# A "New" or status badge inside a heading: <h1>Title <span class="status-box-new">New</span></h1>
+BADGE = re.compile(r"(^|[\s_-])(badge|new|new-post|status|label|tag|pill)([\s_-]|$)", re.I)
+
+
+def heading_text(heading):
+    heading = copy.copy(heading)
+    for el in heading.find_all(True):
+        if BADGE.search(" ".join(el.get("class") or [])) and len(text_of(el).split()) <= 2:
+            el.decompose()
+    return text_of(heading)
+
+
 def find_title(soup, content):
     meta = soup.find("meta", property="og:title") or soup.find("meta", attrs={"name": "twitter:title"})
     og = " ".join((meta.get("content") or "").split()) if meta else ""
@@ -203,24 +215,45 @@ def find_title(soup, content):
         og = og[len(site):].lstrip(" -|–—:")
     elif site and og.lower().endswith(site):
         og = og[:-len(site)].rstrip(" -|–—:")
+    # A shortened og:title ("Grant application fo...") only gives the start of the title.
+    cut = re.search(r"\s*(\.\.\.|…)$", og)
+    og_start, og = (og[:cut.start()], "") if cut else ("", og)
+    page_title = text_of(soup.title)
+
+    def confirmed(heading):
+        """The heading, if the page's own title data names it; without a trailing badge ("New") it lacks."""
+        words = heading.split()
+        texts = [heading] + ([" ".join(words[:-1])] if len(words) > 3 else [])
+        if og or og_start:
+            return (next((t for t in texts if og and t in og), None)
+                    or next((t for t in texts if og_start and t.startswith(og_start)), None))
+        # <title> also holds the site's name, so it only decides when there is no og:title at all.
+        return next((t for t in texts if t in page_title), None)
+
     home = lambda h: h.find_parent("a", href=lambda u: urlparse(u).path.strip("/") in ("", "en", "dv"))
     candidates = (content.find_all("h1") if content else []) + soup.find_all("h1")
     # The site's own name sits in an h1 inside the logo link or page header on many sites.
-    headings = [text_of(h) for h in candidates if not home(h) and not h.find_parent(["header", "nav", "footer"])]
+    headings = [heading_text(h) for h in candidates if not home(h) and not h.find_parent(["header", "nav", "footer"])]
     # A "latest news" sidebar links to the current item too, so its title also shows up as a link.
     if og in headings:
         return og
     headings = [h for h in dict.fromkeys(headings) if h and h.lower() not in menu and h.lower() != site]
     for heading in headings:
-        if og and heading in og:
-            return heading
+        if confirmed(heading):
+            return confirmed(heading)
     if headings:
         return headings[0]
+    # No h1: an h2 or h3 is the title only when the page's title data confirms it (others name page sections).
+    for h in soup.find_all(["h2", "h3"]):
+        if not h.find_parent(["header", "nav", "footer"]) and confirmed(heading_text(h)):
+            return confirmed(heading_text(h))
     if og:
         section, _, rest = og.partition(": ")
         return rest if rest and section.lower() in menu else re.split(r"\s+[|–—]\s+", og)[0]
-    title = text_of(soup.title)
-    return re.split(r"\s+[|–—-]\s+", title)[0] if title else ""
+    parts = [part for part in re.split(r"\s+[|–—-]\s+", page_title) if part]
+    if og_start:
+        return next((part for part in parts if part.startswith(og_start)), og_start)
+    return parts[0] if parts else ""
 
 
 def parse_date(text):
@@ -687,18 +720,30 @@ def fetch_alternate(session, page, args):
     return other if other and other["lang"] == want and other["title"] else None
 
 
+def pair_key(page):
+    """What one language's item shares with the other's: the page's slug, or for an entry listed on a page
+    (a download, a video) its file or video, since every entry there has the listing's address."""
+    if page.get("inline"):
+        return (page["files"] and page["files"][0]["url"]) or (page["videos"] and page["videos"][0])
+    return urlparse(page["url"]).path.rstrip("/").rsplit("/", 1)[-1]
+
+
 def pair_by(en_pages, dv_pages):
-    """Match Dhivehi pages to English ones by slug, then by date, then by position."""
-    slug = lambda p: urlparse(p["url"]).path.rstrip("/").rsplit("/", 1)[-1]
-    pairs, free = {}, list(dv_pages)
+    """Match Dhivehi pages to English ones by slug, else by date, else by position."""
+    by_key = {}
+    for dv in dv_pages:
+        by_key.setdefault(pair_key(dv), dv)
+    pairs = {i: by_key[pair_key(en)] for i, en in enumerate(en_pages) if pair_key(en) in by_key}
+    # A site whose two languages share slugs has no pair for the rest: an English-only and a Dhivehi-only
+    # item from the same day are different items. Entries on a listing have no date to go by.
+    if pairs or any(page.get("inline") for page in en_pages + dv_pages):
+        return pairs
+    free = list(dv_pages)
     for i, en in enumerate(en_pages):
-        match = next((dv for dv in free if slug(dv) == slug(en)), None)
-        if not match and en["date"]:
-            same_day = [dv for dv in free if dv["date"] == en["date"]]
-            match = same_day[0] if len(same_day) == 1 else None
-        if match:
-            pairs[i] = match
-            free.remove(match)
+        same_day = [dv for dv in free if en["date"] and dv["date"] == en["date"]]
+        if len(same_day) == 1:
+            pairs[i] = same_day[0]
+            free.remove(same_day[0])
     if not pairs and len(en_pages) == len(dv_pages):
         return dict(enumerate(dv_pages))
     return pairs
@@ -805,15 +850,19 @@ def scrape(args, api_key=None):
         dv_pages, dv_failed = read_pages(session, args.dv_url, args)
         failed += dv_failed
         others = pair_by(pages, dv_pages)
-    elif not args.no_dv:
+        # Items only the second listing has (no version in the first language) are items too.
+        paired = {id(page) for page in others.values()}
+        pages += [page for page in dv_pages if id(page) not in paired]
+    if not args.no_dv:
+        # The language switcher finds the other version wherever the second listing has it, past --limit too.
+        # Entries listed on one page share it; nothing to pair.
+        urls = {page["url"] for page in pages} | {page["url"] for page in others.values()}
         for i, page in enumerate(pages):
-            if page.get("inline"):
-                continue  # entries listed on one page share it; nothing to pair
+            if i in others or page.get("inline"):
+                continue
             other = fetch_alternate(session, page, args)
-            if other:
+            if other and other["url"] not in urls:
                 others[i] = other
-        if pages:
-            log(f"  other-language versions found for {len(others)}/{len(pages)}")
     items = []
     for i, page in enumerate(pages):
         # A page from the Dhivehi listing is still English when the site picks the language with JavaScript;
@@ -823,6 +872,9 @@ def scrape(args, api_key=None):
         other = next((c for c in candidates if c and c["lang"] != page["lang"]), None)
         en, dv = (page, other) if page["lang"] == "en" else (other, page)
         items.append({"en": en, "dv": dv})
+    if items and (args.dv_url or not args.no_dv):
+        both = sum(1 for item in items if item["en"] and item["dv"])
+        log(f"  in both languages: {both}, in one language only: {len(items) - both}")
     return build_docs(args.format, items, args, claude), failed
 
 
