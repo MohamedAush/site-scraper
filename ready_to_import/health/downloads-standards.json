@@ -1,0 +1,2816 @@
+{
+  "docs": [
+    {
+      "id": "download-national-guideline-for-the-diagnosis-and-treatment-of-cervical-cancer",
+      "title": "National Guideline for the Diagnosis and Treatment of Cervical Cancer",
+      "description": "11 May 2026",
+      "type": {
+        "name": "Documents",
+        "slug": "documents"
+      },
+      "files": [
+        {
+          "label": "cervical cancer nati...",
+          "file": {
+            "url": "https://health.gov.mv/storage/uploads/ywDdGLwN/pkfgoshw.pdf"
+          }
+        }
+      ]
+    },
+    {
+      "id": "download-2027",
+      "title": "National Medicine Policy 2024-2027",
+      "description": "18 November 2024",
+      "type": {
+        "name": "Documents",
+        "slug": "documents"
+      },
+      "files": [
+        {
+          "label": "ENDORSED National Me...",
+          "file": {
+            "url": "https://health.gov.mv/storage/uploads/4w8p27wK/gdju8ivh.pdf"
+          }
+        }
+      ]
+    },
+    {
+      "id": "download-guideline-on-good-reliance-practice-for-regulation-of-medicines",
+      "title": "Guideline on Good Reliance Practice for Regulation of Medicines",
+      "description": "26 September 2024",
+      "type": {
+        "name": "Documents",
+        "slug": "documents"
+      },
+      "files": [
+        {
+          "label": "MTG Guideline on Goo...",
+          "file": {
+            "url": "https://health.gov.mv/storage/uploads/8qe8XaYP/butrykd7.pdf"
+          }
+        }
+      ]
+    },
+    {
+      "id": "download-guideline-for-registration-of-nutraceuticals",
+      "title": "Guideline for Registration of Nutraceuticals",
+      "description": "26 September 2024",
+      "type": {
+        "name": "Documents",
+        "slug": "documents"
+      },
+      "files": [
+        {
+          "label": "Guideline for Nutrac...",
+          "file": {
+            "url": "https://health.gov.mv/storage/uploads/koMrmbwd/xoalonxl.pdf"
+          }
+        }
+      ]
+    },
+    {
+      "id": "download-minimum-standards-for-providing-dialysis-services-in-the-maldives",
+      "title": "Minimum standards for providing dialysis services in the Maldives",
+      "description": "08 September 2024",
+      "type": {
+        "name": "Documents",
+        "slug": "documents"
+      },
+      "files": [
+        {
+          "label": "Minimum Stnadrds for...",
+          "file": {
+            "url": "https://health.gov.mv/storage/uploads/QoQQZZov/hzovegkf.pdf"
+          }
+        }
+      ]
+    },
+    {
+      "id": "download-amihla-dhiriulhumahtakai-kaaboathakethi-ufahdhaa-vihkumuge-masahkathugai-amalu-kuranveegothuge-mingandu",
+      "title": "Standard for home based food approval",
+      "description": "03 September 2024",
+      "type": {
+        "name": "Documents",
+        "slug": "documents"
+      },
+      "files": [
+        {
+          "label": "Standard for home ba...",
+          "file": {
+            "url": "https://health.gov.mv/storage/uploads/VYxeQWqP/qw3j0ukd.pdf"
+          }
+        },
+        {
+          "label": "Standard for home ba...",
+          "file": {
+            "url": "https://health.gov.mv/storage/uploads/5qR6Jdqx/twt85vhr.pdf"
+          }
+        }
+      ]
+    },
+    {
+      "id": "download-moaldivs-neshanal-medikeyshan-prektis-steyndaad",
+      "title": "Maldives national medication practice standard",
+      "description": "18 August 2024",
+      "type": {
+        "name": "Documents",
+        "slug": "documents"
+      },
+      "files": [
+        {
+          "label": "medication medicatio...",
+          "file": {
+            "url": "https://health.gov.mv/storage/uploads/9qgbB1YD/ktovvprx.pdf"
+          }
+        },
+        {
+          "label": "medication medicatio...",
+          "file": {
+            "url": "https://health.gov.mv/storage/uploads/4w8pO5wK/ah7j3jw0.pdf"
+          }
+        }
+      ]
+    },
+    {
+      "id": "download-guideline-for-management-of-bronchial-asthma-in-adults",
+      "title": "Guideline for Management of Bronchial Asthma in Adults",
+      "description": "09 July 2024",
+      "type": {
+        "name": "Documents",
+        "slug": "documents"
+      },
+      "files": [
+        {
+          "label": "Asthma-Final (1)",
+          "file": {
+            "url": "https://health.gov.mv/storage/uploads/KYyXOLwR/o4dyzmdm.pdf"
+          }
+        }
+      ]
+    },
+    {
+      "id": "download-guideline-for-chronic-obstructive-pulmonary-disease",
+      "title": "Guideline for chronic obstructive pulmonary disease",
+      "description": "09 July 2024",
+      "type": {
+        "name": "Documents",
+        "slug": "documents"
+      },
+      "files": [
+        {
+          "label": "COPD_final (2)",
+          "file": {
+            "url": "https://health.gov.mv/storage/uploads/9qavVPoy/fexexwtt.pdf"
+          }
+        }
+      ]
+    },
+    {
+      "id": "download-national-standard-for-forensic-medical-services-in-the-maldives",
+      "title": "National standard for forensic medical services in the Maldives",
+      "description": "28 April 2024",
+      "type": {
+        "name": "Documents",
+        "slug": "documents"
+      },
+      "files": [
+        {
+          "label": "national Stnadard fo...",
+          "file": {
+            "url": "https://health.gov.mv/storage/uploads/Aq7Qezwe/l6bzq8en.pdf"
+          }
+        }
+      ]
+    },
+    {
+      "id": "download-national-standard-for-assisted-reproductive-technology-art-in-the-maldives",
+      "title": "National standard for Assisted Reproductive Technology (ART) in the Maldive...",
+      "description": "28 April 2024",
+      "type": {
+        "name": "Documents",
+        "slug": "documents"
+      },
+      "files": [
+        {
+          "label": "National ART standar...",
+          "file": {
+            "url": "https://health.gov.mv/storage/uploads/XqPj41wB/waz3r2s5.pdf"
+          }
+        },
+        {
+          "label": "National ART standar...",
+          "file": {
+            "url": "https://health.gov.mv/storage/uploads/9qav6Moy/o0k5jnb5.pdf"
+          }
+        }
+      ]
+    },
+    {
+      "id": "download-tele-konsalteyshan-gaidlain-foa-helthu-kear-profishanals",
+      "title": "Telemedicine guideline for healthcare professional",
+      "description": "17 April 2024",
+      "type": {
+        "name": "Documents",
+        "slug": "documents"
+      },
+      "files": [
+        {
+          "label": "Telemedicine guideli...",
+          "file": {
+            "url": "https://health.gov.mv/storage/uploads/ZoWON9oP/udryioqg.pdf"
+          }
+        }
+      ]
+    },
+    {
+      "id": "download-neshanal-gaidlains-for-helthu-kear-provaidaars-on-provishan-of-kear-end-privenshan-of-jeebeevee",
+      "title": "National Guidelines for Healthcare Providers on provision of care and preve...",
+      "description": "16 April 2024",
+      "type": {
+        "name": "Documents",
+        "slug": "documents"
+      },
+      "files": [
+        {
+          "label": "Guideline_Health Sec...",
+          "file": {
+            "url": "https://health.gov.mv/storage/uploads/kobeZBq8/yto2qnrp.pdf"
+          }
+        }
+      ]
+    },
+    {
+      "id": "download-health-professionals-recruitment-policy",
+      "title": "Health Professionals Recruitment policy",
+      "description": "17 January 2024",
+      "type": {
+        "name": "Documents",
+        "slug": "documents"
+      },
+      "files": [
+        {
+          "label": "CSC FINAL Health emp...",
+          "file": {
+            "url": "https://health.gov.mv/storage/uploads/eY3z39w3/jpoxujwm.pdf"
+          }
+        },
+        {
+          "label": "Health employment po...",
+          "file": {
+            "url": "https://health.gov.mv/storage/uploads/Vw55zWw1/0hbhfwng.pdf"
+          }
+        }
+      ]
+    },
+    {
+      "id": "download-minimum-requirement-criteria-for-operation-theater",
+      "title": "Minimum requirement criteria for operation theater",
+      "description": "14 January 2024",
+      "type": {
+        "name": "Documents",
+        "slug": "documents"
+      },
+      "files": [
+        {
+          "label": "Minimum requirement...",
+          "file": {
+            "url": "https://health.gov.mv/storage/uploads/rY4K3QwB/f6i6da5g.pdf"
+          }
+        }
+      ]
+    },
+    {
+      "id": "download-national-standard-for-assisted-reproductive-technology-in-the-maldives",
+      "title": "National standard for assisted reproductive technology in the Maldives",
+      "description": "11 January 2024",
+      "type": {
+        "name": "Documents",
+        "slug": "documents"
+      },
+      "files": [
+        {
+          "label": "national ART standar...",
+          "file": {
+            "url": "https://health.gov.mv/storage/uploads/QoQQPgov/5y04pjmu.pdf"
+          }
+        },
+        {
+          "label": "national ART standar...",
+          "file": {
+            "url": "https://health.gov.mv/storage/uploads/yYjev2wP/fkpsl3e7.pdf"
+          }
+        }
+      ]
+    },
+    {
+      "id": "download-national-standard-for-ambulance-services-in-the-maldives",
+      "title": "National Standard for Ambulance Services in the Maldives",
+      "description": "16 December 2023",
+      "type": {
+        "name": "Documents",
+        "slug": "documents"
+      },
+      "files": [
+        {
+          "label": "National standard fo...",
+          "file": {
+            "url": "https://health.gov.mv/storage/uploads/KqrV7rqg/hqbxzyie.pdf"
+          }
+        }
+      ]
+    },
+    {
+      "id": "download-national-infection-prevention-control-policy-framework",
+      "title": "National Infection & Prevention Control Policy & Framework",
+      "description": "16 November 2023",
+      "type": {
+        "name": "Documents",
+        "slug": "documents"
+      },
+      "files": [
+        {
+          "label": "National Infection &...",
+          "file": {
+            "url": "https://health.gov.mv/storage/uploads/JYkj6EwR/oifxhjoo.pdf"
+          }
+        }
+      ]
+    },
+    {
+      "id": "download-minimum-standard-for-facilities-providing-ophthalmology-and-optometric-services",
+      "title": "Minimum standard for facilities providing ophthalmology and optometric ser...",
+      "description": "25 October 2023",
+      "type": {
+        "name": "Documents",
+        "slug": "documents"
+      },
+      "files": [
+        {
+          "label": "Minimum Standard fo...",
+          "file": {
+            "url": "https://health.gov.mv/storage/uploads/ZoWOEjoP/en6v5gtu.pdf"
+          }
+        }
+      ]
+    },
+    {
+      "id": "download-home-based-care-guideline-for-publication",
+      "title": "National guideline for home based care",
+      "description": "10 October 2023",
+      "type": {
+        "name": "Documents",
+        "slug": "documents"
+      },
+      "files": [
+        {
+          "label": "National_Guideline_o...",
+          "file": {
+            "url": "https://health.gov.mv/storage/uploads/0wNNKzwA/phlhyqow.pdf"
+          }
+        }
+      ]
+    },
+    {
+      "id": "download-requirement-for-ward-incharge",
+      "title": "Requirement for Ward Incharge",
+      "description": "21 September 2023",
+      "type": {
+        "name": "Documents",
+        "slug": "documents"
+      },
+      "files": [
+        {
+          "label": "WARD INCHARGE REQUIR...",
+          "file": {
+            "url": "https://health.gov.mv/storage/uploads/dYG82Bql/uspevn9r.pdf"
+          }
+        },
+        {
+          "label": "WARD INCHARGE REQUIR...",
+          "file": {
+            "url": "https://health.gov.mv/storage/uploads/kobe0Mq8/x6kuxe8g.pdf"
+          }
+        }
+      ]
+    },
+    {
+      "id": "download-hair-transplant-and-prp-standard-for-publication",
+      "title": "Standards for Hair Transplant Services",
+      "description": "22 June 2023",
+      "type": {
+        "name": "Documents",
+        "slug": "documents"
+      },
+      "files": [
+        {
+          "label": "Standards for Hair T...",
+          "file": {
+            "url": "https://health.gov.mv/storage/uploads/7YVMKbwV/rke0x0am.pdf"
+          }
+        }
+      ]
+    },
+    {
+      "id": "download-guideline-on-aesthetic-medical",
+      "title": "Guideline on Aesthetic Medical",
+      "description": "07 June 2023",
+      "type": {
+        "name": "Documents",
+        "slug": "documents"
+      },
+      "files": [
+        {
+          "label": "Aesthetic care guide...",
+          "file": {
+            "url": "https://health.gov.mv/storage/uploads/2ywDQKYN/mxupxpgc.pdf"
+          }
+        }
+      ]
+    },
+    {
+      "id": "download-food-based-dietary-guidelines-for-maldives",
+      "title": "Food Based Dietary Guidelines for Maldives",
+      "description": "06 March 2023",
+      "type": {
+        "name": "Documents",
+        "slug": "documents"
+      },
+      "files": [
+        {
+          "label": "Food Based Dietary G...",
+          "file": {
+            "url": "https://health.gov.mv/storage/uploads/50wNJEwA/ydrp2hei.pdf"
+          }
+        },
+        {
+          "label": "ފުޑް ބޭސްޑް ޑައިޓްރީ...",
+          "file": {
+            "url": "https://health.gov.mv/storage/uploads/Bxop8Xov/p9eznjqq.pdf"
+          }
+        }
+      ]
+    },
+    {
+      "id": "download-minimum-criteria-for-general-clinic",
+      "title": "Minimum Requirement for General Clinic",
+      "description": "12 February 2023",
+      "type": {
+        "name": "Documents",
+        "slug": "documents"
+      },
+      "files": [
+        {
+          "label": "Minimum Requirement...",
+          "file": {
+            "url": "https://health.gov.mv/storage/uploads/yXqPWVYB/p3aqdtxm.pdf"
+          }
+        },
+        {
+          "label": "މިނިމަމް ރިކުއަރމަން...",
+          "file": {
+            "url": "https://health.gov.mv/storage/uploads/NAq7BBYe/qowra3hj.pdf"
+          }
+        }
+      ]
+    },
+    {
+      "id": "download-2026",
+      "title": "National Food Safety Policy 2017-2026",
+      "description": "05 February 2023",
+      "type": {
+        "name": "Documents",
+        "slug": "documents"
+      },
+      "files": [
+        {
+          "label": "National Food Safety...",
+          "file": {
+            "url": "https://health.gov.mv/storage/uploads/6eY3gEY3/ok3czm04.pdf"
+          }
+        },
+        {
+          "label": "ނެޝަނަލް ފުޑް ސޭފްޓީ...",
+          "file": {
+            "url": "https://health.gov.mv/storage/uploads/aVw52ZY1/aubh4q3v.pdf"
+          }
+        }
+      ]
+    },
+    {
+      "id": "download-national-guide-for-anc-and-pnc-in-the-maldives",
+      "title": "National guideline for antenatal and postnatal care",
+      "description": "01 February 2023",
+      "type": {
+        "name": "Documents",
+        "slug": "documents"
+      },
+      "files": [
+        {
+          "label": "A guide for ANC and...",
+          "file": {
+            "url": "https://health.gov.mv/storage/uploads/eJYkB6wR/b0meyvm8.pdf"
+          }
+        },
+        {
+          "label": "ނެޝަނަލް ގައިޑް ފޯ އ...",
+          "file": {
+            "url": "https://health.gov.mv/storage/uploads/brY48nYB/nmethkni.pdf"
+          }
+        }
+      ]
+    },
+    {
+      "id": "download-mercury-free-policy-for-health-care",
+      "title": "Mercury Free Policy for Health Care",
+      "description": "22 January 2023",
+      "type": {
+        "name": "Documents",
+        "slug": "documents"
+      },
+      "files": [
+        {
+          "label": "HPA-OSH-U00077-PS-20...",
+          "file": {
+            "url": "https://health.gov.mv/storage/uploads/BkoMn9wd/sxcokuku.pdf"
+          }
+        },
+        {
+          "label": "HPA-OSH-U00077-PS-20...",
+          "file": {
+            "url": "https://health.gov.mv/storage/uploads/BdodkKqp/2udcwxla.pdf"
+          }
+        }
+      ]
+    },
+    {
+      "id": "download-standards-of-conduct-performance-and-ethics",
+      "title": "standards of conduct performance and ethics",
+      "description": "23 October 2022",
+      "type": {
+        "name": "Documents",
+        "slug": "documents"
+      },
+      "files": [
+        {
+          "label": "standards of conduct...",
+          "file": {
+            "url": "https://health.gov.mv/storage/uploads/M9qapxYy/fj5t0ac8.pdf"
+          }
+        }
+      ]
+    },
+    {
+      "id": "download-scope-of-practice-of-pharmacy-assistants",
+      "title": "Scope of Practice of Pharmacy Assistants",
+      "description": "23 October 2022",
+      "type": {
+        "name": "Documents",
+        "slug": "documents"
+      },
+      "files": [
+        {
+          "label": "Scope of Practice of...",
+          "file": {
+            "url": "https://health.gov.mv/storage/uploads/Bdod2DYp/lrzhuidd.pdf"
+          }
+        }
+      ]
+    },
+    {
+      "id": "download-scope-of-practice-for-sports-therapist",
+      "title": "Scope of Practice for Sports Therapist",
+      "description": "23 October 2022",
+      "type": {
+        "name": "Documents",
+        "slug": "documents"
+      },
+      "files": [
+        {
+          "label": "Scope of Practice fo...",
+          "file": {
+            "url": "https://health.gov.mv/storage/uploads/BkoMyOod/hixc5syt.pdf"
+          }
+        }
+      ]
+    },
+    {
+      "id": "download-scope-of-practice-for-a-clinical-biotechnologist",
+      "title": "Scope of practice for a Clinical Biotechnologist",
+      "description": "23 October 2022",
+      "type": {
+        "name": "Documents",
+        "slug": "documents"
+      },
+      "files": [
+        {
+          "label": "Scope of Practice fo...",
+          "file": {
+            "url": "https://health.gov.mv/storage/uploads/brY4y6qB/doyhcbds.pdf"
+          }
+        }
+      ]
+    },
+    {
+      "id": "download-scope-of-practice-for-emergency-care-assistant",
+      "title": "Scope of Practice for Emergency Care Assistant",
+      "description": "23 October 2022",
+      "type": {
+        "name": "Documents",
+        "slug": "documents"
+      },
+      "files": [
+        {
+          "label": "Scope of Practice fo...",
+          "file": {
+            "url": "https://health.gov.mv/storage/uploads/dZoW2jqP/qcma9b9r.pdf"
+          }
+        }
+      ]
+    },
+    {
+      "id": "download-scope-of-practice-dispenser",
+      "title": "Scope of Practice Dispenser",
+      "description": "23 October 2022",
+      "type": {
+        "name": "Documents",
+        "slug": "documents"
+      },
+      "files": [
+        {
+          "label": "Scope of Practice Di...",
+          "file": {
+            "url": "https://health.gov.mv/storage/uploads/bVw9n3Yv/gl8sknkw.pdf"
+          }
+        }
+      ]
+    },
+    {
+      "id": "download-scope-of-practice-of-community-health-workers-and-primary-health-care-workers",
+      "title": "Scope of Practice of Community Health Workers and Primary Health Care Work...",
+      "description": "23 October 2022",
+      "type": {
+        "name": "Documents",
+        "slug": "documents"
+      },
+      "files": [
+        {
+          "label": "Scope of Practice o...",
+          "file": {
+            "url": "https://health.gov.mv/storage/uploads/eJYkzEwR/3wdaufjg.pdf"
+          }
+        }
+      ]
+    },
+    {
+      "id": "download-2022",
+      "title": "Psychology and Counselling Registration and Licensing Pathways Publish 25t...",
+      "description": "23 October 2022",
+      "type": {
+        "name": "Documents",
+        "slug": "documents"
+      },
+      "files": [
+        {
+          "label": "Psychology and Couns...",
+          "file": {
+            "url": "https://health.gov.mv/storage/uploads/Ejo6PmYr/t2itghiu.pdf"
+          }
+        }
+      ]
+    },
+    {
+      "id": "download-1",
+      "title": "Minimum requirement for acceptance of a clinical biotechnology bachelor",
+      "description": "23 October 2022",
+      "type": {
+        "name": "Documents",
+        "slug": "documents"
+      },
+      "files": [
+        {
+          "label": "Minimum requirement...",
+          "file": {
+            "url": "https://health.gov.mv/storage/uploads/2ywDjLqN/ootpgj6y.pdf"
+          }
+        }
+      ]
+    },
+    {
+      "id": "download-1-2",
+      "title": "Limitations to Scope of Practice for Clinical and Health Technology profess...",
+      "description": "23 October 2022",
+      "type": {
+        "name": "Documents",
+        "slug": "documents"
+      },
+      "files": [
+        {
+          "label": "Limitations to Scope...",
+          "file": {
+            "url": "https://health.gov.mv/storage/uploads/KyYj09oP/g2pxd7bq.pdf"
+          }
+        }
+      ]
+    },
+    {
+      "id": "download-competency-standard-for-training-of-practitioners-of-hijama",
+      "title": "Competency Standard for Training of Practitioners of Hijama",
+      "description": "23 October 2022",
+      "type": {
+        "name": "Documents",
+        "slug": "documents"
+      },
+      "files": [
+        {
+          "label": "Competency Standard...",
+          "file": {
+            "url": "https://health.gov.mv/storage/uploads/NQoQODYv/c6vsct09.pdf"
+          }
+        }
+      ]
+    },
+    {
+      "id": "download-national-standard-for-clinical-laboratories",
+      "title": "National standard for clinical laboratories",
+      "description": "08 October 2022",
+      "type": {
+        "name": "Documents",
+        "slug": "documents"
+      },
+      "files": [
+        {
+          "label": "National standard fo...",
+          "file": {
+            "url": "https://health.gov.mv/storage/uploads/EKo2pnYQ/jmcb4ffv.pdf"
+          }
+        }
+      ]
+    },
+    {
+      "id": "download-accreditation-standards-for-internship",
+      "title": "Accreditation standards for Internship",
+      "description": "02 October 2022",
+      "type": {
+        "name": "Documents",
+        "slug": "documents"
+      },
+      "files": [
+        {
+          "label": "Accreditation standa...",
+          "file": {
+            "url": "https://health.gov.mv/storage/uploads/2ywDrnqN/zxglbeuc.pdf"
+          }
+        }
+      ]
+    },
+    {
+      "id": "download-proseejar-foa-esesmant",
+      "title": "Procedures for Assessment",
+      "description": "02 October 2022",
+      "type": {
+        "name": "Documents",
+        "slug": "documents"
+      },
+      "files": [
+        {
+          "label": "Procedures for Asses...",
+          "file": {
+            "url": "https://health.gov.mv/storage/uploads/BkoMzbwd/kqncr84k.pdf"
+          }
+        }
+      ]
+    },
+    {
+      "id": "download-gaidlain-too-rejistar-loakal-doktars-hoo-daznot-meet-entree-kraiteeriar",
+      "title": "Guideline to Register local Doctors who doesn't meet entry criteria 2017",
+      "description": "02 October 2022",
+      "type": {
+        "name": "Documents",
+        "slug": "documents"
+      },
+      "files": [
+        {
+          "label": "Guideline to Registe...",
+          "file": {
+            "url": "https://health.gov.mv/storage/uploads/Bdod1Owp/cxi7twfz.pdf"
+          }
+        },
+        {
+          "label": "Guideline to Registe...",
+          "file": {
+            "url": "https://health.gov.mv/storage/uploads/KyYjXjoP/ykplz56c.pdf"
+          }
+        }
+      ]
+    },
+    {
+      "id": "download-procedure-followed-for-medical-registration-exam",
+      "title": "Procedure Followed for Medical Registration Exam",
+      "description": "02 October 2022",
+      "type": {
+        "name": "Documents",
+        "slug": "documents"
+      },
+      "files": [
+        {
+          "label": "Procedure Followed f...",
+          "file": {
+            "url": "https://health.gov.mv/storage/uploads/NQoQaLov/tkfj7guc.pdf"
+          }
+        }
+      ]
+    },
+    {
+      "id": "download-guide-for-accreditation-assessment",
+      "title": "Guide for Accreditation Assessment",
+      "description": "02 October 2022",
+      "type": {
+        "name": "Documents",
+        "slug": "documents"
+      },
+      "files": [
+        {
+          "label": "Guide for Accreditat...",
+          "file": {
+            "url": "https://health.gov.mv/storage/uploads/1VYxWAwP/ikgggtwp.pdf"
+          }
+        },
+        {
+          "label": "Guide for Accreditat...",
+          "file": {
+            "url": "https://health.gov.mv/storage/uploads/edYGjBwl/v1ivm6md.pdf"
+          }
+        }
+      ]
+    },
+    {
+      "id": "download-good-medical-practice",
+      "title": "Good medical practice",
+      "description": "02 October 2022",
+      "type": {
+        "name": "Documents",
+        "slug": "documents"
+      },
+      "files": [
+        {
+          "label": "Good medical practic...",
+          "file": {
+            "url": "https://health.gov.mv/storage/uploads/eGw1NrYE/xun9ufyu.pdf"
+          }
+        },
+        {
+          "label": "Good medical practic...",
+          "file": {
+            "url": "https://health.gov.mv/storage/uploads/75qRP3wx/whjqvzkn.pdf"
+          }
+        }
+      ]
+    },
+    {
+      "id": "download-conducts-of-inquiries-by-maldives-medical-and-dental-council",
+      "title": "Conducts of Inquiries by Maldives Medical and Dental Council",
+      "description": "02 October 2022",
+      "type": {
+        "name": "Documents",
+        "slug": "documents"
+      },
+      "files": [
+        {
+          "label": "CONDUCT OF INQUIRIES...",
+          "file": {
+            "url": "https://health.gov.mv/storage/uploads/Ejo6v8or/hdcxgpuv.pdf"
+          }
+        },
+        {
+          "label": "CONDUCT OF INQUIRIES...",
+          "file": {
+            "url": "https://health.gov.mv/storage/uploads/eJYk13oR/qx7qoc81.pdf"
+          }
+        }
+      ]
+    },
+    {
+      "id": "download-guideline-on-prescription-auditing",
+      "title": "Guideline on Prescription Auditing",
+      "description": "07 September 2022",
+      "type": {
+        "name": "Documents",
+        "slug": "documents"
+      },
+      "files": [
+        {
+          "label": "MTG Guideline on Pre...",
+          "file": {
+            "url": "https://health.gov.mv/storage/uploads/brY4NJoB/xdlbj88x.pdf"
+          }
+        }
+      ]
+    },
+    {
+      "id": "download-guideline-on-pharmaceutical-inspection",
+      "title": "Guideline on Pharmaceutical Inspection",
+      "description": "07 September 2022",
+      "type": {
+        "name": "Documents",
+        "slug": "documents"
+      },
+      "files": [
+        {
+          "label": "MTG Guideline on Pha...",
+          "file": {
+            "url": "https://health.gov.mv/storage/uploads/Ejo62lor/icerkruy.pdf"
+          }
+        }
+      ]
+    },
+    {
+      "id": "download-1-3",
+      "title": "Standard for Transport, Handling and Storage of Food",
+      "description": "06 September 2022",
+      "type": {
+        "name": "Documents",
+        "slug": "documents"
+      },
+      "files": [
+        {
+          "label": "Standard for Transpo...",
+          "file": {
+            "url": "https://health.gov.mv/storage/uploads/75qRyaYx/xnvlh9zm.pdf"
+          }
+        }
+      ]
+    },
+    {
+      "id": "download-2",
+      "title": "Standard for Carbon monoxide treated fish Revision 2",
+      "description": "06 September 2022",
+      "type": {
+        "name": "Documents",
+        "slug": "documents"
+      },
+      "files": [
+        {
+          "label": "Standard for Carbon...",
+          "file": {
+            "url": "https://health.gov.mv/storage/uploads/edYGbDwl/k70we1ee.pdf"
+          }
+        }
+      ]
+    },
+    {
+      "id": "download-1-4",
+      "title": "National Standard for Bulk transportation and storage of Drinking Water Rev...",
+      "description": "06 September 2022",
+      "type": {
+        "name": "Documents",
+        "slug": "documents"
+      },
+      "files": [
+        {
+          "label": "National Standard fo...",
+          "file": {
+            "url": "https://health.gov.mv/storage/uploads/eGw18PoE/resv1c6j.pdf"
+          }
+        }
+      ]
+    },
+    {
+      "id": "download-4",
+      "title": "Guidelines on Issuance of Health Clearance to Food Supplements Imported to ...",
+      "description": "06 September 2022",
+      "type": {
+        "name": "Documents",
+        "slug": "documents"
+      },
+      "files": [
+        {
+          "label": "Guidelines on Issuan...",
+          "file": {
+            "url": "https://health.gov.mv/storage/uploads/1VYxp2YP/mvujxljl.pdf"
+          }
+        }
+      ]
+    },
+    {
+      "id": "download-1-5",
+      "title": "General Principle of Food Hygiene",
+      "description": "06 September 2022",
+      "type": {
+        "name": "Documents",
+        "slug": "documents"
+      },
+      "files": [
+        {
+          "label": "General Principle of...",
+          "file": {
+            "url": "https://health.gov.mv/storage/uploads/pDqK6WYO/9ffcuhjq.pdf"
+          }
+        }
+      ]
+    },
+    {
+      "id": "download-guideline-for-quality-defects-and-product-recall",
+      "title": "Guideline for Quality defects and Product recall",
+      "description": "05 September 2022",
+      "type": {
+        "name": "Documents",
+        "slug": "documents"
+      },
+      "files": [
+        {
+          "label": "MTG Guideline for Qu...",
+          "file": {
+            "url": "https://health.gov.mv/storage/uploads/7jqJlew5/eduoua87.pdf"
+          }
+        }
+      ]
+    },
+    {
+      "id": "download-guideline-for-preauthorization-approval-of-medicines",
+      "title": "Guideline for Preauthorization Approval of Medicines",
+      "description": "05 September 2022",
+      "type": {
+        "name": "Documents",
+        "slug": "documents"
+      },
+      "files": [
+        {
+          "label": "priauthoaaa",
+          "file": {
+            "url": "https://health.gov.mv/storage/uploads/5qR6Z6qx/mabyzdzy.pdf"
+          }
+        }
+      ]
+    },
+    {
+      "id": "download-guideline-for-import-distribute-and-sold-of-vaccines-and-biologicals-in-the-maldives",
+      "title": "Guideline for Import, Distribute and sold of Vaccines and Biologicals in th...",
+      "description": "05 September 2022",
+      "type": {
+        "name": "Documents",
+        "slug": "documents"
+      },
+      "files": [
+        {
+          "label": "MTG Guideline for Im...",
+          "file": {
+            "url": "https://health.gov.mv/storage/uploads/EKo2nroQ/omzwbvuc.pdf"
+          }
+        }
+      ]
+    },
+    {
+      "id": "download-guideline-for-good-review-practices",
+      "title": "Guideline for Good Review Practices",
+      "description": "05 September 2022",
+      "type": {
+        "name": "Documents",
+        "slug": "documents"
+      },
+      "files": [
+        {
+          "label": "MTG Guideline for Go...",
+          "file": {
+            "url": "https://health.gov.mv/storage/uploads/74w8n5qK/wzqhbd3n.pdf"
+          }
+        }
+      ]
+    },
+    {
+      "id": "download-guideline-for-good-retail-and-dispencing-practice",
+      "title": "Guideline for Good Retail and Dispencing Practice",
+      "description": "05 September 2022",
+      "type": {
+        "name": "Documents",
+        "slug": "documents"
+      },
+      "files": [
+        {
+          "label": "MTG Guideline for Go...",
+          "file": {
+            "url": "https://health.gov.mv/storage/uploads/79qgj1YD/v1uthlfk.pdf"
+          }
+        }
+      ]
+    },
+    {
+      "id": "download-guideline-for-good-regulatory-practices",
+      "title": "Guideline for Good Regulatory Practices",
+      "description": "05 September 2022",
+      "type": {
+        "name": "Documents",
+        "slug": "documents"
+      },
+      "files": [
+        {
+          "label": "MTG Guideline for Go...",
+          "file": {
+            "url": "https://health.gov.mv/storage/uploads/Z3qlWMYX/obtih6nw.pdf"
+          }
+        }
+      ]
+    },
+    {
+      "id": "download-1-6",
+      "title": "Guideline for Good Import Practice",
+      "description": "05 September 2022",
+      "type": {
+        "name": "Documents",
+        "slug": "documents"
+      },
+      "files": [
+        {
+          "label": "MTG Guideline for Go...",
+          "file": {
+            "url": "https://health.gov.mv/storage/uploads/Arovl8Yj/vljkzgjc.pdf"
+          }
+        }
+      ]
+    },
+    {
+      "id": "download-guideline-for-good-distribution-practice",
+      "title": "Guideline for Good Distribution Practice",
+      "description": "05 September 2022",
+      "type": {
+        "name": "Documents",
+        "slug": "documents"
+      },
+      "files": [
+        {
+          "label": "MTG Guideline for Go...",
+          "file": {
+            "url": "https://health.gov.mv/storage/uploads/xRwX38oW/o1faselx.pdf"
+          }
+        }
+      ]
+    },
+    {
+      "id": "download-guideline-for-authorization-of-medicine-importer",
+      "title": "Guideline for Authorization of Medicine Importer",
+      "description": "05 September 2022",
+      "type": {
+        "name": "Documents",
+        "slug": "documents"
+      },
+      "files": [
+        {
+          "label": "MTG Guideline for Au...",
+          "file": {
+            "url": "https://health.gov.mv/storage/uploads/aVw53Dq1/i1t4wiek.pdf"
+          }
+        }
+      ]
+    },
+    {
+      "id": "download-guideline-on-management-of-complaints-incidents-and-appeals",
+      "title": "Guideline on Management of Complaints, Incidents, and Appeals",
+      "description": "05 September 2022",
+      "type": {
+        "name": "Documents",
+        "slug": "documents"
+      },
+      "files": [
+        {
+          "label": "MFDA Guideline on Ma...",
+          "file": {
+            "url": "https://health.gov.mv/storage/uploads/6eY3n8w3/sim4debi.pdf"
+          }
+        }
+      ]
+    },
+    {
+      "id": "download-neshanal-fizikal-ektivitee-polisee",
+      "title": "National policy physical activity for healthier living",
+      "description": "01 September 2022",
+      "type": {
+        "name": "Documents",
+        "slug": "documents"
+      },
+      "files": [
+        {
+          "label": "National Policy - Ph...",
+          "file": {
+            "url": "https://health.gov.mv/storage/uploads/KyYj6mYP/molser0y.pdf"
+          }
+        },
+        {
+          "label": "National Policy - Ph...",
+          "file": {
+            "url": "https://health.gov.mv/storage/uploads/2ywD9nYN/goecouyi.pdf"
+          }
+        }
+      ]
+    },
+    {
+      "id": "download-2022-2",
+      "title": "Maldives guidelines on physical activity for health 2022",
+      "description": "01 September 2022",
+      "type": {
+        "name": "Documents",
+        "slug": "documents"
+      },
+      "files": [
+        {
+          "label": "Maldives guideline f...",
+          "file": {
+            "url": "https://health.gov.mv/storage/uploads/aMwL8Qwr/gr0yzmfp.pdf"
+          }
+        }
+      ]
+    },
+    {
+      "id": "download-2025",
+      "title": "Health Research Priority Areas (April 2022-2025)",
+      "description": "18 August 2022",
+      "type": {
+        "name": "Documents",
+        "slug": "documents"
+      },
+      "files": [
+        {
+          "label": "Health Research Prio...",
+          "file": {
+            "url": "https://health.gov.mv/storage/uploads/brY4D3YB/ugdiapft.pdf"
+          }
+        },
+        {
+          "label": "Health Research Prio...",
+          "file": {
+            "url": "https://health.gov.mv/storage/uploads/dZoWylYP/qshgnch2.pdf"
+          }
+        }
+      ]
+    },
+    {
+      "id": "download-guideline-for-management-of-transfusion-dependent-thalassemia-tdt-in-the-maldives",
+      "title": "Guideline for Management of transfusion dependent thalassemia (TDT) in the ...",
+      "description": "17 August 2022",
+      "type": {
+        "name": "Documents",
+        "slug": "documents"
+      },
+      "files": [
+        {
+          "label": "Patient Guideline MB...",
+          "file": {
+            "url": "https://health.gov.mv/storage/uploads/Ejo6kQwr/xgk4zlxa.pdf"
+          }
+        },
+        {
+          "label": "Patient Guideline MB...",
+          "file": {
+            "url": "https://health.gov.mv/storage/uploads/eJYkX6qR/adkvbcjh.pdf"
+          }
+        }
+      ]
+    },
+    {
+      "id": "download-2022-3",
+      "title": "National Guidline on Clinical use of Blood - 2022",
+      "description": "16 August 2022",
+      "type": {
+        "name": "Documents",
+        "slug": "documents"
+      },
+      "files": [
+        {
+          "label": "Clinical use of bloo...",
+          "file": {
+            "url": "https://health.gov.mv/storage/uploads/Ejo6GDwr/9rnuc4dp.pdf"
+          }
+        }
+      ]
+    },
+    {
+      "id": "download-dataset-release-policy",
+      "title": "Dataset release Policy",
+      "description": "24 July 2022",
+      "type": {
+        "name": "Documents",
+        "slug": "documents"
+      },
+      "files": [
+        {
+          "label": "Dataset release poli...",
+          "file": {
+            "url": "https://health.gov.mv/storage/uploads/aMwLbdqr/rzhpqup0.pdf"
+          }
+        }
+      ]
+    },
+    {
+      "id": "download-national-health-research-council-guidlines",
+      "title": "National Health Research Council Guidlines",
+      "description": "24 July 2022",
+      "type": {
+        "name": "Documents",
+        "slug": "documents"
+      },
+      "files": [
+        {
+          "label": "National Health Rese...",
+          "file": {
+            "url": "https://health.gov.mv/storage/uploads/Z7wz6nwW/de8vmma2.pdf"
+          }
+        }
+      ]
+    },
+    {
+      "id": "download-national-health-research-council-sop",
+      "title": "National Health Research Council SOP",
+      "description": "24 July 2022",
+      "type": {
+        "name": "Documents",
+        "slug": "documents"
+      },
+      "files": [
+        {
+          "label": "National Health Rese...",
+          "file": {
+            "url": "https://health.gov.mv/storage/uploads/e8qeVEoP/9oa92sfi.pdf"
+          }
+        }
+      ]
+    },
+    {
+      "id": "download-scope-of-practice-primary-and-community-health-workers",
+      "title": "Scope of Practice - Primary and Community Health Workers",
+      "description": "23 July 2022",
+      "type": {
+        "name": "Documents",
+        "slug": "documents"
+      },
+      "files": [
+        {
+          "label": "Scope of Practice -...",
+          "file": {
+            "url": "https://health.gov.mv/storage/uploads/dKqrz7qg/dgsaabsw.pdf"
+          }
+        }
+      ]
+    },
+    {
+      "id": "download-minimum-requirement-for-acceptance-of-a-clinical-biotechnology-bachelor",
+      "title": "Minimum requirement for acceptance of a Clinical Biotechnology Bachelor",
+      "description": "23 July 2022",
+      "type": {
+        "name": "Documents",
+        "slug": "documents"
+      },
+      "files": [
+        {
+          "label": "Minimum requirement...",
+          "file": {
+            "url": "https://health.gov.mv/storage/uploads/9kobaEq8/gxoil9by.pdf"
+          }
+        }
+      ]
+    },
+    {
+      "id": "download-assessment-standards-for-nursing-educational-programs-mnmc",
+      "title": "Assessment Standards for Nursing Educational Programs (MNMC)",
+      "description": "23 July 2022",
+      "type": {
+        "name": "Documents",
+        "slug": "documents"
+      },
+      "files": [
+        {
+          "label": "Assessment Standards...",
+          "file": {
+            "url": "https://health.gov.mv/storage/uploads/edYGDnql/b6mrouxg.pdf"
+          }
+        }
+      ]
+    },
+    {
+      "id": "download-national-standard-for-labelling-prepackaged-food",
+      "title": "National Standard for Labelling Prepackaged Food",
+      "description": "23 July 2022",
+      "type": {
+        "name": "Documents",
+        "slug": "documents"
+      },
+      "files": [
+        {
+          "label": "National Standard fo...",
+          "file": {
+            "url": "https://health.gov.mv/storage/uploads/KyYjEKwP/cjwiqrm1.pdf"
+          }
+        }
+      ]
+    },
+    {
+      "id": "download-standard-for-acceptance-of-qualification-professional-experience-and-professional-recognition-of-foreign-applicants-mahc",
+      "title": "Standard for acceptance of qualification, professional experience and profe...",
+      "description": "23 July 2022",
+      "type": {
+        "name": "Documents",
+        "slug": "documents"
+      },
+      "files": [
+        {
+          "label": "Standard for accepta...",
+          "file": {
+            "url": "https://health.gov.mv/storage/uploads/eJYkEloR/ymynbxmq.pdf"
+          }
+        }
+      ]
+    },
+    {
+      "id": "download-158",
+      "title": "Design and Layout for GHW under Reg2019-158",
+      "description": "23 July 2022",
+      "type": {
+        "name": "Documents",
+        "slug": "documents"
+      },
+      "files": [
+        {
+          "label": "Design and Layout fo...",
+          "file": {
+            "url": "https://health.gov.mv/storage/uploads/dKqrz0qg/ugki63sk.pdf"
+          }
+        }
+      ]
+    },
+    {
+      "id": "download-standard-for-clearing-medicine-and-supplements-at-post",
+      "title": "Standard for Clearing Medicine and Supplements at Post",
+      "description": "23 July 2022",
+      "type": {
+        "name": "Documents",
+        "slug": "documents"
+      },
+      "files": [
+        {
+          "label": "Standard for Clearin...",
+          "file": {
+            "url": "https://health.gov.mv/storage/uploads/pDqKBPYO/petwrma6.pdf"
+          }
+        }
+      ]
+    },
+    {
+      "id": "download-competency-standards-for-professional-nurses-and-midwives",
+      "title": "Competency Standards for Professional nurses and midwives",
+      "description": "23 July 2022",
+      "type": {
+        "name": "Documents",
+        "slug": "documents"
+      },
+      "files": [
+        {
+          "label": "Competency Standards...",
+          "file": {
+            "url": "https://health.gov.mv/storage/uploads/NQoQBBwv/q58eynag.pdf"
+          }
+        }
+      ]
+    },
+    {
+      "id": "download-guideline-on-good-manufacturing-practices",
+      "title": "Guideline on Good Manufacturing Practices",
+      "description": "23 July 2022",
+      "type": {
+        "name": "Documents",
+        "slug": "documents"
+      },
+      "files": [
+        {
+          "label": "Guideline on Good Ma...",
+          "file": {
+            "url": "https://health.gov.mv/storage/uploads/K5oBK3wG/5tkzawsd.pdf"
+          }
+        }
+      ]
+    },
+    {
+      "id": "download-scope-of-clincal-biotechnologist",
+      "title": "Scope of clincal biotechnologist",
+      "description": "23 July 2022",
+      "type": {
+        "name": "Documents",
+        "slug": "documents"
+      },
+      "files": [
+        {
+          "label": "Scope of clincal bio...",
+          "file": {
+            "url": "https://health.gov.mv/storage/uploads/2ywDbAqN/dfjvr4b8.pdf"
+          }
+        }
+      ]
+    },
+    {
+      "id": "download-guideline-on-crisis-management",
+      "title": "Guideline on Crisis Management",
+      "description": "23 July 2022",
+      "type": {
+        "name": "Documents",
+        "slug": "documents"
+      },
+      "files": [
+        {
+          "label": "Guideline on Crisis...",
+          "file": {
+            "url": "https://health.gov.mv/storage/uploads/e8qeBgoP/bqpgyab0.pdf"
+          }
+        }
+      ]
+    },
+    {
+      "id": "download-2021",
+      "title": "National Standard for Fish Treated with Carbon Monoxide revised 2021",
+      "description": "23 July 2022",
+      "type": {
+        "name": "Documents",
+        "slug": "documents"
+      },
+      "files": [
+        {
+          "label": "National Standard fo...",
+          "file": {
+            "url": "https://health.gov.mv/storage/uploads/1VYxJNoP/p5v58379.pdf"
+          }
+        }
+      ]
+    },
+    {
+      "id": "download-mtg-guideline-on-pharmacovigilance-and-adr-reporting",
+      "title": "MTG Guideline on Pharmacovigilance and ADR Reporting",
+      "description": "23 July 2022",
+      "type": {
+        "name": "Documents",
+        "slug": "documents"
+      },
+      "files": [
+        {
+          "label": "MTG Guideline on Pha...",
+          "file": {
+            "url": "https://health.gov.mv/storage/uploads/Z7wzm8oW/9eilbdi1.pdf"
+          }
+        }
+      ]
+    },
+    {
+      "id": "download-standards-of-conduct-performance-and-ethics-mahc",
+      "title": "Standards of conduct, performance and ethics (MAHC)",
+      "description": "23 July 2022",
+      "type": {
+        "name": "Documents",
+        "slug": "documents"
+      },
+      "files": [
+        {
+          "label": "Standards of conduct...",
+          "file": {
+            "url": "https://health.gov.mv/storage/uploads/75qRBAqx/ssqgbxqo.pdf"
+          }
+        }
+      ]
+    },
+    {
+      "id": "download-general-principle-of-food-hygiene",
+      "title": "General Principle of Food Hygiene",
+      "description": "23 July 2022",
+      "type": {
+        "name": "Documents",
+        "slug": "documents"
+      },
+      "files": [
+        {
+          "label": "General Principle of...",
+          "file": {
+            "url": "https://health.gov.mv/storage/uploads/edYGDbql/kkguo0cp.pdf"
+          }
+        }
+      ]
+    },
+    {
+      "id": "download-national-standard-for-bulk-transportation-and-storage-of-drinking-water",
+      "title": "National Standard for Bulk transportation and Storage of Drinking Water",
+      "description": "23 July 2022",
+      "type": {
+        "name": "Documents",
+        "slug": "documents"
+      },
+      "files": [
+        {
+          "label": "National Standard fo...",
+          "file": {
+            "url": "https://health.gov.mv/storage/uploads/pDqKBgYO/ma9pcvjf.pdf"
+          }
+        }
+      ]
+    },
+    {
+      "id": "download-guideline-on-transparency-and-dissemination-of-information",
+      "title": "Guideline on Transparency and Dissemination of Information",
+      "description": "23 July 2022",
+      "type": {
+        "name": "Documents",
+        "slug": "documents"
+      },
+      "files": [
+        {
+          "label": "Guideline on Transpa...",
+          "file": {
+            "url": "https://health.gov.mv/storage/uploads/BxopW4qv/gnvhoopq.pdf"
+          }
+        }
+      ]
+    },
+    {
+      "id": "download-limitations-to-scope-of-practice-for-clinical-and-health-technology-professionals-registered-with-maldives-allied-health-council",
+      "title": "Limitations to Scope of Practice for Clinical and Health Technology profess...",
+      "description": "23 July 2022",
+      "type": {
+        "name": "Documents",
+        "slug": "documents"
+      },
+      "files": [
+        {
+          "label": "Limitations to Scope...",
+          "file": {
+            "url": "https://health.gov.mv/storage/uploads/BlwZ7ZYy/xg1mwhpo.pdf"
+          }
+        }
+      ]
+    },
+    {
+      "id": "download-guideline-on-quality-defects-and-product-recall",
+      "title": "Guideline on Quality Defects and Product Recall",
+      "description": "23 July 2022",
+      "type": {
+        "name": "Documents",
+        "slug": "documents"
+      },
+      "files": [
+        {
+          "label": "Guideline on Quality...",
+          "file": {
+            "url": "https://health.gov.mv/storage/uploads/07YV4KoV/uovu9glg.pdf"
+          }
+        }
+      ]
+    },
+    {
+      "id": "download-scope-of-practice-emergency-care-assistant",
+      "title": "Scope of practice - Emergency Care Assistant",
+      "description": "23 July 2022",
+      "type": {
+        "name": "Documents",
+        "slug": "documents"
+      },
+      "files": [
+        {
+          "label": "Scope of practice -...",
+          "file": {
+            "url": "https://health.gov.mv/storage/uploads/eGw1M2wE/bzqlnwwa.pdf"
+          }
+        }
+      ]
+    },
+    {
+      "id": "download-scope-of-practice-pharmacy-assistant",
+      "title": "Scope of Practice - Pharmacy Assistant",
+      "description": "23 July 2022",
+      "type": {
+        "name": "Documents",
+        "slug": "documents"
+      },
+      "files": [
+        {
+          "label": "Scope of Practice -...",
+          "file": {
+            "url": "https://health.gov.mv/storage/uploads/75qRB7qx/an9lzj0v.pdf"
+          }
+        }
+      ]
+    },
+    {
+      "id": "download-the-ethical-and-professional-code-of-conduct-for-nursesmidwives",
+      "title": "The ethical and professional code of conduct for nurses/midwives",
+      "description": "23 July 2022",
+      "type": {
+        "name": "Documents",
+        "slug": "documents"
+      },
+      "files": [
+        {
+          "label": "The ethical and prof...",
+          "file": {
+            "url": "https://health.gov.mv/storage/uploads/Ejo6M9qr/g5qypmdu.pdf"
+          }
+        }
+      ]
+    },
+    {
+      "id": "download-guideline-for-good-import-practice",
+      "title": "Guideline for Good Import Practice",
+      "description": "23 July 2022",
+      "type": {
+        "name": "Documents",
+        "slug": "documents"
+      },
+      "files": [
+        {
+          "label": "Guideline for Good I...",
+          "file": {
+            "url": "https://health.gov.mv/storage/uploads/50wNdLqA/bixuazbn.pdf"
+          }
+        }
+      ]
+    },
+    {
+      "id": "download-scope-of-practice-of-dispenser",
+      "title": "Scope of practice of Dispenser",
+      "description": "23 July 2022",
+      "type": {
+        "name": "Documents",
+        "slug": "documents"
+      },
+      "files": [
+        {
+          "label": "Scope of practice of...",
+          "file": {
+            "url": "https://health.gov.mv/storage/uploads/1VYxJZoP/bhnmkgxi.pdf"
+          }
+        }
+      ]
+    },
+    {
+      "id": "download-guideline-for-rational-use-of-control-drugs",
+      "title": "Guideline for Rational Use of Control Drugs",
+      "description": "23 July 2022",
+      "type": {
+        "name": "Documents",
+        "slug": "documents"
+      },
+      "files": [
+        {
+          "label": "Guideline for Ration...",
+          "file": {
+            "url": "https://health.gov.mv/storage/uploads/7jqJ0rw5/wxqiorue.pdf"
+          }
+        }
+      ]
+    },
+    {
+      "id": "download-19",
+      "title": "Rapid Molecular Point of Care Testing for COVID-19",
+      "description": "23 July 2022",
+      "type": {
+        "name": "Documents",
+        "slug": "documents"
+      },
+      "files": [
+        {
+          "label": "Rapid Molecular Poin...",
+          "file": {
+            "url": "https://health.gov.mv/storage/uploads/6eY3OEY3/ypkj8wow.pdf"
+          }
+        }
+      ]
+    },
+    {
+      "id": "download-standard-for-importing-food-item-for-personal-use",
+      "title": "Standard for importing food item for personal use",
+      "description": "23 July 2022",
+      "type": {
+        "name": "Documents",
+        "slug": "documents"
+      },
+      "files": [
+        {
+          "label": "Standard for importi...",
+          "file": {
+            "url": "https://health.gov.mv/storage/uploads/aVw5JZY1/pk4iadqp.pdf"
+          }
+        }
+      ]
+    },
+    {
+      "id": "download-national-guideline-for-the-diagnosis-and-management-of-hepatitis-b",
+      "title": "National guideline for the diagnosis and management of Hepatitis B",
+      "description": "23 July 2022",
+      "type": {
+        "name": "Documents",
+        "slug": "documents"
+      },
+      "files": [
+        {
+          "label": "National guideline f...",
+          "file": {
+            "url": "https://health.gov.mv/storage/uploads/Z3qla5oX/vphgnrnr.pdf"
+          }
+        }
+      ]
+    },
+    {
+      "id": "download-national-guideline-for-the-diagnosis-and-management-of-hepatitis-c",
+      "title": "National Guideline for the diagnosis and management of Hepatitis C",
+      "description": "23 July 2022",
+      "type": {
+        "name": "Documents",
+        "slug": "documents"
+      },
+      "files": [
+        {
+          "label": "National Guideline f...",
+          "file": {
+            "url": "https://health.gov.mv/storage/uploads/Arov2Aoj/ukcs9khs.pdf"
+          }
+        }
+      ]
+    },
+    {
+      "id": "download-standards-of-services",
+      "title": "Standards of Services",
+      "description": "23 July 2022",
+      "type": {
+        "name": "Documents",
+        "slug": "documents"
+      },
+      "files": [
+        {
+          "label": "Standards of Service...",
+          "file": {
+            "url": "https://health.gov.mv/storage/uploads/xRwXnWqW/dhblwvld.pdf"
+          }
+        }
+      ]
+    },
+    {
+      "id": "download-national-standard-for-carbon-monoxide-treated-fish",
+      "title": "National Standard for Carbon Monoxide Treated Fish",
+      "description": "23 July 2022",
+      "type": {
+        "name": "Documents",
+        "slug": "documents"
+      },
+      "files": [
+        {
+          "label": "National Standard fo...",
+          "file": {
+            "url": "https://health.gov.mv/storage/uploads/2ywDPAwN/ynmyhanc.pdf"
+          }
+        }
+      ]
+    },
+    {
+      "id": "download-national-standards-for-family-planning-services",
+      "title": "National Standards for Family Planning Services",
+      "description": "23 July 2022",
+      "type": {
+        "name": "Documents",
+        "slug": "documents"
+      },
+      "files": [
+        {
+          "label": "National Standards f...",
+          "file": {
+            "url": "https://health.gov.mv/storage/uploads/74w8N2qK/6h6j3n5r.pdf"
+          }
+        }
+      ]
+    },
+    {
+      "id": "download-national-standards-for-ayfhs",
+      "title": "National Standards for AYFHS",
+      "description": "23 July 2022",
+      "type": {
+        "name": "Documents",
+        "slug": "documents"
+      },
+      "files": [
+        {
+          "label": "National Standards f...",
+          "file": {
+            "url": "https://health.gov.mv/storage/uploads/BdodZKYp/4s9sqpnp.pdf"
+          }
+        }
+      ]
+    },
+    {
+      "id": "download-guide-to-collecting-data-for-accreditation-of-specialty-medical-education-programmemmdc",
+      "title": "Guide to collecting data for accreditation of Specialty Medical Education P...",
+      "description": "23 July 2022",
+      "type": {
+        "name": "Documents",
+        "slug": "documents"
+      },
+      "files": [
+        {
+          "label": "Guide to collecting...",
+          "file": {
+            "url": "https://health.gov.mv/storage/uploads/79qgWlqD/pydv4tl7.pdf"
+          }
+        }
+      ]
+    },
+    {
+      "id": "download-standard-for-transport-handling-and-storage-of-food",
+      "title": "Standard for Transport, Handling and Storage of Food",
+      "description": "23 July 2022",
+      "type": {
+        "name": "Documents",
+        "slug": "documents"
+      },
+      "files": [
+        {
+          "label": "Standard for Transpo...",
+          "file": {
+            "url": "https://health.gov.mv/storage/uploads/Ejo6m9qr/uabcgpiw.pdf"
+          }
+        }
+      ]
+    },
+    {
+      "id": "download-guideline-for-upgrading-or-degrading-health-facilities-existing-level",
+      "title": "Guideline for Upgrading or Degrading Health Facilities Existing Level",
+      "description": "23 July 2022",
+      "type": {
+        "name": "Documents",
+        "slug": "documents"
+      },
+      "files": [
+        {
+          "label": "Guideline for Upgrad...",
+          "file": {
+            "url": "https://health.gov.mv/storage/uploads/KyYjvKYP/erzavzhn.pdf"
+          }
+        }
+      ]
+    },
+    {
+      "id": "download-national-tobacco-cessation-toolkit-for-all-and-health-professionals-abridged-version",
+      "title": "National Tobacco Cessation Toolkit for all and Health Professionals - ABRID...",
+      "description": "23 July 2022",
+      "type": {
+        "name": "Documents",
+        "slug": "documents"
+      },
+      "files": [
+        {
+          "label": "National Tobacco Ces...",
+          "file": {
+            "url": "https://health.gov.mv/storage/uploads/NAq72NYe/v9ptpthv.pdf"
+          }
+        }
+      ]
+    },
+    {
+      "id": "download-quit-smoking-tips",
+      "title": "Quit Smoking Tips!",
+      "description": "23 July 2022",
+      "type": {
+        "name": "Documents",
+        "slug": "documents"
+      },
+      "files": [
+        {
+          "label": "Quit Smoking Tips!",
+          "file": {
+            "url": "https://health.gov.mv/storage/uploads/BkoMg9Yd/tzivw3xe.pdf"
+          }
+        }
+      ]
+    },
+    {
+      "id": "download-protocol-for-needleprick-sharp-injuries",
+      "title": "Protocol for Needleprick - Sharp Injuries",
+      "description": "23 July 2022",
+      "type": {
+        "name": "Documents",
+        "slug": "documents"
+      },
+      "files": [
+        {
+          "label": "Protocol for Needlep...",
+          "file": {
+            "url": "https://health.gov.mv/storage/uploads/eJYkWlYR/bcar50yl.pdf"
+          }
+        }
+      ]
+    },
+    {
+      "id": "download-national-tobacco-cessation-toolkit-for-all-and-health-professionals",
+      "title": "National Tobacco Cessation Toolkit for all and Health Professionals",
+      "description": "23 July 2022",
+      "type": {
+        "name": "Documents",
+        "slug": "documents"
+      },
+      "files": [
+        {
+          "label": "National Tobacco Ces...",
+          "file": {
+            "url": "https://health.gov.mv/storage/uploads/4EonWNwM/srobut9m.pdf"
+          }
+        }
+      ]
+    },
+    {
+      "id": "download-procedures-for-assessment-and-accreditation-of-medical-education-programmesmmdc",
+      "title": "Procedures for Assessment and Accreditation of Medical Education Programmes...",
+      "description": "23 July 2022",
+      "type": {
+        "name": "Documents",
+        "slug": "documents"
+      },
+      "files": [
+        {
+          "label": "Procedures for Asses...",
+          "file": {
+            "url": "https://health.gov.mv/storage/uploads/EKo2O8wQ/lce7e62s.pdf"
+          }
+        }
+      ]
+    },
+    {
+      "id": "download-19-2",
+      "title": "Guideline for Rapid Antigen Diagnostic Testing (Ag-RDT) for COVID-19",
+      "description": "23 July 2022",
+      "type": {
+        "name": "Documents",
+        "slug": "documents"
+      },
+      "files": [
+        {
+          "label": "Guideline for Rapid...",
+          "file": {
+            "url": "https://health.gov.mv/storage/uploads/QEoALVq9/b57axolz.pdf"
+          }
+        }
+      ]
+    },
+    {
+      "id": "download-standards-for-accreditation-of-specialty-medical-education-programmesmmdc",
+      "title": "Standards for Accreditation of Specialty Medical Education Programmes_MMDC",
+      "description": "23 July 2022",
+      "type": {
+        "name": "Documents",
+        "slug": "documents"
+      },
+      "files": [
+        {
+          "label": "Standards for Accred...",
+          "file": {
+            "url": "https://health.gov.mv/storage/uploads/aMwLBKqr/dpdt9cjv.pdf"
+          }
+        }
+      ]
+    },
+    {
+      "id": "download-national-guideline-for-infection-control-in-health-facilities",
+      "title": "National Guideline for Infection Control in Health Facilities",
+      "description": "23 July 2022",
+      "type": {
+        "name": "Documents",
+        "slug": "documents"
+      },
+      "files": [
+        {
+          "label": "National Guideline f...",
+          "file": {
+            "url": "https://health.gov.mv/storage/uploads/M9qalXYy/zl1gckuy.pdf"
+          }
+        }
+      ]
+    },
+    {
+      "id": "download-list-of-documents-to-be-summitted-with-health-facility-registration-form",
+      "title": "List of documents to be summitted with health facility registration form",
+      "description": "23 July 2022",
+      "type": {
+        "name": "Documents",
+        "slug": "documents"
+      },
+      "files": [
+        {
+          "label": "List of documents to...",
+          "file": {
+            "url": "https://health.gov.mv/storage/uploads/75qRg7ox/qkaifpxl.pdf"
+          }
+        }
+      ]
+    },
+    {
+      "id": "download-19-3",
+      "title": "Guideline for Rapid Antigen Diagnostic Testing (Ag-RDT) for de-isolation of...",
+      "description": "23 July 2022",
+      "type": {
+        "name": "Documents",
+        "slug": "documents"
+      },
+      "files": [
+        {
+          "label": "Guideline for Rapid...",
+          "file": {
+            "url": "https://health.gov.mv/storage/uploads/vgo0OBqZ/cz7ianvo.pdf"
+          }
+        }
+      ]
+    },
+    {
+      "id": "download-national-guideline-on-ward-rounds",
+      "title": "National Guideline on Ward Rounds",
+      "description": "23 July 2022",
+      "type": {
+        "name": "Documents",
+        "slug": "documents"
+      },
+      "files": [
+        {
+          "label": "National Guideline o...",
+          "file": {
+            "url": "https://health.gov.mv/storage/uploads/NQoQPBqv/niwwy7fc.pdf"
+          }
+        }
+      ]
+    },
+    {
+      "id": "download-family-doctor-registrations-guideline-for-private-health-facilities",
+      "title": "Family Doctor Registrations Guideline for Private Health Facilities",
+      "description": "23 July 2022",
+      "type": {
+        "name": "Documents",
+        "slug": "documents"
+      },
+      "files": [
+        {
+          "label": "Family Doctor Regist...",
+          "file": {
+            "url": "https://health.gov.mv/storage/uploads/dKqrZ7qg/wxfxrtse.pdf"
+          }
+        }
+      ]
+    },
+    {
+      "id": "download-criteria-for-registration-of-professionals-at-the-maldives-board-of-health-sciences",
+      "title": "Criteria For Registration Of Professionals At The Maldives Board Of Health ...",
+      "description": "23 July 2022",
+      "type": {
+        "name": "Documents",
+        "slug": "documents"
+      },
+      "files": [
+        {
+          "label": "Criteria For Registr...",
+          "file": {
+            "url": "https://health.gov.mv/storage/uploads/1VYx2ZoP/nbbrpy2j.pdf"
+          }
+        }
+      ]
+    },
+    {
+      "id": "download-who-sear-country-awards-criterias-and-list-of-awards",
+      "title": "WHO - SEAR Country AWARDS criteria's and list of awards",
+      "description": "23 July 2022",
+      "type": {
+        "name": "Documents",
+        "slug": "documents"
+      },
+      "files": [
+        {
+          "label": "WHO - SEAR Country A...",
+          "file": {
+            "url": "https://health.gov.mv/storage/uploads/8roOnPqP/qbcal884.pdf"
+          }
+        }
+      ]
+    },
+    {
+      "id": "download-list-of-the-protocols-guidelines-for-clinical",
+      "title": "list of the protocols, guidelines for clinical",
+      "description": "23 July 2022",
+      "type": {
+        "name": "Documents",
+        "slug": "documents"
+      },
+      "files": [
+        {
+          "label": "list of the protocol...",
+          "file": {
+            "url": "https://health.gov.mv/storage/uploads/pDqKagwO/lqvdsfli.pdf"
+          }
+        }
+      ]
+    },
+    {
+      "id": "download-2013",
+      "title": "National Health Research Priorities - February 2013",
+      "description": "23 July 2022",
+      "type": {
+        "name": "Documents",
+        "slug": "documents"
+      },
+      "files": [
+        {
+          "label": "National Health Rese...",
+          "file": {
+            "url": "https://health.gov.mv/storage/uploads/bVw924Yv/v3oeokq0.pdf"
+          }
+        }
+      ]
+    },
+    {
+      "id": "download-national-standards-for-clinical-laboratories",
+      "title": "National Standards for Clinical Laboratories",
+      "description": "23 July 2022",
+      "type": {
+        "name": "Documents",
+        "slug": "documents"
+      },
+      "files": [
+        {
+          "label": "National Standards f...",
+          "file": {
+            "url": "https://health.gov.mv/storage/uploads/dZoWnNqP/unfabjyl.pdf"
+          }
+        }
+      ]
+    },
+    {
+      "id": "download-national-medication-practice-standards",
+      "title": "National Medication Practice Standards",
+      "description": "23 July 2022",
+      "type": {
+        "name": "Documents",
+        "slug": "documents"
+      },
+      "files": [
+        {
+          "label": "National Medication...",
+          "file": {
+            "url": "https://health.gov.mv/storage/uploads/brY43nwB/devalsgp.pdf"
+          }
+        }
+      ]
+    },
+    {
+      "id": "download-criteria-for-registration-of-health-professionals-at-maldives-board-of-health-science",
+      "title": "Criteria for Registration of Health Professionals at Maldives Board of Heal...",
+      "description": "23 July 2022",
+      "type": {
+        "name": "Documents",
+        "slug": "documents"
+      },
+      "files": [
+        {
+          "label": "Criteria for Registr...",
+          "file": {
+            "url": "https://health.gov.mv/storage/uploads/eGw1O2qE/jmpynbfd.pdf"
+          }
+        }
+      ]
+    },
+    {
+      "id": "download-health-sector-projectprogramme-management-guideline",
+      "title": "Health Sector Project/Programme Management Guideline",
+      "description": "23 July 2022",
+      "type": {
+        "name": "Documents",
+        "slug": "documents"
+      },
+      "files": [
+        {
+          "label": "Health Sector Projec...",
+          "file": {
+            "url": "https://health.gov.mv/storage/uploads/edYGPnql/erp4xvur.pdf"
+          }
+        }
+      ]
+    },
+    {
+      "id": "download-guidelines-for-completing-the-maternal-death-notification-form",
+      "title": "Guidelines for Completing the Maternal Death Notification Form",
+      "description": "23 July 2022",
+      "type": {
+        "name": "Documents",
+        "slug": "documents"
+      },
+      "files": [
+        {
+          "label": "Guidelines for Compl...",
+          "file": {
+            "url": "https://health.gov.mv/storage/uploads/9kobEEq8/buqkrybx.pdf"
+          }
+        }
+      ]
+    },
+    {
+      "id": "download-who-dengue-management-guidelines",
+      "title": "WHO Dengue Management Guidelines",
+      "description": "23 July 2022",
+      "type": {
+        "name": "Documents",
+        "slug": "documents"
+      },
+      "files": [
+        {
+          "label": "WHO dengue managemen...",
+          "file": {
+            "url": "https://health.gov.mv/storage/uploads/kKYy2mqR/weewucpx.pdf"
+          }
+        }
+      ]
+    },
+    {
+      "id": "download-national-patient-safety-framework",
+      "title": "National Patient Safety Framework",
+      "description": "23 July 2022",
+      "type": {
+        "name": "Documents",
+        "slug": "documents"
+      },
+      "files": [
+        {
+          "label": "National Patient Saf...",
+          "file": {
+            "url": "https://health.gov.mv/storage/uploads/K5oBP3YG/mnl4ppkd.pdf"
+          }
+        }
+      ]
+    },
+    {
+      "id": "download-psychology-and-counseling-professionals-registration-and-licensing-pathways-mahc",
+      "title": "Psychology and Counseling Professionals Registration and Licensing Pathways...",
+      "description": "23 July 2022",
+      "type": {
+        "name": "Documents",
+        "slug": "documents"
+      },
+      "files": [
+        {
+          "label": "Psychology and Couns...",
+          "file": {
+            "url": "https://health.gov.mv/storage/uploads/Z7wzp8qW/dcgogtye.pdf"
+          }
+        }
+      ]
+    },
+    {
+      "id": "download-clinical-guideline-for-management-of-nephrotic-syndrome-in-children-in-maldives",
+      "title": "Clinical guideline for management of Nephrotic Syndrome in children in Mald...",
+      "description": "23 July 2022",
+      "type": {
+        "name": "Documents",
+        "slug": "documents"
+      },
+      "files": [
+        {
+          "label": "Clinical guideline f...",
+          "file": {
+            "url": "https://health.gov.mv/storage/uploads/EKo218qQ/jagqxonm.pdf"
+          }
+        }
+      ]
+    },
+    {
+      "id": "download-guideline-for-evaluation-and-management-of-neonatal-hypoglycaemia",
+      "title": "Guideline for Evaluation and management of neonatal hypoglycaemia",
+      "description": "23 July 2022",
+      "type": {
+        "name": "Documents",
+        "slug": "documents"
+      },
+      "files": [
+        {
+          "label": "Guideline for Evalua...",
+          "file": {
+            "url": "https://health.gov.mv/storage/uploads/Z3ql85qX/w67rjcyu.pdf"
+          }
+        }
+      ]
+    },
+    {
+      "id": "download-guideline-for-evaluation-and-management-of-neonatal-sepsis",
+      "title": "Guideline for Evaluation and Management of Neonatal Sepsis",
+      "description": "23 July 2022",
+      "type": {
+        "name": "Documents",
+        "slug": "documents"
+      },
+      "files": [
+        {
+          "label": "Guideline for Evalua...",
+          "file": {
+            "url": "https://health.gov.mv/storage/uploads/74w8b2qK/ihctdte9.pdf"
+          }
+        }
+      ]
+    },
+    {
+      "id": "download-guideline-for-the-management-of-dengue-fever-in-maldives",
+      "title": "Guideline for the Management of Dengue Fever in Maldives",
+      "description": "23 July 2022",
+      "type": {
+        "name": "Documents",
+        "slug": "documents"
+      },
+      "files": [
+        {
+          "label": "Guideline for the Ma...",
+          "file": {
+            "url": "https://health.gov.mv/storage/uploads/e8qengoP/ek35wlxb.pdf"
+          }
+        }
+      ]
+    },
+    {
+      "id": "download-clinical-management-of-diabetes-mellitus-and-diabetic-keto-acidosis-in-children",
+      "title": "Clinical Management of Diabetes Mellitus and Diabetic Keto Acidosis in Chil...",
+      "description": "23 July 2022",
+      "type": {
+        "name": "Documents",
+        "slug": "documents"
+      },
+      "files": [
+        {
+          "label": "Clinical Management...",
+          "file": {
+            "url": "https://health.gov.mv/storage/uploads/50wNALoA/zktpdsof.pdf"
+          }
+        }
+      ]
+    },
+    {
+      "id": "download-clinical-guideline-for-treatment-of-childhood-tuberculosis",
+      "title": "Clinical Guideline for Treatment of Childhood Tuberculosis",
+      "description": "23 July 2022",
+      "type": {
+        "name": "Documents",
+        "slug": "documents"
+      },
+      "files": [
+        {
+          "label": "Clinical Guideline f...",
+          "file": {
+            "url": "https://health.gov.mv/storage/uploads/vgo0VBYZ/bjddprdb.pdf"
+          }
+        }
+      ]
+    },
+    {
+      "id": "download-clinical-management-of-chikungunya-fever-in-children",
+      "title": "Clinical Management of Chikungunya Fever in Children",
+      "description": "23 July 2022",
+      "type": {
+        "name": "Documents",
+        "slug": "documents"
+      },
+      "files": [
+        {
+          "label": "Clinical Management...",
+          "file": {
+            "url": "https://health.gov.mv/storage/uploads/24YEBJqe/y8l19sgk.pdf"
+          }
+        }
+      ]
+    },
+    {
+      "id": "download-guideline-for-childhood-asthma",
+      "title": "Guideline for childhood asthma",
+      "description": "23 July 2022",
+      "type": {
+        "name": "Documents",
+        "slug": "documents"
+      },
+      "files": [
+        {
+          "label": "Guideline for childh...",
+          "file": {
+            "url": "https://health.gov.mv/storage/uploads/7jqJ5rY5/kkxaf4u6.pdf"
+          }
+        }
+      ]
+    },
+    {
+      "id": "download-guideline-for-the-management-of-diarrhoea-in-children",
+      "title": "Guideline for the Management of Diarrhoea in Children",
+      "description": "23 July 2022",
+      "type": {
+        "name": "Documents",
+        "slug": "documents"
+      },
+      "files": [
+        {
+          "label": "Guideline for the Ma...",
+          "file": {
+            "url": "https://health.gov.mv/storage/uploads/Bxope4wv/hgbg4afz.pdf"
+          }
+        }
+      ]
+    },
+    {
+      "id": "download-guideline-for-chikungunya",
+      "title": "Guideline for chikungunya",
+      "description": "23 July 2022",
+      "type": {
+        "name": "Documents",
+        "slug": "documents"
+      },
+      "files": [
+        {
+          "label": "Guideline for chikun...",
+          "file": {
+            "url": "https://health.gov.mv/storage/uploads/07YVnKYV/dyrtcpvw.pdf"
+          }
+        }
+      ]
+    },
+    {
+      "id": "download-guidelines-on-registration-and-licensing-of-allopathic-medical-and-dental-practitioners-mmdc",
+      "title": "GUIDELINES ON REGISTRATION AND LICENSING OF ALLOPATHIC MEDICAL AND DENTAL P...",
+      "description": "23 July 2022",
+      "type": {
+        "name": "Documents",
+        "slug": "documents"
+      },
+      "files": [
+        {
+          "label": "GUIDELINES ON REGIST...",
+          "file": {
+            "url": "https://health.gov.mv/storage/uploads/BlwZ5Zoy/1piq1pcz.pdf"
+          }
+        }
+      ]
+    },
+    {
+      "id": "download-2022-4",
+      "title": "Guideline on Registration of Nutraceuticals (2022)",
+      "description": "23 July 2022",
+      "type": {
+        "name": "Documents",
+        "slug": "documents"
+      },
+      "files": [
+        {
+          "label": "Guideline on Registr...",
+          "file": {
+            "url": "https://health.gov.mv/storage/uploads/QEoAdVq9/jld6n7fq.pdf"
+          }
+        }
+      ]
+    },
+    {
+      "id": "download-criteria-for-grading-of-health-facilities",
+      "title": "Criteria for grading of health facilities",
+      "description": "23 July 2022",
+      "type": {
+        "name": "Documents",
+        "slug": "documents"
+      },
+      "files": [
+        {
+          "label": "Criteria for grading...",
+          "file": {
+            "url": "https://health.gov.mv/storage/uploads/aMwLXKwr/oyu8q5yr.pdf"
+          }
+        }
+      ]
+    },
+    {
+      "id": "download-guideline-on-dhivehi-competency-evaluation-for-expatriate-pharmacists",
+      "title": "Guideline on Dhivehi Competency Evaluation for Expatriate Pharmacists",
+      "description": "23 July 2022",
+      "type": {
+        "name": "Documents",
+        "slug": "documents"
+      },
+      "files": [
+        {
+          "label": "Guideline on Dhivehi...",
+          "file": {
+            "url": "https://health.gov.mv/storage/uploads/Arov3Awj/fc3bajfc.pdf"
+          }
+        }
+      ]
+    },
+    {
+      "id": "download-approved-raw-material-list-used-in-alternative-dhivehi-beys",
+      "title": "Approved Raw Material List used in Alternative-Dhivehi Beys",
+      "description": "23 July 2022",
+      "type": {
+        "name": "Documents",
+        "slug": "documents"
+      },
+      "files": [
+        {
+          "label": "Approved Raw Materia...",
+          "file": {
+            "url": "https://health.gov.mv/storage/uploads/aVw5GZq1/lgz50l4a.pdf"
+          }
+        }
+      ]
+    },
+    {
+      "id": "download-guideline-for-clinical-documentation",
+      "title": "Guideline for clinical documentation",
+      "description": "23 July 2022",
+      "type": {
+        "name": "Documents",
+        "slug": "documents"
+      },
+      "files": [
+        {
+          "label": "Guideline for clinic...",
+          "file": {
+            "url": "https://health.gov.mv/storage/uploads/xRwXgWoW/sc9bhfbw.pdf"
+          }
+        }
+      ]
+    },
+    {
+      "id": "download-acute-respiratory-tract-infections-in-children",
+      "title": "Acute Respiratory Tract Infections in Children",
+      "description": "23 July 2022",
+      "type": {
+        "name": "Documents",
+        "slug": "documents"
+      },
+      "files": [
+        {
+          "label": "Acute Respiratory Tr...",
+          "file": {
+            "url": "https://health.gov.mv/storage/uploads/nxqm8vYy/fvc2crfd.pdf"
+          }
+        }
+      ]
+    },
+    {
+      "id": "download-1-7",
+      "title": "Guideline on Crisis Management",
+      "description": "02 March 2022",
+      "type": {
+        "name": "Documents",
+        "slug": "documents"
+      },
+      "files": [
+        {
+          "label": "MTG Guideline on Cri...",
+          "file": {
+            "url": "https://health.gov.mv/storage/uploads/NQoQd1qv/tmqf3eiv.pdf"
+          }
+        }
+      ]
+    },
+    {
+      "id": "download-guideline-on-gmp",
+      "title": "Guideline on GMP",
+      "description": "01 December 2021",
+      "type": {
+        "name": "Documents",
+        "slug": "documents"
+      },
+      "files": [
+        {
+          "label": "MTG Guideline on GMP...",
+          "file": {
+            "url": "https://health.gov.mv/storage/uploads/2ywDGNoN/kwwm1k1b.pdf"
+          }
+        }
+      ]
+    },
+    {
+      "id": "download-guideline-on-post-market-surveillance",
+      "title": "Guideline on Post Market Surveillance",
+      "description": "05 November 2021",
+      "type": {
+        "name": "Documents",
+        "slug": "documents"
+      },
+      "files": [
+        {
+          "label": "MTG Guideline on Pos...",
+          "file": {
+            "url": "https://health.gov.mv/storage/uploads/dZoWA1YP/41kwqyaj.pdf"
+          }
+        }
+      ]
+    },
+    {
+      "id": "download-guideline-on-registration-of-alternative-pharmacies-and-dispensers",
+      "title": "Guideline on Registration of Alternative Pharmacies and Dispensers",
+      "description": "03 November 2021",
+      "type": {
+        "name": "Documents",
+        "slug": "documents"
+      },
+      "files": [
+        {
+          "label": "MTG Guideline on Reg...",
+          "file": {
+            "url": "https://health.gov.mv/storage/uploads/BkoM9zod/hlessuzq.pdf"
+          }
+        }
+      ]
+    },
+    {
+      "id": "download-guideline-on-pharmacy-registration-and-medicine-dispensing-approval",
+      "title": "Guideline on Pharmacy Registration and Medicine Dispensing Approval",
+      "description": "01 November 2021",
+      "type": {
+        "name": "Documents",
+        "slug": "documents"
+      },
+      "files": [
+        {
+          "label": "MTG Guideline on Pha...",
+          "file": {
+            "url": "https://health.gov.mv/storage/uploads/bVw98Rov/8wtawiax.pdf"
+          }
+        }
+      ]
+    },
+    {
+      "id": "download-guideline-on-transparency-and-information-dissemination",
+      "title": "Guideline on Transparency and Information Dissemination",
+      "description": "07 October 2021",
+      "type": {
+        "name": "Documents",
+        "slug": "documents"
+      },
+      "files": [
+        {
+          "label": "MTG Guideline on Tra...",
+          "file": {
+            "url": "https://health.gov.mv/storage/uploads/kKYypkwR/q18itafu.pdf"
+          }
+        }
+      ]
+    },
+    {
+      "id": "download-1-8",
+      "title": "Guideline on Dhivehi Competency Evaluation for Expatriate Pharmacists",
+      "description": "02 September 2021",
+      "type": {
+        "name": "Documents",
+        "slug": "documents"
+      },
+      "files": [
+        {
+          "label": "MTG Guideline on Dhi...",
+          "file": {
+            "url": "https://health.gov.mv/storage/uploads/KyYjpMoP/pkcqoptt.pdf"
+          }
+        }
+      ]
+    },
+    {
+      "id": "download-guideline-on-pharmacovigilance-and-adr-reporting",
+      "title": "Guideline on Pharmacovigilance and ADR reporting",
+      "description": "01 September 2021",
+      "type": {
+        "name": "Documents",
+        "slug": "documents"
+      },
+      "files": [
+        {
+          "label": "MTG Guideline on Pha...",
+          "file": {
+            "url": "https://health.gov.mv/storage/uploads/eJYkppqR/lfbxtvfi.pdf"
+          }
+        }
+      ]
+    },
+    {
+      "id": "download-guideline-for-rational-use-of-controlled-drugs",
+      "title": "Guideline for Rational Use of Controlled Drugs",
+      "description": "01 March 2021",
+      "type": {
+        "name": "Documents",
+        "slug": "documents"
+      },
+      "files": [
+        {
+          "label": "MTG Guideline for Ra...",
+          "file": {
+            "url": "https://health.gov.mv/storage/uploads/dKqrpDwg/w9vaewti.pdf"
+          }
+        }
+      ]
+    },
+    {
+      "id": "download-guideline-for-regulation-of-veterinary-medicines-import-and-pharmacy-registration",
+      "title": "Guideline for Regulation of Veterinary Medicines import and Pharmacy regist...",
+      "description": "01 March 2021",
+      "type": {
+        "name": "Documents",
+        "slug": "documents"
+      },
+      "files": [
+        {
+          "label": "MTG Guideline for Re...",
+          "file": {
+            "url": "https://health.gov.mv/storage/uploads/9kobpVY8/vzqcg54c.pdf"
+          }
+        }
+      ]
+    }
+  ],
+  "hasNextPage": false
+}
