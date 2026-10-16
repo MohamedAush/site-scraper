@@ -1,0 +1,39 @@
+{
+  "docs": [
+    {
+      "id": "consultation-7",
+      "source_type": "Consultation",
+      "published_at": "2026-07-12T19:00:00Z",
+      "translations": {
+        "en": {
+          "title": "Net Metering Regulation 2026",
+          "description": "",
+          "body": ""
+        },
+        "dv": {
+          "title": "ނެޓް މީޓަރިންގ ގަވާއިދު 2026",
+          "description": "",
+          "body": ""
+        }
+      },
+      "featuredImage": null,
+      "files": [
+        {
+          "label": "Net Metering Regulation 2026",
+          "file": {
+            "url": "https://cms.environment.gov.mv/api/media/file/Net%20Metering%20Regulation%202026_v3.pdf"
+          }
+        },
+        {
+          "label": "Net Metering Regulation 2026 (Dhivehi)",
+          "file": {
+            "url": "https://cms.environment.gov.mv/api/media/file/Net%20Metering%20Regulation%202026_v3-1.pdf"
+          }
+        }
+      ]
+    }
+  ],
+  "totalDocs": 1,
+  "hasNextPage": false,
+  "nextPage": null
+}

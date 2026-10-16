@@ -1,0 +1,80 @@
+{
+  "docs": [
+    {
+      "id": "publication-17509",
+      "source_type": "އެކްޝަން ޕްލޭނާއި އެކްޓިވިޓީ ކަލަންޑަރު",
+      "published_at": "2024-05-25T13:34:11Z",
+      "translations": {
+        "dv": {
+          "title": "2024 ވަނަ އަހަރުގެ އެކްޝަން ޕްލޭނާއި އެކްޓިވިޓީ ކަލަންޑަރު"
+        }
+      },
+      "featuredImage": "https://islamicaffairs.gov.mv/wp-content/uploads/2024/07/Activity.png",
+      "files": [
+        {
+          "label": "ޑޮކިއުމެންޓް",
+          "file": {
+            "url": "https://islamicaffairs.gov.mv/wp-content/uploads/2024/07/Action-Plan.pdf"
+          }
+        }
+      ]
+    },
+    {
+      "id": "publication-28018",
+      "source_type": "އެކްޝަން ޕްލޭނާއި އެކްޓިވިޓީ ކަލަންޑަރު",
+      "published_at": "2025-02-05T04:31:59Z",
+      "translations": {
+        "dv": {
+          "title": "2025 ވަނަ އަހަރުގެ އެކްޝަން ޕްލޭނާއި އެކްޓިވިޓީ ކަލަންޑަރު"
+        }
+      },
+      "featuredImage": "https://islamicaffairs.gov.mv/wp-content/uploads/2025/02/Action_Plan_2025_thumbnail-01.png",
+      "files": [
+        {
+          "label": "ޑޮކިއުމެންޓް",
+          "file": {
+            "url": "https://islamicaffairs.gov.mv/wp-content/uploads/2025/02/Action-Plan-2025-Final.pdf"
+          }
+        }
+      ]
+    },
+    {
+      "id": "publication-28033",
+      "source_type": "އެކްޝަން ޕްލޭނާއި އެކްޓިވިޓީ ކަލަންޑަރު",
+      "published_at": "2025-02-05T05:39:10Z",
+      "translations": {
+        "dv": {
+          "title": "ނަމާދު މަތިވެރިކުރުމުގެ ޕްރޮގްރާމް 2025"
+        }
+      },
+      "featuredImage": "https://islamicaffairs.gov.mv/wp-content/uploads/2025/01/namadh-project.png",
+      "files": [
+        {
+          "label": "ޑޮކިއުމެންޓް",
+          "file": {
+            "url": "https://islamicaffairs.gov.mv/wp-content/uploads/2025/02/Namaadhu_Mathiverikurun_Plan_2025.pdf"
+          }
+        }
+      ]
+    },
+    {
+      "id": "publication-38471",
+      "source_type": "އެކްޝަން ޕްލޭނާއި އެކްޓިވިޓީ ކަލަންޑަރު",
+      "published_at": "2025-12-28T08:42:40Z",
+      "translations": {
+        "dv": {
+          "title": "އެކްޝަން ޕްލޭން 2026"
+        }
+      },
+      "featuredImage": "https://islamicaffairs.gov.mv/wp-content/uploads/2025/12/Action_Plan_OG10001.jpg",
+      "files": [
+        {
+          "label": "ޑޮކިއުމެންޓް",
+          "file": {
+            "url": "https://islamicaffairs.gov.mv/wp-content/uploads/2025/12/Action_Plan_and-Activity-Calendar-2026-V10001.pdf"
+          }
+        }
+      ]
+    }
+  ]
+}

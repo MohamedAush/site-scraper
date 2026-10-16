@@ -1,0 +1,61 @@
+{
+  "docs": [
+    {
+      "id": "publication-17504",
+      "source_type": "ސްޓެރެޓެޖިކް ޕްލޭން",
+      "published_at": "2024-07-25T13:31:23Z",
+      "translations": {
+        "dv": {
+          "title": "ރިސާލަތު ޕްރޮގްރާމްގެ ސްޓެރެޓެޖިކް ޕްލޭން"
+        }
+      },
+      "featuredImage": "https://islamicaffairs.gov.mv/wp-content/uploads/2024/07/Risaalath-Foi.png",
+      "files": [
+        {
+          "label": "ޑޮކިއުމެންޓް",
+          "file": {
+            "url": "https://islamicaffairs.gov.mv/wp-content/uploads/2024/07/Risaalathu-The-Message-Strategic-Plan.pdf"
+          }
+        }
+      ]
+    },
+    {
+      "id": "publication-17520",
+      "source_type": "ސްޓެރެޓެޖިކް ޕްލޭން",
+      "published_at": "2024-06-30T13:41:37Z",
+      "translations": {
+        "dv": {
+          "title": "ކީރިތި ޤުރްއާނާބެހޭ ޤައުމީ މަރުކަޒުގެ ސްޓްރެޓެޖިކް ޕްލޭން 2024"
+        }
+      },
+      "featuredImage": "https://islamicaffairs.gov.mv/wp-content/uploads/2024/07/Action.png",
+      "files": [
+        {
+          "label": "ޑޮކިއުމެންޓް",
+          "file": {
+            "url": "https://islamicaffairs.gov.mv/wp-content/uploads/2024/07/National-Centre-for-the-Holy-Quran-Activity-Plan-2024.pdf"
+          }
+        }
+      ]
+    },
+    {
+      "id": "publication-28044",
+      "source_type": "ސްޓެރެޓެޖިކް ޕްލޭން",
+      "published_at": "2025-02-05T05:59:39Z",
+      "translations": {
+        "dv": {
+          "title": "ރިސާލަތު 2025 (އިސްލާމީ ރިވެތި އަޚުލާޤު)"
+        }
+      },
+      "featuredImage": "https://islamicaffairs.gov.mv/wp-content/uploads/2024/12/MIA-WEB-TEMPS-1-2.jpg",
+      "files": [
+        {
+          "label": "ޑޮކިއުމެންޓް",
+          "file": {
+            "url": "https://islamicaffairs.gov.mv/wp-content/uploads/2025/02/Risaalathu_Plan_2025.pdf"
+          }
+        }
+      ]
+    }
+  ]
+}

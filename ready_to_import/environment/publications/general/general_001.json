@@ -1,0 +1,1673 @@
+{
+  "docs": [
+    {
+      "id": "publication-50",
+      "source_type": "Publication",
+      "published_at": "2026-09-09T06:00:00Z",
+      "translations": {
+        "en": {
+          "title": "Maldives Climate Change Gender Action Plan 2026 - 2031",
+          "description": "",
+          "body": ""
+        },
+        "dv": {
+          "title": "މޯލްޑިވްސް ކްލައިމެޓް ޗޭންޖް ޖެންޑަރ އެކްޝަން ޕްލޭން 2026 - 2031",
+          "description": "",
+          "body": ""
+        }
+      },
+      "featuredImage": {
+        "url": "https://cms.environment.gov.mv/api/media/file/20260909-pic-maldives-climate-change-gender-action-plan.webp",
+        "alt": "20260909 pic maldives climate change gender action plan"
+      },
+      "files": [
+        {
+          "label": "Maldives Climate Change Gender Action Plan 2026 - 2031",
+          "file": {
+            "url": "https://cms.environment.gov.mv/api/media/file/20260909-pub-maldives-climate-change-gender-action-plan.pdf"
+          }
+        }
+      ]
+    },
+    {
+      "id": "publication-48",
+      "source_type": "Publication",
+      "published_at": "2026-08-17T19:00:00Z",
+      "translations": {
+        "en": {
+          "title": "Gender Action Plan - CATENATE",
+          "description": "",
+          "body": ""
+        },
+        "dv": {
+          "title": "ޖެންޑަރ އެކްޝަން ޕްލޭން - ކެޓަނޭޓް",
+          "description": "",
+          "body": ""
+        }
+      },
+      "featuredImage": {
+        "url": "https://cms.environment.gov.mv/api/media/file/20260818-pic-gender-action-plan.webp",
+        "alt": "20260818 pic gender action plan"
+      },
+      "files": [
+        {
+          "label": "Gender Action Plan CATENATE",
+          "file": {
+            "url": "https://cms.environment.gov.mv/api/media/file/20260818-pub-gender-action-plan.pdf"
+          }
+        }
+      ]
+    },
+    {
+      "id": "publication-44",
+      "source_type": "Publication",
+      "published_at": "2026-08-11T13:00:00Z",
+      "translations": {
+        "en": {
+          "title": "Tree Planting Guidelines - 5 Miliion Trees Project",
+          "description": "",
+          "body": ""
+        },
+        "dv": {
+          "title": "5 މިލިއަން ގަސް މަޝްރޫޢުގެ ގަސް އިންދުމުގެ ގައިޑްލައިން",
+          "description": "",
+          "body": ""
+        }
+      },
+      "featuredImage": {
+        "url": "https://cms.environment.gov.mv/api/media/file/20260811-pic-5-Million-Trees-guidelines.webp",
+        "alt": "20260811 pic 5 Million Trees guidelines"
+      },
+      "files": [
+        {
+          "label": "Tree Planting Guidelines - 5 Miliion Trees Project",
+          "file": {
+            "url": "https://cms.environment.gov.mv/api/media/file/20260811-pub-5-Million-Trees-guidelines.pdf"
+          }
+        }
+      ]
+    },
+    {
+      "id": "publication-42",
+      "source_type": "Publication",
+      "published_at": "2026-07-16T07:15:00Z",
+      "translations": {
+        "en": {
+          "title": "National Water and Sewerage Strategic Plan 2026 - 2030",
+          "description": "",
+          "body": ""
+        },
+        "dv": {
+          "title": "ނޭޝަނަލް ވޯޓަރ އެންޑް ސްވަރޭޖް ސްޓްރެޓެޖިކް ޕްލޭން 2026 - 2030",
+          "description": "",
+          "body": ""
+        }
+      },
+      "featuredImage": {
+        "url": "https://cms.environment.gov.mv/api/media/file/20260716-pic-national-water-and-sewerage-strategic-plan-2026-2030-cover.webp",
+        "alt": "20260716 pic national water and sewerage strategic plan 2026 2030 cover"
+      },
+      "files": [
+        {
+          "label": "National Water and Sewerage Strategic Plan 2026 - 2030",
+          "file": {
+            "url": "https://cms.environment.gov.mv/api/media/file/20260716-pub-national-water-and-sewerage-strategic-plan-2026-2023.pdf"
+          }
+        }
+      ]
+    },
+    {
+      "id": "publication-19",
+      "source_type": "Publication",
+      "published_at": "2026-06-11T17:00:00Z",
+      "translations": {
+        "en": {
+          "title": "Protected Birds of The Maldives",
+          "description": "",
+          "body": ""
+        },
+        "dv": {
+          "title": "ދިވެހިި ރާއްޖޭގައި ހިމާޔަތްކޮށްފައިވާ ދޫނި",
+          "description": "",
+          "body": ""
+        }
+      },
+      "featuredImage": {
+        "url": "https://cms.environment.gov.mv/api/media/file/20260611-pic-protected-birds-of-the-maldives.webp",
+        "alt": "20260611 pic protected birds of the maldives"
+      },
+      "files": [
+        {
+          "label": "Protected Birds of The Maldives",
+          "file": {
+            "url": "https://cms.environment.gov.mv/api/media/file/20260611-pub-protected-birds-of-the-maldives.pdf"
+          }
+        }
+      ]
+    },
+    {
+      "id": "publication-3",
+      "source_type": "Publication",
+      "published_at": "2026-03-03T19:00:00Z",
+      "translations": {
+        "en": {
+          "title": "National Water And Sewerage Policy",
+          "description": "",
+          "body": ""
+        },
+        "dv": {
+          "title": "ފެނާއި ނަރުދަމާގެ ޤައުމީ ސިޔާސަތު",
+          "description": "",
+          "body": ""
+        }
+      },
+      "featuredImage": {
+        "url": "https://cms.environment.gov.mv/api/media/file/20260204-pic-national-water-and-sewerage-policy-v7-digital.webp",
+        "alt": "20260204 pic national water and sewerage policy v7 digital"
+      },
+      "files": [
+        {
+          "label": "National Water And Sewerage Policy",
+          "file": {
+            "url": "https://cms.environment.gov.mv/api/media/file/20260204-pub-national-water-and-sewerage-policy-v7-digital.pdf"
+          }
+        }
+      ]
+    },
+    {
+      "id": "publication-4",
+      "source_type": "Publication",
+      "published_at": "2025-10-16T04:00:00Z",
+      "translations": {
+        "en": {
+          "title": "Water and Sanitation Safety Plan Guidebooks and report templates",
+          "description": "",
+          "body": ""
+        },
+        "dv": {
+          "title": "ވޯޓަރ އެންޑް ސެނިޓޭޝަން ސޭފްޓީ ޕްލޭން ގައިޑްބުކް އާއި ޓެމްޕްލޭޓް",
+          "description": "",
+          "body": ""
+        }
+      },
+      "featuredImage": {
+        "url": "https://cms.environment.gov.mv/api/media/file/20251016-pic-sanitation-safety-plan-guidebook%20(1).webp",
+        "alt": "20251016 pic sanitation safety plan guidebook (1)"
+      },
+      "files": [
+        {
+          "label": "Sanitation Safety Plan Guidebook",
+          "file": {
+            "url": "https://cms.environment.gov.mv/api/media/file/20251016-pub-sanitation-safety-plan-guidebook.pdf"
+          }
+        },
+        {
+          "label": "Water Safety Plan Guidebook",
+          "file": {
+            "url": "https://cms.environment.gov.mv/api/media/file/20251016-pub-water-safety-plan-guidebook.pdf"
+          }
+        },
+        {
+          "label": "Sanitation Safety Plan Reporting Template",
+          "file": {
+            "url": "https://cms.environment.gov.mv/api/media/file/20251016-pub-sanitation-safety-plan-reporting-template%20(1).pdf"
+          }
+        },
+        {
+          "label": "Water Safety Plan Reporting Template",
+          "file": {
+            "url": "https://cms.environment.gov.mv/api/media/file/20251016-pub-water-safety-plan-reporting-template%20(1).pdf"
+          }
+        }
+      ]
+    },
+    {
+      "id": "publication-51",
+      "source_type": "Publication",
+      "published_at": "2025-09-28T04:00:00Z",
+      "translations": {
+        "en": {
+          "title": "Value Chain Assessment and Exploratory Market Analysis for Sustainable, MGAP-Certified Papaya in Maldives",
+          "description": "",
+          "body": ""
+        },
+        "dv": {
+          "title": "ވެލިއު ޗެއިން އެސެސްމަންޓް އެންޑް އެކްސްޕްލޯރަޓަރީ މާކެޓް އެނާލިސިސް ފޯރ ސަސްޓެއިނަބަލް، އެމް.ޖީ.އޭ.ޕީ. ސަރޓިފައިޑް ޕަޕާޔާ އިން މޯލްޑިވްސް",
+          "description": "",
+          "body": ""
+        }
+      },
+      "featuredImage": {
+        "url": "https://cms.environment.gov.mv/api/media/file/20250928-pic-vaue-chain-assessment-and-exploratory-market-analysis-for-sustainable-1.webp",
+        "alt": "20250928 pic vaue chain assessment and exploratory market analysis for sustainable 1"
+      },
+      "files": [
+        {
+          "label": "Value Chain Assessment and Exploratory Market Analysis for Sustainable, MGAP-Certified Papaya in Maldives",
+          "file": {
+            "url": "https://cms.environment.gov.mv/api/media/file/20250928-pub-vaue-chain-assessment-and-exploratory-market-analysis-for-sustainable-1.pdf"
+          }
+        }
+      ]
+    },
+    {
+      "id": "publication-24",
+      "source_type": "Publication",
+      "published_at": "2025-07-08T05:30:00Z",
+      "translations": {
+        "en": {
+          "title": "Dharavandhoo Thila Marine Protected Area Conservation Action Plan 2025-2035",
+          "description": "",
+          "body": ""
+        },
+        "dv": {
+          "title": "ދަރަވަންދޫ ތިލަ މެރިން ޕްރޮޓެކްޓެޑް އޭރިއާ ކޮންޒަރވޭޝަން އެކްޝަން ޕްލޭން 2025-2035",
+          "description": "",
+          "body": ""
+        }
+      },
+      "featuredImage": {
+        "url": "https://cms.environment.gov.mv/api/media/file/20250708-pic-b.-dharavandhoo-thila-conservation-action-plan.webp",
+        "alt": "20250708 pic b. dharavandhoo thila conservation action plan"
+      },
+      "files": [
+        {
+          "label": "Dharavandhoo Thila Marine Protected Area Conservation Action Plan 2025-2035",
+          "file": {
+            "url": "https://cms.environment.gov.mv/api/media/file/20250708-pub-b.-dharavandhoo-thila-conservation-action-plan.pdf"
+          }
+        }
+      ]
+    },
+    {
+      "id": "publication-20",
+      "source_type": "Publication",
+      "published_at": "2025-07-08T05:30:00Z",
+      "translations": {
+        "en": {
+          "title": "K. Bodu Hithi Thila Region Marine Protected Area Conservation Action Plan",
+          "description": "",
+          "body": ""
+        },
+        "dv": {
+          "title": "ކ.ބޮޑު ހިތި ތިލަ ސަރަހައްދުގެ ކަނޑު ހިމާޔަތްކޮށްފައިވާ ސަރަހައްދު ހިމާޔަތްކުރުމުގެ އެކްޝަން ޕްލޭން",
+          "description": "",
+          "body": ""
+        }
+      },
+      "featuredImage": {
+        "url": "https://cms.environment.gov.mv/api/media/file/20250708-pic-conservation-action-plan-k.-bodu-hithi-thila-_final-v1.2_08july25.webp",
+        "alt": "20250708 pic conservation action plan k. bodu hithi thila final v1.2 08july25"
+      },
+      "files": [
+        {
+          "label": "K. Bodu Hithi Thila Region Marine Protected Area Conservation Action Plan",
+          "file": {
+            "url": "https://cms.environment.gov.mv/api/media/file/20250708-pub-conservation-action-plan-k.-bodu-hithi-thila-_final-v1.2_08july25.pdf"
+          }
+        }
+      ]
+    },
+    {
+      "id": "publication-10",
+      "source_type": "Publication",
+      "published_at": "2025-07-08T04:00:00Z",
+      "translations": {
+        "en": {
+          "title": "K. Okkobey Thila Region Marine Protected Area Conservation Action Plan",
+          "description": "",
+          "body": ""
+        },
+        "dv": {
+          "title": "ކ.އޮއްކޮބޭ ތިލަ ރީޖިއަން މެރިން ޕްރޮޓެކްޓެޑް އޭރިއާ ކޮންޒަރވޭޝަން އެކްޝަން ޕްލޭން",
+          "description": "",
+          "body": ""
+        }
+      },
+      "featuredImage": {
+        "url": "https://cms.environment.gov.mv/api/media/file/20250708-pic-conservation-action-plan-k.-okkobey-thila_final-v1.4_8july25.webp",
+        "alt": "20250708 pic conservation action plan k. okkobey thila final v1.4 8july25"
+      },
+      "files": [
+        {
+          "label": "K. Okkobey Thila Region Marine Protected Area Conservation Action Plan",
+          "file": {
+            "url": "https://cms.environment.gov.mv/api/media/file/20250708-pub-conservation-action-plan-k.-okkobey-thila_final-v1.4_8july25.pdf"
+          }
+        }
+      ]
+    },
+    {
+      "id": "publication-8",
+      "source_type": "Publication",
+      "published_at": "2025-07-08T03:00:00Z",
+      "translations": {
+        "en": {
+          "title": "Finey Thila Marine Protected Area Conservation Plan 2025-2035",
+          "description": "",
+          "body": ""
+        },
+        "dv": {
+          "title": "ފިނޭ ތިލަ މެރިން ޕްރޮޓެކްޓެޑް އޭރިއާ ކޮންޒަރވޭޝަން ޕްލޭން 2025-2035",
+          "description": "",
+          "body": ""
+        }
+      },
+      "featuredImage": {
+        "url": "https://cms.environment.gov.mv/api/media/file/20250708-pic-hdh.-finey-thila-conservation-action-plan.webp",
+        "alt": "20250708 pic hdh. finey thila conservation action plan"
+      },
+      "files": [
+        {
+          "label": "Finey Thila Marine Protected Area Conservation Plan 2025-2035",
+          "file": {
+            "url": "https://cms.environment.gov.mv/api/media/file/20250708-pub-hdh.-finey-thila-conservation-action-plan.pdf"
+          }
+        }
+      ]
+    },
+    {
+      "id": "publication-6",
+      "source_type": "Publication",
+      "published_at": "2025-07-07T19:00:00Z",
+      "translations": {
+        "en": {
+          "title": "Maldives National Research and Monitoring Plan Guidance for Protected and Conserved Areas",
+          "description": "",
+          "body": ""
+        },
+        "dv": {
+          "title": "ދިވެހިރާއްޖޭގެ ހިމާޔަތްކޮށް ބަލަހައްޓާ ސަރަޙައްދުތަކާބެހޭ ޤައުމީ ދިރާސާ އަދި މޮނިޓަރިންގ ޕްލޭންގެ އިރުޝާދުތައް",
+          "description": "",
+          "body": ""
+        }
+      },
+      "featuredImage": {
+        "url": "https://cms.environment.gov.mv/api/media/file/20250708-pic-maldives-protected-and-conserved-areas-research-and-monitoring-plan-guidance.webp",
+        "alt": "20250708 pic maldives protected and conserved areas research and monitoring plan guidance"
+      },
+      "files": [
+        {
+          "label": "Maldives National Research and Monitoring Plan Guidance for Protected and Conserved Areas",
+          "file": {
+            "url": "https://cms.environment.gov.mv/api/media/file/20250708-pub-maldives-protected-and-conserved-areas-research-and-monitoring-plan-guidance.pdf"
+          }
+        }
+      ]
+    },
+    {
+      "id": "publication-25",
+      "source_type": "Publication",
+      "published_at": "2025-06-10T03:30:00Z",
+      "translations": {
+        "en": {
+          "title": "Maldives Ocean Accounts Roadmap",
+          "description": "",
+          "body": ""
+        },
+        "dv": {
+          "title": "މޯލްޑިވްސް އޯޝަން އެކައުންޓްސް ރޯޑްމެޕް",
+          "description": "",
+          "body": ""
+        }
+      },
+      "featuredImage": {
+        "url": "https://cms.environment.gov.mv/api/media/file/20250610-pic-maldives-ocean-accounts-roadmap-for-piclication%20(1).webp",
+        "alt": "20250610 pic maldives ocean accounts roadmap for piclication (1)"
+      },
+      "files": [
+        {
+          "label": "Maldives Ocean Accounts Roadmap",
+          "file": {
+            "url": "https://cms.environment.gov.mv/api/media/file/20250610-pub-maldives-ocean-accounts-roadmap-for-publication%20(1).pdf"
+          }
+        }
+      ]
+    },
+    {
+      "id": "publication-9",
+      "source_type": "Publication",
+      "published_at": "2025-06-08T03:30:00Z",
+      "translations": {
+        "en": {
+          "title": "Guraidhoo Kanduolhi Marine Protected Area Conservation Action Plan 2025-2035",
+          "description": "",
+          "body": ""
+        },
+        "dv": {
+          "title": "ގުރައިދޫ ކަނޑުއޮޅި މެރިން ޕްރޮޓެކްޓެޑް އޭރިއާ ކޮންޒަރވޭޝަން އެކްޝަން ޕްލޭން 2025-2035",
+          "description": "",
+          "body": ""
+        }
+      },
+      "featuredImage": {
+        "url": "https://cms.environment.gov.mv/api/media/file/20250708-pic-k.-guraidhoo-kanduolhi-conservation-action-plan.webp",
+        "alt": "20250708 pic k. guraidhoo kanduolhi conservation action plan"
+      },
+      "files": [
+        {
+          "label": "Guraidhoo Kanduolhi Marine Protected Area Conservation Action Plan 2025-2035",
+          "file": {
+            "url": "https://cms.environment.gov.mv/api/media/file/20250708-pub-k.-guraidhoo-kanduolhi-conservation-action-plan.pdf"
+          }
+        }
+      ]
+    },
+    {
+      "id": "publication-7",
+      "source_type": "Publication",
+      "published_at": "2025-04-29T03:30:00Z",
+      "translations": {
+        "en": {
+          "title": "Water and Sewerage Emergency Planning Guidebook",
+          "description": "",
+          "body": ""
+        },
+        "dv": {
+          "title": "ފެނާއި ނަރުދަމާ ގެ ޚިދުމަތް ދިނުމުގައި ކުރިމަތިވާ ކުއްލި ހާލަތުގައި އަމަލުކުރާނެ ގޮތުގެ ޕްލޭންގެ ގައިޑްފޮތް",
+          "description": "",
+          "body": ""
+        }
+      },
+      "featuredImage": {
+        "url": "https://cms.environment.gov.mv/api/media/file/20250429-pic-water-and-sewerage-emergency-planning-guidebook.-eng%20(1).webp",
+        "alt": "20250429 pic water and sewerage emergency planning guidebook. eng (1)"
+      },
+      "files": [
+        {
+          "label": "Water and Sewerage Emergency Planning Guidebook",
+          "file": {
+            "url": "https://cms.environment.gov.mv/api/media/file/20250429-pub-water-and-sewerage-emergency-planning-guidebook.-eng.pdf"
+          }
+        },
+        {
+          "label": "Water and Sewerage Emergency Planning Guidebook (Dhivehi)",
+          "file": {
+            "url": "https://cms.environment.gov.mv/api/media/file/20250429-pub-water-and-sewerage-emergency-planning-guidebook.-dv%20(1).pdf"
+          }
+        },
+        {
+          "label": "Water and Sewerage Emergency Plan Template",
+          "file": {
+            "url": "https://cms.environment.gov.mv/api/media/file/20250429-pub-water-and-sewerage-emergency-plan-template.pdf"
+          }
+        },
+        {
+          "label": "Water and Sewerage Emergency Plan Template (Dhivehi)",
+          "file": {
+            "url": "https://cms.environment.gov.mv/api/media/file/wsep-template-dhivehi.pdf"
+          }
+        }
+      ]
+    },
+    {
+      "id": "publication-21",
+      "source_type": "Publication",
+      "published_at": "2025-03-12T06:15:00Z",
+      "translations": {
+        "en": {
+          "title": "Energy Policy and Strategy 2024 – 2029",
+          "description": "",
+          "body": ""
+        },
+        "dv": {
+          "title": "އެނަރޖީ ޕޮލިސީ އެންޑް ސްޓްރެޓެޖީ 2024 - 2029",
+          "description": "",
+          "body": ""
+        }
+      },
+      "featuredImage": {
+        "url": "https://cms.environment.gov.mv/api/media/file/20250312-pic-energy-policy-and-strategy.webp",
+        "alt": "20250312 pic energy policy and strategy"
+      },
+      "files": [
+        {
+          "label": "Energy Policy and Strategy 2024 – 2029",
+          "file": {
+            "url": "https://cms.environment.gov.mv/api/media/file/20250312-pub-energy-policy-and-strategy.pdf"
+          }
+        }
+      ]
+    },
+    {
+      "id": "publication-26",
+      "source_type": "Publication",
+      "published_at": "2025-02-27T05:00:00Z",
+      "translations": {
+        "en": {
+          "title": "Maldives’ Third Nationally Determined Contribution",
+          "description": "",
+          "body": ""
+        },
+        "dv": {
+          "title": "ދިވެހިރާއްޖޭގެ ތިންވަނަ ނޭޝަނަލީ ޑިޓަރމިންޑް ކޮންޓްރިބިއުޝަން",
+          "description": "",
+          "body": ""
+        }
+      },
+      "featuredImage": {
+        "url": "https://cms.environment.gov.mv/api/media/file/20250227-pic-maldives-third-nationally-determined-contribution.webp",
+        "alt": "20250227 pic maldives third nationally determined contribution"
+      },
+      "files": [
+        {
+          "label": "Maldives’ Third Nationally Determined Contribution",
+          "file": {
+            "url": "https://cms.environment.gov.mv/api/media/file/20250227-pub-maldives-third-nationally-determined-contribution.pdf"
+          }
+        }
+      ]
+    },
+    {
+      "id": "publication-27",
+      "source_type": "Publication",
+      "published_at": "2025-02-17T05:15:00Z",
+      "translations": {
+        "en": {
+          "title": "Annual Air Quality Report 2024",
+          "description": "",
+          "body": ""
+        },
+        "dv": {
+          "title": "އަހަރީ ވައިގެ ސާފުމިނުގެ ރިޕޯޓް 2024",
+          "description": "",
+          "body": ""
+        }
+      },
+      "featuredImage": {
+        "url": "https://cms.environment.gov.mv/api/media/file/20250217-pic-annual-air-quality-2024%20(1).webp",
+        "alt": "20250217 pic annual air quality 2024 (1)"
+      },
+      "files": [
+        {
+          "label": "Annual Air Quality Report 2024",
+          "file": {
+            "url": "https://cms.environment.gov.mv/api/media/file/20250217-pub-annual-air-quality-2024%20(1).pdf"
+          }
+        }
+      ]
+    },
+    {
+      "id": "publication-11",
+      "source_type": "Publication",
+      "published_at": "2025-02-16T03:30:00Z",
+      "translations": {
+        "en": {
+          "title": "Annual Report 2024 – Baa Atoll Biosphere Reserve Office",
+          "description": "",
+          "body": ""
+        },
+        "dv": {
+          "title": "އަހަރީ ރިޕޯޓް 2024 – ބާ އަތޮޅު ބަޔޮސްފިއަރ ރިޒަރވް އޮފީސް",
+          "description": "",
+          "body": ""
+        }
+      },
+      "featuredImage": {
+        "url": "https://cms.environment.gov.mv/api/media/file/20250216-pic-annual-report-2024-br-office.webp",
+        "alt": "20250216 pic annual report 2024 br office"
+      },
+      "files": [
+        {
+          "label": "Annual Report 2024 – Baa Atoll Biosphere Reserve Office",
+          "file": {
+            "url": "https://cms.environment.gov.mv/api/media/file/20250216-annual-report-2024-br-office.pdf"
+          }
+        }
+      ]
+    },
+    {
+      "id": "publication-28",
+      "source_type": "Publication",
+      "published_at": "2025-01-09T05:45:00Z",
+      "translations": {
+        "en": {
+          "title": "Action and Conservation Plan – Addu Atoll Biosphere Reserve",
+          "description": "",
+          "body": ""
+        },
+        "dv": {
+          "title": "އެކްޝަން އެންޑް ކޮންޒަރވޭޝަން ޕްލޭން – އައްޑޫ އަތޮޅު ބަޔޮސްފިއާ ރިޒާވް",
+          "description": "",
+          "body": ""
+        }
+      },
+      "featuredImage": {
+        "url": "https://cms.environment.gov.mv/api/media/file/20250109-pic-addu-atoll-biospherer-reserve-action-and-conservation-plan%20(1).webp",
+        "alt": "20250109 pic addu atoll biospherer reserve action and conservation plan (1)"
+      },
+      "files": [
+        {
+          "label": "Action and Conservation Plan – Addu Atoll Biosphere Reserve",
+          "file": {
+            "url": "https://cms.environment.gov.mv/api/media/file/20250109-pub-addu-atoll-biospherer-reserve-action-and-conservation-plan%20(1).pdf"
+          }
+        }
+      ]
+    },
+    {
+      "id": "publication-43",
+      "source_type": "Publication",
+      "published_at": "2024-11-18T03:00:00Z",
+      "translations": {
+        "en": {
+          "title": "Maldives Biennial Transparency Report BTR1",
+          "description": "",
+          "body": ""
+        },
+        "dv": {
+          "title": "މޯލްޑިވްސް ބައިއެނިއަލް ޓްރާންސްޕެރެންސީ ރިޕޯޓް ބީ.ޓީ.އާރް 1",
+          "description": "",
+          "body": ""
+        }
+      },
+      "featuredImage": {
+        "url": "https://cms.environment.gov.mv/api/media/file/20241118-pic-mdv-btr-1-nov2024.webp",
+        "alt": "20241118 pic mdv btr 1 nov2024"
+      },
+      "files": [
+        {
+          "label": "Maldives Biennial Transparency Report BTR1",
+          "file": {
+            "url": "https://cms.environment.gov.mv/api/media/file/20241118-pub-mdv-btr-1-nov2024.pdf"
+          }
+        }
+      ]
+    },
+    {
+      "id": "publication-29",
+      "source_type": "Publication",
+      "published_at": "2024-11-15T06:00:00Z",
+      "translations": {
+        "en": {
+          "title": "Paving the Way for a Just Energy Transition in the Maldives",
+          "description": "",
+          "body": ""
+        },
+        "dv": {
+          "title": "ދިވެހިރާއްޖޭގެ ހަކަތައިގެ ދާއިރާއަށް އިންސާފުވެރި ބަދަލެއް ގެނައުމަށް މަގުފަހިކުރުން",
+          "description": "",
+          "body": ""
+        }
+      },
+      "featuredImage": {
+        "url": "https://cms.environment.gov.mv/api/media/file/20241115-pic-energy-roadmap-maldives-2024-2033.webp",
+        "alt": "20241115 pic energy roadmap maldives 2024 2033"
+      },
+      "files": [
+        {
+          "label": "Paving the Way for a Just Energy Transition in the Maldives",
+          "file": {
+            "url": "https://cms.environment.gov.mv/api/media/file/20241115-pub-energy-roadmap-maldives-2024-2033.pdf"
+          }
+        }
+      ]
+    },
+    {
+      "id": "publication-30",
+      "source_type": "Publication",
+      "published_at": "2024-11-12T06:45:00Z",
+      "translations": {
+        "en": {
+          "title": "Towards a Green, Clean and Resilient Maldives – 52 Weeks",
+          "description": "",
+          "body": ""
+        },
+        "dv": {
+          "title": "52 ހަފުތާ: ފެހި، ސާފު އަދި ވިލުންތެރި ރާއްޖެއަކަށް",
+          "description": "",
+          "body": ""
+        }
+      },
+      "featuredImage": {
+        "url": "https://cms.environment.gov.mv/api/media/file/20241117-pic-52-week-fehi-saafu-adhi-viluntheri-raajje.webp",
+        "alt": "20241117 pic 52 week fehi saafu adhi viluntheri raajje"
+      },
+      "files": [
+        {
+          "label": "Towards a Green, Clean and Resilient Maldives – 52 Weeks",
+          "file": {
+            "url": "https://cms.environment.gov.mv/api/media/file/20241117-pub-52-week-fehi-saafu-adhi-viluntheri-raajje.pdf"
+          }
+        }
+      ]
+    },
+    {
+      "id": "publication-31",
+      "source_type": "Publication",
+      "published_at": "2024-10-06T06:00:00Z",
+      "translations": {
+        "en": {
+          "title": "Maldives National Framework For Management Of Protected & Conserved Areas",
+          "description": "",
+          "body": ""
+        },
+        "dv": {
+          "title": "މޯލްޑިވްސް ނޭޝަނަލް ފްރޭމްވޯކް ފޯރ މެނޭޖްމަންޓް އޮފް ޕްރޮޓެކްޓެޑް އެންޑް ކޮންޒަރވްޑް އޭރިއާސް",
+          "description": "",
+          "body": ""
+        }
+      },
+      "featuredImage": {
+        "url": "https://cms.environment.gov.mv/api/media/file/20241006-pic-maldives-national-framework-for-management-of-protected-conserved-areas.webp",
+        "alt": "20241006 pic maldives national framework for management of protected conserved areas"
+      },
+      "files": [
+        {
+          "label": "Maldives National Framework For Management Of Protected & Conserved Areas",
+          "file": {
+            "url": "https://cms.environment.gov.mv/api/media/file/20241006-pub-maldives-national-framework-for-management-of-protected-conserved-areas.pdf"
+          }
+        }
+      ]
+    },
+    {
+      "id": "publication-47",
+      "source_type": "Publication",
+      "published_at": "2024-09-19T05:00:00Z",
+      "translations": {
+        "en": {
+          "title": "Water Quality Assesment Report",
+          "description": "",
+          "body": ""
+        },
+        "dv": {
+          "title": "ފެނުގެ ފެންވަރު ވަޒަންކުރުމުގެ ރިޕޯޓު",
+          "description": "",
+          "body": ""
+        }
+      },
+      "featuredImage": {
+        "url": "https://cms.environment.gov.mv/api/media/file/20240919-pic-water-quality-asessment-report-en.webp",
+        "alt": "20240919 pic water quality asessment report en"
+      },
+      "files": [
+        {
+          "label": "Water Quality Assesment Report",
+          "file": {
+            "url": "https://cms.environment.gov.mv/api/media/file/20240919-pub-water-quality-asessment-report-en.pdf"
+          }
+        },
+        {
+          "label": "Water Quality Assesment Report (Dhivehi)",
+          "file": {
+            "url": "https://cms.environment.gov.mv/api/media/file/20240919-pub-water-quality-asessment-report-dv.pdf"
+          }
+        }
+      ]
+    },
+    {
+      "id": "publication-1",
+      "source_type": "Publication",
+      "published_at": "2024-06-06T13:00:00Z",
+      "translations": {
+        "en": {
+          "title": "Magey Saafu Raajje National Waste & Resource Management Policy And Strategy 2024-2028",
+          "description": "",
+          "body": ""
+        },
+        "dv": {
+          "title": "\"މަގޭ ސާފު ރާއްޖެ\" ކުނި މެނޭޖުކުރުމާއި ވަސީލަތްތައް ބެލެހެއްޓުމުގެ ގައުމީ ސިޔާސަތާއި އިސްތިރާޖު 2024 - 2028",
+          "description": "",
+          "body": ""
+        }
+      },
+      "featuredImage": {
+        "url": "https://cms.environment.gov.mv/api/media/file/20240606-pic-magey-saafu-raajje-national-waste-resource-management-policy-and-strategy-2024-2028.webp",
+        "alt": "20240606 pic magey saafu raajje national waste resource management policy and strategy 2024 2028"
+      },
+      "files": [
+        {
+          "label": "Magey Saafu Raajje National Waste & Resource Management Policy And Strategy 2024-2028",
+          "file": {
+            "url": "https://cms.environment.gov.mv/api/media/file/20240606-pub-magey-saafu-raajje-national-waste-resource-management-policy-and-strategy-2024-2028.pdf"
+          }
+        }
+      ]
+    },
+    {
+      "id": "publication-12",
+      "source_type": "Publication",
+      "published_at": "2024-05-30T03:45:00Z",
+      "translations": {
+        "en": {
+          "title": "Annual Report 2023 – Ministry",
+          "description": "",
+          "body": ""
+        },
+        "dv": {
+          "title": "އަހަރީ ރިޕޯޓް 2023 – މިނިސްޓްރީ",
+          "description": "",
+          "body": ""
+        }
+      },
+      "featuredImage": {
+        "url": "https://cms.environment.gov.mv/api/media/file/20240530-pic-annual-report-2023-moccee%20(1).webp",
+        "alt": "20240530 pic annual report 2023 moccee (1)"
+      },
+      "files": [
+        {
+          "label": "Annual Report 2023 – Ministry",
+          "file": {
+            "url": "https://cms.environment.gov.mv/api/media/file/20240530-pub-annual-report-2023-moccee.pdf"
+          }
+        }
+      ]
+    },
+    {
+      "id": "publication-13",
+      "source_type": "Publication",
+      "published_at": "2024-02-18T04:00:00Z",
+      "translations": {
+        "en": {
+          "title": "Annual Report 2023 – Baa Atoll Biosphere Reserve Office",
+          "description": "",
+          "body": ""
+        },
+        "dv": {
+          "title": "އަހަރީ ރިޕޯޓް 2023 – ބާ އަތޮޅު ބަޔޮސްފިއަރ ރިޒަރވް އޮފީސް",
+          "description": "",
+          "body": ""
+        }
+      },
+      "featuredImage": {
+        "url": "https://cms.environment.gov.mv/api/media/file/20240218-annual-report-2023-br-office%20(1).webp",
+        "alt": "20240218 annual report 2023 br office (1)"
+      },
+      "files": [
+        {
+          "label": "Annual Report 2023 – Baa Atoll Biosphere Reserve Office",
+          "file": {
+            "url": "https://cms.environment.gov.mv/api/media/file/20240218-annual-report-2023-br-office.pdf"
+          }
+        }
+      ]
+    },
+    {
+      "id": "publication-32",
+      "source_type": "Publication",
+      "published_at": "2024-01-11T06:00:00Z",
+      "translations": {
+        "en": {
+          "title": "Protected Areas Handbook",
+          "description": "",
+          "body": ""
+        },
+        "dv": {
+          "title": "ޕްރޮޓެކްޓެޑް އޭރިއާސް ހޭންޑްބުކް",
+          "description": "",
+          "body": ""
+        }
+      },
+      "featuredImage": {
+        "url": "https://cms.environment.gov.mv/api/media/file/20240111-pic-protected-areas-handbook.webp",
+        "alt": "20240111 pic protected areas handbook"
+      },
+      "files": [
+        {
+          "label": "Protected Areas Handbook",
+          "file": {
+            "url": "https://cms.environment.gov.mv/api/media/file/20240111-pub-protected-areas-handbook.pdf"
+          }
+        }
+      ]
+    },
+    {
+      "id": "publication-33",
+      "source_type": "Publication",
+      "published_at": "2023-11-17T05:00:00Z",
+      "translations": {
+        "en": {
+          "title": "Vilunveri Raajje: 2019-2023",
+          "description": "",
+          "body": ""
+        },
+        "dv": {
+          "title": "ވިލުންވެރި ރާއްޖެ: 2019-2023",
+          "description": "",
+          "body": ""
+        }
+      },
+      "featuredImage": {
+        "url": "https://cms.environment.gov.mv/api/media/file/20231117-pic-vilunveri-raajje.webp",
+        "alt": "20231117 pic vilunveri raajje"
+      },
+      "files": [
+        {
+          "label": "Vilunveri Raajje: 2019-2023",
+          "file": {
+            "url": "https://cms.environment.gov.mv/api/media/file/20231117-pub-vilunveri-raajje.pdf"
+          }
+        }
+      ]
+    },
+    {
+      "id": "publication-34",
+      "source_type": "Publication",
+      "published_at": "2023-09-16T04:45:00Z",
+      "translations": {
+        "en": {
+          "title": "Pemphis – Issue 61 – September 2023",
+          "description": "",
+          "body": ""
+        },
+        "dv": {
+          "title": "ޕެމްފިސް – ޢަދަދު 61 – ސެޕްޓެމްބަރ 2023",
+          "description": "",
+          "body": ""
+        }
+      },
+      "featuredImage": {
+        "url": "https://cms.environment.gov.mv/api/media/file/20230916-pemphis-61-september-2023.webp",
+        "alt": "20230916 pemphis 61 september 2023"
+      },
+      "files": [
+        {
+          "label": "Pemphis – Issue 61 – September 2023",
+          "file": {
+            "url": "https://cms.environment.gov.mv/api/media/file/20230916-pemphis-61-september-2023.pdf"
+          }
+        }
+      ]
+    },
+    {
+      "id": "publication-35",
+      "source_type": "Publication",
+      "published_at": "2023-07-01T04:15:00Z",
+      "translations": {
+        "en": {
+          "title": "Maldives’ Investment Framework For Net Zero Clean 2023",
+          "description": "",
+          "body": ""
+        },
+        "dv": {
+          "title": "އިންވެސްޓްމަންޓް ފްރޭމްވަރކް ފޯ ނެޓް ޒީރޯ 2023 – މޯލްޑިވްސް",
+          "description": "",
+          "body": ""
+        }
+      },
+      "featuredImage": {
+        "url": "https://cms.environment.gov.mv/api/media/file/20230701-pic-maldives-investment-framework-for-net-zero-clean-2023-1.webp",
+        "alt": "20230701 pic maldives investment framework for net zero clean 2023 1"
+      },
+      "files": [
+        {
+          "label": "Maldives’ Investment Framework For Net Zero Clean 2023",
+          "file": {
+            "url": "https://cms.environment.gov.mv/api/media/file/20230701-pub-maldives-investment-framework-for-net-zero-clean-2023-1.pdf"
+          }
+        }
+      ]
+    },
+    {
+      "id": "publication-36",
+      "source_type": "Publication",
+      "published_at": "2023-06-20T06:00:00Z",
+      "translations": {
+        "en": {
+          "title": "Environmental and Social Management Plan for the Proposed Establishment of an Island Waste and Resource Management Centre in Th. Madifushi",
+          "description": "",
+          "body": ""
+        },
+        "dv": {
+          "title": "ތ. މަޑިފުށީގައި \"ރަށު ފެންވަރުގައި ކުނި އަދި ވަސީލަތްތައް މެނޭޖުކުރާ މަރުކަޒެއް\" ގާއިމުކުރުމަށް ހުށަހަޅާފައިވާ މަޝްރޫއުގެ ތިމާވެއްޓާއި އިޖުތިމާއީ ކަންކަން ބެލެހެއްޓުމުގެ ޕްލޭން",
+          "description": "",
+          "body": ""
+        }
+      },
+      "featuredImage": {
+        "url": "https://cms.environment.gov.mv/api/media/file/20230620-pic-esmp-th-madifushi-iwrmc.webp",
+        "alt": "20230620 pic esmp th madifushi iwrmc"
+      },
+      "files": [
+        {
+          "label": "Environmental and Social Management Plan for the Proposed Establishment of an Island Waste and Resource Management Centre in Th. Madifushi",
+          "file": {
+            "url": "https://cms.environment.gov.mv/api/media/file/20230620-pub-esmp-th-madifushi-iwrmc.pdf"
+          }
+        }
+      ]
+    },
+    {
+      "id": "publication-37",
+      "source_type": "Publication",
+      "published_at": "2023-06-19T04:45:00Z",
+      "translations": {
+        "en": {
+          "title": "Assessing the Management Effectiveness of three sites in the Maldives Stakeholder Survey results",
+          "description": "",
+          "body": ""
+        },
+        "dv": {
+          "title": "އެސެސިންގ ދަ މެނޭޖްމަންޓް އެފެކްޓިވްނަސް އޮފް ތްރީ ސައިޓްސް އިން ދަ މޯލްޑިވްސް ސްޓޭކް ހޯލްޑަރ ސާރވޭ ރިޒަލްޓްސް",
+          "description": "",
+          "body": ""
+        }
+      },
+      "featuredImage": {
+        "url": "https://cms.environment.gov.mv/api/media/file/20230619-pic-assessing-the-management-effectiveness-of-three-sites-in-the-maldives-stakeholder-survey-results.webp",
+        "alt": "20230619 pic assessing the management effectiveness of three sites in the maldives stakeholder survey results"
+      },
+      "files": [
+        {
+          "label": "Assessing the Management Effectiveness of three sites in the Maldives Stakeholder Survey results",
+          "file": {
+            "url": "https://cms.environment.gov.mv/api/media/file/20230619-pub-assessing-the-management-effectiveness-of-three-sites-in-the-maldives-stakeholder-survey-results.pdf"
+          }
+        }
+      ]
+    },
+    {
+      "id": "publication-38",
+      "source_type": "Publication",
+      "published_at": "2023-05-09T03:45:00Z",
+      "translations": {
+        "en": {
+          "title": "Report of Protected Area Management Effectiveness Evaluations for three sites in the Maldives",
+          "description": "",
+          "body": ""
+        },
+        "dv": {
+          "title": "ރާއްޖޭގެ ތިން ސައިޓެއްގެ ޕްރޮޓެކްޓެޑް އޭރިއާ މެނޭޖްމަންޓް އެފެކްޓިވްނެސް އިވެލުއޭޝަން ރިޕޯޓް",
+          "description": "",
+          "body": ""
+        }
+      },
+      "featuredImage": {
+        "url": "https://cms.environment.gov.mv/api/media/file/20230509-pic-ocpp-maldives-pame-report.webp",
+        "alt": "20230509 pic ocpp maldives pame report"
+      },
+      "files": [
+        {
+          "label": "Report of Protected Area Management Effectiveness Evaluations for three sites in the Maldives",
+          "file": {
+            "url": "https://cms.environment.gov.mv/api/media/file/20230509-pub-ocpp-maldives-pame-report.pdf"
+          }
+        }
+      ]
+    },
+    {
+      "id": "publication-40",
+      "source_type": "Publication",
+      "published_at": "2023-03-20T04:00:00Z",
+      "translations": {
+        "en": {
+          "title": "Environmental Impact Assessment for Thilafushi MLD: Greater Malé Waste-to-Energy Project – Waste to Energy Plant",
+          "description": "",
+          "body": ""
+        },
+        "dv": {
+          "title": "ތިލަފުށީގައި ޤާއިމުކުރާ ކުނިން ހަކަތަ އުފައްދާ ޕްލާންޓުގެ ތިމާވެއްޓަށް ކުރާނެ އަސަރު ދެނެގަންނަ ރިޕޯޓް (އީ.އައި.އޭ)",
+          "description": "",
+          "body": ""
+        }
+      },
+      "featuredImage": {
+        "url": "https://cms.environment.gov.mv/api/media/file/20230320-pic-eia-waste-energy-plant_A.webp",
+        "alt": "20230320 pic eia waste energy plant A"
+      },
+      "files": [
+        {
+          "label": "EIA for Thilafushi Waste Energy Plant Part A",
+          "file": {
+            "url": "https://cms.environment.gov.mv/api/media/file/20230320-pub-eia-waste-energy-plant_A.pdf"
+          }
+        },
+        {
+          "label": "EIA for Thilafushi Waste Energy Plant Part B",
+          "file": {
+            "url": "https://cms.environment.gov.mv/api/media/file/20230320-pub-eia-waste-energy-plant_B.pdf"
+          }
+        },
+        {
+          "label": "EIA for Thilafushi Waste Energy Plant Part C",
+          "file": {
+            "url": "https://cms.environment.gov.mv/api/media/file/20230320-pub-eia-waste-energy-plant_C.pdf"
+          }
+        },
+        {
+          "label": "EIA for Thilafushi Waste Energy Plant Part D",
+          "file": {
+            "url": "https://cms.environment.gov.mv/api/media/file/20230320-pub-eia-waste-energy-plant_D.pdf"
+          }
+        },
+        {
+          "label": "EIA for Thilafushi Waste Energy Plant Part E",
+          "file": {
+            "url": "https://cms.environment.gov.mv/api/media/file/20230320-pub-eia-waste-energy-plant_E.pdf"
+          }
+        },
+        {
+          "label": "EIA for Thilafushi Waste Energy Plant Part F",
+          "file": {
+            "url": "https://cms.environment.gov.mv/api/media/file/20230320-pub-eia-waste-energy-plant_F.pdf"
+          }
+        },
+        {
+          "label": "EIA for Thilafushi Waste Energy Plant Part G",
+          "file": {
+            "url": "https://cms.environment.gov.mv/api/media/file/20230320-pub-eia-waste-energy-plant_G.pdf"
+          }
+        }
+      ]
+    },
+    {
+      "id": "publication-39",
+      "source_type": "Publication",
+      "published_at": "2023-02-25T06:00:00Z",
+      "translations": {
+        "en": {
+          "title": "Ecosystems of the Maldives",
+          "description": "",
+          "body": ""
+        },
+        "dv": {
+          "title": "އީކޯ ސިސްޓަމްސް އޮފް މޯލްޑިވްސް",
+          "description": "",
+          "body": ""
+        }
+      },
+      "featuredImage": {
+        "url": "https://cms.environment.gov.mv/api/media/file/20230225-pic-ecosystems-of-the-maldives.webp",
+        "alt": "20230225 pic ecosystems of the maldives"
+      },
+      "files": [
+        {
+          "label": "Ecosystems of the Maldives",
+          "file": {
+            "url": "https://cms.environment.gov.mv/api/media/file/20230225-pub-ecosystems-of-the-maldives.pdf"
+          }
+        }
+      ]
+    },
+    {
+      "id": "publication-23",
+      "source_type": "Publication",
+      "published_at": "2023-02-10T05:00:00Z",
+      "translations": {
+        "en": {
+          "title": "Annual Report 2022 – Baa Atoll Biosphere Reserve Office",
+          "description": "",
+          "body": ""
+        },
+        "dv": {
+          "title": "އަހަރީ ރިޕޯޓް 2022 – ބާ އަތޮޅު ބަޔޮސްފިއަރ ރިޒަރވް އޮފީސް",
+          "description": "",
+          "body": ""
+        }
+      },
+      "featuredImage": {
+        "url": "https://cms.environment.gov.mv/api/media/file/20230210-pic-annual-report-2022-broffice.webp",
+        "alt": "20230210 pic annual report 2022 broffice"
+      },
+      "files": [
+        {
+          "label": "Annual Report 2022 – Baa Atoll Biosphere Reserve Office",
+          "file": {
+            "url": "https://cms.environment.gov.mv/api/media/file/20230210-pub-annual-report-2022-broffice.pdf"
+          }
+        }
+      ]
+    },
+    {
+      "id": "publication-22",
+      "source_type": "Publication",
+      "published_at": "2023-02-10T04:30:00Z",
+      "translations": {
+        "en": {
+          "title": "Annual Report 2022 – Environmental Protection Agency",
+          "description": "",
+          "body": ""
+        },
+        "dv": {
+          "title": "އަހަރީ ރިޕޯޓް 2022 – އެންވަޔަރަންމަންޓަލް ޕްރޮޓެކްޝަން އެޖެންސީ",
+          "description": "",
+          "body": ""
+        }
+      },
+      "featuredImage": {
+        "url": "https://cms.environment.gov.mv/api/media/file/20230210-pic-annual-report-2022-epa%20(1).webp",
+        "alt": "20230210 pic annual report 2022 epa (1)"
+      },
+      "files": [
+        {
+          "label": "Annual Report 2022 – Environmental Protection Agency",
+          "file": {
+            "url": "https://cms.environment.gov.mv/api/media/file/20230210-pub-annual-report-2022-epa.pdf"
+          }
+        }
+      ]
+    },
+    {
+      "id": "publication-18",
+      "source_type": "Publication",
+      "published_at": "2023-02-10T04:30:00Z",
+      "translations": {
+        "en": {
+          "title": "Annual Report 2022 – Maldives Meteorological Service",
+          "description": "",
+          "body": ""
+        },
+        "dv": {
+          "title": "އަހަރީ ރިޕޯޓް 2022 – މޯލްޑިވްސް މީޓިއޮރޮލޮޖިކަލް ސަރވިސް",
+          "description": "",
+          "body": ""
+        }
+      },
+      "featuredImage": {
+        "url": "https://cms.environment.gov.mv/api/media/file/20230210-pic-annual-report-2022-mms%20(1).webp",
+        "alt": "20230210 pic annual report 2022 mms (1)"
+      },
+      "files": [
+        {
+          "label": "Annual Report 2022 – Maldives Meteorological Service",
+          "file": {
+            "url": "https://cms.environment.gov.mv/api/media/file/20230210-pub-annual-report-2022-mms.pdf"
+          }
+        }
+      ]
+    },
+    {
+      "id": "publication-17",
+      "source_type": "Publication",
+      "published_at": "2023-02-10T04:00:00Z",
+      "translations": {
+        "en": {
+          "title": "Annual Report 2022 – Communications Authority of Maldives",
+          "description": "",
+          "body": ""
+        },
+        "dv": {
+          "title": "އަހަރު ރިޕޯޓު 2022 – ކޮމިއުނިކޭޝަންސް އޮތޯރިޓީ އޮފް މޯލްޑިވްސް",
+          "description": "",
+          "body": ""
+        }
+      },
+      "featuredImage": {
+        "url": "https://cms.environment.gov.mv/api/media/file/20230210-pic-annual-report-2022-cam%20(1).webp",
+        "alt": "20230210 pic annual report 2022 cam (1)"
+      },
+      "files": [
+        {
+          "label": "Annual Report 2022 – Communications Authority of Maldives",
+          "file": {
+            "url": "https://cms.environment.gov.mv/api/media/file/20230210-pub-annual-report-2022-cam.pdf"
+          }
+        }
+      ]
+    },
+    {
+      "id": "publication-16",
+      "source_type": "Publication",
+      "published_at": "2023-02-10T04:00:00Z",
+      "translations": {
+        "en": {
+          "title": "Annual Report 2022 – Utility Regulatory Authority",
+          "description": "",
+          "body": ""
+        },
+        "dv": {
+          "title": "އަހަރީ ރިޕޯޓް 2022 – ޔުޓިލިޓީ ރެގިއުލޭޓަރީ އޮތޯރިޓީ",
+          "description": "",
+          "body": ""
+        }
+      },
+      "featuredImage": {
+        "url": "https://cms.environment.gov.mv/api/media/file/20230210-pic-annual-report-2022-ura%20(1).webp",
+        "alt": "20230210 pic annual report 2022 ura (1)"
+      },
+      "files": [
+        {
+          "label": "Annual Report 2022 – Utility Regulatory Authority",
+          "file": {
+            "url": "https://cms.environment.gov.mv/api/media/file/20230210-pub-annual-report-2022-ura.pdf"
+          }
+        }
+      ]
+    },
+    {
+      "id": "publication-15",
+      "source_type": "Publication",
+      "published_at": "2023-02-10T04:00:00Z",
+      "translations": {
+        "en": {
+          "title": "Annual Report 2022 – National Center for Information Technology",
+          "description": "",
+          "body": ""
+        },
+        "dv": {
+          "title": "އަހަރީ ރިޕޯޓް 2022 – ނޭޝަނަލް ސެންޓަރ ފޮރ އިންފޮމޭޝަން ޓެކްނޯލޮޖީ",
+          "description": "",
+          "body": ""
+        }
+      },
+      "featuredImage": {
+        "url": "https://cms.environment.gov.mv/api/media/file/20230210-pic-annual-report-2022-ncit%20(1).webp",
+        "alt": "20230210 pic annual report 2022 ncit (1)"
+      },
+      "files": [
+        {
+          "label": "Annual Report 2022 – National Center for Information Technology",
+          "file": {
+            "url": "https://cms.environment.gov.mv/api/media/file/20230210-pub-annual-report-2022-ncit.pdf"
+          }
+        }
+      ]
+    },
+    {
+      "id": "publication-14",
+      "source_type": "Publication",
+      "published_at": "2023-02-10T04:00:00Z",
+      "translations": {
+        "en": {
+          "title": "Annual Report 2022 – Ministry",
+          "description": "",
+          "body": ""
+        },
+        "dv": {
+          "title": "އަހަރީ ރިޕޯޓް 2022 – މިނިސްޓްރީ",
+          "description": "",
+          "body": ""
+        }
+      },
+      "featuredImage": {
+        "url": "https://cms.environment.gov.mv/api/media/file/20230210-pic-annual-report-2022-moecct%20(1).webp",
+        "alt": "20230210 pic annual report 2022 moecct (1)"
+      },
+      "files": []
+    },
+    {
+      "id": "publication-46",
+      "source_type": "Publication",
+      "published_at": "2023-02-02T03:15:00Z",
+      "translations": {
+        "en": {
+          "title": "Baseline Assessment Report - AA. Mathiveri, AA. Himandhoo, ADh. Kunburudhoo, Dh. Bandidhoo, Dh. Hulhudheli, M. Veyvah and M. Naalaafushi",
+          "description": "",
+          "body": ""
+        },
+        "dv": {
+          "title": "ބޭސްލައިން އެސެސްމަންޓް ރިޕޯޓް - އާއަ. މަތިވެރި، އާއަ. ހިމަންދޫ، އާދއ. ކުންބުރުދޫ، ދ. ބަންޑިދޫ، ދ. ހުޅުދެލި، މ. ވޭވަށް އަދި މ. ނާލާފުށި",
+          "description": "",
+          "body": ""
+        }
+      },
+      "featuredImage": {
+        "url": "https://cms.environment.gov.mv/api/media/file/20230202-pic-baseline-assessment-report-aa-mathiveri-aa-himandhoo-adh-kunburudhoo-dh-bandidhoo-dh-hulhudheli-m-veyvah-and-m-naalaafushi.webp",
+        "alt": "20230202 pic baseline assessment report aa mathiveri aa himandhoo adh kunburudhoo dh bandidhoo dh hulhudheli m veyvah and m naalaafushi"
+      },
+      "files": [
+        {
+          "label": "Baseline Assessment Report - AA. Mathiveri, AA. Himandhoo, ADh. Kunburudhoo, Dh. Bandidhoo, Dh. Hulhudheli, M. Veyvah and M. Naalaafushi",
+          "file": {
+            "url": "https://cms.environment.gov.mv/api/media/file/20230202-pub-baseline-assessment-report-aa-mathiveri-aa-himandhoo-adh-kunburudhoo-dh-bandidhoo-dh-hulhudheli-m-veyvah-and-m-naalaafushi.pdf"
+          }
+        }
+      ]
+    },
+    {
+      "id": "publication-45",
+      "source_type": "Publication",
+      "published_at": "2023-02-02T03:00:00Z",
+      "translations": {
+        "en": {
+          "title": "Baseline Assessment Report Ga. Maamendhoo, Ga. Nilandhoo, GDh. Faresmaathoda, GDh. Rathafandhoo, GDh. Nadella and GDh. Hoandedhdhoo",
+          "description": "",
+          "body": ""
+        },
+        "dv": {
+          "title": "ބޭސްލައިން އެސެސްމަންޓް ރިޕޯޓް ގއ. މާމެންދޫ، ގއ. ނިލަންދޫ، ގދ. ފަރެސްމާތޮޑާ، ގދ. ރަތަފަންދޫ، ގދ. ނަޑެއްލާ އަދި ގދ. ހޯނޑެއްދޫ",
+          "description": "",
+          "body": ""
+        }
+      },
+      "featuredImage": {
+        "url": "https://cms.environment.gov.mv/api/media/file/20230202-pic-baseline-assessment-report-ga-maamendhoo-ga-nilandhoo-gdh-faresmaathoda-gdh-rathafandhoo-gdh-nadella-and-gdh-hoandedhdhoo.webp",
+        "alt": "20230202 pic baseline assessment report ga maamendhoo ga nilandhoo gdh faresmaathoda gdh rathafandhoo gdh nadella and gdh hoandedhdhoo"
+      },
+      "files": [
+        {
+          "label": "Baseline Assessment Report Ga. Maamendhoo, Ga. Nilandhoo, GDh. Faresmaathoda, GDh. Rathafandhoo, GDh. Nadella and GDh. Hoandedhdhoo",
+          "file": {
+            "url": "https://cms.environment.gov.mv/api/media/file/20230202-pub-baseline-assessment-report-ga-maamendhoo-ga-nilandhoo-gdh-faresmaathoda-gdh-rathafandhoo-gdh-nadella-and-gdh-hoandedhdhoo.pdf"
+          }
+        }
+      ]
+    },
+    {
+      "id": "publication-56",
+      "source_type": "Publication",
+      "published_at": "2023-01-19T08:00:00Z",
+      "translations": {
+        "en": {
+          "title": "Baseline Assessment Report Assessing Groundwater Resources and Design of Aquifer Recharge System in selected islands (Ha.Filladhoo, Ha.Maarandhoo, Ha.Muraidhoo, Ha.Uligan and Ha.Molhadhoo)",
+          "description": "",
+          "body": ""
+        },
+        "dv": {
+          "title": "ބޭސްލައިން އެސެސްމަންޓް ރިޕޯޓް އެސެސިންގ ގްރައުންޑްވޯޓަރ ރިސޯސަސް އެންޑް ޑިޒައިން އޮފް އެކުއިފަރ ރީޗާޖް ސިސްޓަމް އިން ސިލެކްޓެޑް އައިލެންޑްސް (ހއ.ފިއްލަދޫ، ހއ.މާރަންދޫ، ހއ.މުރައިދޫ، ހއ.އުލިގަން އެންޑް ހއ.މޮޅަދޫ)",
+          "description": "",
+          "body": ""
+        }
+      },
+      "featuredImage": {
+        "url": "https://cms.environment.gov.mv/api/media/file/20230119-pic-baseline-assessment-report-groundwater-resources-1.webp",
+        "alt": "20230119 pic baseline assessment report groundwater resources 1"
+      },
+      "files": [
+        {
+          "label": "Baseline Assessment Report Assessing Groundwater Resources and Design of Aquifer Recharge System in selected islands (Ha.Filladhoo, Ha.Maarandhoo, Ha.Muraidhoo, Ha.Uligan and Ha.Molhadhoo)",
+          "file": {
+            "url": "https://cms.environment.gov.mv/api/media/file/20230119-pub-baseline-assessment-report-groundwater-resources-1.pdf"
+          }
+        }
+      ]
+    },
+    {
+      "id": "publication-55",
+      "source_type": "Publication",
+      "published_at": "2023-01-19T07:00:00Z",
+      "translations": {
+        "en": {
+          "title": "Baseline Assessment Report Assessing Groundwater Resources and Design of Aquifer Recharge System in selected islands (Th.Gaadhiffushi, Th.Omadhoo, Th.Vandhoo, Th.Kandoodhoo, Sh.Foakaidhoo and Th.Dhiyamigili)",
+          "description": "",
+          "body": ""
+        },
+        "dv": {
+          "title": "ބޭސްލައިން އެސެސްމަންޓް ރިޕޯޓް އެސެސިންގ ގްރައުންޑްވޯޓަރ ރިސޯސަސް އެންޑް ޑިޒައިން އޮފް އެކުއިފަރ ރީޗާޖް ސިސްޓަމް އިން ސިލެކްޓެޑް އައިލެންޑްސް (ތ.ގާދިއްފުށި، ތ.އޮމަދޫ، ތ.ވަންދޫ، ތ.ކަންޑޫދޫ، ޝ.ފޯކައިދޫ އެންޑް ތ.ދިޔަމިގިލި)",
+          "description": "",
+          "body": ""
+        }
+      },
+      "featuredImage": {
+        "url": "https://cms.environment.gov.mv/api/media/file/20230119-pic-baseline-assessment-report-groundwater-resources-2.webp",
+        "alt": "20230119 pic baseline assessment report groundwater resources 2"
+      },
+      "files": [
+        {
+          "label": "Baseline Assessment Report_Assessing Groundwater Resources and Design of Aquifer Recharge System in selected islands (Th.Gaadhiffushi, Th.Omadhoo, Th.Vandhoo, Th.Kandoodhoo, Sh.Foakaidhoo and Th.Dhiyamigili)",
+          "file": {
+            "url": "https://cms.environment.gov.mv/api/media/file/20230119-pub-baseline-assessment-report-groundwater-resources-2.pdf"
+          }
+        }
+      ]
+    },
+    {
+      "id": "publication-53",
+      "source_type": "Publication",
+      "published_at": "2023-01-19T06:45:00Z",
+      "translations": {
+        "en": {
+          "title": "Feasibility and Concept Design Report_Assessing Groundwater Resources and Design of Aquifer Recharge System in selected islands (Th.Gaadhiffushi, Th.Omadhoo, Th.Vandhoo, Th.Kandoodhoo, Sh.Foakaidhoo and Th.Dhiyamigili)",
+          "description": "",
+          "body": ""
+        },
+        "dv": {
+          "title": "ފީޒިބިލިޓީ އެންޑް ކޮންސެޕްޓް ޑިޒައިން ރިޕޯޓް_އެސެސިންގ ގްރައުންޑްވޯޓަރ ރިސޯސަސް އެންޑް ޑިޒައިން އޮފް އެކުއިފަރ ރީޗާޖް ސިސްޓަމް އިން ސިލެކްޓެޑް އައިލެންޑްސް (ތ.ގާދިއްފުށި، ތ.އޮމަދޫ، ތ.ވަންދޫ، ތ.ކަންޑޫދޫ، ޝ.ފޯކައިދޫ އެންޑް ތ.ދިޔަމިގިލި)",
+          "description": "",
+          "body": ""
+        }
+      },
+      "featuredImage": {
+        "url": "https://cms.environment.gov.mv/api/media/file/20230119-pic-feasibility-concept-design-report-groundwater-resources-2.webp",
+        "alt": "20230119 pic feasibility concept design report groundwater resources 2"
+      },
+      "files": [
+        {
+          "label": "Feasibility and Concept Design Report_Assessing Groundwater Resources and Design of Aquifer Recharge System in selected islands (Th.Gaadhiffushi, Th.Omadhoo, Th.Vandhoo, Th.Kandoodhoo, Sh.Foakaidhoo and Th.Dhiyamigili)",
+          "file": {
+            "url": "https://cms.environment.gov.mv/api/media/file/20230119-pub-feasibility-concept-design-report-groundwater-resources-2.pdf"
+          }
+        }
+      ]
+    },
+    {
+      "id": "publication-54",
+      "source_type": "Publication",
+      "published_at": "2023-01-19T05:15:00Z",
+      "translations": {
+        "en": {
+          "title": "Feasibility and Concept Design Report_Assessing Groundwater Resources and Design of Aquifer Recharge System in selected islands (Ha.Filladhoo, Ha.Maarandhoo, Ha.Muraidhoo, Ha.Uligan and Ha.Molhadhoo)",
+          "description": "",
+          "body": ""
+        },
+        "dv": {
+          "title": "ފީޒިބިލިޓީ އެންޑް ކޮންސެޕްޓް ޑިޒައިން ރިޕޯޓް އެސެސިންގ ގްރައުންޑްވޯޓަރ ރިސޯސަސް އެންޑް ޑިޒައިން އޮފް އެކުއިފަރ ރީޗާޖް ސިސްޓަމް އިން ސިލެކްޓެޑް އައިލެންޑްސް (ހއ.ފިއްލަދޫ، ހއ.މާރަންދޫ، ހއ.މުރައިދޫ، ހއ.އުލިގަން އެންޑް ހއ.މޮޅަދޫ)",
+          "description": "",
+          "body": ""
+        }
+      },
+      "featuredImage": {
+        "url": "https://cms.environment.gov.mv/api/media/file/20230119-pic-feasibility-concept-design-report-groundwater-resources-1.webp",
+        "alt": "20230119 pic feasibility concept design report groundwater resources 1"
+      },
+      "files": [
+        {
+          "label": "Feasibility and Concept Design Report_Assessing Groundwater Resources and Design of Aquifer Recharge System in selected islands (Ha.Filladhoo, Ha.Maarandhoo, Ha.Muraidhoo, Ha.Uligan and Ha.Molhadhoo)",
+          "file": {
+            "url": "https://cms.environment.gov.mv/api/media/file/20230119-pub-feasibility-concept-design-report-groundwater-resources-1.pdf"
+          }
+        }
+      ]
+    },
+    {
+      "id": "publication-41",
+      "source_type": "Publication",
+      "published_at": "2023-01-19T04:45:00Z",
+      "translations": {
+        "en": {
+          "title": "A Guide to Groundwater Improvement Measures in Small Low Lying Islands of the Maldives",
+          "description": "",
+          "body": ""
+        },
+        "dv": {
+          "title": "އަ ގައިޑް ޓު ގްރައުންޑް ވޯޓަރ އިމްޕްރޫވްމަންޓް މެޝަރސް އިން ސްމޯލް ލޯ ލައިންގ އައިލެންޑްސް އޮފް ދަ މޯލްޑިވްސް",
+          "description": "",
+          "body": ""
+        }
+      },
+      "featuredImage": {
+        "url": "https://cms.environment.gov.mv/api/media/file/20230119-pic-groundwater-pollution-prevention.webp",
+        "alt": "20230119 pic groundwater pollution prevention"
+      },
+      "files": [
+        {
+          "label": "A Guide to Groundwater Improvement Measures in Small Low Lying Islands of the Maldives",
+          "file": {
+            "url": "https://cms.environment.gov.mv/api/media/file/20230119-pub-groundwater-pollution-prevention.pdf"
+          }
+        }
+      ]
+    },
+    {
+      "id": "publication-49",
+      "source_type": "Publication",
+      "published_at": "2022-12-30T19:00:00Z",
+      "translations": {
+        "en": {
+          "title": "Maldives Energy Efficiency Guideline for Buildings",
+          "description": "",
+          "body": ""
+        },
+        "dv": {
+          "title": "މޯލްޑިވްސް އެނާޖީ އެފިޝެންސީ ގައިޑްލައިން ފޮރ ބިލްޑިންސް",
+          "description": "",
+          "body": ""
+        }
+      },
+      "featuredImage": {
+        "url": "https://cms.environment.gov.mv/api/media/file/20231105-pic-maldives-energy-efficiency-guideline-for-buildings-1.webp",
+        "alt": "20231105 pic maldives energy efficiency guideline for buildings 1"
+      },
+      "files": [
+        {
+          "label": "Maldives Energy Efficiency Guideline for Buildings",
+          "file": {
+            "url": "https://cms.environment.gov.mv/api/media/file/20231105-pub-maldives-energy-efficiency-guideline-for-buildings.pdf"
+          }
+        }
+      ]
+    },
+    {
+      "id": "publication-52",
+      "source_type": "Publication",
+      "published_at": "2021-01-26T05:45:00Z",
+      "translations": {
+        "en": {
+          "title": "A Guide to Groundwater Improvement Measures in Small Low-lying Islands – Maldives",
+          "description": "",
+          "body": ""
+        },
+        "dv": {
+          "title": "ގައިޑް ޓު ގްރައުންޑްވޯޓަރ އިމްޕްރޫވްމަންޓް މެޜަރސް އިން ސްމޯލް ލޯ-ލައިންގ އައިލެންޑްސް – މޯލްޑިވްސް",
+          "description": "",
+          "body": ""
+        }
+      },
+      "featuredImage": {
+        "url": "https://cms.environment.gov.mv/api/media/file/20210126-pic-guide-to-groundwater-improvement-measures-in-small-low-lying-island-maldives.webp",
+        "alt": "20210126 pic guide to groundwater improvement measures in small low lying island maldives"
+      },
+      "files": [
+        {
+          "label": "A Guide to Groundwater Improvement Measures in Small Low-lying Islands – Maldives",
+          "file": {
+            "url": "https://cms.environment.gov.mv/api/media/file/20210126-pub-guide-to-groundwater-improvement-measures-in-small-low-lying-island-maldives.pdf"
+          }
+        }
+      ]
+    },
+    {
+      "id": "publication-57",
+      "source_type": "Publication",
+      "published_at": "2020-11-26T08:00:00Z",
+      "translations": {
+        "en": {
+          "title": "Baseline Assessment Report – Groundwater Resource Management and Aquifer Protection in Maldives",
+          "description": "",
+          "body": ""
+        },
+        "dv": {
+          "title": "ބޭސްލައިން އެސެސްމަންޓް ރިޕޯޓް – ގްރައުންޑްވޯޓަރ ރިސޯސް މެނޭޖްމަންޓް އެންޑް އެކުއިފަރ ޕްރޮޓެކްޝަން އިން މޯލްޑިވްސް",
+          "description": "",
+          "body": ""
+        }
+      },
+      "featuredImage": {
+        "url": "https://cms.environment.gov.mv/api/media/file/20201126-pic-baseline-assessment-report-groundwater-resource-management-and-aquifier-protection.webp",
+        "alt": "20201126 pic baseline assessment report groundwater resource management and aquifier protection"
+      },
+      "files": [
+        {
+          "label": "Baseline Assessment Report – Groundwater Resource Management and Aquifer Protection in Maldives",
+          "file": {
+            "url": "https://cms.environment.gov.mv/api/media/file/20201126-pub-baseline-assessment-report-groundwater-resource-management-and-aquifier-protection.pdf"
+          }
+        }
+      ]
+    }
+  ],
+  "totalDocs": 55,
+  "hasNextPage": false,
+  "nextPage": null
+}

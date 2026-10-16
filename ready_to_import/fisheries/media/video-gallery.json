@@ -1,0 +1,77 @@
+{
+  "docs": [
+    {
+      "id": "gallery-25",
+      "source_type": "Video Gallery",
+      "published_at": "2025-08-28T00:00:00Z",
+      "translations": {
+        "en": {
+          "title": "Minister Shiyam Meets Chinese Oceanography Delegation",
+          "description": "Meeting with delegation from the First Institute of Oceanography (FIO), Ministry of Natural Resources of the People's Republic of China",
+          "body": "**Video:** https://youtu.be/CNnSPB7LLDo"
+        },
+        "dv": {
+          "title": "މިނިސްޓަރު އަހުމަދު ޝިޔާމް، ޗައިނާގެ އިންސްޓިޓިއުޓް އޮފް އޯޝަނޯގްރަފީގެ ވަފުދާ ބައްދަލުކުރެއްވުން",
+          "description": "މިނިސްޓަރު އަހުމަދު ޝިޔާމް، ޗައިނާގެ އިންސްޓިޓިއުޓް އޮފް އޯޝަނޯގްރަފީގެ ވަފުދާ ބައްދަލުކުރެއްވުން",
+          "body": "**ވީޑިއޯ:** https://youtu.be/CNnSPB7LLDo"
+        }
+      },
+      "featuredImage": {
+        "url": "https://fisheries.gov.mv/images/1500/Gzb7gTObcAErIsy-1756704753580.webp",
+        "alt": "Minister Shiyam Meets Chinese Oceanography Delegation"
+      }
+    },
+    {
+      "id": "gallery-9",
+      "source_type": "Video Gallery",
+      "published_at": "2024-08-15T00:00:00Z",
+      "translations": {
+        "en": {
+          "title": "Registration Procedure for the National Fishermen's Register",
+          "description": "Video: Comprehensive Step-by-Step Guide: Registering on the National Fishermen's Register Using the 'Keyolhu Application'",
+          "body": "**Video:** https://youtu.be/M--BGbkXRrE of Fishermen."
+        },
+        "dv": {
+          "title": "މަސްވެރިންގެ ޤައުމީ ދަފްތަރުގައި ރަޖިސްޓްރީވުމަށް އަމަލުކުރާނެ ގޮތް.",
+          "body": "**ވީޑިއޯ:** https://youtu.be/M--BGbkXRrE of Fishermen."
+        }
+      },
+      "featuredImage": {
+        "url": "https://fisheries.gov.mv/images/1500/Dhafthar-1723700927812.webp",
+        "alt": "Registration Procedure for the National Fishermen's Register"
+      },
+      "files": [
+        {
+          "label": "FishermenRegisterP",
+          "file": {
+            "url": "https://fisheries.gov.mv/images/FishermenRegisterP-1723700845272.pdf"
+          }
+        }
+      ]
+    },
+    {
+      "id": "gallery-8",
+      "source_type": "Video Gallery",
+      "published_at": "2024-07-08T00:00:00Z",
+      "translations": {
+        "en": {
+          "title": "Grouper Fishery Management",
+          "description": "Sustainable Grouper Fisheries – Management information",
+          "body": "**Video:** https://youtu.be/6Y4hHgaBnBI?si=9gFt2o-O-1NHoiRN"
+        },
+        "dv": {
+          "title": "ފާނައިގެ މަސްވެރިކަން",
+          "description": "ފާނައިގެ މަސްވެރިކަމާ ވިޔަފާރި",
+          "body": "**ވީޑިއޯ:** https://youtu.be/6Y4hHgaBnBI?si=9gFt2o-O-1NHoiRN"
+        }
+      },
+      "featuredImage": {
+        "url": "https://fisheries.gov.mv/images/1500/4KDTTponA1WT69YTsfLA-1720590940058.webp",
+        "alt": "Grouper Fishery Management"
+      }
+    }
+  ],
+  "totalDocs": 3,
+  "hasNextPage": false,
+  "nextPage": null
+}

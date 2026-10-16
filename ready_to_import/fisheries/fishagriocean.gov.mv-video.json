@@ -1,0 +1,23 @@
+{
+  "docs": [
+    {
+      "id": "video-25",
+      "title": "Minister Shiyam Meets Chinese Oceanography Delegation",
+      "publishedAt": "2025-08-28T00:00:00Z",
+      "videoUrl": "https://www.youtube.com/watch?v=CNnSPB7LLDo"
+    },
+    {
+      "id": "video-9",
+      "title": "Registration Procedure for the National Fishermen's Register",
+      "publishedAt": "2024-08-15T00:00:00Z",
+      "videoUrl": "https://www.youtube.com/watch?v=M--BGbkXRrE"
+    },
+    {
+      "id": "video-8",
+      "title": "Grouper Fishery Management",
+      "publishedAt": "2024-07-08T00:00:00Z",
+      "videoUrl": "https://www.youtube.com/watch?v=6Y4hHgaBnBI"
+    }
+  ],
+  "hasNextPage": false
+}
