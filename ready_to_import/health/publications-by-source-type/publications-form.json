@@ -1,0 +1,32 @@
+{
+  "docs": [
+    {
+      "id": "article-application-form-for-designation-as-a-pre-departure-health-assessment-pdha-facility",
+      "source_type": "Form",
+      "published_at": "2025-08-12T00:00:00Z",
+      "files": [
+        {
+          "label": "PDHA HF Application...",
+          "file": {
+            "url": "https://health.gov.mv/storage/uploads/dYGQdyol/zmvn14nj.pdf"
+          }
+        }
+      ],
+      "translations": {
+        "en": {
+          "title": "Application Form for Designation as a Pre-Departure Health  Assessment (PDHA) Facility",
+          "description": "12 August 2025",
+          "body": "Department:\n\n[Health Protection Agency](https://health.gov.mv/en/departments/health-protection-agency)\n\n## Attached Documents\n\n[###### PDHA HF Application...](https://health.gov.mv/storage/uploads/dYGQdyol/zmvn14nj.pdf)\n\n###### 373.36 KB"
+        },
+        "dv": {
+          "title": "އެޕްލިކޭޝަން ފޯމް ފޯ ދެސިގްނޭޝަން އޭޒް އަ ޕްރީ ޑިޕާޗާ ހެލްތު އެސެސްމަންޓް ފެސިލިޓީ",
+          "description": "12 އޯގަސްޓު 2025",
+          "body": "ޑިޕާޓްމެންޓު:\n\n[ހެލްތް ޕްރޮޓެކްޝަން އެޖެންސީ](https://health.gov.mv/dv/departments/health-protection-agency)\n\n## ހިމަނާފައިވާ ލިޔުންތައް\n\n[###### PDHA HF Application...](https://health.gov.mv/storage/uploads/dYGQdyol/zmvn14nj.pdf)\n\n###### 373.36 KB"
+        }
+      }
+    }
+  ],
+  "totalDocs": 1,
+  "hasNextPage": false,
+  "nextPage": null
+}

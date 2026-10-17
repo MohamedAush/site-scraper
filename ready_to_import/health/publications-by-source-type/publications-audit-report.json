@@ -1,0 +1,49 @@
+{
+  "docs": [
+    {
+      "id": "article-covid-19-emergency-response-and-health-systems-preparedness-project-financial-year-2023",
+      "source_type": "Audit Report",
+      "published_at": "2024-08-26T00:00:00Z",
+      "files": [
+        {
+          "label": "104._Covid_19__Emerg...",
+          "file": {
+            "url": "https://health.gov.mv/storage/uploads/KqrVNKqg/qdf64fiv.pdf"
+          }
+        }
+      ],
+      "translations": {
+        "en": {
+          "title": "COVID-19 EMERGENCY RESPONSE AND HEALTH SYSTEMS PREPAREDNESS PROJECT FINANCIAL YEAR 2023",
+          "description": "26 August 2024",
+          "body": "## Attached Documents\n\n[###### 104._Covid_19__Emerg...](https://health.gov.mv/storage/uploads/KqrVNKqg/qdf64fiv.pdf)\n\n###### 1.59 MB"
+        },
+        "dv": {
+          "title": "ކޯވިޑް 19 އެމަރޖެންސީ ޕްރިޕެއާޑްނަސް ރިޕޯޓް - ފައިނޭންޝަލް އިއަރ 2023",
+          "description": "26 އޯގަސްޓު 2024",
+          "body": "## ހިމަނާފައިވާ ލިޔުންތައް\n\n[###### 104._Covid_19__Emerg...](https://health.gov.mv/storage/uploads/KqrVNKqg/qdf64fiv.pdf)\n\n###### 1.59 MB"
+        }
+      }
+    },
+    {
+      "id": "article-audit-report-2021",
+      "source_type": "Audit Report",
+      "published_at": "2024-08-26T00:00:00Z",
+      "translations": {
+        "en": {
+          "title": "Audit report - 2021",
+          "description": "26 August 2024",
+          "body": "[Financial Audit report - 2021](https://audit.gov.mv/AR2716)\n\nDepartment:\n\n[Ministry of Health](https://health.gov.mv/en/departments/ministry-of-health-1)"
+        },
+        "dv": {
+          "title": "އޯޑިޓް ރިޕޯޓް - 2021",
+          "description": "26 އޯގަސްޓު 2024",
+          "body": "[އޯޑިޓް ރިޕޯޓް - 2021](https://audit.gov.mv/AR2716)\n\nޑިޕާޓްމެންޓު:\n\n[މިނިސްޓްރީ އޮފް ހެލްތް](https://health.gov.mv/dv/departments/ministry-of-health-1)"
+        }
+      }
+    }
+  ],
+  "totalDocs": 2,
+  "hasNextPage": false,
+  "nextPage": null
+}

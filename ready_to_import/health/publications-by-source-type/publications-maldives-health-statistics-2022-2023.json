@@ -1,0 +1,67 @@
+{
+  "docs": [
+    {
+      "id": "article-maldives-outpatient-visits-snapshot-2022-2023",
+      "source_type": "Maldives Health Statistics 2022-2023",
+      "published_at": "2024-09-17T00:00:00Z",
+      "files": [
+        {
+          "label": "2023_Outpatient_Prov...",
+          "file": {
+            "url": "https://health.gov.mv/storage/uploads/DqKe4QwO/wou48djg.pdf"
+          }
+        },
+        {
+          "label": "2022_Outpatient_Prov...",
+          "file": {
+            "url": "https://health.gov.mv/storage/uploads/dYG86yql/wlucuxfg.pdf"
+          }
+        },
+        {
+          "label": "2022_Outpatient_Prov...",
+          "file": {
+            "url": "https://health.gov.mv/storage/uploads/VYxeGWqP/9u6sa3ct.xlsx"
+          }
+        },
+        {
+          "label": "2023_Outpatient_Prov...",
+          "file": {
+            "url": "https://health.gov.mv/storage/uploads/5qR6Odqx/ifntvx26.xlsx"
+          }
+        }
+      ],
+      "translations": {
+        "en": {
+          "title": "Maldives Outpatient Visits Snapshot 2022 - 2023",
+          "description": "17 September 2024",
+          "body": "Department:\n\n[Health Information Management And Research](https://health.gov.mv/en/departments/health-information-management-and-research)\n\n## Attached Documents\n\n[###### 2023_Outpatient_Prov...](https://health.gov.mv/storage/uploads/DqKe4QwO/wou48djg.pdf)\n\n###### 703.32 KB\n\n[###### 2022_Outpatient_Prov...](https://health.gov.mv/storage/uploads/dYG86yql/wlucuxfg.pdf)\n\n###### 226.26 KB\n\n[###### 2022_Outpatient_Prov...](https://health.gov.mv/storage/uploads/VYxeGWqP/9u6sa3ct.xlsx)\n\n###### 36.6 KB\n\n[###### 2023_Outpatient_Prov...](https://health.gov.mv/storage/uploads/5qR6Odqx/ifntvx26.xlsx)\n\n###### 36.73 KB\n\n[Download All Files](https://health.gov.mv/en/publications/maldives-outpatient-visits-snapshot-2022-2023/files)"
+        },
+        "dv": {
+          "title": "އައުޓް ޕޭޝަންޓް ވިސިޓްސް ސްނެޕްޝޮޓް 2022 - 2023",
+          "description": "17 ސެޕްޓެމްބަރު 2024",
+          "body": "ޑިޕާޓްމެންޓު:\n\n[ހެލްތު އިންފޮމޭޝަން މެނޭޖްމަންޓް އެންޑް ރިސަރޗް](https://health.gov.mv/dv/departments/health-information-management-and-research)\n\n## ހިމަނާފައިވާ ލިޔުންތައް\n\n[###### 2023_Outpatient_Prov...](https://health.gov.mv/storage/uploads/DqKe4QwO/wou48djg.pdf)\n\n###### 703.32 KB\n\n[###### 2022_Outpatient_Prov...](https://health.gov.mv/storage/uploads/dYG86yql/wlucuxfg.pdf)\n\n###### 226.26 KB\n\n[###### 2022_Outpatient_Prov...](https://health.gov.mv/storage/uploads/VYxeGWqP/9u6sa3ct.xlsx)\n\n###### 36.6 KB\n\n[###### 2023_Outpatient_Prov...](https://health.gov.mv/storage/uploads/5qR6Odqx/ifntvx26.xlsx)\n\n###### 36.73 KB\n\n[ހުރިހާ ފައިލެއް ޑައުންލޯޑް ކޮށްލާ](https://health.gov.mv/dv/publications/aut-peyshant-visits-snepshot-2022-2023/files)"
+        }
+      }
+    },
+    {
+      "id": "article-maldives-health-statistics-2021",
+      "source_type": "Maldives Health Statistics 2022-2023",
+      "published_at": "2024-09-02T00:00:00Z",
+      "translations": {
+        "en": {
+          "title": "Maldives Health Statistics 2021",
+          "description": "02 September 2024",
+          "body": "[Maldives Health Statistics 2021 (file size: 67 MB)](https://healthgovmv-my.sharepoint.com/:b:/g/personal/abdulla_muizz_health_gov_mv/EY4d06SPH2FGoUw1lUmMETMBpKfFYsKJbn5YY9Y-0W-_DA?e=67EI9B)\n\nDepartment:\n\n[Health Information Management And Research](https://health.gov.mv/en/departments/health-information-management-and-research)"
+        },
+        "dv": {
+          "title": "މޯލްޑިވްސް ހެލްތު ސްޓެޓިސްޓިކްސް 2021",
+          "description": "02 ސެޕްޓެމްބަރު 2024",
+          "body": "[މޯލްޑިވްސް ހެލްތު ސްޓެޓިސްޓިކްސް 2021 (ފައިލް ސައިޒު: 67 އެމް.ބީ)](https://healthgovmv-my.sharepoint.com/:b:/g/personal/abdulla_muizz_health_gov_mv/EY4d06SPH2FGoUw1lUmMETMBpKfFYsKJbn5YY9Y-0W-_DA?e=67EI9B)\n\nޑިޕާޓްމެންޓު:\n\n[ހެލްތު އިންފޮމޭޝަން މެނޭޖްމަންޓް އެންޑް ރިސަރޗް](https://health.gov.mv/dv/departments/health-information-management-and-research)"
+        }
+      }
+    }
+  ],
+  "totalDocs": 2,
+  "hasNextPage": false,
+  "nextPage": null
+}

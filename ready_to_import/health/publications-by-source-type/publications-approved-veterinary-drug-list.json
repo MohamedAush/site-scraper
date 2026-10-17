@@ -1,0 +1,32 @@
+{
+  "docs": [
+    {
+      "id": "article-approved-veterinary-drug-list-september-2026",
+      "source_type": "Approved Veterinary Drug List",
+      "published_at": "2026-09-15T00:00:00Z",
+      "files": [
+        {
+          "label": "Approved Veterinary...",
+          "file": {
+            "url": "https://health.gov.mv/storage/uploads/Vw5rBDY1/fxob0g7j.pdf"
+          }
+        }
+      ],
+      "translations": {
+        "en": {
+          "title": "Approved Veterinary Drug List - September 2026",
+          "description": "15 September 2026",
+          "body": "Department:\n\n[Maldives Food and Drug Authority](https://health.gov.mv/en/departments/maldives-food-and-drug-authority)\n\n## Attached Documents\n\n[###### Approved Veterinary...](https://health.gov.mv/storage/uploads/Vw5rBDY1/fxob0g7j.pdf)\n\n###### 277.22 KB"
+        },
+        "dv": {
+          "title": "އެޕްރޫވްޑް ވެޓިނަރީ ޑްރަގް ލިސްޓް - ސެޕްޓެންބަރު 2026",
+          "description": "15 ސެޕްޓެމްބަރު 2026",
+          "body": "ޑިޕާޓްމެންޓު:\n\n[މޯލްޑިވްސް ފުޑް އެންޑް ޑްރަގް އޮތޯރިޓީ](https://health.gov.mv/dv/departments/maldives-food-and-drug-authority)\n\n## ހިމަނާފައިވާ ލިޔުންތައް\n\n[###### Approved Veterinary...](https://health.gov.mv/storage/uploads/Vw5rBDY1/fxob0g7j.pdf)\n\n###### 277.22 KB"
+        }
+      }
+    }
+  ],
+  "totalDocs": 1,
+  "hasNextPage": false,
+  "nextPage": null
+}

@@ -1,0 +1,107 @@
+{
+  "docs": [
+    {
+      "id": "article-bajet-enspaa-2026",
+      "source_type": "Budget",
+      "published_at": "2026-05-17T00:00:00Z",
+      "files": [
+        {
+          "label": "Approved budget 2026",
+          "file": {
+            "url": "https://health.gov.mv/storage/uploads/JYkd1QqR/gapgqolk.pdf"
+          }
+        }
+      ],
+      "translations": {
+        "en": {
+          "title": "Budget (NSPA) - 2026",
+          "description": "17 May 2026",
+          "body": "## Attached Documents\n\n[###### Approved budget 2026](https://health.gov.mv/storage/uploads/JYkd1QqR/gapgqolk.pdf)\n\n###### 842.8 KB"
+        },
+        "dv": {
+          "title": "ބަޖެޓް (އެންސްޕާ) - 2026",
+          "description": "17 މޭ 2026",
+          "body": "## ހިމަނާފައިވާ ލިޔުންތައް\n\n[###### Approved budget 2026](https://health.gov.mv/storage/uploads/JYkd1QqR/gapgqolk.pdf)\n\n###### 842.8 KB"
+        }
+      }
+    },
+    {
+      "id": "article-bajet-2026",
+      "source_type": "Budget",
+      "published_at": "2026-05-17T00:00:00Z",
+      "files": [
+        {
+          "label": "Budget detalils",
+          "file": {
+            "url": "https://health.gov.mv/storage/uploads/yYjrX6YP/glgclbeq.xlsx"
+          }
+        }
+      ],
+      "translations": {
+        "en": {
+          "title": "Budget 2026",
+          "description": "17 May 2026",
+          "body": "## Attached Documents\n\n[###### Budget detalils](https://health.gov.mv/storage/uploads/yYjrX6YP/glgclbeq.xlsx)\n\n###### 42.13 KB"
+        },
+        "dv": {
+          "title": "ބަޖެޓް 2026",
+          "description": "17 މޭ 2026",
+          "body": "## ހިމަނާފައިވާ ލިޔުންތައް\n\n[###### Budget detalils](https://health.gov.mv/storage/uploads/yYjrX6YP/glgclbeq.xlsx)\n\n###### 42.13 KB"
+        }
+      }
+    },
+    {
+      "id": "article-ministree-of-helthuge-bajet-2024",
+      "source_type": "Budget",
+      "published_at": "2024-08-26T00:00:00Z",
+      "files": [
+        {
+          "label": "1163 - Ministry of H...",
+          "file": {
+            "url": "https://health.gov.mv/storage/uploads/dYG8pyql/3gmt0rfr.xlsx"
+          }
+        }
+      ],
+      "translations": {
+        "en": {
+          "title": "Ministry of health budget - 2024",
+          "description": "26 August 2024",
+          "body": "Department:\n\n[Ministry of Health](https://health.gov.mv/en/departments/ministry-of-health-1)\n\n## Attached Documents\n\n[###### 1163 - Ministry of H...](https://health.gov.mv/storage/uploads/dYG8pyql/3gmt0rfr.xlsx)\n\n###### 79.17 KB"
+        },
+        "dv": {
+          "title": "މިނިސްޓްރީ އޮފް ހެލްތުގެ ބަޖެޓް - 2024",
+          "description": "26 އޯގަސްޓު 2024",
+          "body": "ޑިޕާޓްމެންޓު:\n\n[މިނިސްޓްރީ އޮފް ހެލްތް](https://health.gov.mv/dv/departments/ministry-of-health-1)\n\n## ހިމަނާފައިވާ ލިޔުންތައް\n\n[###### 1163 - Ministry of H...](https://health.gov.mv/storage/uploads/dYG8pyql/3gmt0rfr.xlsx)\n\n###### 79.17 KB"
+        }
+      }
+    },
+    {
+      "id": "article-budget-2023",
+      "source_type": "Budget",
+      "published_at": "2023-06-20T00:00:00Z",
+      "files": [
+        {
+          "label": "health ministry budg...",
+          "file": {
+            "url": "https://health.gov.mv/storage/uploads/QEoARlw9/a6oyst3g.pdf"
+          }
+        }
+      ],
+      "translations": {
+        "en": {
+          "title": "Budget 2023",
+          "description": "20 June 2023",
+          "body": "Department:\n\n[Ministry of Health](https://health.gov.mv/en/departments/ministry-of-health-1)\n\n## Attached Documents\n\n[###### health ministry budg...](https://health.gov.mv/storage/uploads/QEoARlw9/a6oyst3g.pdf)\n\n###### 153.42 KB"
+        },
+        "dv": {
+          "title": "ބަޖެޓް 2023",
+          "description": "20 ޖޫން 2023",
+          "body": "ޑިޕާޓްމެންޓު:\n\n[މިނިސްޓްރީ އޮފް ހެލްތް](https://health.gov.mv/dv/departments/ministry-of-health-1)\n\n## ހިމަނާފައިވާ ލިޔުންތައް\n\n[###### health ministry budg...](https://health.gov.mv/storage/uploads/QEoARlw9/a6oyst3g.pdf)\n\n###### 153.42 KB"
+        }
+      }
+    }
+  ],
+  "totalDocs": 4,
+  "hasNextPage": false,
+  "nextPage": null
+}

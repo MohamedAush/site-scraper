@@ -1,0 +1,47 @@
+{
+  "docs": [
+    {
+      "id": "article-authorized-otc-products-for-sale-in-general-stores",
+      "source_type": "Authorised OTC Products",
+      "published_at": "2026-10-12T00:00:00Z",
+      "files": [
+        {
+          "label": "Authorized OTC Produ...",
+          "file": {
+            "url": "https://health.gov.mv/storage/uploads/go0R9LYZ/bl8uazot.pdf"
+          }
+        }
+      ],
+      "translations": {
+        "en": {
+          "title": "Authorized OTC Products for Sale in General Stores",
+          "description": "12 October 2026",
+          "body": "## New\n\nDepartment:\n\n[Maldives Food and Drug Authority](https://health.gov.mv/en/departments/maldives-food-and-drug-authority)\n\n## Attached Documents\n\n[###### Authorized OTC Produ...](https://health.gov.mv/storage/uploads/go0R9LYZ/bl8uazot.pdf)\n\n###### 297.45 KB"
+        }
+      }
+    },
+    {
+      "id": "article-authorized-otc-products-for-online-sale",
+      "source_type": "Authorised OTC Products",
+      "published_at": "2026-10-08T00:00:00Z",
+      "files": [
+        {
+          "label": "Authorized OTC Produ...",
+          "file": {
+            "url": "https://health.gov.mv/storage/uploads/Ko2A9dqQ/ubm1fqoc.pdf"
+          }
+        }
+      ],
+      "translations": {
+        "en": {
+          "title": "Authorized OTC Products for Online Sale",
+          "description": "08 October 2026",
+          "body": "Department:\n\n[Maldives Food and Drug Authority](https://health.gov.mv/en/departments/maldives-food-and-drug-authority)\n\n## Attached Documents\n\n[###### Authorized OTC Produ...](https://health.gov.mv/storage/uploads/Ko2A9dqQ/ubm1fqoc.pdf)\n\n###### 289.18 KB"
+        }
+      }
+    }
+  ],
+  "totalDocs": 2,
+  "hasNextPage": false,
+  "nextPage": null
+}

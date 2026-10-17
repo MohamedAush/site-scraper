@@ -1,0 +1,47 @@
+{
+  "docs": [
+    {
+      "id": "article-approved-drug-list-for-september-2024",
+      "source_type": "Approved Drug List for September 2024",
+      "published_at": "2025-09-18T00:00:00Z",
+      "files": [
+        {
+          "label": "Approved Drug List S...",
+          "file": {
+            "url": "https://health.gov.mv/storage/uploads/5qR6O3qx/wdnbapqp.pdf"
+          }
+        }
+      ],
+      "translations": {
+        "en": {
+          "title": "Approved Drug List for September 2024",
+          "description": "18 September 2025",
+          "body": "Department:\n\n[Maldives Food and Drug Authority](https://health.gov.mv/en/departments/maldives-food-and-drug-authority)\n\n## Attached Documents\n\n[###### Approved Drug List S...](https://health.gov.mv/storage/uploads/5qR6O3qx/wdnbapqp.pdf)\n\n###### 5.34 MB"
+        }
+      }
+    },
+    {
+      "id": "article-faaskohfaivaa-beys-list-septemebar-2024",
+      "source_type": "Approved Drug List for September 2024",
+      "published_at": "2024-09-18T00:00:00Z",
+      "files": [
+        {
+          "label": "Approved Drug List S...",
+          "file": {
+            "url": "https://health.gov.mv/storage/uploads/5qR6O3qx/wdnbapqp.pdf"
+          }
+        }
+      ],
+      "translations": {
+        "en": {
+          "title": "Approved Drug List for September 2024",
+          "description": "18 September 2024",
+          "body": "Department:\n\n[Maldives Food and Drug Authority](https://health.gov.mv/en/departments/maldives-food-and-drug-authority)\n\n## Attached Documents\n\n[###### Approved Drug List S...](https://health.gov.mv/storage/uploads/5qR6O3qx/wdnbapqp.pdf)\n\n###### 5.34 MB"
+        }
+      }
+    }
+  ],
+  "totalDocs": 2,
+  "hasNextPage": false,
+  "nextPage": null
+}

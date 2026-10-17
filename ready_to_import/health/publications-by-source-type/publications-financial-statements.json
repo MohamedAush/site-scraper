@@ -1,0 +1,52 @@
+{
+  "docs": [
+    {
+      "id": "article-faineynshal-steytmant-2025",
+      "source_type": "Financial Statements",
+      "published_at": "2026-05-17T00:00:00Z",
+      "files": [
+        {
+          "label": "Consolidated Financi...",
+          "file": {
+            "url": "https://health.gov.mv/storage/uploads/kobdBGY8/zyhbat3u.pdf"
+          }
+        }
+      ],
+      "translations": {
+        "en": {
+          "title": "Financial Statement 2025",
+          "description": "17 May 2026",
+          "body": "## Attached Documents\n\n[###### Consolidated Financi...](https://health.gov.mv/storage/uploads/kobdBGY8/zyhbat3u.pdf)\n\n###### 17 MB"
+        },
+        "dv": {
+          "title": "ފައިނޭންޝަލް ސްޓޭޓްމަންޓް 2025",
+          "description": "17 މޭ 2026",
+          "body": "## ހިމަނާފައިވާ ލިޔުންތައް\n\n[###### Consolidated Financi...](https://health.gov.mv/storage/uploads/kobdBGY8/zyhbat3u.pdf)\n\n###### 17 MB"
+        }
+      }
+    },
+    {
+      "id": "article-niu-polisee-ineeshieytivs-2026",
+      "source_type": "Financial Statements",
+      "published_at": "2026-05-17T00:00:00Z",
+      "files": [
+        {
+          "label": "NPI PSIP family and...",
+          "file": {
+            "url": "https://health.gov.mv/storage/uploads/Gw1xN0oE/girhtyhd.pdf"
+          }
+        }
+      ],
+      "translations": {
+        "dv": {
+          "title": "ނިއު ޕޮލިސީ އިނީޝިއޭޓިވްސް - 2026",
+          "description": "17 މޭ 2026",
+          "body": "## ހިމަނާފައިވާ ލިޔުންތައް\n\n[###### NPI PSIP family and...](https://health.gov.mv/storage/uploads/Gw1xN0oE/girhtyhd.pdf)\n\n###### 119.29 KB"
+        }
+      }
+    }
+  ],
+  "totalDocs": 2,
+  "hasNextPage": false,
+  "nextPage": null
+}
