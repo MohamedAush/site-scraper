@@ -427,6 +427,7 @@ def parse_page(html, url):
         "data": None,
         "other_lang": None,
         "facts": {},
+        "timeline": [],
         "soup": soup,
     }
     data = embedded_data(soup)
@@ -434,6 +435,8 @@ def parse_page(html, url):
         use_embedded_data(page, data)
     if data is not None:
         use_record(page, main_record(data), clean_url(og and og.get("content"), url) or "")
+    use_fact_panel(page, soup)
+    use_project_sections(page, soup)
     page["empty"] = len(page_text) < 40 and not page["images"] and not page["videos"] and not page["data"]
     return page
 
@@ -499,6 +502,139 @@ FACT_KEYS = {
     "contact_phone": ("contactnumber", "contactphone"),
     "contact_email": ("contactmail", "contactemail"),
 }
+
+
+# Labels of a project's facts panel ("Status: Ongoing", "ޙާލަތު: ކުރިއަށްދާ"), lowercased.
+FACT_LABELS = {
+    "status": ("status", "project status", "ޙާލަތު", "ހާލަތު"),
+    "sector": ("sector", "ދާއިރާ"),
+    "start": ("start date", "start", "date started", "commencement date", "ފެށި ތާރީޚް", "ފެށުނު ތާރީޚް"),
+    "end": ("target completion", "end date", "completion date", "expected completion date", "expected completion",
+            "ނިމޭ ތާރީޚް", "ނިމުނު ތާރީޚް"),
+    "location": ("location", "project location", "project deployed at", "ތަން", "ތަންތަން"),
+    "funding": ("funding source", "funding sources", "funded by", "donor", "donors", "funding organisation",
+                "funding organization", "ފައިސާ ދޭ ފަރާތް"),
+    "implementing": ("implementing agency", "implementing organisation", "implementing organization",
+                     "executing agency"),
+    "contact": ("contact", "contact details", "ގުޅުއްވާ"),
+}
+LABEL_KEYS = {label: key for key, labels in FACT_LABELS.items() for label in labels}
+
+
+def cf_email(hex_text):
+    """An address hidden by Cloudflare's email protection (data-cfemail="…")."""
+    try:
+        key = int(hex_text[:2], 16)
+        return "".join(chr(int(hex_text[i:i + 2], 16) ^ key) for i in range(2, len(hex_text), 2))
+    except ValueError:
+        return None
+
+
+def use_fact_panel(page, soup):
+    """Facts shown as label and value pairs: <dt>/<dd>, table rows, or a label element and the one after it."""
+    facts = {}
+    for label_el in soup.find_all(["dt", "th", "p", "span", "div", "label", "strong", "h4", "h5", "h6"]):
+        key = LABEL_KEYS.get(text_of(label_el).lower().rstrip(":").strip())
+        if not key or key in facts or label_el.find(True, recursive=False) and label_el.name in ("div", "th"):
+            continue
+        value_el = label_el.find_next_sibling()
+        if value_el is None:
+            continue
+        hidden = value_el.select_one("[data-cfemail]")
+        email = cf_email(hidden["data-cfemail"]) if hidden else None
+        value = text_of(value_el)
+        if not value or value.lower() in LABEL_KEYS:
+            continue
+        if key == "contact":
+            email = email or next(iter(re.findall(r"[\w.+-]+@[\w-]+\.[\w.]+", value)), None)
+            phone = re.search(r"\+?\d[\d\s-]{5,}\d", value)
+            facts.update({k: v for k, v in (("contact_email", email), ("contact_phone", phone and phone.group()))
+                          if v})
+            name = re.sub(r"\[email[^\]]*\]|[\w.+-]+@[\w-]+\.[\w.]+|\+?\d[\d\s-]{5,}\d", "", value).strip(" ,;|-")
+            if name:
+                facts["contact_name"] = name
+            facts[key] = True
+        elif key in ("start", "end"):
+            date = parse_date(value)
+            if date:
+                facts[key] = date
+        else:
+            facts[key] = value
+    facts.pop("contact", None)
+    # Facts from the page's embedded data are exact; the panel only fills what they lack.
+    page["facts"] = {**facts, **page["facts"]}
+
+
+TIMELINE_HEADING = re.compile(r"^(project )?(timeline|milestones|progress updates|project updates)$|ޓައިމްލައިން", re.I)
+PARTNERS_HEADING = re.compile(r"affiliated organi[sz]ations|project partners|^partners$|ބައިވެރި", re.I)
+IMPLEMENTING_ROLE = re.compile(r"^(implementing|executing) (partner|agency|entity|organi[sz]ation)$", re.I)
+# The kind of timeline entry, from words in its title.
+ENTRY_TYPES = [("signing", r"\bsign|agreement|\bmou\b|memorandum"),
+               ("procurement", r"tender|\bbid|procure|contract award|request for proposal"),
+               ("construction", r"construction|civil works|groundbreaking|installation"),
+               ("completion", r"complet|hand ?over|inaugurat|commission")]
+FUNDING_TYPES = [("Grant", r"\bgrants?\b"), ("Loan", r"\bloans?\b|\blending\b|\bcredit\b"),
+                 ("Government budget", r"funded (?:by|through|from) (?:the )?government|government (?:funding|financing)"
+                                       r"|state budget|public sector investment programme|\bpsip\b")]
+
+
+def section_after(heading):
+    """The block a section heading introduces: its nearest ancestor that holds more than the heading."""
+    box = heading.parent
+    for _ in range(4):
+        if box.parent is None or len(text_of(box)) > len(text_of(heading)) + 40:
+            break
+        box = box.parent
+    return box
+
+
+def leaf_date(el):
+    text = text_of(el)
+    return parse_date(text) if len(text) < 30 and not el.find(True) else None
+
+
+def use_project_sections(page, soup):
+    """A project's dated timeline and its implementing partners, from the sections that list them."""
+    facts = page["facts"]
+    for heading in soup.find_all(["h2", "h3"]):
+        title = text_of(heading)
+        if TIMELINE_HEADING.search(title) and not page["timeline"]:
+            box = section_after(heading)
+            for date_el in [el for el in box.find_all(True) if leaf_date(el)]:
+                entry = date_el
+                for _ in range(4):  # climb to the block holding this date's title, stopping before the next date
+                    if entry.parent is None or sum(1 for el in entry.parent.find_all(True) if leaf_date(el)) > 1:
+                        break
+                    entry = entry.parent
+                name = entry.find(["h3", "h4", "h5"])
+                if not name or name is heading:
+                    continue
+                notes = next((text_of(p) for p in entry.find_all("p") if len(text_of(p)) > 20), "")
+                kind = next((k for k, pattern in ENTRY_TYPES if re.search(pattern, text_of(name), re.I)), "milestone")
+                page["timeline"].append({"date": leaf_date(date_el), "type": kind, "title": text_of(name),
+                                         "description": notes})
+        elif PARTNERS_HEADING.search(title) and "implementing" not in facts:
+            box = section_after(heading)
+            names = []
+            for role in box.find_all(True):
+                if role.find(True) or not IMPLEMENTING_ROLE.match(text_of(role)):
+                    continue
+                before = role.find_previous_sibling()
+                logo = role.find_parent().find_parent().find("img") if role.find_parent() else None
+                names.append(text_of(before) if before else (logo.get("alt", "") if logo else ""))
+            if any(names):
+                facts["implementing"] = ", ".join(n for n in dict.fromkeys(names) if n)
+    # Said in words: "implemented by the Ministry of …".
+    said = re.findall(r"\b(?:implemented|executed) by (?:the )?([A-Z][\w&'() -]{3,100}?)(?=[,.;\n]| with | in )",
+                      page["body"])
+    if said and "implementing" not in facts:
+        facts["implementing"] = ", ".join(dict.fromkeys(name.strip(" ,") for name in said))
+    # Grant, loan or budget, as the funding details or sentences about financing put it.
+    finance = " ".join([facts.get("funding", "")] + [sentence for sentence in re.split(r"(?<=[.!?])\s+|\n+", page["body"])
+                                                     if re.search(r"financ|funded by|funding from|\bfunds\b", sentence, re.I)])
+    kinds = [name for name, pattern in FUNDING_TYPES if re.search(pattern, finance, re.I)]
+    if kinds and "funding_types" not in facts:
+        facts["funding_types"] = ", ".join(kinds)
 
 
 def rich_html(node):

@@ -9,6 +9,7 @@ import os
 import re
 import sys
 import threading
+from datetime import datetime
 from typing import List, Optional
 from urllib.parse import urlparse
 
@@ -342,31 +343,43 @@ PROJECT_STATUSES = {"planned", "ongoing", "completed", "on-hold", "cancelled"}
 def project_status(text):
     status = re.sub(r"[\s_]+", "-", (text or "").strip().lower())
     status = {"in-progress": "ongoing", "active": "ongoing", "complete": "completed", "upcoming": "planned",
-              "pipeline": "planned", "on-going": "ongoing", "onhold": "on-hold"}.get(status, status)
+              "pipeline": "planned", "on-going": "ongoing", "onhold": "on-hold",
+              "ކުރިއަށްދާ": "ongoing", "ނިމިފައި": "completed", "ނިމުނު": "completed", "ރާވަމުންދާ": "planned",
+              "ހުއްޓިފައި": "on-hold"}.get(status, status)
     return status if status in PROJECT_STATUSES else None
 
 
 def build_project(item, fields, args):
     en, dv, main = item["en"], item["dv"], item["en"] or item["dv"]
-    facts = main.get("facts") or {}  # read from the page's own data; exact, so they come before Claude's
-    timeline = list(fields.timeline) if fields else []
+    # Read from the pages themselves (embedded data, facts panel), so they come before Claude's.
+    facts = {**((dv or {}).get("facts") or {}), **((en or {}).get("facts") or {})}
+    timeline = list(fields.timeline) if fields and fields.timeline else []
+    # Without Claude's timeline, the pages' own timeline sections; the Dhivehi one pairs with the English by date.
+    base = en if (en or {}).get("timeline") else dv
+    page_timeline = (base or {}).get("timeline") or []
+    dv_entries = {t["date"]: t for t in (dv or {}).get("timeline") or []}
+    today = datetime.now().strftime("%Y-%m-%d")
     translations = {}
     for lang, page in (("en", en), ("dv", dv)):
         text = getattr(fields, lang, None) if fields else None
         if not page and not text:
             continue
+        own = (page or {}).get("facts") or {}  # this language's panel: sector, location and names as written
         translations[lang] = {
             "title": first(text and text.title, page and page["title"]),
             "description": first(text and text.description, page and page["description"]),
             "body": page and page["body"],
-            "sector": first(facts.get(f"sector_{lang}"), text and text.sector),
-            "location": first(lang == "en" and facts.get("location"), text and text.location),
-            "implementingOrganisation": text and text.implementingOrganisation,
-            "fundingOrganisation": first(lang == "en" and facts.get("funding"), text and text.fundingOrganisation),
-            "fundingSource": text and text.fundingSource,
-            "contact": {"name": first(lang == "en" and facts.get("contact_name"), text and text.contact_name)},
+            "sector": first(facts.get(f"sector_{lang}"), own.get("sector"), text and text.sector),
+            "location": first(own.get("location"), text and text.location),
+            "implementingOrganisation": first(own.get("implementing"), text and text.implementingOrganisation),
+            "fundingOrganisation": first(own.get("funding"), text and text.fundingOrganisation),
+            "fundingSource": first(text and text.fundingSource, facts.get("funding_types")),
+            "contact": {"name": first(own.get("contact_name"), text and text.contact_name)},
             "timeline": [{"title": getattr(t, f"title_{lang}"), "description": getattr(t, f"description_{lang}")}
-                         for t in timeline],
+                         for t in timeline] or [
+                {"title": entry.get("title"), "description": entry.get("description")}
+                for entry in (page_timeline if page is base else
+                              [dv_entries.get(t["date"], {}) for t in page_timeline])],
         }
     title = first(en and en["title"], dv and dv["title"])
     return {
@@ -377,7 +390,8 @@ def build_project(item, fields, args):
         "coverPhoto": image(main["cover"], title),
         "contact": {"phone": first(facts.get("contact_phone"), fields and fields.contact_phone),
                     "email": first(facts.get("contact_email"), fields and fields.contact_email)},
-        "timeline": [{"date": valid_date(t.date), "type": t.type, "completed": t.completed} for t in timeline],
+        "timeline": [{"date": valid_date(t.date), "type": t.type, "completed": t.completed} for t in timeline] or [
+            {"date": t["date"], "type": t["type"], "completed": t["date"] <= today} for t in page_timeline],
         "resources": file_entries(merged_files(item)),
         "translations": translations,
     }
