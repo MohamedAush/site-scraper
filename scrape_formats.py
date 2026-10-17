@@ -148,6 +148,7 @@ class Claude:
     def __init__(self, client, model):
         self.client = client
         self.model = model
+        self.last_error = None  # why the last extract returned nothing
 
     @classmethod
     def connect(cls, model, api_key=None):
@@ -195,14 +196,18 @@ class Claude:
         except anthropic.AuthenticationError:
             log("error: Claude rejected the API key; continuing with HTML rules only")
             self.client = None
+            self.last_error = "Claude rejected the API key"
             return None
         except (anthropic.APIStatusError, anthropic.APIConnectionError) as exc:
             log(f"  Claude failed for {(item['en'] or item['dv'])['url']}: {exc}")
+            self.last_error = f"Claude request failed: {exc}"
             return None
         if response.stop_reason in ("refusal", "max_tokens") or response.parsed_output is None:
             log(f"  Claude returned no fields ({response.stop_reason}) for "
                   f"{(item['en'] or item['dv'])['url']}")
+            self.last_error = f"Claude returned no fields ({response.stop_reason})"
             return None
+        self.last_error = None
         return response.parsed_output
 
 
@@ -382,6 +387,29 @@ BUILDERS = {"publications": build_publication, "newsroom": build_publication, "d
             "gallery": build_gallery, "projects": build_project, "video": build_video}
 
 
+# Fields a record should have to match its sample, and how to name them in the check list.
+REQUIRED = {
+    "publications": (["published_at", "featuredImage"], ["title", "body"]),
+    "downloads": (["title", "files"], []),
+    "gallery": (["publishedAt", "coverPhoto", "photos"], ["title"]),
+    "video": (["title", "publishedAt", "videoUrl"], []),
+    "projects": (["projectStatus", "startDate", "coverPhoto"], ["title", "description", "body"]),
+}
+REQUIRED["newsroom"] = REQUIRED["publications"]
+FIELD_NAMES = {"published_at": "date", "publishedAt": "date", "featuredImage": "featured image",
+               "coverPhoto": "cover photo", "videoUrl": "video link", "projectStatus": "status",
+               "startDate": "start date"}
+
+
+def missing_fields(fmt, doc):
+    """Names of the fields doc lacks, e.g. ["date", "dv body"]."""
+    fields, texts = REQUIRED[fmt]
+    missing = [FIELD_NAMES.get(f, f) for f in fields if not doc.get(f)]
+    for lang, text in (doc.get("translations") or {}).items():
+        missing += [f"{lang} {f}" for f in texts if not (text or {}).get(f)]
+    return missing
+
+
 def build_docs(fmt, items, args, claude):
     prefix = args.prefix or FORMATS[fmt]["prefix"]
     docs, used = [], set()
@@ -392,6 +420,8 @@ def build_docs(fmt, items, args, claude):
         skip = fmt in ("gallery", "video") and args.category and (item["en"] or item["dv"])["date"]
         if claude and claude.client and not skip:
             fields = claude.extract(fmt, item, merged_files(item) if fmt == "downloads" else ())
+            if fields is None:
+                item["claude_error"] = claude.last_error
         doc = {"id": make_id(prefix, item["en"] or item["dv"], index, used)}
         doc.update(BUILDERS[fmt](item, fields, args))
         docs.append(prune(doc))

@@ -84,6 +84,11 @@
              font: 12.5px/1.55 ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; white-space: pre; }
   .json .k { color: var(--k); } .json .s { color: var(--s); } .json .n { color: var(--n); } .json .l { color: var(--l); }
   .hidden { display: none !important; }
+  .checks { border: 1px solid var(--warn); background: var(--warn-soft); border-radius: 8px; padding: 12px 14px; margin-top: 14px; }
+  .checks .hint { margin: 4px 0 8px; }
+  .checks .table-wrap { max-height: 320px; overflow: auto; background: var(--panel); border-radius: 6px; }
+  .checks td a { color: var(--accent); word-break: break-all; }
+  .checks tr.bad td:nth-child(3) { color: var(--bad); font-weight: 600; }
   @media (max-width: 700px) {
     .formats { grid-template-columns: repeat(2, 1fr); }
     .grid { grid-template-columns: 1fr; }
@@ -185,7 +190,14 @@
         <button type="button" class="primary" id="download">Download .json</button>
       </div>
     </div>
-    <div class="warn-box hidden" id="failed"></div>
+    <div class="checks hidden" id="checks">
+      <div class="status">
+        <b id="checks-title"></b>
+        <button type="button" id="checks-csv">Download check list (.csv)</button>
+      </div>
+      <p class="hint">Verify these by hand: pages that were not scraped, items missing a language, and records missing a field their sample has.</p>
+      <div class="table-wrap"><table><thead><tr><th>ID</th><th>Language</th><th>Problem</th><th>Page</th></tr></thead><tbody id="checks-rows"></tbody></table></div>
+    </div>
     <div class="tabs" role="tablist">
       <button type="button" class="active" data-tab="preview">Preview</button>
       <button type="button" data-tab="json">JSON</button>
@@ -344,9 +356,7 @@ function showResult(data) {
   $("result").classList.remove("hidden");
   $("count").textContent = `${docs.length} ${docs.length === 1 ? "doc" : "docs"}`;
   $("result-meta").textContent = `· ${data.format} · ${new URL(data.url).hostname}`;
-  $("failed").classList.toggle("hidden", !data.failed.length);
-  $("failed").innerHTML = data.failed.length
-    ? `<b>${data.failed.length} page${data.failed.length > 1 ? "s" : ""} could not be read:</b> ${data.failed.map(esc).join(", ")}` : "";
+  showChecks(data.issues);
   const rows = docs.map((d) => {
     const t = titleOf(d);
     const date = (d.published_at || d.publishedAt || d.startDate || "").slice(0, 10);
@@ -381,6 +391,31 @@ $("copy").addEventListener("click", async () => {
     document.body.append(area); area.select(); document.execCommand("copy"); area.remove();
   }
   $("copy").textContent = "Copied"; setTimeout(() => ($("copy").textContent = "Copy JSON"), 1500);
+});
+
+// The check list: what a person should verify by hand. Pages that were not scraped come first.
+function showChecks(issues) {
+  const order = (r) => (r.problem.startsWith("not scraped") || r.problem.startsWith("listing page") ? 0 : 1);
+  const rows = [...issues].sort((a, b) => order(a) - order(b));
+  $("checks").classList.toggle("hidden", !rows.length);
+  $("checks-title").textContent = `${rows.length} to check`;
+  const names = { en: "English", dv: "Dhivehi" };
+  $("checks-rows").innerHTML = rows.map((r) => `<tr class="${order(r) ? "" : "bad"}">
+    <td class="mono">${esc(r.id || "—")}</td><td>${esc(names[r.language] || "—")}</td><td>${esc(r.problem)}</td>
+    <td><a href="${esc(r.url)}" target="_blank" rel="noopener noreferrer">${esc(r.url.replace(/^https?:\/\//, ""))}</a></td></tr>`).join("");
+}
+
+$("checks-csv").addEventListener("click", () => {
+  const cell = (v) => `"${String(v ?? "").replace(/"/g, '""')}"`;
+  const lines = [["id", "language", "problem", "url"].join(",")]
+    .concat(result.issues.map((r) => [r.id, r.language, r.problem, r.url].map(cell).join(",")));
+  // A byte-order mark makes Excel read the file as UTF-8, so Thaana shows correctly.
+  const blob = new Blob(["\ufeff" + lines.join("\r\n")], { type: "text/csv;charset=utf-8" });
+  const a = Object.assign(document.createElement("a"), {
+    href: URL.createObjectURL(blob), download: `${new URL(result.url).hostname}-${result.format}-check.csv`,
+  });
+  a.click();
+  URL.revokeObjectURL(a.href);
 });
 
 $("download").addEventListener("click", () => {

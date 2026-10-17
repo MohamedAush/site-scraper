@@ -16,6 +16,7 @@ Examples:
 
 import argparse
 import copy
+import csv
 import json
 import os
 import re
@@ -29,7 +30,7 @@ import requests
 from bs4 import BeautifulSoup
 from markdownify import markdownify
 
-from scrape_formats import FORMATS, Claude, build_docs, checkpoint, envelope, log
+from scrape_formats import FORMATS, Claude, build_docs, checkpoint, envelope, log, missing_fields
 
 USER_AGENT = "simple-crawler/1.0"
 CHUNK_SIZE = 100
@@ -625,13 +626,28 @@ def next_page(soup, url, page_number):
     return None
 
 
-def crawl_listing(session, url, args, first_html=None):
+def issue(url, problem, doc_id="", lang=""):
+    """One line of the check list: something a person should verify by hand."""
+    return {"id": doc_id, "language": lang, "problem": problem, "url": url}
+
+
+def crawl_listing(session, url, args, first_html=None, issues=None):
     """Item URLs from a listing and the pages after it."""
     found, visited, page_number = [], set(), 1
     while url and url not in visited:
         visited.add(url)
-        html = first_html if page_number == 1 and first_html else get(session, url, args.timeout)
+        try:
+            html = first_html if page_number == 1 and first_html else get(session, url, args.timeout)
+        except RuntimeError as exc:
+            if page_number == 1:
+                raise
+            html, reason = None, str(exc).replace(url, "").strip(": ")
+        else:
+            reason = "page not found"
         if not html:
+            if page_number > 1 and issues is not None:
+                issues.append(issue(url, f"listing page {page_number} not read ({reason}); "
+                                         "items listed from there on were missed"))
             break
         soup = BeautifulSoup(html, "html.parser")
         new = [link for link in item_links(soup, url if page_number == 1 else args.url, args.item_pattern)
@@ -763,7 +779,8 @@ def read_pages(session, url, args, single=False):
     if len(inline) >= 2:
         log(f"  {len(inline)} items listed on the page itself")
         return inline[:args.limit or None], []
-    links = [] if single or args.single else crawl_listing(session, url, args, html)
+    failed = []
+    links = [] if single or args.single else crawl_listing(session, url, args, html, failed)
     if not links:
         missing = {"downloads": not first["files"], "video": not first["videos"],
                    "gallery": not first["images"]}.get(args.format, False)
@@ -772,22 +789,32 @@ def read_pages(session, url, args, single=False):
             raise RuntimeError(f"found no item links or {wanted} on {url}. The page may load its content with "
                                "JavaScript (try the site's API, e.g. /wp-json/ on WordPress), or the links may need "
                                "--item-pattern")
-        return [first], []
-    pages, failed = [], []
+        return [first], failed
+    pages = []
+    # What an item of this format cannot be without.
+    needs = {"video": ("videos", "no video found"), "gallery": ("images", "no photos found"),
+             "downloads": ("files", "no files found")}.get(args.format)
     for count, link in enumerate(links, 1):
         time.sleep(args.delay)
+        reason = None
         try:
             item_html = get(session, link, args.timeout)
         except RuntimeError as exc:
             log(f"  error: {exc}")
-            item_html = None
+            item_html, reason = None, f"could not load it: {str(exc).replace(link, '').strip(': ')}"
         page = parse_page(item_html, link) if item_html else None
-        lacking = page and {"video": not page["videos"], "gallery": not page["images"],
-                            "downloads": not page["files"]}.get(args.format, False)
-        if page and page["title"] and not page["empty"] and not lacking:
-            pages.append(page)
+        if not page:
+            reason = reason or "page not found (404)"
+        elif not page["title"]:
+            reason = "no title found"
+        elif page["empty"]:
+            reason = "no content found (the page may load it with JavaScript)"
+        elif needs and not page[needs[0]]:
+            reason = needs[1]
+        if reason:
+            failed.append(issue(link, f"not scraped: {reason}"))
         else:
-            failed.append(link)
+            pages.append(page)
         if count % 10 == 0 or count == len(links):
             log(f"  read {count}/{len(links)}")
     # A cover every item shares is the site's default share image, not the item's own.
@@ -811,6 +838,25 @@ def write_output(docs, fmt, args):
         with open(os.path.join(folder, f"{fmt}-{page}.json"), "w", encoding="utf-8") as f:
             json.dump(envelope(fmt, chunk, total=len(docs)), f, indent=2, ensure_ascii=False)
     log(f"saved {len(docs)} docs to {folder}/ in {pages} file(s)")
+    return folder
+
+
+def report_issues(issues, fmt, folder=None):
+    """Print the check list, and save it as CSV (opens in Excel, Thaana included) next to the JSON."""
+    if not issues:
+        log("nothing needs checking")
+        return
+    log(f"needs checking: {len(issues)}")
+    for row in issues:
+        log(f"  {row['id'] or '-'}  {('[' + row['language'] + '] ') if row['language'] else ''}"
+            f"{row['problem']}  {row['url']}")
+    if folder:
+        path = os.path.join(folder, f"{fmt}-check.csv")
+        with open(path, "w", encoding="utf-8-sig", newline="") as f:
+            writer = csv.DictWriter(f, fieldnames=["id", "language", "problem", "url"])
+            writer.writeheader()
+            writer.writerows(issues)
+        log(f"check list saved to {path}")
 
 
 def build_parser():
@@ -837,7 +883,8 @@ def build_parser():
 
 
 def scrape(args, api_key=None):
-    """(docs, failed URLs) for the run args describes. Raises RuntimeError when nothing can be read."""
+    """(docs, check list) for the run args describes: the check list names every page not scraped and every
+    record missing a language or a field. Raises RuntimeError when nothing can be read."""
     session = requests.Session()
     session.headers["User-Agent"] = USER_AGENT
     SELECTORS.update(title=args.title_selector, content=args.content_selector)
@@ -864,7 +911,9 @@ def scrape(args, api_key=None):
             other = fetch_alternate(session, page, args)
             if other and other["url"] not in urls:
                 others[i] = other
-    items = []
+    items, language_notes = [], []
+    looked = bool(args.dv_url) or not args.no_dv
+    names = {"en": "English", "dv": "Dhivehi"}
     for i, page in enumerate(pages):
         # A page from the Dhivehi listing is still English when the site picks the language with JavaScript;
         # its Dhivehi text is then in its embedded data.
@@ -873,16 +922,36 @@ def scrape(args, api_key=None):
         other = next((c for c in candidates if c and c["lang"] != page["lang"]), None)
         en, dv = (page, other) if page["lang"] == "en" else (other, page)
         items.append({"en": en, "dv": dv})
-    if items and (args.dv_url or not args.no_dv):
+        missing = "dv" if page["lang"] == "en" else "en"
+        if other or not looked or (page.get("inline") and not args.dv_url):
+            language_notes.append(None)
+        elif paired:
+            language_notes.append((missing, f"the {names[missing]} page shows {names[page['lang']]} text "
+                                            f"(no {names[missing]} translation): {paired['url']}"))
+        else:
+            language_notes.append((missing, f"no {names[missing]} version found"))
+    if items and looked:
         both = sum(1 for item in items if item["en"] and item["dv"])
         log(f"  in both languages: {both}, in one language only: {len(items) - both}")
-    return build_docs(args.format, items, args, claude), failed
+    docs = build_docs(args.format, items, args, claude)
+
+    issues = list(failed)
+    for item, doc, note in zip(items, docs, language_notes):
+        main = item["en"] or item["dv"]
+        if note:
+            issues.append(issue(main["url"], note[1], doc["id"], note[0]))
+        missing = missing_fields(args.format, doc)
+        if missing:
+            issues.append(issue(main["url"], "missing " + ", ".join(missing), doc["id"]))
+        if item.get("claude_error"):
+            issues.append(issue(main["url"], f"extra fields not filled: {item['claude_error']}", doc["id"]))
+    return docs, issues
 
 
 def main():
     args = build_parser().parse_args()
     try:
-        docs, failed = scrape(args)
+        docs, issues = scrape(args)
     except KeyboardInterrupt:
         log("\ninterrupted")
         return 1
@@ -890,11 +959,9 @@ def main():
         log(f"error: {exc}")
         return 1
 
-    write_output(docs, args.format, args)
-    if failed:
-        log(f"Could not read {len(failed)}: {', '.join(failed)}")
-        return 1
-    return 0
+    folder = write_output(docs, args.format, args)
+    report_issues(issues, args.format, folder)
+    return 1 if any(row["problem"].startswith(("not scraped", "listing page")) for row in issues) else 0
 
 
 if __name__ == "__main__":

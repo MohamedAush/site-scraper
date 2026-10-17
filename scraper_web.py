@@ -44,7 +44,7 @@ class Job:
         self.status = "waiting"
         self.log = []
         self.result = None
-        self.failed = []
+        self.issues = []  # the check list: pages not scraped, records missing a language or a field
         self.error = None
         self.cancelled = False
         self.started = time.time()
@@ -65,11 +65,11 @@ class Job:
                 if self.cancelled:
                     raise Cancelled()
                 self.status = "running"
-                docs, self.failed = scrape(self.args, self.api_key)
+                docs, self.issues = scrape(self.args, self.api_key)
                 self.result = envelope(self.args.format, docs)
                 self.status = "done"
-                self.log.append(f"done: {len(docs)} docs" + (f", {len(self.failed)} pages could not be read"
-                                                             if self.failed else ""))
+                self.log.append(f"done: {len(docs)} docs" + (f", {len(self.issues)} to check" if self.issues
+                                                             else ", nothing to check"))
         except Cancelled:
             self.status = "cancelled"
             self.log.append("cancelled")
@@ -84,7 +84,7 @@ class Job:
 
     def to_json(self):
         return {"id": self.id, "status": self.status, "log": self.log, "result": self.result,
-                "failed": self.failed, "error": self.error, "format": self.args.format, "url": self.args.url,
+                "issues": self.issues, "error": self.error, "format": self.args.format, "url": self.args.url,
                 "elapsed": round((self.finished or time.time()) - self.started, 1)}
 
 
