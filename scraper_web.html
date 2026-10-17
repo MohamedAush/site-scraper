@@ -164,6 +164,7 @@
         <label><input type="checkbox" id="use_claude" checked> Use Claude for extra fields</label>
         <label><input type="checkbox" id="find_dv" checked> Look for Dhivehi versions</label>
         <label><input type="checkbox" id="single"> Treat the link as one item</label>
+        <label><input type="checkbox" id="split"> Split by category: one JSON per source type</label>
       </div>
     </details>
 
@@ -217,7 +218,7 @@ const FORMATS = [
   ["video", "Video", "YouTube, Vimeo and others"],
 ];
 const FIELDS = ["url", "limit", "model", "dv_url", "category", "title_selector", "content_selector", "item_pattern", "prefix", "delay"];
-const CHECKS = ["use_claude", "find_dv", "single"];
+const CHECKS = ["use_claude", "find_dv", "single", "split"];
 const $ = (id) => document.getElementById(id);
 let job = null, result = null, poll = null, running = false, stopping = false;
 
@@ -358,13 +359,43 @@ function detailOf(d, format) {
 
 const esc = (s) => String(s).replace(/[&<>"]/g, (c) => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;" }[c]));
 
+// The JSON as one value: the envelope, or {category: envelope} when the scrape was split by category.
+const allJSON = (data) => data.result.parts
+  ? Object.fromEntries(data.result.parts.map((p) => [p.category, p.result])) : data.result;
+
+function saveJSON(value, name) {
+  const blob = new Blob([JSON.stringify(value, null, 2)], { type: "application/json" });
+  const a = Object.assign(document.createElement("a"), { href: URL.createObjectURL(blob), download: name });
+  a.click(); URL.revokeObjectURL(a.href);
+}
+
+function showParts(data) {
+  const parts = data.result.parts, total = parts.reduce((n, p) => n + p.result.docs.length, 0);
+  $("count").textContent = `${total} docs in ${parts.length} categories`;
+  $("download").textContent = "Download all (.zip)";
+  $("tab-preview").innerHTML = `<table><thead><tr><th>Category</th><th>Docs</th><th>Latest</th><th></th></tr></thead><tbody>${
+    parts.map((p, i) => {
+      const docs = p.result.docs, latest = docs.map((d) => (d.published_at || d.publishedAt || "").slice(0, 10)).sort().pop() || "";
+      return `<tr><td>${esc(p.category)}</td><td class="mono">${docs.length}</td><td class="mono">${esc(latest)}</td>
+        <td>${docs.length ? `<button type="button" data-part="${i}">Download .json</button>` : `<span class="hint">empty</span>`}</td></tr>`;
+    }).join("")}</tbody></table>`;
+  $("tab-preview").querySelectorAll("[data-part]").forEach((b) => b.addEventListener("click", () => {
+    const p = parts[b.dataset.part];
+    saveJSON(p.result, `${new URL(data.url).hostname}-${data.format}-${p.folder}.json`);
+  }));
+}
+
 function showResult(data) {
   result = data;
-  const docs = data.result.docs;
   $("result").classList.remove("hidden");
-  $("count").textContent = `${docs.length} ${docs.length === 1 ? "doc" : "docs"}`;
   $("result-meta").textContent = `· ${data.format} · ${new URL(data.url).hostname}`;
   showChecks(data.issues);
+  const text = JSON.stringify(allJSON(data), null, 2);
+  $("tab-json").innerHTML = text.length < 400000 ? highlight(text) : esc(text);
+  if (data.result.parts) return showParts(data);
+  $("download").textContent = "Download .json";
+  const docs = data.result.docs;
+  $("count").textContent = `${docs.length} ${docs.length === 1 ? "doc" : "docs"}`;
   const rows = docs.map((d) => {
     const t = titleOf(d);
     const date = (d.published_at || d.publishedAt || d.startDate || "").slice(0, 10);
@@ -375,8 +406,6 @@ function showResult(data) {
   $("tab-preview").innerHTML = docs.length
     ? `<table><thead><tr><th>ID</th><th>Title</th><th>Date</th><th>Details</th></tr></thead><tbody>${rows}</tbody></table>`
     : `<p class="hint">Nothing was scraped. Check the log above.</p>`;
-  const text = JSON.stringify(data.result, null, 2);
-  $("tab-json").innerHTML = text.length < 400000 ? highlight(text) : esc(text);
 }
 
 function highlight(json) {
@@ -392,7 +421,7 @@ document.querySelectorAll(".tabs button").forEach((b) => b.addEventListener("cli
 }));
 
 $("copy").addEventListener("click", async () => {
-  const text = JSON.stringify(result.result, null, 2);
+  const text = JSON.stringify(allJSON(result), null, 2);
   try { await navigator.clipboard.writeText(text); }
   catch {
     const area = Object.assign(document.createElement("textarea"), { value: text });
@@ -427,12 +456,11 @@ $("checks-csv").addEventListener("click", () => {
 });
 
 $("download").addEventListener("click", () => {
-  const blob = new Blob([JSON.stringify(result.result, null, 2)], { type: "application/json" });
-  const a = Object.assign(document.createElement("a"), {
-    href: URL.createObjectURL(blob),
-    download: `${new URL(result.url).hostname}-${result.format}.json`,
-  });
-  a.click(); URL.revokeObjectURL(a.href);
+  if (result.result.parts) {
+    window.location.href = `/api/jobs/${result.id}/zip`;  // the server packs one folder per category
+    return;
+  }
+  saveJSON(result.result, `${new URL(result.url).hostname}-${result.format}.json`);
 });
 </script>
 </body>

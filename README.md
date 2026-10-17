@@ -64,6 +64,8 @@ Useful options (`--help` lists them all):
 - `--model`: e.g. `claude-haiku-5-5` for cheaper big crawls
 - `--dv-url`: a Dhivehi listing to pair with the English one
 - `--category`: the same source type, category or download type for every item
+- `--split`: scrape each option of the listing's category filter (e.g. Annual Report, Circular) separately,
+  one folder of JSON per source type ("Split by category" in the web app, which downloads them as a .zip)
 - `--title-selector`, `--content-selector`, `--item-pattern`: help with sites whose layout the rules misread
 
 ## Ready-to-import files
