@@ -9,6 +9,8 @@ the HTML rules cannot find.
 """
 
 import argparse
+import csv
+import io
 import json
 import os
 import sys
@@ -17,13 +19,14 @@ import time
 import traceback
 import uuid
 import webbrowser
+import zipfile
 from http.server import BaseHTTPRequestHandler, ThreadingHTTPServer
 from urllib.parse import urlparse
 
 import requests
 
 from scrape_formats import FORMATS, envelope, set_log_handler
-from scrape_site import build_parser, scrape
+from scrape_site import CHUNK_SIZE, build_parser, folder_name, scrape, scrape_split
 
 PAGE = os.path.join(os.path.dirname(os.path.abspath(__file__)), "scraper_web.html")
 MODELS = ["claude-opus-5-5", "claude-sonnet-5-5", "claude-haiku-5-5"]
@@ -65,11 +68,19 @@ class Job:
                 if self.cancelled:
                     raise Cancelled()
                 self.status = "running"
-                docs, self.issues = scrape(self.args, self.api_key)
-                self.result = envelope(self.args.format, docs)
+                if self.args.split:
+                    parts = scrape_split(self.args, self.api_key)
+                    self.result = {"parts": [{"category": part["category"], "folder": folder_name(part["category"]),
+                                              "result": envelope(self.args.format, part["docs"])} for part in parts]}
+                    self.issues = [row for part in parts for row in part["issues"]]
+                    count = f"{sum(len(part['docs']) for part in parts)} docs in {len(parts)} categories"
+                else:
+                    docs, self.issues = scrape(self.args, self.api_key)
+                    self.result = envelope(self.args.format, docs)
+                    count = f"{len(docs)} docs"
                 self.status = "done"
-                self.log.append(f"done: {len(docs)} docs" + (f", {len(self.issues)} to check" if self.issues
-                                                             else ", nothing to check"))
+                self.log.append(f"done: {count}" + (f", {len(self.issues)} to check" if self.issues
+                                                    else ", nothing to check"))
         except Cancelled:
             self.status = "cancelled"
             self.log.append("cancelled")
@@ -81,6 +92,26 @@ class Job:
         finally:
             self.finished = time.time()
             set_log_handler(None)
+
+    def zip_bytes(self):
+        """Every JSON file (100 records each, one folder per category when split) and the check list."""
+        fmt, buffer = self.args.format, io.BytesIO()
+        parts = self.result.get("parts") or [{"folder": "", "result": self.result}]
+        with zipfile.ZipFile(buffer, "w", zipfile.ZIP_DEFLATED) as archive:
+            for part in parts:
+                docs = part["result"]["docs"]
+                for page in range(max(1, -(-len(docs) // CHUNK_SIZE))):
+                    chunk = docs[page * CHUNK_SIZE:(page + 1) * CHUNK_SIZE]
+                    name = os.path.join(part["folder"], f"{fmt}-{page + 1}.json")
+                    archive.writestr(name, json.dumps(envelope(fmt, chunk, total=len(docs)), indent=2,
+                                                      ensure_ascii=False))
+            if self.issues:
+                table = io.StringIO()
+                writer = csv.DictWriter(table, fieldnames=["id", "language", "problem", "url"])
+                writer.writeheader()
+                writer.writerows(self.issues)
+                archive.writestr(f"{fmt}-check.csv", "\ufeff" + table.getvalue())
+        return buffer.getvalue()
 
     def to_json(self):
         return {"id": self.id, "status": self.status, "log": self.log, "result": self.result,
@@ -105,6 +136,7 @@ def job_args(body):
     args.no_llm = not body.get("use_claude", True)
     args.no_dv = not body.get("find_dv", True)
     args.single = bool(body.get("single"))
+    args.split = bool(body.get("split")) and not args.single
     if body.get("model") in MODELS:
         args.model = body["model"]
     return args
@@ -141,6 +173,19 @@ class Handler(BaseHTTPRequestHandler):
         elif path == "/api/status":
             self.send(200, {"claude": bool(os.environ.get("ANTHROPIC_API_KEY") or os.environ.get("ANTHROPIC_AUTH_TOKEN")),
                             "formats": list(FORMATS), "models": MODELS})
+        elif path.startswith("/api/jobs/") and path.endswith("/zip") and path.split("/")[3] in JOBS:
+            job = JOBS[path.split("/")[3]]
+            if job.status != "done":
+                self.send(409, {"error": "the scrape has not finished"})
+                return
+            host = (urlparse(job.args.url).hostname or "site").replace(".", "-")
+            data = job.zip_bytes()
+            self.send_response(200)
+            self.send_header("Content-Type", "application/zip")
+            self.send_header("Content-Disposition", f'attachment; filename="{host}-{job.args.format}.zip"')
+            self.send_header("Content-Length", str(len(data)))
+            self.end_headers()
+            self.wfile.write(data)
         elif path.startswith("/api/jobs/") and path.split("/")[3] in JOBS:
             self.send(200, JOBS[path.split("/")[3]].to_json())
         else:

@@ -24,7 +24,7 @@ import sys
 import time
 from datetime import datetime
 from html import escape
-from urllib.parse import parse_qs, quote, unquote, urldefrag, urljoin, urlparse
+from urllib.parse import parse_qs, quote, unquote, urldefrag, urlencode, urljoin, urlparse
 
 import requests
 from bs4 import BeautifulSoup
@@ -917,6 +917,8 @@ def read_pages(session, url, args, single=False):
         return inline[:args.limit or None], []
     failed = []
     links = [] if single or args.single else crawl_listing(session, url, args, html, failed)
+    if not links and getattr(args, "listing_only", False):
+        return [], failed
     if not links:
         missing = {"downloads": not first["files"], "video": not first["videos"],
                    "gallery": not first["images"]}.get(args.format, False)
@@ -961,12 +963,21 @@ def read_pages(session, url, args, single=False):
     return pages, failed
 
 
-def write_output(docs, fmt, args):
+def output_folder(args):
+    return args.output_dir or os.path.join("scraped", urlparse(args.url).hostname or "site", args.format)
+
+
+def folder_name(label):
+    """A folder for a category, its letters (Thaana too) kept: "Annual Report" -> "annual-report"."""
+    return re.sub(r"[^\w\u0780-\u07bf]+|_+", "-", label.lower()).strip("-") or "category"
+
+
+def write_output(docs, fmt, args, subfolder=None):
     if args.stdout:
         json.dump(envelope(fmt, docs), sys.stdout, indent=2, ensure_ascii=False)
         print()
         return
-    folder = args.output_dir or os.path.join("scraped", urlparse(args.url).hostname or "site", fmt)
+    folder = os.path.join(output_folder(args), subfolder) if subfolder else output_folder(args)
     os.makedirs(folder, exist_ok=True)
     pages = max(1, -(-len(docs) // CHUNK_SIZE))
     for page in range(1, pages + 1):
@@ -1005,6 +1016,8 @@ def build_parser():
     parser.add_argument("--dv-url", help="Dhivehi listing to pair with the English one")
     parser.add_argument("--no-dv", action="store_true", help="do not look for Dhivehi versions")
     parser.add_argument("--single", action="store_true", help="treat the URL as one item, not a listing")
+    parser.add_argument("--split", action="store_true",
+                        help="scrape each option of the listing's category filter separately, one JSON per type")
     parser.add_argument("--item-pattern", help="regex that item links on the listing must match")
     parser.add_argument("--title-selector", help="CSS selector for the title on item pages, when the rules miss it")
     parser.add_argument("--content-selector", help="CSS selector for the main content on item pages")
@@ -1084,10 +1097,65 @@ def scrape(args, api_key=None):
     return docs, issues
 
 
+# The <select> of a listing's filter form that sorts items into types.
+SPLIT_FIELD = re.compile(r"categor|type|kind|section|topic|ބާވަތް", re.I)
+
+
+def find_splits(html, url):
+    """{value: (label, url)} for each option of the listing's category filter: a GET form's <select>, with the
+    form's other fields left empty, as the site's own filter links have them."""
+    soup = BeautifulSoup(html, "html.parser")
+    for select in soup.find_all("select", attrs={"name": SPLIT_FIELD}):
+        form = select.find_parent("form")
+        if form and (form.get("method") or "get").lower() != "get":
+            continue
+        action = (clean_url(form.get("action"), url) if form and form.get("action") else None) or url.split("?")[0]
+        others = {field["name"]: field.get("value", "") if field.name == "input" else ""
+                  for field in (form.find_all(["input", "select"]) if form else [])
+                  if field.get("name") and field is not select
+                  and (field.get("type") or "text").lower() not in ("submit", "button", "hidden", "checkbox", "radio")}
+        splits = {}
+        for option in select.find_all("option"):
+            value, label = (option.get("value") or "").strip(), text_of(option)
+            if value and label:
+                splits[value] = (label, f"{action}?{urlencode({**others, select['name']: value})}")
+        if splits:
+            return splits
+    return {}
+
+
+def scrape_split(args, api_key=None):
+    """[{category, url, docs, issues}] with one entry per option of the listing's category filter, each scraped
+    from its own filtered listing (paired with the Dhivehi listing's same option) and labelled with its name."""
+    session = requests.Session()
+    session.headers["User-Agent"] = USER_AGENT
+    splits = find_splits(get(session, args.url, args.timeout) or "", args.url)
+    if not splits:
+        raise RuntimeError(f"found no category filter (a <select> named like category or type) on {args.url}")
+    dv_splits = find_splits(get(session, args.dv_url, args.timeout) or "", args.dv_url) if args.dv_url else {}
+    log(f"{len(splits)} categories: {', '.join(label for label, _ in splits.values())}")
+    parts = []
+    for count, (value, (label, url)) in enumerate(splits.items(), 1):
+        log(f"\n[{count}/{len(splits)}] {label}")
+        part = copy.copy(args)
+        part.url, part.dv_url = url, dv_splits.get(value, (None, None))[1]
+        part.category, part.listing_only = args.category or label, True
+        try:
+            docs, issues = scrape(part, api_key)
+        except RuntimeError as exc:
+            docs, issues = [], [issue(url, f"not scraped: {exc}")]
+        if not docs and not issues:
+            issues = [issue(url, "no items listed in this category")]
+        for row in issues:
+            row["problem"] = f"[{label}] {row['problem']}"
+        parts.append({"category": label, "url": url, "docs": docs, "issues": issues})
+    return parts
+
+
 def main():
     args = build_parser().parse_args()
     try:
-        docs, issues = scrape(args)
+        parts = scrape_split(args) if args.split else [{"category": None, **dict(zip(("docs", "issues"), scrape(args)))}]
     except KeyboardInterrupt:
         log("\ninterrupted")
         return 1
@@ -1095,9 +1163,18 @@ def main():
         log(f"error: {exc}")
         return 1
 
-    folder = write_output(docs, args.format, args)
+    if args.split and args.stdout:
+        json.dump({part["category"]: envelope(args.format, part["docs"]) for part in parts}, sys.stdout,
+                  indent=2, ensure_ascii=False)
+        print()
+        folder = None
+    else:
+        for part in parts:
+            write_output(part["docs"], args.format, args, part["category"] and folder_name(part["category"]))
+        folder = None if args.stdout else output_folder(args)
+    issues = [row for part in parts for row in part["issues"]]
     report_issues(issues, args.format, folder)
-    return 1 if any(row["problem"].startswith(("not scraped", "listing page")) for row in issues) else 0
+    return 1 if any(re.match(r"(\[[^]]*\] )?(not scraped|listing page)", row["problem"]) for row in issues) else 0
 
 
 if __name__ == "__main__":
