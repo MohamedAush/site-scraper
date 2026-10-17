@@ -106,7 +106,7 @@
     <div class="url-row">
       <input type="url" id="url" placeholder="https://education.gov.mv/en/news" required>
       <button type="submit" class="primary" id="go">Scrape</button>
-      <button type="button" id="reset" title="Clear the last scrape's log and results; your link and settings stay">↻ Refresh</button>
+      <button type="button" id="reset" title="Start a new session: clear the link, settings and results">↻ Refresh</button>
     </div>
 
     <div class="formats" id="formats" role="radiogroup" aria-label="Output format"></div>
@@ -209,11 +209,8 @@ const CHECKS = ["use_claude", "find_dv", "single"];
 const $ = (id) => document.getElementById(id);
 let job = null, result = null, poll = null, running = false, stopping = false;
 
-// Remember the last choices in this browser (never the API key).
-const store = {
-  get() { try { return JSON.parse(localStorage.getItem("scraper-form") || "{}"); } catch { return {}; } },
-  set(v) { try { localStorage.setItem("scraper-form", JSON.stringify(v)); } catch {} },
-};
+// Each visit is a new session: drop the choices earlier versions of this page remembered.
+try { localStorage.removeItem("scraper-form"); } catch {}
 
 $("formats").innerHTML = FORMATS.map(([value, name, desc], i) => `
   <div><input type="radio" name="format" id="f-${value}" value="${value}" ${i === 0 ? "checked" : ""}>
@@ -224,11 +221,9 @@ const PREFIXES = { publications: "article", newsroom: "article", downloads: "dow
 const showPrefix = () => ($("prefix").placeholder = `${PREFIXES[document.querySelector("input[name=format]:checked").value]} (default)`);
 document.querySelectorAll("input[name=format]").forEach((r) => r.addEventListener("change", showPrefix));
 
-const saved = store.get();
-FIELDS.forEach((f) => { if (saved[f] !== undefined) $(f).value = saved[f]; });
-CHECKS.forEach((f) => { if (saved[f] !== undefined) $(f).checked = saved[f]; });
-if (saved.format && $("f-" + saved.format)) $("f-" + saved.format).checked = true;
 showPrefix();
+// Browsers refill a form after a reload or Back; start from the defaults instead.
+window.addEventListener("pageshow", () => { if (!running) newSession(); });
 
 fetch("/api/status").then((r) => r.json()).then((s) => {
   const pill = $("claude-pill");
@@ -247,7 +242,6 @@ $("form").addEventListener("submit", async (e) => {
   e.preventDefault();
   if (running) return stopJob();  // the Scrape button is a Stop button while a scrape runs
   const values = formValues();
-  store.set(values);
   const body = { ...values, limit: Number(values.limit || 0), delay: Number(values.delay || 1), api_key: $("api_key").value.trim() };
   $("go").disabled = true;
   $("result").classList.add("hidden");
@@ -312,10 +306,16 @@ function stopJob() {
 }
 $("cancel").addEventListener("click", stopJob);
 
-$("reset").addEventListener("click", () => {
+// A new session: every field back to its default, and the last scrape's log and results gone.
+function newSession() {
   job = result = null;
+  $("form").reset();
+  showPrefix();
   for (const id of ["job", "result"]) $(id).classList.add("hidden");
   $("log").textContent = ""; $("error").textContent = "";
+}
+$("reset").addEventListener("click", () => {
+  newSession();
   window.scrollTo({ top: 0, behavior: "smooth" });
   $("url").focus({ preventScroll: true });
 });
