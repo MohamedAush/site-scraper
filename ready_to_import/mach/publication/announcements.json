@@ -1,0 +1,53 @@
+{
+  "docs": [
+    {
+      "id": "announcement-479",
+      "source_type": "Announcements",
+      "published_at": "2026-07-05T09:04:00Z",
+      "translations": {
+        "dv": {
+          "title": "ޕީއާރު ފާމެއްގެ ޚިދުމަތް",
+          "body": "**ރެފަރެންސް ނަންބަރު:** (IUL)473-AP/473/2026/52\n\n**ޑޮކިއުމަންޓް ނަންބަރު:** (IUL)473-AP/473/2026/52\n\n**ސުންގަޑި:** 2026-07-14 11:30"
+        }
+      },
+      "featuredImage": "https://mach.gov.mv/storage/uploads/4d838ba3-8ddb-41c5-a62b-12085aed9846/0jchpvpm.png",
+      "files": [
+        {
+          "label": "52 - Iulaan -  PR Farm  ",
+          "file": {
+            "url": "https://mach.gov.mv/storage/uploads/63a9254a-a2cd-4e33-9233-e64b01f64e9d/fa6cko5o.pdf"
+          }
+        },
+        {
+          "label": "PR TOR -",
+          "file": {
+            "url": "https://mach.gov.mv/storage/uploads/e170d996-9df6-4fc1-845f-5ca72d50fafc/g6v07i95.pdf"
+          }
+        }
+      ]
+    },
+    {
+      "id": "announcement-447",
+      "source_type": "Announcements",
+      "published_at": "2026-06-09T12:00:00Z",
+      "translations": {
+        "dv": {
+          "title": "ޤައުމީ އެންތޮލޮޖީއަށް މަޒުމޫނު ހުށަހެޅުމާ ގުޅޭ",
+          "body": "**ރެފަރެންސް ނަންބަރު:** (IUL)473-AP/473/2026/40\n\n**ޑޮކިއުމަންޓް ނަންބަރު:** (IUL)473-AP/473/2026/40\n\n**ސުންގަޑި:** 2026-06-30 11:00"
+        }
+      },
+      "featuredImage": "https://mach.gov.mv/storage/uploads/4d838ba3-8ddb-41c5-a62b-12085aed9846/0jchpvpm.png",
+      "files": [
+        {
+          "label": "01 - Iulaan - Anthology .",
+          "file": {
+            "url": "https://mach.gov.mv/storage/uploads/43b45616-f6c6-45f0-b8b5-78f13d210856/ydnvv9y8.pdf"
+          }
+        }
+      ]
+    }
+  ],
+  "totalDocs": 2,
+  "hasNextPage": false,
+  "nextPage": null
+}

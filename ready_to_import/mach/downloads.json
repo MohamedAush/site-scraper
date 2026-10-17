@@ -1,0 +1,27 @@
+{
+  "docs": [
+    {
+      "id": "download-525",
+      "source_type": "Downloads",
+      "published_at": "2026-09-14T14:30:00Z",
+      "translations": {
+        "dv": {
+          "title": "އިޙުތިރާމު އަދާކުރުމުގެ ޤައުމީ މަޝްރޫޢުގެ ލޯގޯ ފަރުމާކުރުމުގައި ޢަމަލުކުރާނެ ގޮތުގެ އުޞޫލު",
+          "body": ""
+        }
+      },
+      "featuredImage": "https://mach.gov.mv/storage/uploads/a730c47d-1f92-4729-a769-a89bb8641991/emblem-of-maldives-2-jrsn.png",
+      "files": [
+        {
+          "label": "Respect LOGO Usool 14ISepI2026",
+          "file": {
+            "url": "https://mach.gov.mv/storage/uploads/64108bb1-18bb-4294-b53f-50bf1be24f5b/il3rkxtj.pdf"
+          }
+        }
+      ]
+    }
+  ],
+  "totalDocs": 1,
+  "hasNextPage": false,
+  "nextPage": null
+}
