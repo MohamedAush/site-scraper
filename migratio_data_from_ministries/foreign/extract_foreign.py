@@ -252,7 +252,7 @@ def write(folder, docs):
     pages = (len(docs) + PER_FILE - 1) // PER_FILE
     for page in range(1, pages + 1):
         chunk = docs[(page - 1) * PER_FILE:page * PER_FILE]
-        data = {"docs": chunk}
+        data = {"docs": chunk, "totalDocs": len(chunk), "hasNextPage": False, "nextPage": None}
         with open(os.path.join(path, "%s_%03d.json" % (folder, page)), "w", encoding="utf-8") as f:
             json.dump(data, f, ensure_ascii=False, indent=2)
             f.write("\n")

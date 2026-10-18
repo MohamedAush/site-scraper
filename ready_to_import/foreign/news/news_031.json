@@ -1543,5 +1543,8 @@
         }
       }
     }
-  ]
+  ],
+  "totalDocs": 100,
+  "hasNextPage": false,
+  "nextPage": null
 }
