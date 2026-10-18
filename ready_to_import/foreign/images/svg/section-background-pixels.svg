@@ -1,0 +1,48 @@
+<svg xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' width='224' height='140' viewBox='0 0 112 70'>
+	<defs>
+		<rect id='s' fill='#777' width='7' height='7'/>
+	</defs>
+	<g id='b'>
+	<use x='0' y='0' fill-opacity='0.04' xlink:href='#s' />
+	<use x='7' y='0' fill-opacity='0.02' xlink:href='#s' />
+	<use x='14' y='0' fill-opacity='0.06' xlink:href='#s' />
+	<use x='21' y='0' fill-opacity='0.05' xlink:href='#s' />
+	<use x='28' y='0' fill-opacity='0.02' xlink:href='#s' />
+	<use x='35' y='0' fill-opacity='0.04' xlink:href='#s' />
+	<use x='42' y='0' fill-opacity='0.07' xlink:href='#s' />
+	<use x='0' y='7' fill-opacity='0.03' xlink:href='#s' />
+	<use x='7' y='7' fill-opacity='0.04' xlink:href='#s' />
+	<use x='14' y='7' fill-opacity='0.02' xlink:href='#s' />
+	<use x='21' y='7' fill-opacity='0.06' xlink:href='#s' />
+	<use x='28' y='7' fill-opacity='0.04' xlink:href='#s' />
+	<use x='35' y='7' fill-opacity='0.03' xlink:href='#s' />
+	<use x='42' y='7' fill-opacity='0.01' xlink:href='#s' />
+	<use x='49' y='7' fill-opacity='0.04' xlink:href='#s' />
+	<use x='0' y='14' fill-opacity='0.03' xlink:href='#s' />
+	<use x='7' y='14' fill-opacity='0.02' xlink:href='#s' />
+	<use x='14' y='14' fill-opacity='0.06' xlink:href='#s' />
+	<use x='21' y='14' fill-opacity='0.02' xlink:href='#s' />
+	<use x='28' y='14' fill-opacity='0.06' xlink:href='#s' />
+	<use x='35' y='14' fill-opacity='0.04' xlink:href='#s' />
+	<use x='42' y='14' fill-opacity='0.03' xlink:href='#s' />
+	<use x='49' y='14' fill-opacity='0.07' xlink:href='#s' />
+	<use x='0' y='21' fill-opacity='0.04' xlink:href='#s' />
+	<use x='7' y='21' fill-opacity='0.03' xlink:href='#s' />
+	<use x='14' y='21' fill-opacity='0.05' xlink:href='#s' />
+	<use x='21' y='21' fill-opacity='0.03' xlink:href='#s' />
+	<use x='35' y='21' fill-opacity='0.06' xlink:href='#s' />
+	<use x='42' y='21' fill-opacity='0.01' xlink:href='#s' />
+	<use x='49' y='21' fill-opacity='0.03' xlink:href='#s' />
+	<use x='0' y='28' fill-opacity='0.01' xlink:href='#s' />
+	<use x='7' y='28' fill-opacity='0.06' xlink:href='#s' />
+	<use x='14' y='28' fill-opacity='0.03' xlink:href='#s' />
+	<use x='21' y='28' fill-opacity='0.05' xlink:href='#s' />
+	<use x='28' y='28' fill-opacity='0.02' xlink:href='#s' />
+	<use x='42' y='28' fill-opacity='0.05' xlink:href='#s' />
+	<use x='49' y='28' fill-opacity='0.02' xlink:href='#s' />
+	</g>
+	<use x='-56' y='35' transform='matrix(-1 0 0 1 0 0)' xlink:href='#b' />
+	<use x='-112' y='-49' transform='matrix(-1 0 0 -1 0 0)' xlink:href='#b' />
+	<use x='56' y='-84' transform='matrix(1 0 0 -1 0 0)' xlink:href='#b' />
+	<use x='56' y='-14' transform='matrix(1 0 0 -1 0 0)' xlink:href='#b' />
+</svg>
