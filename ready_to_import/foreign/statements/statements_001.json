@@ -1806,8 +1806,5 @@
         }
       }
     }
-  ],
-  "totalDocs": 200,
-  "hasNextPage": true,
-  "nextPage": 2
+  ]
 }

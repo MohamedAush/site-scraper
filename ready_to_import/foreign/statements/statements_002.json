@@ -1324,8 +1324,5 @@
         }
       }
     }
-  ],
-  "totalDocs": 200,
-  "hasNextPage": false,
-  "nextPage": null
+  ]
 }

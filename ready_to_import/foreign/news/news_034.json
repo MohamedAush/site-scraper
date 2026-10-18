@@ -1532,8 +1532,5 @@
         }
       }
     }
-  ],
-  "totalDocs": 4058,
-  "hasNextPage": true,
-  "nextPage": 35
+  ]
 }
