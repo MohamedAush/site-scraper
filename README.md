@@ -18,6 +18,11 @@ contact, sector and documents, and body sections the page only shows behind tabs
 as project timeline, funding source and download types) are filled in by Claude when an Anthropic API key is
 available.
 
+Tenders, jobs and other notices also get `reference_number` (the Iulaan number) and `deadline` (Maldives time)
+in `publications` records, read from labels such as "Iulaan No." and "Expiry Date". When a listing's item pages
+fill themselves in with JavaScript, the scraper reads the same items from the site's CMS API instead
+(`cms.<site>/api/<collection>`, e.g. https://cms.environment.gov.mv/api/tenders), in both languages.
+
 Dhivehi versions are found through the site's language switcher, in the page's embedded data, or by pairing with
 a Dhivehi listing you give. Some sites have no Dhivehi version of a section; then only `en` is filled.
 
@@ -76,8 +81,9 @@ pull before you start (`git pull origin main`) so you don't redo a site someone 
 
 ## Known limits
 
-- Pages that load their content with separate JavaScript requests (not embedded in the HTML) can't be scraped;
-  the tool says so instead of producing empty records.
+- Pages that load their content with separate JavaScript requests (not embedded in the HTML) can't be scraped
+  unless the site has a CMS API at `cms.<site>` (publications and newsroom only); otherwise the tool says so
+  instead of producing empty records.
 - When every item on a site shares one share image (`og:image`), it is treated as the site's default and the
   item's first photo is used as the cover instead.
 - Check a few records from each new site by hand: layouts vary, and `--title-selector`, `--content-selector` and

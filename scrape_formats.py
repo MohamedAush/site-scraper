@@ -54,6 +54,8 @@ def checkpoint():
 class PublicationFields(BaseModel):
     source_type: Optional[str]
     published_date: Optional[str]
+    reference_number: Optional[str]
+    deadline: Optional[str]
     description_en: Optional[str]
     description_dv: Optional[str]
 
@@ -116,6 +118,10 @@ source_type: what kind of item this is, as a short Title Case label such as News
 Announcement, Speech, Circular, Report, Publication, Statistics or Job - use the site's own wording \
 when it names one.
 published_date: the date the item was published.
+reference_number: the item's official reference, such as an Iulaan number like (IUL)425-A1/1/2026/181, \
+exactly as written; null if none is given.
+deadline: the closing date for bids or applications as YYYY-MM-DD, followed by HH:MM in 24-hour time \
+when the page gives one; null if there is no deadline.
 description_en / description_dv: a one- or two-sentence summary taken from the item's own opening, \
 in that language; null if that language's page is missing."""),
     "newsroom": None,  # same as publications
@@ -228,6 +234,14 @@ def timestamp(date):
     return f"{date}T00:00:00Z" if date and re.match(r"^\d{4}-\d{2}-\d{2}$", date) else None
 
 
+def deadline_stamp(text):
+    """Claude's "YYYY-MM-DD" or "YYYY-MM-DD HH:MM" deadline as a Maldives-time timestamp (23:59 without a time)."""
+    match = re.match(r"^(\d{4}-\d{2}-\d{2})(?:[ T](\d{2}):(\d{2}))?", text or "")
+    if not match:
+        return None
+    return f"{match.group(1)}T{match.group(2) or '23'}:{match.group(3) or '59'}:00+05:00"
+
+
 def valid_date(date):
     return date if date and re.match(r"^\d{4}-\d{2}-\d{2}$", date) else None
 
@@ -244,7 +258,7 @@ def make_id(prefix, page, index, used):
     last = urlparse(page["url"]).path.rstrip("/").rsplit("/", 1)[-1] if page else ""
     number = re.findall(r"\d+", last)
     key = number[-1] if number and not page.get("inline") else (slugify(last) if last and not page.get("inline") else "")
-    key = key or str(index)
+    key = (page or {}).get("id_key") or key or str(index)
     doc_id = f"{prefix}-{key}"
     n = 2
     while doc_id in used:
@@ -286,9 +300,21 @@ def build_publication(item, fields, args):
             translations[lang] = {"title": page["title"], "description": summary or page["description"],
                                   "body": page["body"]}
     title = first(en and en["title"], dv and dv["title"])
+    facts = {**((dv or {}).get("facts") or {}), **((en or {}).get("facts") or {})}
+    doc = {
+        "source_type": first(args.category, main.get("source_type"), fields and fields.source_type, "News"),
+        "published_at": first(main.get("published_at"),
+                              timestamp(first(main["date"], fields and valid_date(fields.published_date)))),
+    }
+    # Only tenders, jobs and similar notices have these, so other items leave them out.
+    reference = first(facts.get("reference"), fields and fields.reference_number)
+    deadline = first(facts.get("deadline"), fields and deadline_stamp(fields and fields.deadline))
+    if reference:
+        doc["reference_number"] = reference
+    if deadline:
+        doc["deadline"] = deadline
     return {
-        "source_type": first(args.category, fields and fields.source_type, "News"),
-        "published_at": timestamp(first(main["date"], fields and valid_date(fields.published_date))),
+        **doc,
         "featuredImage": image(main["cover"], title),
         "files": file_entries(merged_files(item)),
         "translations": translations,
@@ -436,7 +462,8 @@ def build_docs(fmt, items, args, claude):
             fields = claude.extract(fmt, item, merged_files(item) if fmt == "downloads" else ())
             if fields is None:
                 item["claude_error"] = claude.last_error
-        doc = {"id": make_id(prefix, item["en"] or item["dv"], index, used)}
+        main = item["en"] or item["dv"]
+        doc = {"id": make_id(args.prefix or main.get("id_prefix") or prefix, main, index, used)}
         doc.update(BUILDERS[fmt](item, fields, args))
         docs.append(prune(doc))
         if claude and claude.client and (index % 10 == 0 or index == len(items)):

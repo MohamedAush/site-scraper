@@ -1,52 +1,54 @@
 {
   "docs": [
     {
-      "id": "article-7099",
-      "source_type": "News",
+      "id": "tender-181",
+      "source_type": "Tender",
       "published_at": "2026-10-08T08:00:00Z",
+      "reference_number": "(IUL)425-A1/1/2026/181",
+      "deadline": "2026-10-21T13:00:00+05:00",
       "featuredImage": {
-        "url": "https://example.com/cover.jpg",
+        "url": "https://example.com/tender-cover.jpg",
         "alt": "Cover description"
       },
       "files": [
         {
-          "label": "Annual report",
+          "label": "Tender document",
           "file": {
-            "url": "https://example.com/report.pdf"
+            "url": "https://example.com/tender.pdf"
           }
         }
       ],
       "translations": {
         "en": {
-          "title": "Example bilingual article",
+          "title": "Example tender",
           "description": "English summary.",
-          "body": "## English article\n\nContent with **bold text**."
+          "body": "Bid submission details."
         },
         "dv": {
           "title": "ދިވެހި ސުރުޚީ",
           "description": "ދިވެހި ޚުލާސާ",
-          "body": "## ދިވެހި\n\nދިވެހި ލިޔުން."
+          "body": "ދިވެހި ލިޔުން."
         }
       }
     },
     {
-      "id": "article-7100-en",
-      "translation_group": "article-7100",
+      "id": "report-7100-en",
+      "translation_group": "report-7100",
       "locale": "en",
-      "source_type": "News",
+      "source_type": "Reports",
       "title": "Separate-record example",
       "body": "English content.",
-      "featuredImage": "https://example.com/cover-2.jpg",
+      "featuredImage": "https://example.com/report-cover.jpg",
       "image_alt": "Cover description",
       "files": [
-        "https://example.com/appendix.pdf"
+        "https://example.com/report.pdf"
       ]
     },
     {
-      "id": "article-7100-dv",
-      "translation_group": "article-7100",
+      "id": "report-7100-dv",
+      "translation_group": "report-7100",
       "locale": "dv",
-      "source_type": "News",
+      "source_type": "Reports",
       "title": "ދިވެހި ސުރުޚީ",
       "body": "ދިވެހި ލިޔުން."
     }

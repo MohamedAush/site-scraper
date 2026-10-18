@@ -22,7 +22,7 @@ import os
 import re
 import sys
 import time
-from datetime import datetime
+from datetime import datetime, timedelta, timezone
 from html import escape
 from urllib.parse import parse_qs, quote, unquote, urldefrag, urlencode, urljoin, urlparse
 
@@ -279,6 +279,18 @@ def parse_date(text):
     return None
 
 
+def deadline_time(text):
+    """A deadline as a Maldives-time timestamp; 23:59 when the page gives the day but no time."""
+    date = parse_date(text)
+    if not date:
+        return None
+    clock = re.search(r"(\d{1,2})[:.](\d{2})\s*([ap])?\.?\s*m?\b", text, re.I)
+    hour, minute = (int(clock.group(1)), int(clock.group(2))) if clock else (23, 59)
+    if clock and clock.group(3):
+        hour = hour % 12 + (12 if clock.group(3).lower() == "p" else 0)
+    return f"{date}T{hour:02d}:{minute:02d}:00+05:00" if hour < 24 and minute < 60 else f"{date}T23:59:00+05:00"
+
+
 def date_only(text):
     """True for a line that is just a date, such as "01 October 2026" or "Posted: Oct 1, 2026"."""
     if not text or len(text) > 50 or not parse_date(text):
@@ -437,7 +449,8 @@ def parse_page(html, url):
         use_record(page, main_record(data), clean_url(og and og.get("content"), url) or "")
     use_fact_panel(page, soup)
     use_project_sections(page, soup)
-    page["empty"] = len(page_text) < 40 and not page["images"] and not page["videos"] and not page["data"]
+    page["empty"] = (len(page_text) < 40 and not page["images"] and not page["videos"] and not page["data"]
+                     and not page["files"] and not page["facts"].get("reference"))
     return page
 
 
@@ -517,6 +530,11 @@ FACT_LABELS = {
     "implementing": ("implementing agency", "implementing organisation", "implementing organization",
                      "executing agency"),
     "contact": ("contact", "contact details", "ގުޅުއްވާ"),
+    "reference": ("iulaan no.", "iulaan no", "iulaan number", "reference no.", "reference no", "reference number",
+                  "ref no.", "ref no", "tender no.", "tender no", "tender number", "bid no.", "bid number",
+                  "އިއުލާން ނަންބަރ", "އިއުލާން ނަންބަރު", "އިޢުލާން ނަންބަރު"),
+    "deadline": ("deadline", "expiry date", "closing date", "submission deadline", "bid submission deadline",
+                 "last date", "due date", "މުއަދަތު ހަމަވާ ތާރީޚް", "ސުންގަޑި"),
 }
 LABEL_KEYS = {label: key for key, labels in FACT_LABELS.items() for label in labels}
 
@@ -538,6 +556,8 @@ def use_fact_panel(page, soup):
         if not key or key in facts or label_el.find(True, recursive=False) and label_el.name in ("div", "th"):
             continue
         value_el = label_el.find_next_sibling()
+        if value_el is None and len(label_el.parent.find_all(True, recursive=False)) == 1:
+            value_el = label_el.parent.find_next_sibling()  # label and value in side-by-side columns
         if value_el is None:
             continue
         hidden = value_el.select_one("[data-cfemail]")
@@ -554,6 +574,10 @@ def use_fact_panel(page, soup):
             if name:
                 facts["contact_name"] = name
             facts[key] = True
+        elif key == "deadline":
+            facts[key] = deadline_time(value)
+            if not facts[key]:
+                del facts[key]
         elif key in ("start", "end"):
             date = parse_date(value)
             if date:
@@ -561,6 +585,9 @@ def use_fact_panel(page, soup):
         else:
             facts[key] = value
     facts.pop("contact", None)
+    reference = re.search(r"\(IUL\)[\w()/.-]+", page["body"] or "")
+    if reference and "reference" not in facts:
+        facts["reference"] = reference.group()  # the standard Iulaan number, when the page only says it in the text
     # Facts from the page's embedded data are exact; the panel only fills what they lack.
     page["facts"] = {**facts, **page["facts"]}
 
@@ -904,6 +931,96 @@ def pair_by(en_pages, dv_pages):
 
 # ---------------------------------------------------------------------------------------------- main
 
+CMS_HOST = re.compile(r"https://cms\.[a-z0-9.-]+\.[a-z]+")
+MALDIVES_TIME = timezone(timedelta(hours=5))
+
+
+def cms_records(session, api, args, **query):
+    """Records from a Payload CMS collection, up to --limit; [] when the API does not answer with them."""
+    records, page = [], 1
+    while True:
+        checkpoint()
+        params = {"limit": 100, "page": page, "depth": 1, "fallback-locale": "none", **query}
+        try:
+            data = session.get(f"{api}?{urlencode(params)}", timeout=args.timeout).json()
+        except (requests.RequestException, ValueError):
+            return records
+        docs = data.get("docs") if isinstance(data, dict) else None
+        if not isinstance(docs, list):
+            return records
+        records += [r for r in docs if isinstance(r, dict) and r.get("id") is not None]
+        if args.limit and len(records) >= args.limit or not data.get("hasNextPage"):
+            return records[:args.limit or None]
+        page += 1
+
+
+def cms_page(record, lang, listing_url, collection):
+    """A record from the CMS as a parsed page in one language; None when it has no title in that language."""
+    title = (record.get("title") or "").strip()
+    if not title:
+        return None
+    meta = record.get("meta") or {}
+    files = [{"label": d.get("label") or d["file"].get("filename") or "Document", "url": d["file"]["url"]}
+             for d in record.get("documents") or [] if isinstance(d.get("file"), dict) and d["file"].get("url")]
+    gazette = [g["url"] for g in record.get("gazetteLinks") or [] if g.get("url")]
+    cover = record.get("featuredImage") or record.get("coverImage")
+    cover = cover.get("url") if isinstance(cover, dict) else None
+    published = record.get("publishedDate") or record.get("publishedAt")
+    deadline = record.get("deadline")
+    if deadline:
+        deadline = datetime.fromisoformat(deadline.replace("Z", "+00:00")).astimezone(MALDIVES_TIME)
+    reference = record.get("referenceNumber")
+    serial = re.findall(r"\d+", reference or "")
+    return {
+        "url": f"{listing_url.rstrip('/')}/{record.get('slug') or record['id']}",
+        "lang": lang,
+        "title": title,
+        "date": (published or "")[:10] or None,
+        "published_at": re.sub(r"\.\d+Z$", "Z", published) if published else None,
+        "description": meta.get("description"),
+        "body": "\n\n".join(f"<{url}>" for url in gazette),
+        "cover": {"url": cover, "alt": title} if cover else None,
+        "images": [], "files": files, "videos": [], "data": record, "other_lang": None, "timeline": [],
+        "facts": {k: v for k, v in (("reference", reference),
+                                    ("deadline", deadline and deadline.isoformat(timespec="seconds"))) if v},
+        "source_type": re.sub(r"s$", "", collection).replace("-", " ").title(),
+        "id_prefix": re.sub(r"s$", "", collection),
+        "id_key": serial[-1] if serial else str(record["id"]),
+        "empty": False,
+    }
+
+
+def cms_pages(session, args):
+    """When item pages build themselves with JavaScript, the items from the site's Payload CMS API
+    (cms.<site>/api/<collection>, named like the listing): (pages, {index: Dhivehi page}),
+    or None when there is no such API."""
+    named = CMS_HOST.search(get(session, args.url, args.timeout) or "")
+    site = re.sub(r"^www\.", "", urlparse(args.url).hostname or "")
+    collection = urlparse(args.url).path.rstrip("/").rsplit("/", 1)[-1]
+    if not site or not re.fullmatch(r"[a-z][a-z0-9-]*", collection):
+        return None
+    api = f"{named.group() if named else 'https://cms.' + site}/api/{collection}"
+    english = cms_records(session, api, args, locale="en")
+    if not english:
+        return None
+    dhivehi = {}
+    for start in range(0, len(english), 100):
+        ids = ",".join(str(r["id"]) for r in english[start:start + 100])
+        dhivehi.update({r["id"]: r for r in cms_records(session, api, args, locale="dv", **{"where[id][in]": ids})})
+    dv_url = args.dv_url or re.sub(r"/en(/|$)", r"/dv\1", args.url, count=1)
+    pages, others = [], {}
+    for record in english:
+        en = cms_page(record, "en", args.url, collection)
+        dv = cms_page(dhivehi.get(record["id"], {}), "dv", dv_url, collection) if record["id"] in dhivehi else None
+        if en:
+            others[len(pages)] = dv
+            pages.append(en)
+        elif dv:
+            pages.append(dv)
+    log(f"  the item pages load with JavaScript; read {len(pages)} items from {api} instead")
+    return pages, {i: page for i, page in others.items() if page}
+
+
 def read_pages(session, url, args, single=False):
     """Parsed pages for every item under url (or url itself when it is one item)."""
     html = get(session, url, args.timeout)
@@ -1040,9 +1157,21 @@ def scrape(args, api_key=None):
     claude = None if args.no_llm else Claude.connect(args.model, api_key)
 
     log(f"reading {args.url}")
-    pages, failed = read_pages(session, args.url, args)
+    error = None
+    try:
+        pages, failed = read_pages(session, args.url, args)
+    except RuntimeError as exc:
+        pages, failed, error = [], [], exc
+    cms = None
+    if not pages and not args.single and not getattr(args, "listing_only", False) \
+            and args.format in ("publications", "newsroom"):
+        cms = cms_pages(session, args)
+    if error and not cms:
+        raise error
     others = {}
-    if args.dv_url:
+    if cms:
+        (pages, others), failed = cms, []  # the API replaces the pages that showed nothing
+    elif args.dv_url:
         log(f"reading {args.dv_url}")
         dv_pages, dv_failed = read_pages(session, args.dv_url, args)
         failed += dv_failed
@@ -1050,7 +1179,7 @@ def scrape(args, api_key=None):
         # Items only the second listing has (no version in the first language) are items too.
         paired = {id(page) for page in others.values()}
         pages += [page for page in dv_pages if id(page) not in paired]
-    if not args.no_dv:
+    if not args.no_dv and not cms:
         # The language switcher finds the other version wherever the second listing has it, past --limit too.
         # Entries listed on one page share it; nothing to pair.
         urls = {page["url"] for page in pages} | {page["url"] for page in others.values()}
