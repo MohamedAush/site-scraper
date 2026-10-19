@@ -1,57 +1,6 @@
 {
   "docs": [
     {
-      "id": "article-5604",
-      "source_type": "Statement",
-      "published_at": "2026-09-16T12:27:32Z",
-      "reference_number": "2026/Statement/35",
-      "featuredImage": {
-        "url": "https://raw.githubusercontent.com/MohamedAush/site-scraper/main/ready_to_import/foreign/images/2026/STATEMENT%20BY%20GOVT%20OF%20MALDIVES%201.png",
-        "alt": "STATEMENT BY GOVT OF MALDIVES 1"
-      },
-      "translations": {
-        "en": {
-          "title": "Statement by the Government of Maldives condemning the attempted Houthi drone attack targeting the Holy City of Makkah",
-          "description": "The Government of Maldives strongly condemns the attempted drone attack launched by the Houthi militia towards the Holy City of Makkah, which was intercepted and destroyed by the Royal Saudi Air Defence Forces before it entered the restricted airspace of the city.",
-          "body": "The Government of Maldives strongly condemns the attempted drone attack launched by the Houthi militia towards the Holy City of Makkah, which was intercepted and destroyed by the Royal Saudi Air Defence Forces before it entered the restricted airspace of the city.\n\nThe Maldives considers any attempt to threaten the Holy City of Makkah and endanger pilgrims, worshippers, citizens and residents an unacceptable violation of the sanctity of Islam’s holiest city, international laws and a dangerous escalation that threatens regional peace and security.\n\nThe Maldives reaffirms its full solidarity with the Government and the brotherly people of the Kingdom of Saudi Arabia and its unwavering support for all measures undertaken by the Kingdom to safeguard its sovereignty and security and to protect the Two Holy Mosques.\n\nEnds"
-        }
-      }
-    },
-    {
-      "id": "article-5586",
-      "source_type": "Statement",
-      "published_at": "2026-09-12T14:34:19Z",
-      "reference_number": "2026/Statement/34",
-      "featuredImage": {
-        "url": "https://raw.githubusercontent.com/MohamedAush/site-scraper/main/ready_to_import/foreign/images/2026/STATEMENT%20BY%20GOVT%20OF%20MALDIVES%201.png",
-        "alt": "STATEMENT BY GOVT OF MALDIVES 1"
-      },
-      "translations": {
-        "en": {
-          "title": "Statement by the Government of Maldives condemning the targeting of the East-West Pipeline in the Kingdom of Saudi Arabia",
-          "description": "The Government of the Republic of Maldives strongly condemns the targeting of the East-West Pipeline in the Riyadh and Madinah regions of the Kingdom of Saudi Arabia by several drones originating from Iraqi territory, causing injuries to civilians and damage to the pipeline.",
-          "body": "The Government of the Republic of Maldives strongly condemns the targeting of the East-West Pipeline in the Riyadh and Madinah regions of the Kingdom of Saudi Arabia by several drones originating  from Iraqi territory, causing injuries to civilians and damage to the pipeline.\n\nThe Maldives considers the attack on vital infrastructure, a blatant violation of the sovereignty and territorial integrity of the Kingdom of Saudi Arabia and a serious threat to regional peace, security and stability.\n\nThe Maldives reiterates its solidarity with the Government and the brotherly people of Saudi Arabia and reaffirms its support for all measures undertaken to safeguard its sovereignty, security, and territorial integrity."
-        }
-      }
-    },
-    {
-      "id": "article-5584",
-      "source_type": "Statement",
-      "published_at": "2026-09-09T12:44:12Z",
-      "reference_number": "2026/Statement/33",
-      "featuredImage": {
-        "url": "https://raw.githubusercontent.com/MohamedAush/site-scraper/main/ready_to_import/foreign/images/2026/STATEMENT%20BY%20GOVT%20OF%20MALDIVES%201.png",
-        "alt": "STATEMENT BY GOVT OF MALDIVES 1"
-      },
-      "translations": {
-        "en": {
-          "title": "Statement by the Government of Maldives welcoming the statement by the United Kingdom, Canada, Denmark, Finland, France, Iceland, Ireland, Norway, Poland, Portugal, Spain, and Sweden on the Two State Solution",
-          "description": "The Government of Maldives welcomes the announcement made by the United Kingdom, Canada, Denmark, Finland, France, Iceland, Ireland, Norway, Poland, Portugal, Spain, and Sweden on the Two State Solution.",
-          "body": "The Government of Maldives welcomes the announcement made by the United Kingdom, Canada, Denmark, Finland, France, Iceland, Ireland, Norway, Poland, Portugal, Spain, and Sweden on the Two State Solution.\n\nThe Maldives notes in particular the collective resolve expressed in the Joint Statement to oppose actions amounting to the annexation of Palestinian land and the forcible displacement of the Palestinian people.\n\nThe development underscores renewed international momentum toward peace and stability in the region, reflecting a growing international consensus on the urgent need to ensure peace, security, and dignity for the Palestinian people.\n\nThe Maldives reiterates its unequivocal opposition to the continued expansion of Israeli settlements in the Occupied Palestinian Territory.\n\nThe Maldives remains steadfast in its support for the legitimate rights of the Palestinian people, including their inalienable right to self-determination and to the establishment of an independent, sovereign, and viable State of Palestine, based on the pre-1967 borders, with East Jerusalem as its capital."
-        }
-      }
-    },
-    {
       "id": "article-5581",
       "source_type": "Statement",
       "published_at": "2026-09-08T12:11:38Z",
@@ -1807,7 +1756,7 @@
       }
     }
   ],
-  "totalDocs": 100,
+  "totalDocs": 97,
   "hasNextPage": false,
   "nextPage": null
 }

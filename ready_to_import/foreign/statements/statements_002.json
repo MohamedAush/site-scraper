@@ -353,22 +353,6 @@
       }
     },
     {
-      "id": "article-89",
-      "source_type": "Statement",
-      "published_at": "2023-06-08T15:51:04Z",
-      "featuredImage": {
-        "url": "https://raw.githubusercontent.com/MohamedAush/site-scraper/main/ready_to_import/foreign/images/statementdefault.jpg",
-        "alt": "statementdefault"
-      },
-      "translations": {
-        "en": {
-          "title": "Statement by the Government of the Republic of Maldives condemning the storming of the Embassy of the Kingdom of Saudi Arabia in Sudan",
-          "description": "The Government of Maldives condemns the storming and vandalism of the Embassy of the Kingdom of Saudi Arabia in Khartoum, Sudan, in addition to sabotaging the residences of Saudi staff working in the embassy which violate the sanctity and safety of the headquarters of diplomatic missions and their…",
-          "body": "The Government of Maldives condemns the storming and vandalism of the Embassy of the Kingdom of Saudi Arabia in Khartoum, Sudan, in addition to sabotaging the residences of Saudi staff working in the embassy which violate the sanctity and safety of the headquarters of diplomatic missions and their employees.\n\nThe Government of Maldives stresses on the importance of protecting diplomatic headquarters and their residences, and the need to stop all forms of violence targeting their employees, which are in clear violation of international law and diplomatic norms. Such attacks undermine the efforts by the Kingdom of Saudi Arabia, the international community, and the concerned parties to find a peaceful solution to the conflict.\n\nThe Government of Maldives reaffirms its solidarity with the Government and the fraternal people of the Kingdom of Saudi Arabia and reiterates its commitment to peace and stability in the region."
-        }
-      }
-    },
-    {
       "id": "article-1323",
       "source_type": "Statement",
       "published_at": "2023-05-12T13:41:29Z",
@@ -1277,31 +1261,7 @@
       }
     },
     {
-      "id": "article-1144",
-      "source_type": "Statement",
-      "published_at": "2017-01-16T10:35:36Z",
-      "translations": {
-        "en": {
-          "title": "PRESS STATEMENT",
-          "description": "29 April 2015; Following the earthquake that struck Nepal on 25 April 2015, the Ministry of Foreign Affairs has been closely monitoring the status of Maldivians and made arrangements to evacuate those who wished to leave Nepal at the earliest opportunity.",
-          "body": "29 April 2015; Following the earthquake that struck Nepal on 25 April 2015, the Ministry of Foreign Affairs has been closely monitoring the status of Maldivians and made arrangements to evacuate those who wished to leave Nepal at the earliest opportunity.\n\nIn this regard, 14 Maldivians who were residing in Biratnagar and evacuated to New Delhi, arrived in Maldives at 01.25 am tonight via UL 105. Furthermore, 77 Maldivians in other parts of Nepal who were evacuated from Kathmandu to Dhaka through a Biman Bangladesh Airlines chartered flight, arrived in Maldives at 03.10 am tonight, via a special flight of the national carrier Maldivian Q2 551.\n\nThe evacuation efforts of Maldivians in Nepal were carried under the guidance and instructions of H.E. President Abdullah Yameen Abdul Gayoom, and with the assistance and support of many collaborators. The Ministry wishes to express sincere appreciation to the Honorary Consul of Maldives in Nepal\nMr Nirvana Chaudhary, Maldivian staff working at the SAARC Secretariat, High Commission of Maldives in New Delhi and High Commission of Maldives in Dhaka, Mr Chandra Shekhar Jaiswal, Honorary Consul General of Maldives in Calcutta, H.E. Rear Admiral Kazi Sarwar Hossain (TAS) (CD) ndc psc, High Commissioner of Bangladesh to the Maldives, Maldives Medical Association and the Ministry of Islamic Affairs. The Ministry also wishes to note the support received from Island Aviation Services Ltd, Biman Bangladesh Airlines, Government of Bangladesh, and the Government of Nepal.\n\nENDS"
-        }
-      }
-    },
-    {
       "id": "article-1141",
-      "source_type": "Statement",
-      "published_at": "2015-06-03T08:03:43Z",
-      "translations": {
-        "en": {
-          "title": "PRESS STATEMENT",
-          "description": "03 June 2015; Please find below a statement by the Minister of Foreign Affairs H E Dunya Maumoon.",
-          "body": "03 June 2015; Please find below a statement by the Minister of Foreign Affairs H E Dunya Maumoon.\n\n“I am concerned about the reaction by some foreign Governments regarding some judicial trials in the Maldives, including the trial of the leader of the Islamic religious party of the Maldives. Rest assured the Government will not intervene in the judicial process of the country.\n\nJustice will be served as per our laws and the Constitution of the Maldives. Criminal activities and incitement to violence will not be condoned”.\n\nENDS"
-        }
-      }
-    },
-    {
-      "id": "article-1142",
       "source_type": "Statement",
       "published_at": "2015-06-03T08:03:43Z",
       "translations": {
@@ -1325,7 +1285,7 @@
       }
     }
   ],
-  "totalDocs": 100,
+  "totalDocs": 97,
   "hasNextPage": false,
   "nextPage": null
 }
