@@ -1,0 +1,68 @@
+{
+    "docs": [
+        {
+            "id": "article-credit-rating-action-by-moodys-ratings",
+            "source_type": "News",
+            "files": [
+            {
+                "label": "OhYxC4t71ekZcSR8ZhgsFtdCJAXYeFTsIv6KLfgG",
+                "file": {
+                "url": "https://www.finance.gov.mv/public/attachments/OhYxC4t71ekZcSR8ZhgsFtdCJAXYeFTsIv6KLfgG.pdf"
+                }
+            }
+            ],
+            "translations": {
+            "en": {
+                "title": "Credit Rating Action by Moody's Ratings",
+                "description": "Credit Rating Action by Moody's Ratings",
+                "body": ""
+            }
+            }
+        },
+        {
+            "id": "article-155",
+            "source_type": "News",
+            "files": [
+              {
+                "label": "CEoDpZnn806lgUrX60Im4jsknHDv7LRKFNU19Dai",
+                "file": {
+                  "url": "https://www.finance.gov.mv/public/attachments/CEoDpZnn806lgUrX60Im4jsknHDv7LRKFNU19Dai.pdf"
+                }
+              }
+            ],
+            "translations": {
+              "en": {
+                "title": "Iulaan 155_Resource Mobilization Analyst",
+                "description": "Iulaan 155_Resource Mobilization Analyst",
+                "body": ""
+              }
+            }
+          },
+          {
+            "id": "article-press-release-regarding-pay-commission-works",
+            "source_type": "News",
+            "featuredImage": {
+              "url": "https://www.finance.gov.mv/public/attachments/1sAXfENBudyVDfyJ2vzHAUNygfLrqcOXGz9ti7AF.jpeg",
+              "alt": "Press Release Regarding Pay Commission Works"
+            },
+            "files": [
+              {
+                "label": "02mZI7mygCMO6aWq1G5xsldEiJanOw0L2rZs0jAb",
+                "file": {
+                  "url": "https://www.finance.gov.mv/public/attachments/02mZI7mygCMO6aWq1G5xsldEiJanOw0L2rZs0jAb.pdf"
+                }
+              }
+            ],
+            "translations": {
+              "en": {
+                "title": "Press Release Regarding Pay Commission Works",
+                "description": "Press Release Regarding Pay Commission Works",
+                "body": ""
+              }
+            }
+          }
+    ],
+    "totalDocs": 3,
+    "hasNextPage": false,
+    "nextPage": null
+  }
