@@ -19,10 +19,6 @@
     {
       "id": "article-chief-internal-auditor",
       "source_type": "News",
-      "featuredImage": {
-        "url": "https://cms.one.gov.mv/api/media/file/Press%20Releases-12.jpg",
-        "alt": "Chief Internal Auditor"
-      },
       "translations": {
         "en": {
           "title": "Chief Internal Auditor",
@@ -35,10 +31,6 @@
       "id": "article-minister-expresses-gratitude-for-chinas-emergency-assistance-and-reaffirms-commitment-to-maldiveschina-partnership-gnxf",
       "source_type": "News",
       "published_at": "2025-12-11T00:00:00Z",
-      "featuredImage": {
-        "url": "https://cms.one.gov.mv/api/media/file/Press%20Releases-12.jpg",
-        "alt": "Minister expresses gratitude for China’s emergency assistance and reaffirms commitment to Maldives–China partnership"
-      },
       "translations": {
         "en": {
           "title": "Minister expresses gratitude for China’s emergency assistance and reaffirms commitment to Maldives–China partnership",
@@ -50,10 +42,6 @@
     {
       "id": "article-2",
       "source_type": "News",
-      "featuredImage": {
-        "url": "https://cms.one.gov.mv/api/media/file/Press%20Releases-12.jpg",
-        "alt": "Press Release - Moody's Ratings Changes Outlook to Stable from Negative, Affirming the Caa2 Rating"
-      },
       "files": [
         {
           "label": "4aMDLZxAUkjjUZJUEAXbAflNbsBegFOVhQnW6IB5",
@@ -79,10 +67,6 @@
     {
       "id": "article-listing-of-government-treasury-bonds-on-mse",
       "source_type": "News",
-      "featuredImage": {
-        "url": "https://cms.one.gov.mv/api/media/file/Press%20Releases-12.jpg",
-        "alt": "Listing of Government Treasury Bonds on MSE"
-      },
       "files": [
         {
           "label": "SliXGCLyAGiioALyGs2lDMYnNDFxGSunTjSKPQg3",
@@ -102,10 +86,6 @@
     {
       "id": "article-press-release-fitch-ratings-maintains-maldives-sovereign-rating-at-cc",
       "source_type": "News",
-      "featuredImage": {
-        "url": "https://cms.one.gov.mv/api/media/file/Press%20Releases-12.jpg",
-        "alt": "Press Release - Fitch Ratings Maintains Maldives' Sovereign Rating at 'CC'"
-      },
       "files": [
         {
           "label": "cnkEoUKeMJyT0aJFCMDcaRxSM3Z6vISbotCLaOBW",
@@ -131,10 +111,6 @@
     {
       "id": "article-press-release-handover-of-uninhabited-islands-to-councils",
       "source_type": "News",
-      "featuredImage": {
-        "url": "https://cms.one.gov.mv/api/media/file/Press%20Releases-12.jpg",
-        "alt": "Press Release - Handover of Uninhabited Islands to Councils"
-      },
       "files": [
         {
           "label": "NpHYOUXzaz0jsyCHivNWjTn1pAMZxLe7jGB9Tbeh",
@@ -177,10 +153,6 @@
     {
       "id": "article-press-release-maldives-partners-with-the-nature-conservancy-tnc-to-work-on-sustainable-financing-solutions",
       "source_type": "News",
-      "featuredImage": {
-        "url": "https://cms.one.gov.mv/api/media/file/Press%20Releases-12.jpg",
-        "alt": "Press Release - Maldives Partners with The Nature Conservancy (TNC) to Work on Sustainable Financing Solutions"
-      },
       "files": [
         {
           "label": "Wk1PM8CJmXRSb5EkRTOUyvdbA7NcVNkcQdzR3ymC",
@@ -200,10 +172,6 @@
     {
       "id": "article-press-release-settlement-of-sukuk-coupon-payment",
       "source_type": "News",
-      "featuredImage": {
-        "url": "https://cms.one.gov.mv/api/media/file/Press%20Releases-12.jpg",
-        "alt": "Press Release - Settlement of Sukuk Coupon Payment"
-      },
       "files": [
         {
           "label": "f5hHZfi4CGVxCEp8XWFJ8V1iAIgMdZwPSOFI2Jt3",
@@ -223,10 +191,6 @@
     {
       "id": "article-press-release-credit-rating-action-of-the-maldives-by-moodys",
       "source_type": "News",
-      "featuredImage": {
-        "url": "https://cms.one.gov.mv/api/media/file/Press%20Releases-12.jpg",
-        "alt": "Press Release - Credit rating action of the Maldives by Moody's"
-      },
       "files": [
         {
           "label": "mDVQr8tV9dX0tfunTsEqMJg0FRtDlawKx55WatVU",
@@ -246,10 +210,6 @@
     {
       "id": "article-press-release-credit-rating-action-of-the-maldives-by-fitch-ratings",
       "source_type": "News",
-      "featuredImage": {
-        "url": "https://cms.one.gov.mv/api/media/file/Press%20Releases-12.jpg",
-        "alt": "Credit rating action of the Maldives by Fitch Ratings"
-      },
       "files": [
         {
           "label": "miAAqSZhUIYhiZVScuPCLOX5UmAMcgaWMArTu7NY",
@@ -269,10 +229,6 @@
     {
       "id": "article-press-release-on-loan-signing-for-small-islands-hospitals-project-between-the-government-of-maldives-and-kuwait-fund-for-arab-economic-development",
       "source_type": "News",
-      "featuredImage": {
-        "url": "https://cms.one.gov.mv/api/media/file/Press%20Releases-12.jpg",
-        "alt": "Press Release on Loan Signing for “Small Islands Hospitals Project” between the Government of Maldives and Kuwait Fund for Arab Economic Development"
-      },
       "files": [
         {
           "label": "0quRVsnMkjlwAhkNY72Xqydih6qdil4UwJguCeEO",
@@ -292,10 +248,6 @@
     {
       "id": "article-press-release-regarding-the-misleading-statements-about-the-fiscal-constraints-and-financial-situation-of-the-state-and-the-defamatory-statements-about-the-ministry",
       "source_type": "News",
-      "featuredImage": {
-        "url": "https://cms.one.gov.mv/api/media/file/Press%20Releases-12.jpg",
-        "alt": "Press Release regarding the misleading statements about the fiscal constraints and financial situation of the State"
-      },
       "files": [
         {
           "label": "MFoofM0fSTc7OKVu4yMmFY3a2S3VzkaRpSq5kjhQ",
@@ -315,10 +267,6 @@
     {
       "id": "article-credit-rating-action-of-maldives-by-moodys-ratings",
       "source_type": "News",
-      "featuredImage": {
-        "url": "https://cms.one.gov.mv/api/media/file/Press%20Releases-12.jpg",
-        "alt": "Credit Rating action of Maldives by Moody's Ratings"
-      },
       "files": [
         {
           "label": "JED5DCp8fFLMf4KHUdAjpB22H7F8jFK7h46mnQxD",
@@ -338,10 +286,6 @@
     {
       "id": "article-credit-rating-action-of-maldives-by-fitch-ratings",
       "source_type": "News",
-      "featuredImage": {
-        "url": "https://cms.one.gov.mv/api/media/file/Press%20Releases-12.jpg",
-        "alt": "Credit rating action of Maldives by Fitch Ratings"
-      },
       "files": [
         {
           "label": "MDje8bsURAHIRLQdmvw4922pRgMvJwzBzJAKtqoM",
@@ -361,10 +305,6 @@
     {
       "id": "article-loan-signing-for-the-expansion-of-velana-international-airport-via-project-additional-loan-and-the-health-sector-development-project-between-the-government-of-the-maldives-and-the-saudi-fund-for-development-sfd",
       "source_type": "News",
-      "featuredImage": {
-        "url": "https://cms.one.gov.mv/api/media/file/Press%20Releases-12.jpg",
-        "alt": "Loan Signing for the 'Expansion of Velana International Airport (VIA) Project (Additional Loan)' AND the 'Health Sector Development Project' between the Government of the Maldives and the Saudi Fund for Development (SFD)"
-      },
       "files": [
         {
           "label": "SsbENdjUxlGwzL2yIeDAfgoBz22TASp1Kmhg7xI3",
@@ -384,10 +324,6 @@
     {
       "id": "article-765",
       "source_type": "News",
-      "featuredImage": {
-        "url": "https://cms.one.gov.mv/api/media/file/Press%20Releases-12.jpg",
-        "alt": "Job Vacancy - Budget Analyst"
-      },
       "files": [
         {
           "label": "XOiROS8SJjfIde3Gb8ByTEzKeWEG0JCSZC0wG7ph",
@@ -407,10 +343,6 @@
     {
       "id": "article-regarding-the-news-that-amount-of-foreign-currency-withdrawal-from-credit-and-debit-cards-will-be-reduced",
       "source_type": "News",
-      "featuredImage": {
-        "url": "https://cms.one.gov.mv/api/media/file/Press%20Releases-12.jpg",
-        "alt": "Regarding the news that amount of foreign currency withdrawal from Credit and Debit Cards will be reduced"
-      },
       "files": [
         {
           "label": "4yQ9g16PH4CNkma6buSFoJbi5LJNLrqabZOmj0Jx",
@@ -430,10 +362,6 @@
     {
       "id": "article-increase-in-bank-of-maldives-card-limit-for-students-studying-abroad",
       "source_type": "News",
-      "featuredImage": {
-        "url": "https://cms.one.gov.mv/api/media/file/Press%20Releases-12.jpg",
-        "alt": "Increase in Bank of Maldives' card limit for students studying abroad"
-      },
       "files": [
         {
           "label": "23m5an69ra36I5EazcLtOLljw95945kUpuQoesoz",
@@ -453,10 +381,6 @@
     {
       "id": "article-transfer-all-municipal-services-provided-in-hulhumale-by-hdc-to-male-city-council",
       "source_type": "News",
-      "featuredImage": {
-        "url": "https://cms.one.gov.mv/api/media/file/Press%20Releases-12.jpg",
-        "alt": "Transfer all municipal services provided in Hulhumalé by HDC to Malé City Council"
-      },
       "files": [
         {
           "label": "KmyZ0mQxIZ45nNRDjvOGsotzaVzm2aiBxViQ0PYm",
@@ -476,10 +400,6 @@
     {
       "id": "article-32",
       "source_type": "News",
-      "featuredImage": {
-        "url": "https://cms.one.gov.mv/api/media/file/Press%20Releases-12.jpg",
-        "alt": "Termination of overdrawing of public bank after suspension of Article 32 (a) of the Fiscal Responsibility Act"
-      },
       "files": [
         {
           "label": "C00YZurBh3yuLHHmmlpW3z4PbhzFLUrPmkInjUKB",
@@ -499,10 +419,6 @@
     {
       "id": "article-market-announcement-for-issuance-of-treasury-bond",
       "source_type": "News",
-      "featuredImage": {
-        "url": "https://cms.one.gov.mv/api/media/file/Press%20Releases-12.jpg",
-        "alt": "Market Announcement for Issuance of Treasury Bond"
-      },
       "files": [
         {
           "label": "QUseAHG4EFL2FzItvJ3clpcqqCtu1DiB5kG7TKbR",
@@ -522,10 +438,6 @@
     {
       "id": "article-suspension-removal-of-key-articles-of-the-fiscal-responsibility-act",
       "source_type": "News",
-      "featuredImage": {
-        "url": "https://cms.one.gov.mv/api/media/file/Press%20Releases-12.jpg",
-        "alt": "Suspension removal of key articles of the Fiscal Responsibility Act"
-      },
       "files": [
         {
           "label": "Suspension removal of key articles of the Fiscal Responsibility Act",
@@ -545,10 +457,6 @@
     {
       "id": "article-dharaneege-keesaa-ge-refinancing-masaikatha-gulhey",
       "source_type": "News",
-      "featuredImage": {
-        "url": "https://cms.one.gov.mv/api/media/file/Press%20Releases-12.jpg",
-        "alt": "Dharaneege keesaa ge refinancing masaikatha gulhey"
-      },
       "files": [
         {
           "label": "Dharaneege keesaa ge refinancing masaikatha gulhey",
@@ -568,10 +476,6 @@
     {
       "id": "article-accelerating-sustainable-system-development-using-renewable-energy-project",
       "source_type": "News",
-      "featuredImage": {
-        "url": "https://cms.one.gov.mv/api/media/file/Press%20Releases-12.jpg",
-        "alt": "Signing of the Financing Agreements for “Accelerating Sustainable System Development Using Renewable Energy Project”"
-      },
       "files": [
         {
           "label": "Signing of the Financing Agreements for “Accelerating Sustainable System Development Using Renewable Energy Project”",
@@ -597,10 +501,6 @@
     {
       "id": "article-gellumuge-badhaluge-gothugai-faisaa-dhookohfaivaa-kamah-media-gai-dhauru-vamundhaa-habaraa-gulhey",
       "source_type": "News",
-      "featuredImage": {
-        "url": "https://cms.one.gov.mv/api/media/file/Press%20Releases-12.jpg",
-        "alt": "Gellumuge badhaluge gothugai faisaa dhookohfaivaa kamah media gai dhauru vamundhaa habaraa gulhey"
-      },
       "files": [
         {
           "label": "Gellumuge badhaluge gothugai faisaa dhookohfaivaa kamah media gai dhauru vamundhaa habaraa gulhey",
@@ -620,10 +520,6 @@
     {
       "id": "article-debt-management-analyst-nwbs",
       "source_type": "News",
-      "featuredImage": {
-        "url": "https://cms.one.gov.mv/api/media/file/Press%20Releases-12.jpg",
-        "alt": "Debt Management Analyst"
-      },
       "files": [
         {
           "label": "Debt Management Analyst",
@@ -643,10 +539,6 @@
     {
       "id": "article-2024",
       "source_type": "News",
-      "featuredImage": {
-        "url": "https://cms.one.gov.mv/api/media/file/Press%20Releases-12.jpg",
-        "alt": "2024 ge budget majleehah husha halhaifi"
-      },
       "files": [
         {
           "label": "2024 ge budget majleehah husha halhaifi",
@@ -672,10 +564,6 @@
     {
       "id": "article-2023",
       "source_type": "News",
-      "featuredImage": {
-        "url": "https://cms.one.gov.mv/api/media/file/Press%20Releases-12.jpg",
-        "alt": "Ministry of Finance proposes supplementary budget for 2023"
-      },
       "files": [
         {
           "label": "Ministry of Finance proposes supplementary budget for 2023",
@@ -695,10 +583,6 @@
     {
       "id": "article-signing-of-the-financing-agreement-for-maldives-competitiveness-and-growth-project",
       "source_type": "News",
-      "featuredImage": {
-        "url": "https://cms.one.gov.mv/api/media/file/Press%20Releases-12.jpg",
-        "alt": "Signing of the Financing Agreement for “Maldives Competitiveness and Growth Project"
-      },
       "files": [
         {
           "label": "KwVmXmWy7mGk9GAJY0DEUp4JO9uEXlgBhvrYABiH",
@@ -718,10 +602,6 @@
     {
       "id": "article-signing-of-the-financing-agreement-for-transforming-fisheries-sector-in-south-west-indian-region-and-maldives-project",
       "source_type": "News",
-      "featuredImage": {
-        "url": "https://cms.one.gov.mv/api/media/file/Press%20Releases-12.jpg",
-        "alt": "Signing of the Financing Agreement for “Transforming Fisheries Sector in South-West Indian Region and Maldives Project”"
-      },
       "files": [
         {
           "label": "y3ipk2EoNQcJsFSdezhWM5FP1wjoLHXdiioG18aA",
@@ -741,10 +621,6 @@
     {
       "id": "article-bulk-procurement-agreement-signing",
       "source_type": "News",
-      "featuredImage": {
-        "url": "https://cms.one.gov.mv/api/media/file/Press%20Releases-12.jpg",
-        "alt": "Bulk procurement agreement Signing"
-      },
       "files": [
         {
           "label": "Signing of bulk procurement agreement",
@@ -771,10 +647,6 @@
       "id": "article-2022",
       "source_type": "News",
       "published_at": "2022-12-19T00:00:00Z",
-      "featuredImage": {
-        "url": "https://cms.one.gov.mv/api/media/file/Press%20Releases-12.jpg",
-        "alt": "Global Investor Call, 19th December 2022"
-      },
       "files": [
         {
           "label": "Global Investor Call, 19th December 2022",
@@ -794,10 +666,6 @@
     {
       "id": "article-reopens-applications-for-economic-stimulus-loan",
       "source_type": "News",
-      "featuredImage": {
-        "url": "https://cms.one.gov.mv/api/media/file/Press%20Releases-12.jpg",
-        "alt": "Reopens applications for Economic Stimulus Loan"
-      },
       "files": [
         {
           "label": "Reopens applications for Economic Stimulus Loan",
@@ -823,10 +691,6 @@
     {
       "id": "article-signing-of-financing-agreement-with-the-world-bank-in-financing-the-digital-maldives-for-adaptation-decentralization-and-diversification-project",
       "source_type": "News",
-      "featuredImage": {
-        "url": "https://cms.one.gov.mv/api/media/file/Press%20Releases-12.jpg",
-        "alt": "Signing of Financing Agreement with the World Bank in financing the Digital Maldives for Adaptation, decentralization and Diversification Project"
-      },
       "files": [
         {
           "label": "Signing of Financing Agreement with the World Bank in financing the Digital Maldives for Adaptation, decentralization and Diversification Project",
@@ -852,10 +716,6 @@
     {
       "id": "article-19",
       "source_type": "News",
-      "featuredImage": {
-        "url": "https://cms.one.gov.mv/api/media/file/Press%20Releases-12.jpg",
-        "alt": "Signing of the Financing Contract between European Investment Bank and the Government of Maldives for “Maldives Covid-19 Health Facility Project”"
-      },
       "files": [
         {
           "label": "R02F2p6WP6lKi7tX9oKx9kBPJEanccAimMXc6wiC",
@@ -881,10 +741,6 @@
     {
       "id": "article-signing-of-the-facility-agreement-with-abn-amro-bank-nv-aka-ausfuhrkredit-gesellschaft-mbh-and-ing-bank-nv-for-the-purpose-of-financing-the-gulhifalhu-reclamation-project-phase-ii",
       "source_type": "News",
-      "featuredImage": {
-        "url": "https://cms.one.gov.mv/api/media/file/Press%20Releases-12.jpg",
-        "alt": "Signing of the Facility Agreement with ABN AMRO Bank N.V., AKA Ausfuhrkredit-Gesellschaft Mbh and ING Bank N.V. for the Purpose of Financing the “Gulhifalhu Reclamation Project- Phase II”"
-      },
       "files": [
         {
           "label": "Signing of the Facility Agreement with ABN AMRO Bank N.V., AKA Ausfuhrkredit-Gesellschaft Mbh and ING Bank N.V. for the Purpose of Financing the “Gulhifalhu Reclamation Project- Phase II”",
@@ -910,10 +766,6 @@
     {
       "id": "article-maldives-retires-its-debut-eurobond-issued-to-the-international-market-on-maturity",
       "source_type": "News",
-      "featuredImage": {
-        "url": "https://cms.one.gov.mv/api/media/file/Press%20Releases-12.jpg",
-        "alt": "Maldives Retires its Debut Eurobond Issued to the International Market on Maturity"
-      },
       "files": [
         {
           "label": "Maldives Retires its Debut Eurobond Issued to the International Market on Maturity",
@@ -939,10 +791,6 @@
     {
       "id": "article-statement-on-design-build-operate-of-waste-to-energy-project",
       "source_type": "News",
-      "featuredImage": {
-        "url": "https://cms.one.gov.mv/api/media/file/Press%20Releases-12.jpg",
-        "alt": "Statement on Design-Build-Operate of Waste to Energy Project"
-      },
       "files": [
         {
           "label": "Statement on Design-Build-Operate of Waste to Energy Project",
@@ -968,10 +816,6 @@
     {
       "id": "article-maldives-tap-issuance-of-existing-sukuk-oversubscribed-threefold",
       "source_type": "News",
-      "featuredImage": {
-        "url": "https://cms.one.gov.mv/api/media/file/Press%20Releases-12.jpg",
-        "alt": "Maldives tap issuance of existing Sukuk oversubscribed threefold"
-      },
       "files": [
         {
           "label": "mLYsFJN53putqqeL4KjYyZpI7k3A72Hws0isbTpj",
@@ -991,10 +835,6 @@
     {
       "id": "article-signing-of-the-credit-line-agreement-with-the-export-import-bank-of-india-for-the-purpose-of-financing-the-sports-infrastructure-development-projects",
       "source_type": "News",
-      "featuredImage": {
-        "url": "https://cms.one.gov.mv/api/media/file/Press%20Releases-12.jpg",
-        "alt": "Signing of the Credit Line Agreement with the Export-Import Bank of India for the Purpose of Financing the “Sports Infrastructure Development Projects”"
-      },
       "files": [
         {
           "label": "Signing of the Credit Line Agreement with the Export-Import Bank of India for the Purpose of Financing the “Sports Infrastructure Development Projects”",
@@ -1020,10 +860,6 @@
     {
       "id": "article-government-of-maldives-regarding-the-recent-credit-rating-of-maldives-by-moodys-investors-service",
       "source_type": "News",
-      "featuredImage": {
-        "url": "https://cms.one.gov.mv/api/media/file/Press%20Releases-12.jpg",
-        "alt": "Press release of the Government of Maldives regarding the recent credit rating of Maldives by Moody’s Investors Service"
-      },
       "files": [
         {
           "label": "Press release of the Government of Maldives regarding the recent credit rating of Maldives by Moody’s Investors Service",
@@ -1043,10 +879,6 @@
     {
       "id": "article-centralization-of-domestic-securities-issuance",
       "source_type": "News",
-      "featuredImage": {
-        "url": "https://cms.one.gov.mv/api/media/file/Press%20Releases-12.jpg",
-        "alt": "Centralization of domestic securities issuance"
-      },
       "files": [
         {
           "label": "Centralization of domestic securities issuance",
@@ -1072,10 +904,6 @@
     {
       "id": "article-amlcft-national-risk-assessment-nra-international",
       "source_type": "News",
-      "featuredImage": {
-        "url": "https://cms.one.gov.mv/api/media/file/Press%20Releases-12.jpg",
-        "alt": "AML/CFT National Risk Assessment (NRA) (International)"
-      },
       "files": [
         {
           "label": "EZmt9uunmI0024mJ7zEezIvMO93oS6G43ICXkvK0",
@@ -1101,10 +929,6 @@
     {
       "id": "article-economic-relief-package-ge-thafuseelu",
       "source_type": "News",
-      "featuredImage": {
-        "url": "https://cms.one.gov.mv/api/media/file/Press%20Releases-12.jpg",
-        "alt": "Economic Relief Package ge thafuseelu"
-      },
       "files": [
         {
           "label": "Economic Relief Package ge thafuseelu",
@@ -1130,10 +954,6 @@
     {
       "id": "article-appointment-of-an-international-advisor-to-the-minister",
       "source_type": "News",
-      "featuredImage": {
-        "url": "https://cms.one.gov.mv/api/media/file/Press%20Releases-12.jpg",
-        "alt": "Appointment of an International Advisor to the Minister"
-      },
       "files": [
         {
           "label": "Appointment of an International Advisor to the Minister",
@@ -1159,10 +979,6 @@
     {
       "id": "article-consultancy-for-development-of-it-master-plan-for-public-financial-management-pfm-functions-international-firm",
       "source_type": "News",
-      "featuredImage": {
-        "url": "https://cms.one.gov.mv/api/media/file/Press%20Releases-12.jpg",
-        "alt": "Consultancy for Development of IT Master Plan for Public Financial Management (PFM) Functions (International Firm)"
-      },
       "files": [
         {
           "label": "lnLJnZdZzBb0iPt2NU9613rTjDhW3hb37CzP6VSs",
@@ -1188,10 +1004,6 @@
     {
       "id": "article-ministry-of-finance-in-iulaan-kuraa-procurement-thakuge-mauloomaathu-aamu-kurun",
       "source_type": "News",
-      "featuredImage": {
-        "url": "https://cms.one.gov.mv/api/media/file/Press%20Releases-12.jpg",
-        "alt": "Ministry of finance in iulaan kuraa procurement thakuge mauloomaathu aamu kurun"
-      },
       "files": [
         {
           "label": "Lz2oo0KwyV8WIoCqCVlteAa1LTy3IM3IW4b9HsnZ",
@@ -1217,10 +1029,6 @@
     {
       "id": "article-19-2",
       "source_type": "News",
-      "featuredImage": {
-        "url": "https://cms.one.gov.mv/api/media/file/Press%20Releases-12.jpg",
-        "alt": "Optional Grace Period Extension on Covid-19 Recovery Loan Scheme (BML Component)"
-      },
       "files": [
         {
           "label": "4TEwcBAzrkurCGoJOOsENZAu1mZN5BNZZieRL16I",
@@ -1240,10 +1048,6 @@
     {
       "id": "article-24022021",
       "source_type": "News",
-      "featuredImage": {
-        "url": "https://cms.one.gov.mv/api/media/file/Press%20Releases-12.jpg",
-        "alt": "(IUL)13-HR/13/2021/35, Accountant"
-      },
       "files": [
         {
           "label": "Q7wjZO66e3GLZwIEzAqyjsdYbXibz43E3JoxGUgX",
@@ -1263,10 +1067,6 @@
     {
       "id": "article-11022021",
       "source_type": "News",
-      "featuredImage": {
-        "url": "https://cms.one.gov.mv/api/media/file/Press%20Releases-12.jpg",
-        "alt": "(IUL)13-HR/13/2021/36, Assistant Resource Mobilization Executive"
-      },
       "files": [
         {
           "label": "NskBJjQQMVsJCVgiwEYRlKLpg6CvptaX2K2oUB0e",
@@ -1373,10 +1173,6 @@
     {
       "id": "article-300",
       "source_type": "News",
-      "featuredImage": {
-        "url": "https://cms.one.gov.mv/api/media/file/Press%20Releases-12.jpg",
-        "alt": "Re Transfer of the beneficial ownership of Dharumavantha Hospital to a 100% government owned SPV, for the issuance of a USD300 million Sukuk"
-      },
       "files": [
         {
           "label": "Re Transfer of the beneficial ownership of Dharumavantha Hospital to a 100% government owned SPV, for the issuance of a USD300 million Sukuk",
@@ -1396,10 +1192,6 @@
     {
       "id": "article-bank-of-maldives-to-offer-covid-relief-financing-for-smes-through-support-from-eib-facilitated-by-the-government-of-maldives",
       "source_type": "News",
-      "featuredImage": {
-        "url": "https://cms.one.gov.mv/api/media/file/Press%20Releases-12.jpg",
-        "alt": "Bank of Maldives to offer COVID Relief Financing for SMEs through support from EIB, Facilitated by the Government of Maldives"
-      },
       "files": [
         {
           "label": "LX9RkMoaHSgY4cxcBpH1OAED3CXXISJFnJ4RoZug",
@@ -1419,10 +1211,6 @@
     {
       "id": "article-regarding-credit-rating-downgrade-of-maldives-by-fitch-ratings",
       "source_type": "News",
-      "featuredImage": {
-        "url": "https://cms.one.gov.mv/api/media/file/Press%20Releases-12.jpg",
-        "alt": "Regarding credit rating downgrade of Maldives by Fitch Ratings"
-      },
       "files": [
         {
           "label": "Regarding credit rating downgrade of Maldives by Fitch Ratings",
@@ -1633,10 +1421,6 @@
     {
       "id": "article-250",
       "source_type": "News",
-      "featuredImage": {
-        "url": "https://cms.one.gov.mv/api/media/file/Press%20Releases-12.jpg",
-        "alt": "Financial Assistance of $250 million from the Government of India"
-      },
       "files": [
         {
           "label": "Financial Assistance of $250 million from the Government of India",
@@ -1662,10 +1446,6 @@
     {
       "id": "article-2017",
       "source_type": "News",
-      "featuredImage": {
-        "url": "https://cms.one.gov.mv/api/media/file/Press%20Releases-12.jpg",
-        "alt": "Ahmed Siyam Holdings private limited ah kureege sarukaarun 2017 gai dhookoffaivaa sovereign guarantee aa gulhey"
-      },
       "files": [
         {
           "label": "7lwvCKeZEdRmXjd6MYFNaqv16TCA6LavagmL7PnF",
@@ -1772,10 +1552,6 @@
     {
       "id": "article-collection-of-non-tax-revenue-by-mira",
       "source_type": "News",
-      "featuredImage": {
-        "url": "https://cms.one.gov.mv/api/media/file/Press%20Releases-12.jpg",
-        "alt": "Collection of non-tax revenue by MIRA"
-      },
       "files": [
         {
           "label": "Collection of non-tax revenue by MIRA",
@@ -1795,10 +1571,6 @@
     {
       "id": "article-19-4",
       "source_type": "News",
-      "featuredImage": {
-        "url": "https://cms.one.gov.mv/api/media/file/Press%20Releases-12.jpg",
-        "alt": "Management of Public Finance Impact of Covid-19"
-      },
       "files": [
         {
           "label": "dtPL6Uyd9UKf7xvZw9sYZ9FWx4n4V66owhNn0Ac5",
@@ -1818,10 +1590,6 @@
     {
       "id": "article-19-5",
       "source_type": "News",
-      "featuredImage": {
-        "url": "https://cms.one.gov.mv/api/media/file/Press%20Releases-12.jpg",
-        "alt": "Covid-19 recovery loan scheme"
-      },
       "files": [
         {
           "label": "Covid-19 recovery loan scheme",
@@ -1847,10 +1615,6 @@
     {
       "id": "article-2020",
       "source_type": "News",
-      "featuredImage": {
-        "url": "https://cms.one.gov.mv/api/media/file/Press%20Releases-12.jpg",
-        "alt": "Dhennenvun 2020/2 - Ramadan Allowance 2020"
-      },
       "files": [
         {
           "label": "1HOMDx4MjonBLFbtpfj157a8WC0Q0RwRZHqD8dHY",
@@ -2020,10 +1784,6 @@
     {
       "id": "article-201910",
       "source_type": "News",
-      "featuredImage": {
-        "url": "https://cms.one.gov.mv/api/media/file/Press%20Releases-12.jpg",
-        "alt": "Dhennevun 2019/10"
-      },
       "files": [
         {
           "label": "m9zBHwQNz4ILxDW1BuXpxEpn4iDztUu3PpE73EQQ",
@@ -2043,10 +1803,6 @@
     {
       "id": "article-351",
       "source_type": "News",
-      "featuredImage": {
-        "url": "https://cms.one.gov.mv/api/media/file/Press%20Releases-12.jpg",
-        "alt": "Iulaan 351_ Resource Mobilization Executive"
-      },
       "files": [
         {
           "label": "lubpv3dBEH7xtuReBmjW9nr0N202hCPKfW5kualt",
@@ -2089,10 +1845,6 @@
     {
       "id": "article-asset-create-kurumaai-behey",
       "source_type": "News",
-      "featuredImage": {
-        "url": "https://cms.one.gov.mv/api/media/file/Press%20Releases-12.jpg",
-        "alt": "Asset Create kurumaai behey"
-      },
       "files": [
         {
           "label": "Asset Create kurumaai behey",
@@ -2112,10 +1864,6 @@
     {
       "id": "article-dhaulathun-dakka-faisaa-aai-behey-maulaamaathu-faisaa-libey-faraathaa-hissa-kurumaa-gulhey",
       "source_type": "News",
-      "featuredImage": {
-        "url": "https://cms.one.gov.mv/api/media/file/Press%20Releases-12.jpg",
-        "alt": "dhaulathun dakka faisaa aai behey maulaamaathu faisaa libey faraathaa hissa kurumaa gulhey"
-      },
       "files": [
         {
           "label": "lBlzjLnxrkKZFEDchpDr5ZaDthEbK1faHTKf8yeG",
@@ -2135,10 +1883,6 @@
     {
       "id": "article-public-accounting-system-ge-payment-block-function-aai-gulhey",
       "source_type": "News",
-      "featuredImage": {
-        "url": "https://cms.one.gov.mv/api/media/file/Press%20Releases-12.jpg",
-        "alt": "Public accounting system ge payment block function aai gulhey"
-      },
       "files": [
         {
           "label": "biS7g7qzCxF8wadOgdP1PxvNpw8Tf312NuEp9wmr",
@@ -2158,10 +1902,6 @@
     {
       "id": "article-neelan-kiyumuge-usool",
       "source_type": "News",
-      "featuredImage": {
-        "url": "https://cms.one.gov.mv/api/media/file/Press%20Releases-12.jpg",
-        "alt": "Neelan kiyumuge Usool"
-      },
       "files": [
         {
           "label": "8cpBHU9YYJtYgqCHV4WYvnWX06Y6iGSCD9Eb4669",
@@ -2181,10 +1921,6 @@
     {
       "id": "article-nelaan-kiyumaa-gulhey-jadhuwal",
       "source_type": "News",
-      "featuredImage": {
-        "url": "https://cms.one.gov.mv/api/media/file/Press%20Releases-12.jpg",
-        "alt": "Nelaan kiyumaa gulhey jadhuwal"
-      },
       "files": [
         {
           "label": "Nelaan kiyumaa gulhey jadhuwal",
@@ -2204,10 +1940,6 @@
     {
       "id": "article-faqs-income-tax-regime",
       "source_type": "News",
-      "featuredImage": {
-        "url": "https://cms.one.gov.mv/api/media/file/Press%20Releases-12.jpg",
-        "alt": "FAQs - Income Tax Regime"
-      },
       "files": [
         {
           "label": "JstdVqvNAVlG927AIH7WnRUr6GhnbmQoY6ntC29J",
@@ -2227,10 +1959,6 @@
     {
       "id": "article-completing-the-income-tax-regime",
       "source_type": "News",
-      "featuredImage": {
-        "url": "https://cms.one.gov.mv/api/media/file/Press%20Releases-12.jpg",
-        "alt": "Completing the Income Tax Regime"
-      },
       "files": [
         {
           "label": "320cVEQ7nlN8TlmReKXuLjqeX6aAuKNkqhohj4cC",
@@ -2296,10 +2024,6 @@
     {
       "id": "article-20196",
       "source_type": "News",
-      "featuredImage": {
-        "url": "https://cms.one.gov.mv/api/media/file/Press%20Releases-12.jpg",
-        "alt": "Dhennevun 2019/6"
-      },
       "files": [
         {
           "label": "cAKsZrmkRjLkD3XxlVSk6ofsOdew6iPmieCZr0ag",
@@ -2664,10 +2388,6 @@
     {
       "id": "article-fenaai-narudamaage-massakai-ghaaimu-kurumah-design-kuraane-faraaitah-hoadumah-iulaan-kurun",
       "source_type": "News",
-      "featuredImage": {
-        "url": "https://cms.one.gov.mv/api/media/file/Press%20Releases-12.jpg",
-        "alt": "Fenaai Narudamaage Massakai Ghaaimu kurumah Design kuraane faraaitah hoadumah iulaan kurun"
-      },
       "files": [
         {
           "label": "jhbC7P5wNIUihONe58GVWH4vnD20tPS7QIzNZOaf",
@@ -2840,10 +2560,6 @@
     {
       "id": "article-11",
       "source_type": "News",
-      "featuredImage": {
-        "url": "https://cms.one.gov.mv/api/media/file/Press%20Releases-12.jpg",
-        "alt": "Announcement has been made to find a Contractor for 11 water and sewerage projects"
-      },
       "files": [
         {
           "label": "GrgMo9Bjk46PLtYxsv4lnxO3i30Ukue4OWLuL9GG",
@@ -2902,10 +2618,6 @@
     {
       "id": "article-public-finance-regulation",
       "source_type": "News",
-      "featuredImage": {
-        "url": "https://cms.one.gov.mv/api/media/file/Press%20Releases-12.jpg",
-        "alt": "Public Finance Regulation"
-      },
       "files": [
         {
           "label": "oofgZxjeVW6yeccC3ifnCX3OdOZutSAgYhRzEFmN",
@@ -2925,10 +2637,6 @@
     {
       "id": "article-201824",
       "source_type": "News",
-      "featuredImage": {
-        "url": "https://cms.one.gov.mv/api/media/file/Press%20Releases-12.jpg",
-        "alt": "Petty Cash, Salary for Staff related Circular"
-      },
       "files": [
         {
           "label": "a8CTdq80Rj5JFl1U2znI67CECQh5BLRjwKg4paTH",
@@ -2948,10 +2656,6 @@
     {
       "id": "article-201825",
       "source_type": "News",
-      "featuredImage": {
-        "url": "https://cms.one.gov.mv/api/media/file/Press%20Releases-12.jpg",
-        "alt": "2018 Bill Payments related Circular"
-      },
       "files": [
         {
           "label": "lMlb6pEwYS07E4qQUOU4oksFSvlVeEGoShEz4x9m",
