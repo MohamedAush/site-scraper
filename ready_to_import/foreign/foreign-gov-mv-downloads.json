@@ -1,0 +1,171 @@
+{
+  "docs": [
+    {
+      "id": "download-137",
+      "title": "Attestation Form 2026",
+      "type": {
+        "name": "Forms",
+        "slug": "forms"
+      },
+      "files": [
+        {
+          "label": "Attestation Form 2026.pdf",
+          "file": {
+            "url": "https://ts.rac.gov.mv/foreign/download/137-attestation-form-2026-2/file"
+          }
+        },
+        {
+          "label": "Attestation Form 2026 (1).pdf",
+          "file": {
+            "url": "https://ts.rac.gov.mv/foreign/download/138-attestation-form-2026-3/file"
+          }
+        }
+      ]
+    },
+    {
+      "id": "download-23",
+      "title": "Citizenship application form",
+      "type": {
+        "name": "Forms",
+        "slug": "forms"
+      },
+      "files": [
+        {
+          "label": "citizenship-application-form.doc",
+          "file": {
+            "url": "https://ts.rac.gov.mv/foreign/download/23-citizenship-application-form/file"
+          }
+        }
+      ]
+    },
+    {
+      "id": "download-19",
+      "title": "Consent for visa facilitation",
+      "type": {
+        "name": "Forms",
+        "slug": "forms"
+      },
+      "files": [
+        {
+          "label": "consent-for-visa-facilitation.docx",
+          "file": {
+            "url": "https://ts.rac.gov.mv/foreign/download/19-consent-for-visa-facilitation-1/file"
+          }
+        }
+      ]
+    },
+    {
+      "id": "download-22",
+      "title": "Dhivehi citizenship eligility criterea",
+      "type": {
+        "name": "Guidelines",
+        "slug": "guidelines"
+      },
+      "files": [
+        {
+          "label": "dhivehi-citizenship-eligility-criterea.pdf",
+          "file": {
+            "url": "https://ts.rac.gov.mv/foreign/download/22-dhivehi-citizenship-eligility-criterea/file"
+          }
+        }
+      ]
+    },
+    {
+      "id": "download-110",
+      "title": "Foreign Service Job Application Form",
+      "type": {
+        "name": "Forms",
+        "slug": "forms"
+      },
+      "files": [
+        {
+          "label": "Foreign-Service-Job-application-form.pdf",
+          "file": {
+            "url": "https://ts.rac.gov.mv/foreign/download/110-foreign-service-job-application-form-pdf/file"
+          }
+        }
+      ]
+    },
+    {
+      "id": "download-86",
+      "title": "Press Release 2024 10 27 (1)",
+      "type": {
+        "name": "Press Releases",
+        "slug": "press-releases"
+      },
+      "files": [
+        {
+          "label": "Press Release_ 2024.10.27 (1).pdf",
+          "file": {
+            "url": "https://ts.rac.gov.mv/foreign/download/86-press-release-2024-10-27-1/file"
+          }
+        }
+      ]
+    },
+    {
+      "id": "download-54",
+      "title": "Reference Letter Sample",
+      "type": {
+        "name": "Samples",
+        "slug": "samples"
+      },
+      "files": [
+        {
+          "label": "Reference Letter-Sample.pdf",
+          "file": {
+            "url": "https://ts.rac.gov.mv/foreign/download/54-reference-letter-sample/file"
+          }
+        }
+      ]
+    },
+    {
+      "id": "download-100",
+      "title": "SAARC Notice Inviting Tender",
+      "type": {
+        "name": "Tenders",
+        "slug": "tenders"
+      },
+      "files": [
+        {
+          "label": "SAARC - Notice Inviting Tender.pdf",
+          "file": {
+            "url": "https://ts.rac.gov.mv/foreign/download/100-saarc-notice-inviting-tender/file"
+          }
+        }
+      ]
+    },
+    {
+      "id": "download-24",
+      "title": "Service charter ministry of foreign affairs",
+      "type": {
+        "name": "Organizational Information",
+        "slug": "organizational-information"
+      },
+      "files": [
+        {
+          "label": "service-charter-ministry-of-foreign-affairs.pdf",
+          "file": {
+            "url": "https://ts.rac.gov.mv/foreign/download/24-service-charter-ministry-of-foreign-affairs/file"
+          }
+        }
+      ]
+    },
+    {
+      "id": "download-99",
+      "title": "Visa Facilitation Form",
+      "type": {
+        "name": "Forms",
+        "slug": "forms"
+      },
+      "files": [
+        {
+          "label": "Visa Facilitation Form.docx",
+          "file": {
+            "url": "https://ts.rac.gov.mv/foreign/download/99-visa-facilitation-form/file"
+          }
+        }
+      ]
+    }
+  ],
+  "hasNextPage": false
+}
