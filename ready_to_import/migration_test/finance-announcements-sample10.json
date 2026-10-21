@@ -1,0 +1,229 @@
+{
+  "docs": [
+    {
+      "id": "announcement-public-debt-analyst",
+      "source_type": "Announcement",
+      "published_at": "2026-10-21T00:00:00+05:00",
+      "source_url": "https://finance.gov.mv/media/announcements/public-debt-analyst",
+      "files": [
+        {
+          "label": "caJB4iC7Jl1HYnQ9vAr6ICPw4AafIQ7dKtddoSGo.pdf",
+          "file": {
+            "url": "https://finance.gov.mv/public/attachments/caJB4iC7Jl1HYnQ9vAr6ICPw4AafIQ7dKtddoSGo.pdf"
+          }
+        }
+      ],
+      "translations": {
+        "en": {
+          "title": "Public Debt Analyst",
+          "description": "Public Debt Analyst",
+          "body": ""
+        }
+      }
+    },
+    {
+      "id": "announcement-state-internal-auditor-vnHz",
+      "source_type": "Announcement",
+      "published_at": "2026-10-19T00:00:00+05:00",
+      "source_url": "https://finance.gov.mv/media/announcements/state-internal-auditor-vnHz",
+      "files": [
+        {
+          "label": "QSuLvugIj7aea3jhBq1fES4ZKXCafsVCAnIpzCz4.pdf",
+          "file": {
+            "url": "https://finance.gov.mv/public/attachments/QSuLvugIj7aea3jhBq1fES4ZKXCafsVCAnIpzCz4.pdf"
+          }
+        }
+      ],
+      "translations": {
+        "en": {
+          "title": "State Internal Auditor",
+          "description": "State Internal Auditor",
+          "body": ""
+        }
+      }
+    },
+    {
+      "id": "announcement-project-monitoring-and-evaluation-specialist-1vRB",
+      "source_type": "Announcement",
+      "published_at": "2026-09-24T00:00:00+05:00",
+      "source_url": "https://finance.gov.mv/media/announcements/project-monitoring-and-evaluation-specialist-1vRB",
+      "files": [
+        {
+          "label": "6wNqJQziMsOY9UHBIA2cVEUkga2Dbi38MTVsfDh9.pdf",
+          "file": {
+            "url": "https://finance.gov.mv/public/attachments/6wNqJQziMsOY9UHBIA2cVEUkga2Dbi38MTVsfDh9.pdf"
+          }
+        }
+      ],
+      "translations": {
+        "en": {
+          "title": "Project Monitoring and Evaluation Specialist",
+          "description": "Project Monitoring and Evaluation Specialist",
+          "body": ""
+        }
+      }
+    },
+    {
+      "id": "announcement-principal-civil-enigneer",
+      "source_type": "Announcement",
+      "published_at": "2026-09-24T00:00:00+05:00",
+      "source_url": "https://finance.gov.mv/media/announcements/principal-civil-enigneer",
+      "files": [
+        {
+          "label": "uDan9B9DMU1PnBp0HhiLaGIsjaGCfLmbZDowBgER.pdf",
+          "file": {
+            "url": "https://finance.gov.mv/public/attachments/uDan9B9DMU1PnBp0HhiLaGIsjaGCfLmbZDowBgER.pdf"
+          }
+        }
+      ],
+      "translations": {
+        "en": {
+          "title": "Principal Civil Enigneer",
+          "description": "Principal Civil Enigneer",
+          "body": ""
+        }
+      }
+    },
+    {
+      "id": "announcement-fiscal-analyst-dpzF",
+      "source_type": "Announcement",
+      "published_at": "2026-09-24T00:00:00+05:00",
+      "source_url": "https://finance.gov.mv/media/announcements/fiscal-analyst-dpzF",
+      "files": [
+        {
+          "label": "TJvcsthA5cEt1WJZZoqERRioGippHYDQ2869ZQIR.pdf",
+          "file": {
+            "url": "https://finance.gov.mv/public/attachments/TJvcsthA5cEt1WJZZoqERRioGippHYDQ2869ZQIR.pdf"
+          }
+        }
+      ],
+      "translations": {
+        "en": {
+          "title": "Fiscal Analyst",
+          "description": "Fiscal Analyst",
+          "body": ""
+        }
+      }
+    },
+    {
+      "id": "announcement-assistant-soe-analyst-xMEn",
+      "source_type": "Announcement",
+      "published_at": "2026-09-24T00:00:00+05:00",
+      "source_url": "https://finance.gov.mv/media/announcements/assistant-soe-analyst-xMEn",
+      "files": [
+        {
+          "label": "fz2GiA7iJdmRLwkj8kRFyHWSio5AiZmUM5GFJyi7.pdf",
+          "file": {
+            "url": "https://finance.gov.mv/public/attachments/fz2GiA7iJdmRLwkj8kRFyHWSio5AiZmUM5GFJyi7.pdf"
+          }
+        }
+      ],
+      "translations": {
+        "en": {
+          "title": "Assistant S.O.E Analyst",
+          "description": "Assistant S.O.E Analyst",
+          "body": ""
+        }
+      }
+    },
+    {
+      "id": "announcement-state-internal-auditor-hoRa",
+      "source_type": "Announcement",
+      "published_at": "2026-09-24T00:00:00+05:00",
+      "source_url": "https://finance.gov.mv/media/announcements/state-internal-auditor-hoRa",
+      "files": [
+        {
+          "label": "9CWGZfsPs9aaCPOYUB6DcKo6AX9t3e7iRmWbc8jC.pdf",
+          "file": {
+            "url": "https://finance.gov.mv/public/attachments/9CWGZfsPs9aaCPOYUB6DcKo6AX9t3e7iRmWbc8jC.pdf"
+          }
+        }
+      ],
+      "translations": {
+        "en": {
+          "title": "State Internal Auditor",
+          "description": "State Internal Auditor",
+          "body": ""
+        }
+      }
+    },
+    {
+      "id": "announcement-associate-ifmis-ict-specialist-USC1",
+      "source_type": "Announcement",
+      "published_at": "2026-09-21T00:00:00+05:00",
+      "source_url": "https://finance.gov.mv/media/announcements/associate-ifmis-ict-specialist-USC1",
+      "files": [
+        {
+          "label": "6FNZz7pSxq5hryo1yLfsXRwzrf2mWC1E2pGqsA9y.pdf",
+          "file": {
+            "url": "https://finance.gov.mv/public/attachments/6FNZz7pSxq5hryo1yLfsXRwzrf2mWC1E2pGqsA9y.pdf"
+          }
+        },
+        {
+          "label": "4pdIIoFiF3vkD4S89Ym74hNa8dHWZtAExiBd3aAE.pdf",
+          "file": {
+            "url": "https://finance.gov.mv/public/attachments/4pdIIoFiF3vkD4S89Ym74hNa8dHWZtAExiBd3aAE.pdf"
+          }
+        }
+      ],
+      "translations": {
+        "en": {
+          "title": "Associate IFMIS ICT Specialist",
+          "description": "Associate IFMIS ICT Specialist",
+          "body": ""
+        }
+      }
+    },
+    {
+      "id": "announcement-ifmis-ict-specialist-platform-engineer",
+      "source_type": "Announcement",
+      "published_at": "2026-09-21T00:00:00+05:00",
+      "source_url": "https://finance.gov.mv/media/announcements/ifmis-ict-specialist-platform-engineer",
+      "files": [
+        {
+          "label": "oi4W9EdL35DMCKW64GRczj12XafRzVXDAPnoagMp.pdf",
+          "file": {
+            "url": "https://finance.gov.mv/public/attachments/oi4W9EdL35DMCKW64GRczj12XafRzVXDAPnoagMp.pdf"
+          }
+        },
+        {
+          "label": "AcCGEZssU3hbpH31oZegCWvB2xyDfUr5To6lJsqT.pdf",
+          "file": {
+            "url": "https://finance.gov.mv/public/attachments/AcCGEZssU3hbpH31oZegCWvB2xyDfUr5To6lJsqT.pdf"
+          }
+        }
+      ],
+      "translations": {
+        "en": {
+          "title": "IFMIS ICT Specialist - Platform Engineer",
+          "description": "IFMIS ICT Specialist - Platform Engineer",
+          "body": ""
+        }
+      }
+    },
+    {
+      "id": "announcement-national-planning-analyst-r78x",
+      "source_type": "Announcement",
+      "published_at": "2026-09-21T00:00:00+05:00",
+      "source_url": "https://finance.gov.mv/media/announcements/national-planning-analyst-r78x",
+      "files": [
+        {
+          "label": "wO4lUG3pO3XAEe4FaTzYI35xUTK8ApFUZmSHrTiR.pdf",
+          "file": {
+            "url": "https://finance.gov.mv/public/attachments/wO4lUG3pO3XAEe4FaTzYI35xUTK8ApFUZmSHrTiR.pdf"
+          }
+        }
+      ],
+      "translations": {
+        "en": {
+          "title": "National Planning Analyst",
+          "description": "National Planning Analyst",
+          "body": ""
+        }
+      }
+    }
+  ],
+  "totalDocs": 10,
+  "hasNextPage": false,
+  "nextPage": null
+}
