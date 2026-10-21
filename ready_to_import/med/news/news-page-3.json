@@ -3,6 +3,7 @@
     {
       "id": "news-23377",
       "source_type": "News",
+      "type": "General",
       "published_at": "2025-09-23T05:09:41Z",
       "featuredImage": {
         "url": "https://trade.gov.mv/wp-content/uploads/G1gbSKIWcAAnXSr-1.jpg",
@@ -24,6 +25,7 @@
     {
       "id": "news-23372",
       "source_type": "News",
+      "type": "General",
       "published_at": "2025-09-22T17:07:00Z",
       "featuredImage": {
         "url": "https://trade.gov.mv/wp-content/uploads/G1dtNCHWAAUtv0H-1.jpg",
@@ -45,6 +47,7 @@
     {
       "id": "news-23351",
       "source_type": "News",
+      "type": "General",
       "published_at": "2025-09-22T15:59:00Z",
       "featuredImage": {
         "url": "https://trade.gov.mv/wp-content/uploads/1758561592.17585615927049.jpeg",
@@ -66,6 +69,7 @@
     {
       "id": "news-23269",
       "source_type": "News",
+      "type": "General",
       "published_at": "2025-09-22T11:16:00Z",
       "featuredImage": {
         "url": "https://trade.gov.mv/wp-content/uploads/G1dqKQhWcAAewNK.jpg",
@@ -87,6 +91,7 @@
     {
       "id": "news-23433",
       "source_type": "News",
+      "type": "General",
       "published_at": "2025-09-21T18:18:00Z",
       "featuredImage": {
         "url": "https://trade.gov.mv/wp-content/uploads/G1Wnj5BWQAAO5nl-scaled.jpg",
@@ -108,6 +113,7 @@
     {
       "id": "news-23367",
       "source_type": "News",
+      "type": "General",
       "published_at": "2025-09-21T17:04:00Z",
       "featuredImage": {
         "url": "https://trade.gov.mv/wp-content/uploads/G1WSmNeWsAADPNP-1758998631405.webp",
@@ -129,6 +135,7 @@
     {
       "id": "news-23438",
       "source_type": "News",
+      "type": "General",
       "published_at": "2025-09-21T06:35:08Z",
       "featuredImage": {
         "url": "https://trade.gov.mv/wp-content/uploads/G1W6zeSXoAEmbrQ-scaled.jpg",
@@ -150,6 +157,7 @@
     {
       "id": "news-23428",
       "source_type": "News",
+      "type": "General",
       "published_at": "2025-09-20T18:16:00Z",
       "featuredImage": {
         "url": "https://trade.gov.mv/wp-content/uploads/G1S1LOUakAAdBJR.jpg",
@@ -171,6 +179,7 @@
     {
       "id": "news-23418",
       "source_type": "News",
+      "type": "General",
       "published_at": "2025-09-20T18:09:00Z",
       "featuredImage": {
         "url": "https://trade.gov.mv/wp-content/uploads/G1Scd2YbQAIR1B0.jpg",
@@ -192,6 +201,7 @@
     {
       "id": "news-23413",
       "source_type": "News",
+      "type": "General",
       "published_at": "2025-09-20T18:03:00Z",
       "featuredImage": {
         "url": "https://trade.gov.mv/wp-content/uploads/G1RZrUhaUAAU4PK.jpg",
@@ -213,6 +223,7 @@
     {
       "id": "news-23346",
       "source_type": "News",
+      "type": "General",
       "published_at": "2025-09-19T18:55:00Z",
       "featuredImage": {
         "url": "https://trade.gov.mv/wp-content/uploads/G1QxpaQWoAAEQlP-1758394022895.webp",
@@ -234,6 +245,7 @@
     {
       "id": "news-23408",
       "source_type": "News",
+      "type": "General",
       "published_at": "2025-09-19T17:58:00Z",
       "featuredImage": {
         "url": "https://trade.gov.mv/wp-content/uploads/G1OA-yaEAA-LL8.jpg",
@@ -255,6 +267,7 @@
     {
       "id": "news-23318",
       "source_type": "News",
+      "type": "General",
       "published_at": "2025-09-18T18:17:00Z",
       "featuredImage": {
         "url": "https://trade.gov.mv/wp-content/uploads/WhatsApp-Image-2025-09-20-at-23.40.38-1758393655776.webp",
@@ -276,6 +289,7 @@
     {
       "id": "news-23313",
       "source_type": "News",
+      "type": "General",
       "published_at": "2025-09-18T17:05:00Z",
       "featuredImage": {
         "url": "https://trade.gov.mv/wp-content/uploads/DSC06344-1758219989383.webp",
@@ -297,6 +311,7 @@
     {
       "id": "news-23115",
       "source_type": "News",
+      "type": "Press Release",
       "published_at": "2025-09-18T14:36:19Z",
       "featuredImage": {
         "url": "https://trade.gov.mv/wp-content/uploads/DSC06344-scaled.jpg",
@@ -318,6 +333,7 @@
     {
       "id": "news-23128",
       "source_type": "News",
+      "type": "Business",
       "published_at": "2025-09-18T13:11:00Z",
       "featuredImage": {
         "url": "https://trade.gov.mv/wp-content/uploads/G1JV6SubIAAty58.jpg",
@@ -339,6 +355,7 @@
     {
       "id": "news-23339",
       "source_type": "News",
+      "type": "General",
       "published_at": "2025-09-18T09:45:00Z",
       "featuredImage": {
         "url": "https://trade.gov.mv/wp-content/uploads/G1IlsXQaoAAMXtr-1758393977095.webp",
@@ -360,6 +377,7 @@
     {
       "id": "news-23403",
       "source_type": "News",
+      "type": "General",
       "published_at": "2025-09-17T17:52:00Z",
       "featuredImage": {
         "url": "https://trade.gov.mv/wp-content/uploads/G1NN26rbYAA7s7u.jpg",
@@ -381,6 +399,7 @@
     {
       "id": "news-23357",
       "source_type": "News",
+      "type": "General",
       "published_at": "2025-09-17T15:51:00Z",
       "featuredImage": {
         "url": "https://trade.gov.mv/wp-content/uploads/420161_cd7fd9b8-0_-1758394149700.webp",
@@ -402,6 +421,7 @@
     {
       "id": "news-23334",
       "source_type": "News",
+      "type": "General",
       "published_at": "2025-09-17T14:39:00Z",
       "featuredImage": {
         "url": "https://trade.gov.mv/wp-content/uploads/G09TML3W4AA0FPT-1758393930342.webp",
@@ -423,6 +443,7 @@
     {
       "id": "news-23308",
       "source_type": "News",
+      "type": "General",
       "published_at": "2025-09-17T12:57:00Z",
       "featuredImage": {
         "url": "https://trade.gov.mv/wp-content/uploads/aHR0cHM6Ly9taWIuY29tLm12Ly9zdG9yYWdlLzIxOTM2L082N3BxSzNkb2RDQld4SjBsV3VFQTEyQ2VnUnhuQy1tZXRhVFVsQ0xtcHdadz09LS5qcGc.webp",
@@ -444,6 +465,7 @@
     {
       "id": "news-23302",
       "source_type": "News",
+      "type": "General",
       "published_at": "2025-09-17T08:45:00Z",
       "featuredImage": {
         "url": "https://trade.gov.mv/wp-content/uploads/G099Di4boAAY-rC.jpg",
@@ -465,6 +487,7 @@
     {
       "id": "news-23362",
       "source_type": "News",
+      "type": "General",
       "published_at": "2025-09-16T16:03:00Z",
       "featuredImage": {
         "url": "https://trade.gov.mv/wp-content/uploads/G1bhIbwWsAIr4W6-1758543791407.webp",
@@ -486,6 +509,7 @@
     {
       "id": "news-23096",
       "source_type": "News",
+      "type": "Press Release",
       "published_at": "2025-09-16T12:43:42Z",
       "featuredImage": {
         "url": "https://trade.gov.mv/wp-content/uploads/G099Di4boAAY-rC.jpg",
@@ -507,6 +531,7 @@
     {
       "id": "news-23329",
       "source_type": "News",
+      "type": "General",
       "published_at": "2025-09-15T12:32:00Z",
       "featuredImage": {
         "url": "https://trade.gov.mv/wp-content/uploads/G08himeW8AAXKGb-1758393848162.webp",
@@ -528,6 +553,7 @@
     {
       "id": "news-23324",
       "source_type": "News",
+      "type": "General",
       "published_at": "2025-09-15T09:25:00Z",
       "featuredImage": {
         "url": "https://trade.gov.mv/wp-content/uploads/G045V67WcAABNsN-1-1758393787849.webp",
@@ -549,6 +575,7 @@
     {
       "id": "news-23008",
       "source_type": "News",
+      "type": "Business",
       "published_at": "2025-09-14T18:56:15Z",
       "featuredImage": {
         "url": "https://trade.gov.mv/wp-content/uploads/336006_ace8c576-4_-scaled.jpg",
@@ -570,6 +597,7 @@
     {
       "id": "news-23002",
       "source_type": "News",
+      "type": "Business",
       "published_at": "2025-09-14T11:42:54Z",
       "featuredImage": {
         "url": "https://trade.gov.mv/wp-content/uploads/Tradian1.jpg",
@@ -591,6 +619,7 @@
     {
       "id": "news-22996",
       "source_type": "News",
+      "type": "Business",
       "published_at": "2025-09-14T11:17:03Z",
       "featuredImage": {
         "url": "https://trade.gov.mv/wp-content/uploads/TB19Yl3LBr0gK0jSZFnXXbRRXXa-1200-729.jpg",
@@ -612,6 +641,7 @@
     {
       "id": "news-22987",
       "source_type": "News",
+      "type": "Business",
       "published_at": "2025-09-14T05:37:05Z",
       "featuredImage": {
         "url": "https://trade.gov.mv/wp-content/uploads/public-1.jpg",
@@ -633,6 +663,7 @@
     {
       "id": "news-22934",
       "source_type": "News",
+      "type": "Business",
       "published_at": "2025-09-11T17:05:00Z",
       "featuredImage": {
         "url": "https://trade.gov.mv/wp-content/uploads/dsc08938-scaled.jpg",
@@ -654,6 +685,7 @@
     {
       "id": "news-22981",
       "source_type": "News",
+      "type": "General",
       "published_at": "2025-09-11T16:57:03Z",
       "featuredImage": {
         "url": "https://trade.gov.mv/wp-content/uploads/382679_3_8c1d7d5c86c6059737565161d77215409bcef644_medium-1717053828310.webp",
@@ -675,6 +707,7 @@
     {
       "id": "news-22976",
       "source_type": "News",
+      "type": "Business",
       "published_at": "2025-09-11T16:44:58Z",
       "featuredImage": {
         "url": "https://trade.gov.mv/wp-content/uploads/G0kPKzBXgAAd4WE-1.jpg",
@@ -696,6 +729,7 @@
     {
       "id": "news-22968",
       "source_type": "News",
+      "type": "General",
       "published_at": "2025-09-11T16:40:26Z",
       "featuredImage": {
         "url": "https://trade.gov.mv/wp-content/uploads/https___www.bankofmaldives.com_.mv_storage_article_814_9913_1757595402.17575954022276.jpg",
@@ -717,6 +751,7 @@
     {
       "id": "news-22964",
       "source_type": "News",
+      "type": "Business",
       "published_at": "2025-09-11T16:38:17Z",
       "featuredImage": {
         "url": "https://trade.gov.mv/wp-content/uploads/https___www.bankofmaldives.com_.mv_storage_article_814_9920_1757595494.17575954948519.jpg",
@@ -738,6 +773,7 @@
     {
       "id": "news-22957",
       "source_type": "News",
+      "type": "Business",
       "published_at": "2025-09-11T16:34:07Z",
       "featuredImage": {
         "url": "https://trade.gov.mv/wp-content/uploads/https___www.bankofmaldives.com_.mv_storage_article_814_9922_1757595517.17575955172685.jpg",
@@ -759,6 +795,7 @@
     {
       "id": "news-22952",
       "source_type": "News",
+      "type": "Business",
       "published_at": "2025-09-11T16:31:53Z",
       "featuredImage": {
         "url": "https://trade.gov.mv/wp-content/uploads/https___www.bankofmaldives.com_.mv_storage_article_814_9910_1757595363.17575953631386.jpg",
@@ -780,6 +817,7 @@
     {
       "id": "news-22946",
       "source_type": "News",
+      "type": "Business",
       "published_at": "2025-09-11T16:27:24Z",
       "featuredImage": {
         "url": "https://trade.gov.mv/wp-content/uploads/https___www.bankofmaldives.com_.mv_storage_article_813_9902_1757573432.17575734322161.jpg",
@@ -801,6 +839,7 @@
     {
       "id": "news-22940",
       "source_type": "News",
+      "type": "Business",
       "published_at": "2025-09-11T16:18:46Z",
       "featuredImage": {
         "url": "https://trade.gov.mv/wp-content/uploads/https___www.bankofmaldives.com_.mv_storage_article_813_9900_1757573415.17575734159439.jpg",
@@ -822,6 +861,7 @@
     {
       "id": "news-22921",
       "source_type": "News",
+      "type": "Press Release",
       "published_at": "2025-09-11T11:03:56Z",
       "featuredImage": {
         "url": "https://trade.gov.mv/wp-content/uploads/DSC09019-scaled.jpg",
@@ -843,6 +883,7 @@
     {
       "id": "news-22825",
       "source_type": "News",
+      "type": "Business",
       "published_at": "2025-09-07T16:07:00Z",
       "featuredImage": {
         "url": "https://trade.gov.mv/wp-content/uploads/G0QpMgrW0AAzQ50.jpg",
@@ -859,6 +900,7 @@
     {
       "id": "news-22831",
       "source_type": "News",
+      "type": "Business",
       "published_at": "2025-09-04T16:34:00Z",
       "featuredImage": {
         "url": "https://trade.gov.mv/wp-content/uploads/WhatsApp-Image-2025-09-04-at-16.56.15.jpeg",
@@ -880,6 +922,7 @@
     {
       "id": "news-22809",
       "source_type": "News",
+      "type": "Business",
       "published_at": "2025-09-03T17:52:03Z",
       "featuredImage": {
         "url": "https://trade.gov.mv/wp-content/uploads/Screenshot-2025-09-03-223718.jpg",
@@ -901,6 +944,7 @@
     {
       "id": "news-22803",
       "source_type": "News",
+      "type": "Business",
       "published_at": "2025-09-03T12:58:04Z",
       "featuredImage": {
         "url": "https://trade.gov.mv/wp-content/uploads/big_lyyqzZEx80kkmd2ODY7dWi5vc.jpg",
@@ -922,6 +966,7 @@
     {
       "id": "news-22781",
       "source_type": "News",
+      "type": "Business",
       "published_at": "2025-09-02T18:51:05Z",
       "featuredImage": {
         "url": "https://trade.gov.mv/wp-content/uploads/GlxArJuaYAE0be5.jpg",
@@ -943,6 +988,7 @@
     {
       "id": "news-22771",
       "source_type": "News",
+      "type": "Business",
       "published_at": "2025-09-01T07:01:41Z",
       "featuredImage": {
         "url": "https://trade.gov.mv/wp-content/uploads/370395_2e96f817-d_-scaled.jpg",
@@ -964,6 +1010,7 @@
     {
       "id": "news-22751",
       "source_type": "News",
+      "type": "Business",
       "published_at": "2025-08-31T17:50:19Z",
       "featuredImage": {
         "url": "https://trade.gov.mv/wp-content/uploads/Image3-2.jpg",
@@ -985,6 +1032,7 @@
     {
       "id": "news-22748",
       "source_type": "News",
+      "type": "General",
       "published_at": "2025-08-31T17:47:05Z",
       "featuredImage": {
         "url": "https://trade.gov.mv/wp-content/uploads/public.jpg",
@@ -1006,6 +1054,7 @@
     {
       "id": "news-22717",
       "source_type": "News",
+      "type": "General",
       "published_at": "2025-08-30T15:54:00Z",
       "featuredImage": {
         "url": "https://trade.gov.mv/wp-content/uploads/GzppQDYXcAAPjp5-scaled.jpg",
@@ -1027,6 +1076,7 @@
     {
       "id": "news-22674",
       "source_type": "News",
+      "type": "Business",
       "published_at": "2025-08-27T18:46:00Z",
       "featuredImage": {
         "url": "https://trade.gov.mv/wp-content/uploads/GzRqvDDbUAAP04l.jpg",
@@ -1048,6 +1098,7 @@
     {
       "id": "news-22637",
       "source_type": "News",
+      "type": "Business",
       "published_at": "2025-08-26T18:31:00Z",
       "featuredImage": {
         "url": "https://trade.gov.mv/wp-content/uploads/GzSxt5va4AYIFzi.jpg",
@@ -1069,6 +1120,7 @@
     {
       "id": "news-22605",
       "source_type": "News",
+      "type": "Press Release",
       "published_at": "2025-08-26T18:05:04Z",
       "featuredImage": {
         "url": "https://trade.gov.mv/wp-content/uploads/GzSxt70aoAAYFO8.jpg",
@@ -1090,6 +1142,7 @@
     {
       "id": "news-22629",
       "source_type": "News",
+      "type": "Business",
       "published_at": "2025-08-26T18:02:24Z",
       "featuredImage": {
         "url": "https://trade.gov.mv/wp-content/uploads/GzRqvDHaUAE6f5z.jpg",
@@ -1111,6 +1164,7 @@
     {
       "id": "news-22622",
       "source_type": "News",
+      "type": "Business",
       "published_at": "2025-08-26T17:57:37Z",
       "featuredImage": {
         "url": "https://trade.gov.mv/wp-content/uploads/GzRVdisXAAAMT8d.jpg",
@@ -1132,6 +1186,7 @@
     {
       "id": "news-22616",
       "source_type": "News",
+      "type": "Business",
       "published_at": "2025-08-26T17:55:27Z",
       "featuredImage": {
         "url": "https://trade.gov.mv/wp-content/uploads/GzRFGzmXgAAvkXP.jpg",
@@ -1153,6 +1208,7 @@
     {
       "id": "news-22610",
       "source_type": "News",
+      "type": "Business",
       "published_at": "2025-08-25T17:50:17Z",
       "featuredImage": {
         "url": "https://trade.gov.mv/wp-content/uploads/GzNG3LYbMAAnB8N.jpg",
@@ -1174,6 +1230,7 @@
     {
       "id": "news-22595",
       "source_type": "News",
+      "type": "Business",
       "published_at": "2025-08-25T09:54:14Z",
       "featuredImage": {
         "url": "https://trade.gov.mv/wp-content/uploads/GzMDwfMbMAAgmfP.jpg",
@@ -1195,6 +1252,7 @@
     {
       "id": "news-22565",
       "source_type": "News",
+      "type": "Business",
       "published_at": "2025-08-25T05:35:25Z",
       "featuredImage": {
         "url": "https://trade.gov.mv/wp-content/uploads/GzLJ_zrb0AA3MCT.jpg",
@@ -1216,6 +1274,7 @@
     {
       "id": "news-22559",
       "source_type": "News",
+      "type": "Business",
       "published_at": "2025-08-25T05:19:18Z",
       "featuredImage": {
         "url": "https://trade.gov.mv/wp-content/uploads/GzLA4LCaIAAC5g2.jpg",
@@ -1237,6 +1296,7 @@
     {
       "id": "news-22551",
       "source_type": "News",
+      "type": "Business",
       "published_at": "2025-08-25T03:43:33Z",
       "featuredImage": {
         "url": "https://trade.gov.mv/wp-content/uploads/GzH2V73a8AA0NnR.jpg",
@@ -1258,6 +1318,7 @@
     {
       "id": "news-22544",
       "source_type": "News",
+      "type": "Business",
       "published_at": "2025-08-22T18:05:00Z",
       "featuredImage": {
         "url": "https://trade.gov.mv/wp-content/uploads/Gl271-6aAAAnRc2.jpg",
@@ -1279,6 +1340,7 @@
     {
       "id": "news-22533",
       "source_type": "News",
+      "type": "Business",
       "published_at": "2025-08-21T17:09:11Z",
       "featuredImage": {
         "url": "https://trade.gov.mv/wp-content/uploads/415584_ffd18227-7_-1-scaled.jpeg",
@@ -1295,6 +1357,7 @@
     {
       "id": "news-22537",
       "source_type": "News",
+      "type": "Business",
       "published_at": "2025-08-21T15:37:00Z",
       "featuredImage": {
         "url": "https://trade.gov.mv/wp-content/uploads/WhatsApp-Image-2025-08-22-at-22.36.37.jpeg",
@@ -1316,6 +1379,7 @@
     {
       "id": "news-22493",
       "source_type": "News",
+      "type": "Business",
       "published_at": "2025-08-19T17:55:20Z",
       "featuredImage": {
         "url": "https://trade.gov.mv/wp-content/uploads/DSC07060.jpeg",
@@ -1337,6 +1401,7 @@
     {
       "id": "news-22479",
       "source_type": "News",
+      "type": "General",
       "published_at": "2025-08-19T15:05:00Z",
       "featuredImage": {
         "url": "https://trade.gov.mv/wp-content/uploads/1755597796.17555977967374.jpg",
@@ -1358,6 +1423,7 @@
     {
       "id": "news-22498",
       "source_type": "News",
+      "type": "Business",
       "published_at": "2025-08-18T18:06:07Z",
       "featuredImage": {
         "url": "https://trade.gov.mv/wp-content/uploads/GyziOhkb0AAYM2Y.jpg",
@@ -1379,6 +1445,7 @@
     {
       "id": "news-22482",
       "source_type": "News",
+      "type": "Business",
       "published_at": "2025-08-17T10:08:10Z",
       "featuredImage": {
         "url": "https://trade.gov.mv/wp-content/uploads/Gyw9X4Jb0AAUmq8.jpg",
@@ -1400,6 +1467,7 @@
     {
       "id": "news-22341",
       "source_type": "News",
+      "type": "General",
       "published_at": "2025-08-14T13:01:37Z",
       "featuredImage": {
         "url": "https://trade.gov.mv/wp-content/uploads/DSC_5162-scaled.jpg",
@@ -1421,6 +1489,7 @@
     {
       "id": "news-22333",
       "source_type": "News",
+      "type": "General",
       "published_at": "2025-08-14T12:54:20Z",
       "featuredImage": {
         "url": "https://trade.gov.mv/wp-content/uploads/DSC_8604-scaled.jpg",
@@ -1437,6 +1506,7 @@
     {
       "id": "news-22455",
       "source_type": "News",
+      "type": "Business",
       "published_at": "2025-08-13T18:41:00Z",
       "featuredImage": {
         "url": "https://trade.gov.mv/wp-content/uploads/GyS4_pUakAAN_9a-scaled.jpg",
@@ -1458,6 +1528,7 @@
     {
       "id": "news-22466",
       "source_type": "News",
+      "type": "Business",
       "published_at": "2025-08-13T15:51:00Z",
       "featuredImage": {
         "url": "https://trade.gov.mv/wp-content/uploads/GyS4_k_a4AcX68s-scaled.jpg",
@@ -1479,6 +1550,7 @@
     {
       "id": "news-22461",
       "source_type": "News",
+      "type": "General",
       "published_at": "2025-08-13T15:47:00Z",
       "featuredImage": {
         "url": "https://trade.gov.mv/wp-content/uploads/GyS4_idWwAIL6ZQ-scaled.jpg",
@@ -1495,6 +1567,7 @@
     {
       "id": "news-22462",
       "source_type": "News",
+      "type": "General",
       "published_at": "2025-08-13T14:48:00Z",
       "featuredImage": {
         "url": "https://trade.gov.mv/wp-content/uploads/GyS4_idWwAIL6ZQ-scaled.jpg",
@@ -1516,6 +1589,7 @@
     {
       "id": "news-22331",
       "source_type": "News",
+      "type": "General",
       "published_at": "2025-08-13T12:51:46Z",
       "featuredImage": {
         "url": "https://trade.gov.mv/wp-content/uploads/DSC_6006-scaled.jpg",
@@ -1537,6 +1611,7 @@
     {
       "id": "news-22325",
       "source_type": "News",
+      "type": "General",
       "published_at": "2025-08-13T12:46:43Z",
       "featuredImage": {
         "url": "https://trade.gov.mv/wp-content/uploads/DSC_5229-scaled.jpg",
@@ -1558,6 +1633,7 @@
     {
       "id": "news-22320",
       "source_type": "News",
+      "type": "General",
       "published_at": "2025-08-13T12:42:17Z",
       "featuredImage": {
         "url": "https://trade.gov.mv/wp-content/uploads/DSC_4051-scaled.jpg",
@@ -1579,6 +1655,7 @@
     {
       "id": "news-22315",
       "source_type": "News",
+      "type": "General",
       "published_at": "2025-08-13T12:38:01Z",
       "featuredImage": {
         "url": "https://trade.gov.mv/wp-content/uploads/DSC_3547-scaled.jpg",
@@ -1600,6 +1677,7 @@
     {
       "id": "news-22449",
       "source_type": "News",
+      "type": "General",
       "published_at": "2025-08-13T07:37:00Z",
       "featuredImage": {
         "url": "https://trade.gov.mv/wp-content/uploads/GyS4_idWwAIL6ZQ-scaled.jpg",
@@ -1621,6 +1699,7 @@
     {
       "id": "news-22448",
       "source_type": "News",
+      "type": "General",
       "published_at": "2025-08-13T07:32:00Z",
       "featuredImage": {
         "url": "https://trade.gov.mv/wp-content/uploads/DSC06790-scaled.jpg",
@@ -1637,6 +1716,7 @@
     {
       "id": "news-22398",
       "source_type": "News",
+      "type": "General",
       "published_at": "2025-08-13T05:42:38Z",
       "featuredImage": {
         "url": "https://trade.gov.mv/wp-content/uploads/DSC06790-scaled.jpg",
@@ -1653,6 +1733,7 @@
     {
       "id": "news-22397",
       "source_type": "News",
+      "type": "General",
       "published_at": "2025-08-13T05:37:56Z",
       "featuredImage": {
         "url": "https://trade.gov.mv/wp-content/uploads/DSC06790-scaled.jpg",
@@ -1669,6 +1750,7 @@
     {
       "id": "news-22396",
       "source_type": "News",
+      "type": "General",
       "published_at": "2025-08-13T05:35:08Z",
       "featuredImage": {
         "url": "https://trade.gov.mv/wp-content/uploads/DSC06790-scaled.jpg",
@@ -1685,6 +1767,7 @@
     {
       "id": "news-22389",
       "source_type": "News",
+      "type": "Business",
       "published_at": "2025-08-13T05:20:36Z",
       "featuredImage": {
         "url": "https://trade.gov.mv/wp-content/uploads/DSC06790-scaled.jpg",
@@ -1706,6 +1789,7 @@
     {
       "id": "news-22387",
       "source_type": "News",
+      "type": "Business",
       "published_at": "2025-08-13T05:18:39Z",
       "featuredImage": {
         "url": "https://trade.gov.mv/wp-content/uploads/GyS4_pUakAAN_9a-scaled.jpg",
@@ -1727,6 +1811,7 @@
     {
       "id": "news-22304",
       "source_type": "News",
+      "type": "General",
       "published_at": "2025-08-12T18:52:02Z",
       "featuredImage": {
         "url": "https://trade.gov.mv/wp-content/uploads/DSC_2197-scaled.jpg",
@@ -1748,6 +1833,7 @@
     {
       "id": "news-22299",
       "source_type": "News",
+      "type": "General",
       "published_at": "2025-08-12T18:48:14Z",
       "featuredImage": {
         "url": "https://trade.gov.mv/wp-content/uploads/DSC_1667-scaled.jpg",
@@ -1769,6 +1855,7 @@
     {
       "id": "news-22277",
       "source_type": "News",
+      "type": "General",
       "published_at": "2025-08-12T18:08:56Z",
       "featuredImage": {
         "url": "https://trade.gov.mv/wp-content/uploads/WhatsApp-Image-2025-08-12-at-13.04.42_025e476d.jpg",
@@ -1790,6 +1877,7 @@
     {
       "id": "news-22294",
       "source_type": "News",
+      "type": "General",
       "published_at": "2025-08-11T18:29:52Z",
       "featuredImage": {
         "url": "https://trade.gov.mv/wp-content/uploads/DSC_6082-scaled.jpg",
@@ -1811,6 +1899,7 @@
     {
       "id": "news-22289",
       "source_type": "News",
+      "type": "General",
       "published_at": "2025-08-11T18:25:04Z",
       "featuredImage": {
         "url": "https://trade.gov.mv/wp-content/uploads/DSC_5146-scaled.jpg",
@@ -1832,6 +1921,7 @@
     {
       "id": "news-22284",
       "source_type": "News",
+      "type": "General",
       "published_at": "2025-08-11T18:17:22Z",
       "featuredImage": {
         "url": "https://trade.gov.mv/wp-content/uploads/DSC_3694-scaled.jpg",
@@ -1853,6 +1943,7 @@
     {
       "id": "news-22377",
       "source_type": "News",
+      "type": "Business",
       "published_at": "2025-08-11T04:57:53Z",
       "featuredImage": {
         "url": "https://trade.gov.mv/wp-content/uploads/z3pOEl79O9snanziUPW7yesGRHjht3N7DVV0OB1O-scaled.jpg",
@@ -1874,6 +1965,7 @@
     {
       "id": "news-22208",
       "source_type": "News",
+      "type": "General",
       "published_at": "2025-08-06T13:25:16Z",
       "featuredImage": {
         "url": "https://trade.gov.mv/wp-content/uploads/DSC06154-Enhanced-NR-scaled.jpg",
@@ -1895,6 +1987,7 @@
     {
       "id": "news-22233",
       "source_type": "News",
+      "type": "General",
       "published_at": "2025-08-05T18:54:30Z",
       "featuredImage": {
         "url": "https://trade.gov.mv/wp-content/uploads/DSC06428-scaled.jpg",
@@ -1916,6 +2009,7 @@
     {
       "id": "news-22367",
       "source_type": "News",
+      "type": "General",
       "published_at": "2025-08-05T04:48:58Z",
       "featuredImage": {
         "url": "https://trade.gov.mv/wp-content/uploads/23.jpg",
@@ -1932,6 +2026,7 @@
     {
       "id": "news-22364",
       "source_type": "News",
+      "type": "General",
       "published_at": "2025-08-05T04:30:11Z",
       "featuredImage": {
         "url": "https://trade.gov.mv/wp-content/uploads/22.jpg",
@@ -1948,6 +2043,7 @@
     {
       "id": "news-22204",
       "source_type": "News",
+      "type": "General",
       "published_at": "2025-07-31T10:09:27Z",
       "featuredImage": {
         "url": "https://trade.gov.mv/wp-content/uploads/DSC05929-scaled.jpg",
@@ -1969,6 +2065,7 @@
     {
       "id": "news-22215",
       "source_type": "News",
+      "type": "General",
       "published_at": "2025-07-30T14:41:59Z",
       "featuredImage": {
         "url": "https://trade.gov.mv/wp-content/uploads/GxHYfJcbgAAjmF8.jpg",
@@ -1990,6 +2087,7 @@
     {
       "id": "news-22167",
       "source_type": "News",
+      "type": "General",
       "published_at": "2025-07-30T08:42:26Z",
       "featuredImage": {
         "url": "https://trade.gov.mv/wp-content/uploads/GxF9UkbbcAAgPh-.jpg",
@@ -2011,6 +2109,7 @@
     {
       "id": "news-22159",
       "source_type": "News",
+      "type": "General",
       "published_at": "2025-07-30T08:13:00Z",
       "featuredImage": {
         "url": "https://trade.gov.mv/wp-content/uploads/92_large.jpg",
@@ -2032,6 +2131,7 @@
     {
       "id": "news-22148",
       "source_type": "News",
+      "type": "General",
       "published_at": "2025-07-30T07:18:00Z",
       "featuredImage": {
         "url": "https://trade.gov.mv/wp-content/uploads/DSC05456-scaled.jpg",

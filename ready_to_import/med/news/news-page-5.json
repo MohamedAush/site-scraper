@@ -3,6 +3,7 @@
     {
       "id": "news-18609",
       "source_type": "News",
+      "type": "Business",
       "published_at": "2024-07-24T08:13:56Z",
       "featuredImage": {
         "url": "https://trade.gov.mv/wp-content/uploads/producers_registry.jpg",
@@ -24,6 +25,7 @@
     {
       "id": "news-18588",
       "source_type": "News",
+      "type": "General",
       "published_at": "2024-07-23T09:15:21Z",
       "featuredImage": {
         "url": "https://trade.gov.mv/wp-content/uploads/GTI76HbaMAAtfsI.jpeg",
@@ -45,6 +47,7 @@
     {
       "id": "news-18568",
       "source_type": "News",
+      "type": "General",
       "published_at": "2024-07-18T08:08:55Z",
       "featuredImage": {
         "url": "https://trade.gov.mv/wp-content/uploads/GSsCHfpbUAAo6R-.jpeg",
@@ -66,6 +69,7 @@
     {
       "id": "news-18466",
       "source_type": "News",
+      "type": "General",
       "published_at": "2024-07-17T18:37:16Z",
       "featuredImage": {
         "url": "https://trade.gov.mv/wp-content/uploads/GShVU3zXgAAfOU8.jpeg",
@@ -87,6 +91,7 @@
     {
       "id": "news-18529",
       "source_type": "News",
+      "type": "General",
       "published_at": "2024-07-15T04:56:42Z",
       "featuredImage": {
         "url": "https://trade.gov.mv/wp-content/uploads/GShZUpUbYAAEoHM.jpeg",
@@ -108,6 +113,7 @@
     {
       "id": "news-17966",
       "source_type": "News",
+      "type": "Press Release",
       "published_at": "2024-05-12T10:20:07Z",
       "featuredImage": {
         "url": "https://trade.gov.mv/wp-content/uploads/ifzamou.jpg",
@@ -137,6 +143,7 @@
     {
       "id": "news-17755",
       "source_type": "News",
+      "type": "Press Release",
       "published_at": "2024-04-25T06:48:36Z",
       "featuredImage": {
         "url": "https://trade.gov.mv/wp-content/uploads/solar.jpg",
@@ -166,6 +173,7 @@
     {
       "id": "news-17296",
       "source_type": "News",
+      "type": "Companies Act Guides",
       "published_at": "2024-03-26T07:53:50Z",
       "featuredImage": {
         "url": "https://trade.gov.mv/wp-content/uploads/Company-Name.jpg",
@@ -187,6 +195,7 @@
     {
       "id": "news-17086",
       "source_type": "News",
+      "type": "Laws and Regulations",
       "published_at": "2024-03-21T06:28:14Z",
       "featuredImage": {
         "url": "https://trade.gov.mv/wp-content/uploads/Legal-invitation-for-comments-Dv.png",
@@ -211,6 +220,7 @@
     {
       "id": "news-14020",
       "source_type": "News",
+      "type": "Invest Maldives",
       "published_at": "2024-01-23T10:50:28Z",
       "featuredImage": {
         "url": "https://trade.gov.mv/wp-content/uploads/IM-Public-Finance-Regulation.png",
@@ -252,6 +262,7 @@
     {
       "id": "news-13863",
       "source_type": "News",
+      "type": "Business",
       "published_at": "2024-01-14T16:58:20Z",
       "featuredImage": {
         "url": "https://trade.gov.mv/wp-content/uploads/ROCs-Gazette-En.png",
@@ -273,6 +284,7 @@
     {
       "id": "news-13656",
       "source_type": "News",
+      "type": "General",
       "published_at": "2024-01-10T06:53:16Z",
       "featuredImage": {
         "url": "https://trade.gov.mv/wp-content/uploads/GDaourja0AAiMCy-1.jpeg",
@@ -294,6 +306,7 @@
     {
       "id": "news-13339",
       "source_type": "News",
+      "type": "Business",
       "published_at": "2023-12-27T09:01:46Z",
       "featuredImage": {
         "url": "https://trade.gov.mv/wp-content/uploads/Companies-Law-H.png",
@@ -323,6 +336,7 @@
     {
       "id": "news-13264",
       "source_type": "News",
+      "type": "General",
       "published_at": "2023-12-26T04:23:00Z",
       "featuredImage": {
         "url": "https://trade.gov.mv/wp-content/uploads/Unity.png",
@@ -339,6 +353,7 @@
     {
       "id": "news-13248",
       "source_type": "News",
+      "type": "General",
       "published_at": "2023-12-19T19:37:12Z",
       "featuredImage": {
         "url": "https://trade.gov.mv/wp-content/uploads/DSC02767-scaled.jpg",
@@ -360,6 +375,7 @@
     {
       "id": "news-13243",
       "source_type": "News",
+      "type": "General",
       "published_at": "2023-12-19T19:30:14Z",
       "featuredImage": {
         "url": "https://trade.gov.mv/wp-content/uploads/CSC-scaled.jpg",
@@ -381,6 +397,7 @@
     {
       "id": "news-13238",
       "source_type": "News",
+      "type": "General",
       "published_at": "2023-12-18T19:24:33Z",
       "featuredImage": {
         "url": "https://trade.gov.mv/wp-content/uploads/H.E.-Mr.-David-Jessup-scaled.jpg",
@@ -402,6 +419,7 @@
     {
       "id": "news-13233",
       "source_type": "News",
+      "type": "General",
       "published_at": "2023-12-18T19:17:31Z",
       "featuredImage": {
         "url": "https://trade.gov.mv/wp-content/uploads/Mr.-Fatih-Bozkurt-.jpg",
@@ -423,6 +441,7 @@
     {
       "id": "news-13228",
       "source_type": "News",
+      "type": "General",
       "published_at": "2023-12-12T19:09:39Z",
       "featuredImage": {
         "url": "https://trade.gov.mv/wp-content/uploads/H.E.-Matrek-Abdullah-Al-Ajalin-Aldosari-scaled.jpg",
@@ -444,6 +463,7 @@
     {
       "id": "news-13222",
       "source_type": "News",
+      "type": "General",
       "published_at": "2023-12-12T19:00:14Z",
       "featuredImage": {
         "url": "https://trade.gov.mv/wp-content/uploads/Deputy-Group-CEO-of-the-Ooredoo-Qatar-Group-with-a-senior-management-team-scaled.jpg",
@@ -465,6 +485,7 @@
     {
       "id": "news-13214",
       "source_type": "News",
+      "type": "General",
       "published_at": "2023-12-12T18:08:37Z",
       "featuredImage": {
         "url": "https://trade.gov.mv/wp-content/uploads/Ms.-Cindy-Malvicini-scaled.jpg",
@@ -486,6 +507,7 @@
     {
       "id": "news-13207",
       "source_type": "News",
+      "type": "General",
       "published_at": "2023-12-12T17:01:37Z",
       "featuredImage": {
         "url": "https://trade.gov.mv/wp-content/uploads/H.E.-Ms.-Caron-Röhsler-scaled.jpg",
@@ -507,6 +529,7 @@
     {
       "id": "news-13202",
       "source_type": "News",
+      "type": "General",
       "published_at": "2023-12-12T16:50:14Z",
       "featuredImage": {
         "url": "https://trade.gov.mv/wp-content/uploads/Mr.Shri-Munu-Mahawar-scaled.jpg",
@@ -528,6 +551,7 @@
     {
       "id": "news-13197",
       "source_type": "News",
+      "type": "General",
       "published_at": "2023-12-11T16:41:07Z",
       "featuredImage": {
         "url": "https://trade.gov.mv/wp-content/uploads/Ms.-Haswell.jpg",
@@ -549,6 +573,7 @@
     {
       "id": "news-13191",
       "source_type": "News",
+      "type": "General",
       "published_at": "2023-12-11T16:29:08Z",
       "featuredImage": {
         "url": "https://trade.gov.mv/wp-content/uploads/Resident-Representative-for-UNDPMaldives.jpg",
@@ -570,6 +595,7 @@
     {
       "id": "news-13186",
       "source_type": "News",
+      "type": "General",
       "published_at": "2023-12-11T16:22:19Z",
       "featuredImage": {
         "url": "https://trade.gov.mv/wp-content/uploads/Managing-Director-of-Maldives-Airports-Company-Limited.jpg",
@@ -591,6 +617,7 @@
     {
       "id": "news-13128",
       "source_type": "News",
+      "type": "General",
       "published_at": "2023-12-10T08:59:21Z",
       "featuredImage": {
         "url": "https://trade.gov.mv/wp-content/uploads/The-Deputy-Head-of-MissionHOC-of-the-Pakistan-High-Commission-Mr.-Zulqurnain-Ahmad-scaled.jpg",
@@ -612,6 +639,7 @@
     {
       "id": "news-13122",
       "source_type": "News",
+      "type": "General",
       "published_at": "2023-12-03T08:44:43Z",
       "featuredImage": {
         "url": "https://trade.gov.mv/wp-content/uploads/Tradenet-MD.png",
@@ -633,6 +661,7 @@
     {
       "id": "news-12265",
       "source_type": "News",
+      "type": "General",
       "published_at": "2023-11-23T06:02:49Z",
       "featuredImage": {
         "url": "https://trade.gov.mv/wp-content/uploads/China-Amb.jpeg",
@@ -654,6 +683,7 @@
     {
       "id": "news-12223",
       "source_type": "News",
+      "type": "General",
       "published_at": "2023-11-21T10:56:07Z",
       "featuredImage": {
         "url": "https://trade.gov.mv/wp-content/uploads/Secretary-General-of-the-Commonwealth-The-Rt.-Hon.-Patricia-Scotland-KC.jpeg",
@@ -675,6 +705,7 @@
     {
       "id": "news-12218",
       "source_type": "News",
+      "type": "General",
       "published_at": "2023-11-21T10:49:44Z",
       "featuredImage": {
         "url": "https://trade.gov.mv/wp-content/uploads/H.E-Hugo-Yue-Ho-Yon-the-Ambassador-of-United-States-of-America-e1700650624495.jpeg",
@@ -696,6 +727,7 @@
     {
       "id": "news-12212",
       "source_type": "News",
+      "type": "General",
       "published_at": "2023-11-20T10:27:34Z",
       "featuredImage": {
         "url": "https://trade.gov.mv/wp-content/uploads/Mr.-Karl-Stumke-the-Chief-Executive-Officer-Managing-Director-of-Bank.jpeg",
@@ -717,6 +749,7 @@
     {
       "id": "news-12206",
       "source_type": "News",
+      "type": "General",
       "published_at": "2023-11-20T10:18:48Z",
       "featuredImage": {
         "url": "https://trade.gov.mv/wp-content/uploads/WhatsApp-Image-2023-11-20-at-09.40.11.jpeg",
@@ -738,6 +771,7 @@
     {
       "id": "news-12200",
       "source_type": "News",
+      "type": "General",
       "published_at": "2023-11-20T10:10:30Z",
       "featuredImage": {
         "url": "https://trade.gov.mv/wp-content/uploads/H.E-Mr.-Maged-Mosleh-the-Ambassador-of-The-Arab-Republic-of-Egypt.jpeg",
@@ -759,6 +793,7 @@
     {
       "id": "news-12195",
       "source_type": "News",
+      "type": "General",
       "published_at": "2023-11-18T09:54:05Z",
       "featuredImage": {
         "url": "https://trade.gov.mv/wp-content/uploads/H.E-Ghulam-Murtaza-Solangi.jpg",
@@ -780,6 +815,7 @@
     {
       "id": "news-12190",
       "source_type": "News",
+      "type": "General",
       "published_at": "2023-11-18T09:42:45Z",
       "featuredImage": {
         "url": "https://trade.gov.mv/wp-content/uploads/State-Councillor-e1700646288759.jpg",
@@ -801,6 +837,7 @@
     {
       "id": "news-12184",
       "source_type": "News",
+      "type": "General",
       "published_at": "2023-11-17T09:18:29Z",
       "featuredImage": {
         "url": "https://trade.gov.mv/wp-content/uploads/Group-635.png",
@@ -822,6 +859,7 @@
     {
       "id": "news-11694",
       "source_type": "News",
+      "type": "Business",
       "published_at": "2023-10-31T06:36:29Z",
       "featuredImage": {
         "url": "https://trade.gov.mv/wp-content/uploads/CRF-Innovation-Award.png",
@@ -843,6 +881,7 @@
     {
       "id": "news-10262",
       "source_type": "News",
+      "type": "General",
       "published_at": "2023-07-10T22:36:18Z",
       "featuredImage": {
         "url": "https://trade.gov.mv/wp-content/uploads/photo_2023-07-11-03.22.57.jpeg",
@@ -864,6 +903,7 @@
     {
       "id": "news-9247",
       "source_type": "News",
+      "type": "Business",
       "published_at": "2023-07-02T08:35:29Z",
       "featuredImage": {
         "url": "https://trade.gov.mv/wp-content/uploads/EfaasBanner.png",
@@ -885,6 +925,7 @@
     {
       "id": "news-7015",
       "source_type": "News",
+      "type": "General",
       "published_at": "2023-01-18T08:33:30Z",
       "featuredImage": {
         "url": "https://trade.gov.mv/wp-content/uploads/hanimaadhoo-airport.jpg",
@@ -914,6 +955,7 @@
     {
       "id": "news-7014",
       "source_type": "News",
+      "type": "General",
       "published_at": "2023-01-18T08:32:30Z",
       "featuredImage": {
         "url": "https://trade.gov.mv/wp-content/uploads/2023/05/felivaru-cold-storage.png",
@@ -943,6 +985,7 @@
     {
       "id": "news-7013",
       "source_type": "News",
+      "type": "General",
       "published_at": "2022-12-21T08:32:27Z",
       "featuredImage": {
         "url": "https://trade.gov.mv/wp-content/uploads/2023/05/erc-launch.png",
@@ -978,6 +1021,7 @@
     {
       "id": "news-7012",
       "source_type": "News",
+      "type": "Business",
       "published_at": "2022-12-19T08:32:24Z",
       "featuredImage": {
         "url": "https://trade.gov.mv/wp-content/uploads/2023/05/lac-thoddoo-e1685525362993.png",
@@ -999,6 +1043,7 @@
     {
       "id": "news-7011",
       "source_type": "News",
+      "type": "General",
       "published_at": "2022-12-14T08:32:22Z",
       "featuredImage": {
         "url": "https://trade.gov.mv/wp-content/uploads/2023/05/china-maldives.jpg",
@@ -1020,6 +1065,7 @@
     {
       "id": "news-7010",
       "source_type": "News",
+      "type": "General",
       "published_at": "2022-12-08T08:32:18Z",
       "featuredImage": {
         "url": "https://trade.gov.mv/wp-content/uploads/2023/05/by-marek-l.jpg",
@@ -1041,6 +1087,7 @@
     {
       "id": "news-7009",
       "source_type": "News",
+      "type": "General",
       "published_at": "2022-11-24T08:32:16Z",
       "featuredImage": {
         "url": "https://trade.gov.mv/wp-content/uploads/2023/05/MBR.png",
@@ -1062,6 +1109,7 @@
     {
       "id": "news-7008",
       "source_type": "News",
+      "type": "General",
       "published_at": "2022-10-11T08:32:14Z",
       "featuredImage": {
         "url": "https://trade.gov.mv/wp-content/uploads/2023/05/addu-airport.jpg",
@@ -1091,6 +1139,7 @@
     {
       "id": "news-7007",
       "source_type": "News",
+      "type": "General",
       "published_at": "2022-10-05T08:32:12Z",
       "featuredImage": {
         "url": "https://trade.gov.mv/wp-content/uploads/2023/05/wise-program.jpeg",
@@ -1112,6 +1161,7 @@
     {
       "id": "news-7006",
       "source_type": "News",
+      "type": "General",
       "published_at": "2022-07-04T08:32:07Z",
       "featuredImage": {
         "url": "https://trade.gov.mv/wp-content/uploads/2023/05/sails-mou.png",
@@ -1141,6 +1191,7 @@
     {
       "id": "news-7005",
       "source_type": "News",
+      "type": "General",
       "published_at": "2022-06-29T08:32:05Z",
       "featuredImage": {
         "url": "https://trade.gov.mv/wp-content/uploads/2023/05/apprenticeship-mou.jpeg",
@@ -1170,6 +1221,7 @@
     {
       "id": "news-7004",
       "source_type": "News",
+      "type": "General",
       "published_at": "2022-06-13T08:32:02Z",
       "featuredImage": {
         "url": "https://trade.gov.mv/wp-content/uploads/2023/05/meery-pitch-up.jpg",
@@ -1205,6 +1257,7 @@
     {
       "id": "news-6951",
       "source_type": "News",
+      "type": "General",
       "published_at": "2022-06-07T10:25:16Z",
       "featuredImage": {
         "url": "https://trade.gov.mv/wp-content/uploads/2023/05/ict-mou.jpg",
@@ -1234,6 +1287,7 @@
     {
       "id": "news-6954",
       "source_type": "News",
+      "type": "General",
       "published_at": "2022-06-05T10:22:08Z",
       "featuredImage": {
         "url": "https://trade.gov.mv/wp-content/uploads/2023/05/consumer-website-launched.jpg",
@@ -1269,6 +1323,7 @@
     {
       "id": "news-6953",
       "source_type": "News",
+      "type": "General",
       "published_at": "2022-05-31T10:19:23Z",
       "featuredImage": {
         "url": "https://trade.gov.mv/wp-content/uploads/2023/05/big_2dXkIvXlUFPzyDCuPEcGyIIx8.jpg",
@@ -1298,6 +1353,7 @@
     {
       "id": "news-6952",
       "source_type": "News",
+      "type": "General",
       "published_at": "2022-05-30T09:58:14Z",
       "featuredImage": {
         "url": "https://trade.gov.mv/wp-content/uploads/2023/05/law-mou.png",
@@ -1319,6 +1375,7 @@
     {
       "id": "news-6962",
       "source_type": "News",
+      "type": "General",
       "published_at": "2022-05-29T09:56:04Z",
       "featuredImage": {
         "url": "https://trade.gov.mv/wp-content/uploads/2023/05/website-banner-news.jpg",
@@ -1348,6 +1405,7 @@
     {
       "id": "news-6961",
       "source_type": "News",
+      "type": "General",
       "published_at": "2022-04-27T09:53:46Z",
       "featuredImage": {
         "url": "https://trade.gov.mv/wp-content/uploads/2023/05/accountants-mou.jpg",
@@ -1377,6 +1435,7 @@
     {
       "id": "news-6959",
       "source_type": "News",
+      "type": "General",
       "published_at": "2022-04-24T09:52:26Z",
       "featuredImage": {
         "url": "https://trade.gov.mv/wp-content/uploads/2023/05/hdc-mou.jpg",
@@ -1406,6 +1465,7 @@
     {
       "id": "news-6960",
       "source_type": "News",
+      "type": "General",
       "published_at": "2022-04-24T09:52:23Z",
       "featuredImage": {
         "url": "https://trade.gov.mv/wp-content/uploads/2023/05/fenaka-mou.jpg",
@@ -1435,6 +1495,7 @@
     {
       "id": "news-6958",
       "source_type": "News",
+      "type": "General",
       "published_at": "2022-03-01T09:52:19Z",
       "featuredImage": {
         "url": "https://trade.gov.mv/wp-content/uploads/2023/05/zakaat-nafaa-program-mou.png",
@@ -1464,6 +1525,7 @@
     {
       "id": "news-6957",
       "source_type": "News",
+      "type": "General",
       "published_at": "2022-02-16T09:52:16Z",
       "featuredImage": {
         "url": "https://trade.gov.mv/wp-content/uploads/2023/05/signing-of-mou-scaled.jpeg",
@@ -1499,6 +1561,7 @@
     {
       "id": "news-6956",
       "source_type": "News",
+      "type": "General",
       "published_at": "2022-01-18T09:44:34Z",
       "featuredImage": {
         "url": "https://trade.gov.mv/wp-content/uploads/2023/05/by-hassan-ouajbir.jpg",
@@ -1528,6 +1591,7 @@
     {
       "id": "news-6955",
       "source_type": "News",
+      "type": "Business",
       "published_at": "2021-12-23T09:01:58Z",
       "featuredImage": {
         "url": "https://trade.gov.mv/wp-content/uploads/2023/05/by-christin-h.jpg",
@@ -1549,6 +1613,7 @@
     {
       "id": "news-6865",
       "source_type": "News",
+      "type": "General",
       "published_at": "2021-12-23T05:05:15Z",
       "featuredImage": {
         "url": "https://trade.gov.mv/wp-content/uploads/2021/12/by-markus-spiske.jpg",
@@ -1578,6 +1643,7 @@
     {
       "id": "news-6863",
       "source_type": "News",
+      "type": "General",
       "published_at": "2021-11-08T05:02:14Z",
       "featuredImage": {
         "url": "https://trade.gov.mv/wp-content/uploads/2023/05/minimum-wage-establishment.jpg",
@@ -1607,6 +1673,7 @@
     {
       "id": "news-6942",
       "source_type": "News",
+      "type": "Business",
       "published_at": "2021-09-05T09:46:22Z",
       "featuredImage": {
         "url": "https://trade.gov.mv/wp-content/uploads/2021/09/by-glenn-c-peters.jpg",
@@ -1636,6 +1703,7 @@
     {
       "id": "news-6885",
       "source_type": "News",
+      "type": "General",
       "published_at": "2021-09-01T06:55:00Z",
       "featuredImage": {
         "url": "https://trade.gov.mv/wp-content/uploads/2023/05/by-artur-tumasjan-scaled.jpg",
@@ -1657,6 +1725,7 @@
     {
       "id": "news-6857",
       "source_type": "News",
+      "type": "Business",
       "published_at": "2021-08-26T04:52:47Z",
       "featuredImage": {
         "url": "https://trade.gov.mv/wp-content/uploads/2021/09/by-rob-wilson.jpg",
@@ -1678,6 +1747,7 @@
     {
       "id": "news-6855",
       "source_type": "News",
+      "type": "General",
       "published_at": "2021-07-09T04:51:44Z",
       "featuredImage": {
         "url": "https://trade.gov.mv/wp-content/uploads/2021/07/image-2021-07-09-at-231811.jpeg",
@@ -1699,6 +1769,7 @@
     {
       "id": "news-6836",
       "source_type": "News",
+      "type": "General",
       "published_at": "2021-04-27T10:01:00Z",
       "featuredImage": {
         "url": "https://trade.gov.mv/wp-content/uploads/2023/01/Hanimadhoo-e1684650928439.jpg",
@@ -1720,6 +1791,7 @@
     {
       "id": "news-6829",
       "source_type": "News",
+      "type": "General",
       "published_at": "2021-04-26T09:34:00Z",
       "featuredImage": {
         "url": "https://trade.gov.mv/wp-content/uploads/2023/05/eyymf-ju8aa546p.jpg",
@@ -1741,6 +1813,7 @@
     {
       "id": "news-6815",
       "source_type": "News",
+      "type": "General",
       "published_at": "2021-04-26T09:02:00Z",
       "featuredImage": {
         "url": "https://trade.gov.mv/wp-content/uploads/2023/05/ezufi9pvoaacmgo-1.jpg",
