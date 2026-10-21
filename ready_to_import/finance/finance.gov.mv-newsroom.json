@@ -163,6 +163,7 @@
     {
       "id": "article-15",
       "source_type": "News",
+      "published_at": "2026-09-06T00:00:00Z",
       "featuredImage": {
         "url": "https://finance.gov.mv/public/attachments/Xd7NYlVJll3AcNjbjQZPjz6h3w6tmrPDweWNKX1Z.jpg",
         "alt": "Maldives and ITFC Sign US$1.5 Billion Trade Finance Framework"
@@ -530,6 +531,7 @@
     {
       "id": "article-minister-zameer-investment-in-accounting-profession-is-an-enabler-of-prosperity-and-fairness",
       "source_type": "News",
+      "published_at": "2025-10-14T00:00:00Z",
       "featuredImage": {
         "url": "https://finance.gov.mv/public/attachments/XEJi1PriEjEAF7Lj8B4TzTsPIkjWRDjh1qpCAjJQ.jpg",
         "alt": "Minister Zameer: Investment in Accounting Profession is an Enabler of Prosperity and Fairness"
@@ -897,6 +899,7 @@
     {
       "id": "article-8-3",
       "source_type": "News",
+      "published_at": "2025-05-26T00:00:00Z",
       "featuredImage": {
         "url": "https://finance.gov.mv/public/attachments/lQ6ZellmMbWm3aaTO2Yvu0neucAfIDGkHd6s86Gb.jpg",
         "alt": "Maldives signs a Double Tax Avoidance Agreement with Hong Kong during the sidelines of the 8th High-level Meeting of the Asia Initiative"
@@ -1852,6 +1855,7 @@
     {
       "id": "article-19-2",
       "source_type": "News",
+      "published_at": "2020-04-24T00:00:00Z",
       "featuredImage": {
         "url": "https://finance.gov.mv/public/attachments/odUYOLjQeyrnOF9SrtmnP2wSmwgqeHiutpcVUipz.jpeg",
         "alt": "Presentation by the Minister of Finance on the economic and fiscal impact of Covid-19, and proposed response measures"
@@ -1880,6 +1884,7 @@
     {
       "id": "article-19-3",
       "source_type": "News",
+      "published_at": "2020-04-07T00:00:00Z",
       "featuredImage": {
         "url": "https://finance.gov.mv/public/attachments/fiOz216hcb4OShYtWKiYBSpbUljwHMCpDoEma2Yc.jpeg",
         "alt": "Covid-19 Economic Relief Package Details"
@@ -1924,6 +1929,7 @@
     {
       "id": "article-19-4",
       "source_type": "News",
+      "published_at": "2020-03-18T00:00:00Z",
       "featuredImage": {
         "url": "https://finance.gov.mv/public/attachments/y9J8BnbTdediGQmJ8MzXfO4RBteNDi6G2o5SrRQf.jpeg",
         "alt": "Novel Coronavirus ( Covid"
@@ -1963,6 +1969,7 @@
     {
       "id": "article-internship-in-mof",
       "source_type": "News",
+      "published_at": "2020-02-11T00:00:00Z",
       "featuredImage": {
         "url": "https://finance.gov.mv/public/attachments/apHzoXV0PPok3ktMojWGUcYw6e3X9U4aAKDrIhD3.jpeg",
         "alt": "(IUL)13-HR/13/2020/37"
@@ -2034,6 +2041,7 @@
     {
       "id": "article-2-2",
       "source_type": "News",
+      "published_at": "2019-10-10T00:00:00Z",
       "featuredImage": {
         "url": "https://finance.gov.mv/public/attachments/i4w9OvJCtWoyQFkiyLb2f2NqjPVKu2ZolBFpTaxs.jpeg",
         "alt": "(IUL)13-E/13/2019/280"
@@ -2089,6 +2097,7 @@
     {
       "id": "article-beelan-veringe-mahaasinthaa-has-been-conducted",
       "source_type": "News",
+      "published_at": "2019-08-25T00:00:00Z",
       "featuredImage": {
         "url": "https://finance.gov.mv/public/attachments/eui7myWHJvdZ6fw7OMTSpv3sq35i3BSUzDhm4DPW.jpeg",
         "alt": "Beelan veringe mahaasinthaa has been conducted"
@@ -2128,6 +2137,7 @@
     {
       "id": "article-public-finance-training-commenced-at-fuvahmulah-city",
       "source_type": "News",
+      "published_at": "2019-07-25T00:00:00Z",
       "featuredImage": {
         "url": "https://finance.gov.mv/public/attachments/btodPOmyAKGWLbpSI2uIdJJURqsiSiprDKa55RMN.jpeg",
         "alt": "Public Finance Training commenced at Fuvahmulah City"
@@ -2167,6 +2177,7 @@
     {
       "id": "article-2-4",
       "source_type": "News",
+      "published_at": "2019-07-03T00:00:00Z",
       "featuredImage": {
         "url": "https://finance.gov.mv/public/attachments/CT3zYVfsDkdHGmqf7L6tldqWkI1kpPd676qp92DM.jpeg",
         "alt": "World Bank Board approves 2 Projects for Maldives"
@@ -2190,6 +2201,7 @@
     {
       "id": "article-soe-heads-pledge-zero-tolerance-on-corruption-signs-proclamation-to-eradicate-corruption",
       "source_type": "News",
+      "published_at": "2019-06-27T00:00:00Z",
       "featuredImage": {
         "url": "https://finance.gov.mv/public/attachments/iNGKLGeBQSOjaTeau3pO9EukzVs21LGsonO7SxPb.jpeg",
         "alt": "SOE heads pledge zero tolerance on corruption, signs Proclamation to Eradicate Corruption"
@@ -2219,6 +2231,7 @@
     {
       "id": "article-symposium-for-state-owned-enterprises-strengthening-of-corporate-governance-sees-the-inauguration-of-the-first-corporate-governance-code-for-soes",
       "source_type": "News",
+      "published_at": "2019-06-27T00:00:00Z",
       "featuredImage": {
         "url": "https://finance.gov.mv/public/attachments/LaJKFSB4xl2mOLgjIzIYVn6H5e8FVmHSOXDzHO3N.jpeg",
         "alt": "Symposium for State Owned Enterprises"
@@ -2266,6 +2279,7 @@
     {
       "id": "article-beelamuge-massala-balaa-mustagillu-review-comittee-ekulavaalaifi",
       "source_type": "News",
+      "published_at": "2019-06-19T00:00:00Z",
       "featuredImage": {
         "url": "https://finance.gov.mv/public/attachments/6l0xgbORq9uD7g7DI0V4k5wOoQfisesJPEqYAGw1.jpeg",
         "alt": "Beelamuge massala balaa mustagillu review comittee ekulavaalaifi"
@@ -2365,6 +2379,7 @@
     {
       "id": "article-atholhu-fihaara-takuge-faisaa-jamaaa-kohdeyn-fashaifi",
       "source_type": "News",
+      "published_at": "2019-05-16T00:00:00Z",
       "featuredImage": {
         "url": "https://finance.gov.mv/public/attachments/Cmavc3I026SDE2RlYCYfg1gOwylVHtRA6nhzcpCU.jpeg",
         "alt": "Atholhu fihaara takuge faisaa jamaaa kohdeyn fashaifi"
@@ -2388,6 +2403,7 @@
     {
       "id": "article-minister-ameer-meets-vice-chairman-and-managing-director-of-saudi-fund",
       "source_type": "News",
+      "published_at": "2019-05-07T00:00:00Z",
       "featuredImage": {
         "url": "https://finance.gov.mv/public/attachments/uIGoMNzn7XgdlqtVIG17ihjaEnbux4rZc5lvXsH0.jpeg",
         "alt": "Minister Ameer meets Vice-Chairman and Managing Director of Saudi Fund"
@@ -2403,6 +2419,7 @@
     {
       "id": "article-52",
       "source_type": "News",
+      "published_at": "2019-04-29T00:00:00Z",
       "featuredImage": {
         "url": "https://finance.gov.mv/public/attachments/37ArQPtIztgzbaLAft1SmsirUxwbVfEk6UVEOP7K.jpeg",
         "alt": "Minister Ameer departs Fiji to attend 52nd ADB Annual Meeting"
@@ -2434,6 +2451,7 @@
     {
       "id": "article-35",
       "source_type": "News",
+      "published_at": "2019-03-28T00:00:00Z",
       "featuredImage": {
         "url": "https://finance.gov.mv/public/attachments/NC9bCOFk1gcQzf6OJVxfw4nICVIKBtO8AxPkt2tS.jpeg",
         "alt": "india ge exim bank ge eheegai 35 rasheh gai fenaa narudamaage massakai fashaneee"
@@ -2457,6 +2475,7 @@
     {
       "id": "article-ambassadors-pays-a-courtesy-call-to-the-minister",
       "source_type": "News",
+      "published_at": "2019-03-13T00:00:00Z",
       "featuredImage": {
         "url": "https://finance.gov.mv/public/attachments/aIvaFJBkmf8rzhI7K7hDnKeGMSFvuSiYCcJETlES.jpeg",
         "alt": "Ambassadors pays a courtesy call to the Minister"
@@ -2472,6 +2491,7 @@
     {
       "id": "article-2019-6",
       "source_type": "News",
+      "published_at": "2019-03-06T00:00:00Z",
       "featuredImage": {
         "url": "https://finance.gov.mv/public/attachments/pcUEzKyL3l6rMD2LtPvr0N8g5j5lvDYpZJuD5ce8.jpeg",
         "alt": "8th Global economic summit 2019, Mumbai"
@@ -2495,6 +2515,7 @@
     {
       "id": "article-workshop-on-essentials-of-financial-journalism",
       "source_type": "News",
+      "published_at": "2019-01-21T00:00:00Z",
       "featuredImage": {
         "url": "https://finance.gov.mv/public/attachments/xjI1xlmhHUcbzTP2yFpKAGV9gezIYvI8M08SXxpY.jpeg",
         "alt": "Workshop on Essentials of Financial Journalism"
@@ -2518,6 +2539,7 @@
     {
       "id": "article-bangladesh-high-commissioner-he-rear-admiral-akhtar-habib-pays-a-courtesy-call-to-the-minister-of-finance",
       "source_type": "News",
+      "published_at": "2019-01-09T00:00:00Z",
       "featuredImage": {
         "url": "https://finance.gov.mv/public/attachments/eavHkl1LT4g44kEO3LoYn9SbPTD0IssvQ1rYjKQr.jpeg",
         "alt": "Bangladesh High Commissioner H.E Rear Admiral Akhtar Habib pays a courtesy call to the Minister of Finance"
@@ -2533,6 +2555,7 @@
     {
       "id": "article-k-huraa-council-paid-a-courtesy-call-to-the-minister-of-finance",
       "source_type": "News",
+      "published_at": "2019-01-08T00:00:00Z",
       "featuredImage": {
         "url": "https://finance.gov.mv/public/attachments/wv79FDZMZG7pxpc2lIFmoscgTZ5mBqUYbC0h1ZKW.jpeg",
         "alt": "K. Huraa Council paid a courtesy call to the Minister of Finance"
@@ -2548,6 +2571,7 @@
     {
       "id": "article-state-minister-meets-dharanboodhoo-council",
       "source_type": "News",
+      "published_at": "2019-01-07T00:00:00Z",
       "featuredImage": {
         "url": "https://finance.gov.mv/public/attachments/yYrQ7lOMKm2roWZtcFRyEK1CaPK6jUlmLqp774JM.jpeg",
         "alt": "State Minister meets Dharanboodhoo Council"
@@ -2563,6 +2587,7 @@
     {
       "id": "article-2019-7",
       "source_type": "News",
+      "published_at": "2019-01-03T00:00:00Z",
       "featuredImage": {
         "url": "https://finance.gov.mv/public/attachments/UREYiowSAgQDzNCg0kmS0zvfikK3iEmOa3KRtmZC.jpeg",
         "alt": "MoF key activities for 2019"
@@ -2586,6 +2611,7 @@
     {
       "id": "article-100-2",
       "source_type": "News",
+      "published_at": "2018-12-24T00:00:00Z",
       "featuredImage": {
         "url": "https://finance.gov.mv/public/attachments/l5pNwqtEXtpk8CDDVImHKKh3LbXECti3MXtK9vAf.jpeg",
         "alt": "Status of Five Pledges assigned for Ministry of Finance"
@@ -2609,6 +2635,7 @@
     {
       "id": "article-14",
       "source_type": "News",
+      "published_at": "2018-12-19T00:00:00Z",
       "featuredImage": {
         "url": "https://finance.gov.mv/public/attachments/QeNoIriUOmYO9nfUY3yiZQ2VrdP8zLPEJa9JSt8u.jpeg",
         "alt": "India announces USD 1.4 billion assistance package to Maldives"
@@ -2632,6 +2659,7 @@
     {
       "id": "article-corporate-business-card-printing-procurement",
       "source_type": "News",
+      "published_at": "2018-12-16T00:00:00Z",
       "featuredImage": {
         "url": "https://finance.gov.mv/public/attachments/TrQtomiTdYmIDWc93CnodVPZpFAi6hQCL4xQEiOT.jpeg",
         "alt": "Corporate Business Card Printing Procurement"
@@ -2687,6 +2715,7 @@
     {
       "id": "article-2018",
       "source_type": "News",
+      "published_at": "2018-07-19T00:00:00Z",
       "featuredImage": {
         "url": "https://finance.gov.mv/public/attachments/WRMEV5inLqao2zmGuiINCT5QTxDTAB8fKZFuivr7.jpeg",
         "alt": "Bodu Bandeyreen 2018 launching Ceremony"
@@ -2774,6 +2803,7 @@
     {
       "id": "article-2018-2",
       "source_type": "News",
+      "published_at": "2018-01-20T00:00:00Z",
       "featuredImage": {
         "url": "https://finance.gov.mv/public/attachments/7mhV93vpVqFZK7IKPlm2WYYBCPc2je0QJbCtkDHf.jpeg",
         "alt": "Strategic Action Plan Review Workshop 2018"
@@ -2788,6 +2818,7 @@
     {
       "id": "article-bandeyri-portal",
       "source_type": "News",
+      "published_at": "2018-01-08T00:00:00Z",
       "featuredImage": {
         "url": "https://finance.gov.mv/public/attachments/lFMqrFGWVlPPSBziU0roBjHmiZFDHuR4AJ3NqvaK.png",
         "alt": "\"Bandeyri Portal\""
@@ -3075,6 +3106,7 @@
     {
       "id": "article-117",
       "source_type": "News",
+      "published_at": "2017-05-29T00:00:00Z",
       "featuredImage": {
         "url": "https://finance.gov.mv/public/attachments/zfcEUChBgAxGL7s61jZG6aeQUEVrQuESFakd2a72.jpeg",
         "alt": "IDB group has pledged more than $117 million"
@@ -3202,6 +3234,7 @@
     {
       "id": "article-saarc-adb-third-special-meeting-on-economic-integration-study-phaseii",
       "source_type": "News",
+      "published_at": "2017-04-12T00:00:00Z",
       "featuredImage": {
         "url": "https://finance.gov.mv/public/attachments/ZsDLVEJKJ717CxQV4DrOz6uJ0B2okCqbbhxiEXiW.jpeg",
         "alt": "SAARC - ADB Third Special Meeting on Economic Integration Study ( phaseII)"
@@ -3233,6 +3266,7 @@
     {
       "id": "article-10-2",
       "source_type": "News",
+      "published_at": "2017-04-02T00:00:00Z",
       "featuredImage": {
         "url": "https://finance.gov.mv/public/attachments/gP3GH5rzcYQkIXSe4Gy3DzcVwzjSVzNxyvHsBlZd.jpeg",
         "alt": "The Government of Maldives today signed the agreement to buy an additional 10 percent of shares of the Maldives Islamic Bank."
@@ -3248,6 +3282,7 @@
     {
       "id": "article-1617",
       "source_type": "News",
+      "published_at": "2017-03-30T00:00:00Z",
       "featuredImage": {
         "url": "https://finance.gov.mv/public/attachments/NsyK0gwHouJIcPrzzWqjzcMvUX37CNw824TLyB5R.jpeg",
         "alt": "We have launched our Call Center 1617"
@@ -3295,6 +3330,7 @@
     {
       "id": "article-26",
       "source_type": "News",
+      "published_at": "2016-10-26T00:00:00Z",
       "featuredImage": {
         "url": "https://finance.gov.mv/public/attachments/2BV4hTQICEIVqC0Iuc7ychnFA0ET7jysjC50XB9u.jpeg",
         "alt": "The first Finance Executive's Meeting, chaired by Minister of Finance Ahmed Munawar, was held in ministry of finance on 25th and 26th Oct."
@@ -3326,6 +3362,7 @@
     {
       "id": "article-minister-ahmed-munawar-meets-aiib-vice-president-dj-pandian-and-chief-investment-officer-anzheng-wei",
       "source_type": "News",
+      "published_at": "2016-10-15T00:00:00Z",
       "featuredImage": {
         "url": "https://finance.gov.mv/public/attachments/3WS56aoaP6UKBRY7PfSUyfV6YL8k9CPHuWEiPuGX.jpeg",
         "alt": "Minister Ahmed Munawar meets AIIB Vice President, D.J. Pandian and Chief Investment Officer, Anzheng Wei"
@@ -3341,6 +3378,7 @@
     {
       "id": "article-the-inauguration-ceremony-of-workshop-on-preparation-of-financial-statements-on-ipsas-cash-basis-was-held-at-ago-today-the-workshop-was-inaugurated-by-financial-controller-of-the-government-msfathimath-razeena",
       "source_type": "News",
+      "published_at": "2016-10-13T00:00:00Z",
       "featuredImage": {
         "url": "https://finance.gov.mv/public/attachments/hY4TFgqnuZ5hqvQMY1lzpeBBqb7DzDbOwMNyU2p2.jpeg",
         "alt": "The inauguration ceremony of Workshop on preparation of Financial Statements on IPSAS Cash Basis was held at AGO today. The Workshop was inaugurated by Financial Controller of the Government Ms.Fathimath Razeena."
@@ -3739,6 +3777,7 @@
     {
       "id": "article-2019-8",
       "source_type": "News",
+      "published_at": "2018-11-13T00:00:00Z",
       "featuredImage": {
         "url": "https://finance.gov.mv/public/attachments/5MzGhmoqqMhkJOmwHfKO9XEeFZanRhjHVVcFxtji.png",
         "alt": "Budget Speech - 2019"
