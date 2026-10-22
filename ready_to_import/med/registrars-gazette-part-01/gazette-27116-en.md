@@ -6,6 +6,8 @@ title: "Opportunity opened to complete incomplete applications submitted through
 source_type: Gazette
 description: "* July 2, 2026 * Announcement * Reference Number: 27116"
 published_at: 2026-07-02T15:54:00Z
+image_url: https://raw.githubusercontent.com/MohamedAush/site-scraper/main/ready_to_import/med/plchldr2.png
+image_alt: "Opportunity opened to complete incomplete applications submitted through the Business Portal"
 ---
 
 * July 2, 2026

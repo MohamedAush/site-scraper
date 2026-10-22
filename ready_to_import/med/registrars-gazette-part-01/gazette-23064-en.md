@@ -6,6 +6,8 @@ title: "Liquidation of Nooiru Private Limited"
 source_type: Gazette
 description: "* September 16, 2025 * Liquidation * Reference Number: 23064"
 published_at: 2025-09-16T06:37:44Z
+image_url: https://raw.githubusercontent.com/MohamedAush/site-scraper/main/ready_to_import/med/plchldr2.png
+image_alt: "Liquidation of Nooiru Private Limited"
 ---
 
 * September 16, 2025

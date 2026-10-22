@@ -6,6 +6,8 @@ title: "SOFT TOUCH MALDIVES PVT LTD Capital Decrease Notice"
 source_type: Gazette
 description: "* September 17, 2025 * Announcement * Reference Number: 23112"
 published_at: 2025-09-17T11:11:32Z
+image_url: https://raw.githubusercontent.com/MohamedAush/site-scraper/main/ready_to_import/med/plchldr2.png
+image_alt: "SOFT TOUCH MALDIVES PVT LTD Capital Decrease Notice"
 ---
 
 * September 17, 2025

@@ -6,6 +6,8 @@ title: "Liquidation of FOREVER AFTER PRIVATE LIMITED"
 source_type: Gazette
 description: "* September 27, 2026 * Liquidation * Reference Number: 28377"
 published_at: 2026-09-27T03:51:18Z
+image_url: https://raw.githubusercontent.com/MohamedAush/site-scraper/main/ready_to_import/med/plchldr2.png
+image_alt: "Liquidation of FOREVER AFTER PRIVATE LIMITED"
 ---
 
 * September 27, 2026

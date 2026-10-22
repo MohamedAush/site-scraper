@@ -6,6 +6,8 @@ title: "Liquidation of Diving and Sailing Pvt Ltd"
 source_type: Gazette
 description: "* September 21, 2026 * Liquidation * Reference Number: 28324"
 published_at: 2026-09-21T04:22:23Z
+image_url: https://raw.githubusercontent.com/MohamedAush/site-scraper/main/ready_to_import/med/plchldr2.png
+image_alt: "Liquidation of Diving and Sailing Pvt Ltd"
 ---
 
 * September 21, 2026

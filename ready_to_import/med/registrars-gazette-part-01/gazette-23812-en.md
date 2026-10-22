@@ -6,6 +6,8 @@ title: "Liquidation of TRACTORS SINGAPORE (MALDIVES) Pvt Ltd"
 source_type: Gazette
 description: "* October 8, 2025 * Liquidation * Reference Number: 23812"
 published_at: 2025-10-08T10:06:20Z
+image_url: https://raw.githubusercontent.com/MohamedAush/site-scraper/main/ready_to_import/med/plchldr2.png
+image_alt: "Liquidation of TRACTORS SINGAPORE (MALDIVES) Pvt Ltd"
 ---
 
 * October 8, 2025

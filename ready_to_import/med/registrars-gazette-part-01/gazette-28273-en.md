@@ -6,6 +6,8 @@ title: "Liquidation of SPORTS ENGINEERING AND RECREATION ASIA MALDIVES Pvt Ltd"
 source_type: Gazette
 description: "* September 17, 2026 * Liquidation * Reference Number: 28273"
 published_at: 2026-09-17T04:32:52Z
+image_url: https://raw.githubusercontent.com/MohamedAush/site-scraper/main/ready_to_import/med/plchldr2.png
+image_alt: "Liquidation of SPORTS ENGINEERING AND RECREATION ASIA MALDIVES Pvt Ltd"
 ---
 
 * September 17, 2026

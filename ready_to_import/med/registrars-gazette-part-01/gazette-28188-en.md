@@ -6,6 +6,8 @@ title: "Innovare Maldives PVT LTD Capital Decrease Notice"
 source_type: Gazette
 description: "* September 7, 2026 * Announcement * Reference Number: 28188"
 published_at: 2026-09-07T06:14:32Z
+image_url: https://raw.githubusercontent.com/MohamedAush/site-scraper/main/ready_to_import/med/plchldr2.png
+image_alt: "Innovare Maldives PVT LTD Capital Decrease Notice"
 ---
 
 * September 7, 2026

@@ -6,6 +6,8 @@ title: "Liquidation of FUGRO GEOTECH (INDIA) PRIVATE LIMITED"
 source_type: Gazette
 description: "* April 23, 2026 * Liquidation * Reference Number: 25439"
 published_at: 2026-04-23T03:56:33Z
+image_url: https://raw.githubusercontent.com/MohamedAush/site-scraper/main/ready_to_import/med/plchldr2.png
+image_alt: "Liquidation of FUGRO GEOTECH (INDIA) PRIVATE LIMITED"
 ---
 
 * April 23, 2026

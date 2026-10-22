@@ -6,6 +6,8 @@ title: "Liquidation of ALPHA INSURANCE CONSULTANTS PVT LTD"
 source_type: Gazette
 description: "* September 25, 2024 * Liquidation * Reference Number: 19090"
 published_at: 2024-09-25T08:49:20Z
+image_url: https://raw.githubusercontent.com/MohamedAush/site-scraper/main/ready_to_import/med/plchldr2.png
+image_alt: "Liquidation of ALPHA INSURANCE CONSULTANTS PVT LTD"
 ---
 
 * September 25, 2024

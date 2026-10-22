@@ -6,6 +6,8 @@ title: "Liquidation of Hocatsa Maldives Pvt Ltd"
 source_type: Gazette
 description: "* September 14, 2026 * Liquidation * Reference Number: 28259"
 published_at: 2026-09-14T07:44:43Z
+image_url: https://raw.githubusercontent.com/MohamedAush/site-scraper/main/ready_to_import/med/plchldr2.png
+image_alt: "Liquidation of Hocatsa Maldives Pvt Ltd"
 ---
 
 * September 14, 2026

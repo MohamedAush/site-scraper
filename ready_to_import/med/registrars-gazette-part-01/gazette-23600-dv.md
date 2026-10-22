@@ -6,6 +6,8 @@ title: "ހަރަކާކްތެރިނުވާ ކުންފުންޏެއްގެ ގޮތުގ
 source_type: Gazette
 description: "* 30/09/2025 * ލިކުއިޑޭޝަން * ރެފަރަންސް ނަމްބަރ: 23600"
 published_at: 2025-09-30T08:33:06Z
+image_url: https://raw.githubusercontent.com/MohamedAush/site-scraper/main/ready_to_import/med/plchldr2.png
+image_alt: "ހަރަކާކްތެރިނުވާ ކުންފުންޏެއްގެ ގޮތުގައި ކަނޑައަޅާފައިވާ ކުންފުނިތަކުގެ ތެރެއިން އަލުން ޙަރަކާތްތެރިވުމާއި ހިންގުމަށް އެދޭ ކުންފުނިތަކަށް ފުރުޞަތު ހުޅުވާލުން"
 ---
 
 * 30/09/2025

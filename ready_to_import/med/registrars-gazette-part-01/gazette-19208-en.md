@@ -6,6 +6,8 @@ title: "Liquidation of Square Space Inc Pvt Ltd"
 source_type: Gazette
 description: "* October 7, 2024 * Liquidation * Reference Number: 19208"
 published_at: 2024-10-07T09:23:49Z
+image_url: https://raw.githubusercontent.com/MohamedAush/site-scraper/main/ready_to_import/med/plchldr2.png
+image_alt: "Liquidation of Square Space Inc Pvt Ltd"
 ---
 
 * October 7, 2024

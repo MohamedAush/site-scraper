@@ -6,6 +6,8 @@ title: "Siovin Holdings Pvt Ltd Capital Decrease Notice"
 source_type: Gazette
 description: "* September 24, 2024 * Announcement * Reference Number: 19182"
 published_at: 2024-09-24T08:34:21Z
+image_url: https://raw.githubusercontent.com/MohamedAush/site-scraper/main/ready_to_import/med/plchldr2.png
+image_alt: "Siovin Holdings Pvt Ltd Capital Decrease Notice"
 ---
 
 * September 24, 2024

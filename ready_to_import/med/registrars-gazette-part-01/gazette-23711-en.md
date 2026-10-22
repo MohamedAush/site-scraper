@@ -6,6 +6,8 @@ title: "Liquidation of Next & Co International Pvt Ltd"
 source_type: Gazette
 description: "* October 4, 2025 * Liquidation * Reference Number: 23711"
 published_at: 2025-10-04T10:04:04Z
+image_url: https://raw.githubusercontent.com/MohamedAush/site-scraper/main/ready_to_import/med/plchldr2.png
+image_alt: "Liquidation of Next & Co International Pvt Ltd"
 ---
 
 * October 4, 2025

@@ -6,6 +6,8 @@ title: "Liquidation of MOHAN MUTHA ASHOKA BUILDCON LLP"
 source_type: Gazette
 description: "* June 24, 2025 * Liquidation * Reference Number: 21686"
 published_at: 2025-06-24T03:20:51Z
+image_url: https://raw.githubusercontent.com/MohamedAush/site-scraper/main/ready_to_import/med/plchldr2.png
+image_alt: "Liquidation of MOHAN MUTHA ASHOKA BUILDCON LLP"
 ---
 
 * June 24, 2025

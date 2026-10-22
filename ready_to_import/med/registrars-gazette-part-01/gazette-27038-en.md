@@ -6,6 +6,8 @@ title: "Liquidation of LUCKY EXPORTS"
 source_type: Gazette
 description: "* June 23, 2026 * Liquidation * Reference Number: 27038"
 published_at: 2026-06-23T05:50:15Z
+image_url: https://raw.githubusercontent.com/MohamedAush/site-scraper/main/ready_to_import/med/plchldr2.png
+image_alt: "Liquidation of LUCKY EXPORTS"
 ---
 
 * June 23, 2026

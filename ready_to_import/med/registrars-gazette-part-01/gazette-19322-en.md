@@ -6,6 +6,8 @@ title: "Liquidation of MAAGAS PVT LTD"
 source_type: Gazette
 description: "* October 23, 2024 * Liquidation * Reference Number: 19322"
 published_at: 2024-10-23T03:25:00Z
+image_url: https://raw.githubusercontent.com/MohamedAush/site-scraper/main/ready_to_import/med/plchldr2.png
+image_alt: "Liquidation of MAAGAS PVT LTD"
 ---
 
 * October 23, 2024

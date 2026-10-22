@@ -6,6 +6,8 @@ title: "Model Articles of Association for Private Companies"
 source_type: Gazette
 description: "* July 30, 2024 * Companies Act Guides * Reference Number: 18801"
 published_at: 2024-07-30T12:19:22Z
+image_url: https://raw.githubusercontent.com/MohamedAush/site-scraper/main/ready_to_import/med/plchldr2.png
+image_alt: "Model Articles of Association for Private Companies"
 ---
 
 * July 30, 2024

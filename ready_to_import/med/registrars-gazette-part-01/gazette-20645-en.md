@@ -6,6 +6,8 @@ title: "Liquidation of AVIRA HOLDINGS PVT LTD"
 source_type: Gazette
 description: "* February 13, 2025 * Liquidation * Reference Number: 20645"
 published_at: 2025-02-13T03:25:55Z
+image_url: https://raw.githubusercontent.com/MohamedAush/site-scraper/main/ready_to_import/med/plchldr2.png
+image_alt: "Liquidation of AVIRA HOLDINGS PVT LTD"
 ---
 
 * February 13, 2025

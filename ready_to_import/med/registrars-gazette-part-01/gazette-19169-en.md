@@ -6,6 +6,8 @@ title: "Liquidation of CARBON CONSULTING COMPANY PVT LTD"
 source_type: Gazette
 description: "* September 25, 2024 * Liquidation * Reference Number: 19169"
 published_at: 2024-09-25T08:35:01Z
+image_url: https://raw.githubusercontent.com/MohamedAush/site-scraper/main/ready_to_import/med/plchldr2.png
+image_alt: "Liquidation of CARBON CONSULTING COMPANY PVT LTD"
 ---
 
 * September 25, 2024

@@ -6,6 +6,8 @@ title: "Liquidation of EXHAUL PVT LTD"
 source_type: Gazette
 description: "* August 21, 2025 * Liquidation * Reference Number: 22519"
 published_at: 2025-08-21T07:14:02Z
+image_url: https://raw.githubusercontent.com/MohamedAush/site-scraper/main/ready_to_import/med/plchldr2.png
+image_alt: "Liquidation of EXHAUL PVT LTD"
 ---
 
 * August 21, 2025

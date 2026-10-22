@@ -6,6 +6,8 @@ title: "Liquidation of ENREEF PRIVATE LIMITED"
 source_type: Gazette
 description: "* November 27, 2025 * Liquidation * Reference Number: 24401"
 published_at: 2025-11-27T04:52:05Z
+image_url: https://raw.githubusercontent.com/MohamedAush/site-scraper/main/ready_to_import/med/plchldr2.png
+image_alt: "Liquidation of ENREEF PRIVATE LIMITED"
 ---
 
 * November 27, 2025

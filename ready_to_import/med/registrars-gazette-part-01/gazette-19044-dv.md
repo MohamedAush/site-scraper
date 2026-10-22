@@ -6,6 +6,8 @@ title: "ޤަނޫން ނަންބަރ 7/2023 (ކުންފުނީގެ ޤާނޫން) �
 source_type: Gazette
 description: "* 09/09/2024 * ލިކުއިޑޭޝަން * ރެފަރަންސް ނަމްބަރ: 19040"
 published_at: 2024-09-09T03:09:31Z
+image_url: https://raw.githubusercontent.com/MohamedAush/site-scraper/main/ready_to_import/med/plchldr2.png
+image_alt: "ޤަނޫން ނަންބަރ 7/2023 (ކުންފުނީގެ ޤާނޫން) ގެ 196 ވަނަ މާއްދާގެ ދަށުން ކުންފުނި އުވާލުން"
 ---
 
 * 09/09/2024

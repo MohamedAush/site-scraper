@@ -6,6 +6,8 @@ title: "Liquidation of VAALY BROTHERS PVT LTD"
 source_type: Gazette
 description: "* April 19, 2025 * Liquidation * Reference Number: 21120"
 published_at: 2025-04-19T06:03:11Z
+image_url: https://raw.githubusercontent.com/MohamedAush/site-scraper/main/ready_to_import/med/plchldr2.png
+image_alt: "Liquidation of VAALY BROTHERS PVT LTD"
 ---
 
 * April 19, 2025

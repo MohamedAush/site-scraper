@@ -6,6 +6,8 @@ title: "Liquidation of Surpass Canopus Maldives Private Limited"
 source_type: Gazette
 description: "* May 12, 2025 * Liquidation * Reference Number: 21373"
 published_at: 2025-05-12T03:16:06Z
+image_url: https://raw.githubusercontent.com/MohamedAush/site-scraper/main/ready_to_import/med/plchldr2.png
+image_alt: "Liquidation of Surpass Canopus Maldives Private Limited"
 ---
 
 * May 12, 2025

@@ -6,6 +6,8 @@ title: "Liquidation of EMBER BLU PVT LTD"
 source_type: Gazette
 description: "* October 1, 2024 * Liquidation * Reference Number: 19214"
 published_at: 2024-10-01T06:57:36Z
+image_url: https://raw.githubusercontent.com/MohamedAush/site-scraper/main/ready_to_import/med/plchldr2.png
+image_alt: "Liquidation of EMBER BLU PVT LTD"
 ---
 
 * October 1, 2024

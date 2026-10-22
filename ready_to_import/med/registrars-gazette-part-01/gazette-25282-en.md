@@ -6,6 +6,8 @@ title: "Liquidation of OCEAN WATER SPORTS PRIVATE LIMITED"
 source_type: Gazette
 description: "* April 15, 2026 * Liquidation * Reference Number: 25282"
 published_at: 2026-04-15T06:51:09Z
+image_url: https://raw.githubusercontent.com/MohamedAush/site-scraper/main/ready_to_import/med/plchldr2.png
+image_alt: "Liquidation of OCEAN WATER SPORTS PRIVATE LIMITED"
 ---
 
 * April 15, 2026

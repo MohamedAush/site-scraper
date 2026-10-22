@@ -6,6 +6,8 @@ title: "Liquidation of Amo Maldives Private Limited"
 source_type: Gazette
 description: "* April 23, 2025 * Liquidation * Reference Number: 21232"
 published_at: 2025-04-23T05:10:45Z
+image_url: https://raw.githubusercontent.com/MohamedAush/site-scraper/main/ready_to_import/med/plchldr2.png
+image_alt: "Liquidation of Amo Maldives Private Limited"
 ---
 
 * April 23, 2025

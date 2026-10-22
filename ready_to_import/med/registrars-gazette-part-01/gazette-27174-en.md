@@ -6,6 +6,8 @@ title: "Liquidation of Ryora Private Limited"
 source_type: Gazette
 description: "* July 14, 2026 * Liquidation * Reference Number: 27174"
 published_at: 2026-07-14T04:37:12Z
+image_url: https://raw.githubusercontent.com/MohamedAush/site-scraper/main/ready_to_import/med/plchldr2.png
+image_alt: "Liquidation of Ryora Private Limited"
 ---
 
 * July 14, 2026

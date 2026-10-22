@@ -6,6 +6,8 @@ title: "ABA Pvt Ltd Capital Decrease Notice"
 source_type: Gazette
 description: "* July 25, 2024 * Announcement * Reference Number: 18687"
 published_at: 2024-07-25T10:02:32Z
+image_url: https://raw.githubusercontent.com/MohamedAush/site-scraper/main/ready_to_import/med/plchldr2.png
+image_alt: "ABA Pvt Ltd Capital Decrease Notice"
 ---
 
 * July 25, 2024

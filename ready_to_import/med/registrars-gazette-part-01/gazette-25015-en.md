@@ -6,6 +6,8 @@ title: "Liquidation of Street Investment Pvt Ltd"
 source_type: Gazette
 description: "* February 24, 2026 * Liquidation * Reference Number: 25015"
 published_at: 2026-02-24T07:42:44Z
+image_url: https://raw.githubusercontent.com/MohamedAush/site-scraper/main/ready_to_import/med/plchldr2.png
+image_alt: "Liquidation of Street Investment Pvt Ltd"
 ---
 
 * February 24, 2026

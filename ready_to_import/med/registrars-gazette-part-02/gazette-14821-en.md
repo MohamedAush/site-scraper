@@ -6,6 +6,8 @@ title: "Liquidation of Venoa Pvt Ltd"
 source_type: Gazette
 description: "* March 3, 2024 * Liquidation * Reference Number: 14821"
 published_at: 2024-03-03T04:04:45Z
+image_url: https://raw.githubusercontent.com/MohamedAush/site-scraper/main/ready_to_import/med/plchldr2.png
+image_alt: "Liquidation of Venoa Pvt Ltd"
 ---
 
 * March 3, 2024

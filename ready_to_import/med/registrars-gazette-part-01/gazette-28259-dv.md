@@ -6,6 +6,8 @@ title: "ހޮކަޓްސަ މޯލްޑިވްސް ޕްރައިވެޓް ލިމިޓެ�
 source_type: Gazette
 description: "* 14/09/2026 * ލިކުއިޑޭޝަން * ރެފަރަންސް ނަމްބަރ: 28257"
 published_at: 2026-09-14T07:44:43Z
+image_url: https://raw.githubusercontent.com/MohamedAush/site-scraper/main/ready_to_import/med/plchldr2.png
+image_alt: "ހޮކަޓްސަ މޯލްޑިވްސް ޕްރައިވެޓް ލިމިޓެޑް އުވާލުން"
 ---
 
 * 14/09/2026

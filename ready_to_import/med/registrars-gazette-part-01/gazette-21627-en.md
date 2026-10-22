@@ -6,6 +6,8 @@ title: "Liquidation of KODHIPPARU INVESTMENT PVT LTD"
 source_type: Gazette
 description: "* June 2, 2025 * Liquidation * Reference Number: 21627"
 published_at: 2025-06-02T03:55:23Z
+image_url: https://raw.githubusercontent.com/MohamedAush/site-scraper/main/ready_to_import/med/plchldr2.png
+image_alt: "Liquidation of KODHIPPARU INVESTMENT PVT LTD"
 ---
 
 * June 2, 2025

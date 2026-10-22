@@ -6,6 +6,8 @@ title: "Liquidation of SOLACE ASIA MALDIVES PVT LTD"
 source_type: Gazette
 description: "* November 16, 2025 * Liquidation * Reference Number: 24340"
 published_at: 2025-11-16T07:25:25Z
+image_url: https://raw.githubusercontent.com/MohamedAush/site-scraper/main/ready_to_import/med/plchldr2.png
+image_alt: "Liquidation of SOLACE ASIA MALDIVES PVT LTD"
 ---
 
 * November 16, 2025

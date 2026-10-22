@@ -6,6 +6,8 @@ title: "Liquidation of H2O Divers Pvt Ltd"
 source_type: Gazette
 description: "* March 3, 2024 * Liquidation * Reference Number: 14864"
 published_at: 2024-03-03T04:23:07Z
+image_url: https://raw.githubusercontent.com/MohamedAush/site-scraper/main/ready_to_import/med/plchldr2.png
+image_alt: "Liquidation of H2O Divers Pvt Ltd"
 ---
 
 * March 3, 2024

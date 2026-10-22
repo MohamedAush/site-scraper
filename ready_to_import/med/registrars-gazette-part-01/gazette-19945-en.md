@@ -6,6 +6,8 @@ title: "Liquidation of O2 POWER PVT LTD"
 source_type: Gazette
 description: "* December 11, 2024 * Liquidation * Reference Number: 19945"
 published_at: 2024-12-11T10:18:36Z
+image_url: https://raw.githubusercontent.com/MohamedAush/site-scraper/main/ready_to_import/med/plchldr2.png
+image_alt: "Liquidation of O2 POWER PVT LTD"
 ---
 
 * December 11, 2024

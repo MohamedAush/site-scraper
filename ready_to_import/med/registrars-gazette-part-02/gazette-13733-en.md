@@ -6,6 +6,8 @@ title: "Liquidation Notices Now Accepted for Publication in Registrar’s Gazett
 source_type: Gazette
 description: "* January 14, 2024 * Announcement * Reference Number: 13733"
 published_at: 2024-01-14T09:06:41Z
+image_url: https://raw.githubusercontent.com/MohamedAush/site-scraper/main/ready_to_import/med/plchldr2.png
+image_alt: "Liquidation Notices Now Accepted for Publication in Registrar’s Gazette"
 ---
 
 * January 14, 2024

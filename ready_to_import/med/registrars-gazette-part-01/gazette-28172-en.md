@@ -6,6 +6,8 @@ title: "Dissolution of Companies under the Companies Act"
 source_type: Gazette
 description: "* September 3, 2026 * Liquidation * Reference Number: 28172"
 published_at: 2026-09-03T09:03:47Z
+image_url: https://raw.githubusercontent.com/MohamedAush/site-scraper/main/ready_to_import/med/plchldr2.png
+image_alt: "Dissolution of Companies under the Companies Act"
 ---
 
 * September 3, 2026

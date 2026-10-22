@@ -6,6 +6,8 @@ title: "Liquidation of Atkense PVT LTD"
 source_type: Gazette
 description: "* September 24, 2024 * Liquidation * Reference Number: 19177"
 published_at: 2024-09-24T08:36:50Z
+image_url: https://raw.githubusercontent.com/MohamedAush/site-scraper/main/ready_to_import/med/plchldr2.png
+image_alt: "Liquidation of Atkense PVT LTD"
 ---
 
 * September 24, 2024

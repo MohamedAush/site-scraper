@@ -6,6 +6,8 @@ title: "Liquidation of LIVEABOARD MARINE MANAGEMENT PVT LTD"
 source_type: Gazette
 description: "* June 25, 2025 * Liquidation * Reference Number: 21711"
 published_at: 2025-06-25T04:08:42Z
+image_url: https://raw.githubusercontent.com/MohamedAush/site-scraper/main/ready_to_import/med/plchldr2.png
+image_alt: "Liquidation of LIVEABOARD MARINE MANAGEMENT PVT LTD"
 ---
 
 * June 25, 2025

@@ -6,6 +6,8 @@ title: "Liquidation of SMOOTH STITCHES PVT LTD"
 source_type: Gazette
 description: "* February 16, 2025 * Liquidation * Reference Number: 20653"
 published_at: 2025-02-16T09:03:12Z
+image_url: https://raw.githubusercontent.com/MohamedAush/site-scraper/main/ready_to_import/med/plchldr2.png
+image_alt: "Liquidation of SMOOTH STITCHES PVT LTD"
 ---
 
 * February 16, 2025

@@ -6,6 +6,8 @@ title: "Liquidation of HOSPITALITY MANAGEMENT SOLUTIONS MALDIVES PVT LTD"
 source_type: Gazette
 description: "* September 9, 2025 * Liquidation * Reference Number: 22842"
 published_at: 2025-09-09T07:53:49Z
+image_url: https://raw.githubusercontent.com/MohamedAush/site-scraper/main/ready_to_import/med/plchldr2.png
+image_alt: "Liquidation of HOSPITALITY MANAGEMENT SOLUTIONS MALDIVES PVT LTD"
 ---
 
 * September 9, 2025

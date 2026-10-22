@@ -6,6 +6,8 @@ title: "Accor Luxury Maldives Pvt Ltd Capital Decrease Notice"
 source_type: Gazette
 description: "* April 25, 2024 * Announcement * Reference Number: 17870"
 published_at: 2024-04-25T09:34:35Z
+image_url: https://raw.githubusercontent.com/MohamedAush/site-scraper/main/ready_to_import/med/plchldr2.png
+image_alt: "Accor Luxury Maldives Pvt Ltd Capital Decrease Notice"
 ---
 
 * April 25, 2024

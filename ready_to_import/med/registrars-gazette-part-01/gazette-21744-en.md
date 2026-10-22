@@ -6,6 +6,8 @@ title: "Liquidation of Fehiveli PVT LTD"
 source_type: Gazette
 description: "* July 1, 2025 * Liquidation * Reference Number: 21744"
 published_at: 2025-07-01T03:57:16Z
+image_url: https://raw.githubusercontent.com/MohamedAush/site-scraper/main/ready_to_import/med/plchldr2.png
+image_alt: "Liquidation of Fehiveli PVT LTD"
 ---
 
 * July 1, 2025

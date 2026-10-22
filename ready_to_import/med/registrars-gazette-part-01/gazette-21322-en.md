@@ -6,6 +6,8 @@ title: "Liquidation of ACE RESORTS PVT LTD"
 source_type: Gazette
 description: "* April 30, 2025 * Liquidation * Reference Number: 21322"
 published_at: 2025-04-30T05:53:20Z
+image_url: https://raw.githubusercontent.com/MohamedAush/site-scraper/main/ready_to_import/med/plchldr2.png
+image_alt: "Liquidation of ACE RESORTS PVT LTD"
 ---
 
 * April 30, 2025

@@ -6,6 +6,8 @@ title: "Liquidation of UNI FOOD SOLUTIONS PVT LTD"
 source_type: Gazette
 description: "* September 9, 2024 * Liquidation * Reference Number: 19094"
 published_at: 2024-09-09T03:04:03Z
+image_url: https://raw.githubusercontent.com/MohamedAush/site-scraper/main/ready_to_import/med/plchldr2.png
+image_alt: "Liquidation of UNI FOOD SOLUTIONS PVT LTD"
 ---
 
 * September 9, 2024

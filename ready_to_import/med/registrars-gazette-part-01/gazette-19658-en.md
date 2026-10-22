@@ -6,6 +6,8 @@ title: "Liquidation of M.G.H THIMARAFUSHI PVT LTD"
 source_type: Gazette
 description: "* November 19, 2024 * Liquidation * Reference Number: 19658"
 published_at: 2024-11-19T04:49:13Z
+image_url: https://raw.githubusercontent.com/MohamedAush/site-scraper/main/ready_to_import/med/plchldr2.png
+image_alt: "Liquidation of M.G.H THIMARAFUSHI PVT LTD"
 ---
 
 * November 19, 2024

@@ -6,6 +6,8 @@ title: "Liquidation of OIVARU ESCAPES PVT LTD"
 source_type: Gazette
 description: "* June 25, 2026 * Liquidation * Reference Number: 27051"
 published_at: 2026-06-25T05:29:33Z
+image_url: https://raw.githubusercontent.com/MohamedAush/site-scraper/main/ready_to_import/med/plchldr2.png
+image_alt: "Liquidation of OIVARU ESCAPES PVT LTD"
 ---
 
 * June 25, 2026

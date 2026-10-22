@@ -6,6 +6,8 @@ title: "Liquidation of Darglobal Maldives Pvt Ltd"
 source_type: Gazette
 description: "* February 20, 2024 * Liquidation * Reference Number: 14620"
 published_at: 2024-02-20T04:51:14Z
+image_url: https://raw.githubusercontent.com/MohamedAush/site-scraper/main/ready_to_import/med/plchldr2.png
+image_alt: "Liquidation of Darglobal Maldives Pvt Ltd"
 ---
 
 * February 20, 2024

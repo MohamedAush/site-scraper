@@ -6,6 +6,8 @@ title: "Liquidation of Tekkers Pvt Ltd"
 source_type: Gazette
 description: "* July 2, 2026 * Liquidation * Reference Number: 27103"
 published_at: 2026-07-02T07:22:28Z
+image_url: https://raw.githubusercontent.com/MohamedAush/site-scraper/main/ready_to_import/med/plchldr2.png
+image_alt: "Liquidation of Tekkers Pvt Ltd"
 ---
 
 * July 2, 2026

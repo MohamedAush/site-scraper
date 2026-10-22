@@ -6,6 +6,8 @@ title: "Liquidation of DAI GLOBAL LLC"
 source_type: Gazette
 description: "* July 13, 2025 * Liquidation * Reference Number: 21835"
 published_at: 2025-07-13T08:21:37Z
+image_url: https://raw.githubusercontent.com/MohamedAush/site-scraper/main/ready_to_import/med/plchldr2.png
+image_alt: "Liquidation of DAI GLOBAL LLC"
 ---
 
 * July 13, 2025

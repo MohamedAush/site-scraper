@@ -6,6 +6,8 @@ title: "Liquidation of ASIAN ACADEMY OF AERONAUTICS PVT LTD"
 source_type: Gazette
 description: "* October 10, 2024 * Liquidation * Reference Number: 19271"
 published_at: 2024-10-10T07:38:30Z
+image_url: https://raw.githubusercontent.com/MohamedAush/site-scraper/main/ready_to_import/med/plchldr2.png
+image_alt: "Liquidation of ASIAN ACADEMY OF AERONAUTICS PVT LTD"
 ---
 
 * October 10, 2024

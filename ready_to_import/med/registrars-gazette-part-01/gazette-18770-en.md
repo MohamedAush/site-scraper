@@ -6,6 +6,8 @@ title: "Liquidation of Crystal Lagoon Resorts Pvt Ltd"
 source_type: Gazette
 description: "* July 30, 2024 * Liquidation * Reference Number: 18770"
 published_at: 2024-07-30T03:30:15Z
+image_url: https://raw.githubusercontent.com/MohamedAush/site-scraper/main/ready_to_import/med/plchldr2.png
+image_alt: "Liquidation of Crystal Lagoon Resorts Pvt Ltd"
 ---
 
 * July 30, 2024

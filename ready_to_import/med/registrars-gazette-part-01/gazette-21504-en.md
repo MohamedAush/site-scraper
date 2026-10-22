@@ -6,6 +6,8 @@ title: "Liquidation of Fezzhotels Private Limited"
 source_type: Gazette
 description: "* June 2, 2025 * Liquidation * Reference Number: 21504"
 published_at: 2025-06-02T03:56:58Z
+image_url: https://raw.githubusercontent.com/MohamedAush/site-scraper/main/ready_to_import/med/plchldr2.png
+image_alt: "Liquidation of Fezzhotels Private Limited"
 ---
 
 * June 2, 2025

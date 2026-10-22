@@ -6,6 +6,8 @@ title: "Liquidation of SHAH GLOBAL INTERIORS PVT LTD"
 source_type: Gazette
 description: "* August 26, 2024 * Liquidation * Reference Number: 19007"
 published_at: 2024-08-26T03:25:40Z
+image_url: https://raw.githubusercontent.com/MohamedAush/site-scraper/main/ready_to_import/med/plchldr2.png
+image_alt: "Liquidation of SHAH GLOBAL INTERIORS PVT LTD"
 ---
 
 * August 26, 2024

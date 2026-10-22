@@ -6,6 +6,8 @@ title: "Liquidation of CULEX MALDIVES PRIVATE LIMITED"
 source_type: Gazette
 description: "* September 27, 2026 * Liquidation * Reference Number: 28373"
 published_at: 2026-09-27T03:46:30Z
+image_url: https://raw.githubusercontent.com/MohamedAush/site-scraper/main/ready_to_import/med/plchldr2.png
+image_alt: "Liquidation of CULEX MALDIVES PRIVATE LIMITED"
 ---
 
 * September 27, 2026

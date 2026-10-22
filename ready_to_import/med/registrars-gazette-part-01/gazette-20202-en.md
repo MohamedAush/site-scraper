@@ -6,6 +6,8 @@ title: "NEELAMBAR INVESTMENTS PVT LTD Capital Decrease Notice"
 source_type: Gazette
 description: "* December 29, 2024 * Announcement * Reference Number: 20202"
 published_at: 2024-12-29T11:18:57Z
+image_url: https://raw.githubusercontent.com/MohamedAush/site-scraper/main/ready_to_import/med/plchldr2.png
+image_alt: "NEELAMBAR INVESTMENTS PVT LTD Capital Decrease Notice"
 ---
 
 * December 29, 2024

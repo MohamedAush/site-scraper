@@ -6,6 +6,8 @@ title: "Liquidation of Dongfang Electric International Corporation"
 source_type: Gazette
 description: "* February 11, 2026 * Liquidation * Reference Number: 24946"
 published_at: 2026-02-11T03:46:11Z
+image_url: https://raw.githubusercontent.com/MohamedAush/site-scraper/main/ready_to_import/med/plchldr2.png
+image_alt: "Liquidation of Dongfang Electric International Corporation"
 ---
 
 * February 11, 2026

@@ -6,6 +6,8 @@ title: "Liquidation of SAN SIERRA MALDIVES PVT LTD"
 source_type: Gazette
 description: "* September 2, 2026 * Liquidation * Reference Number: 28137"
 published_at: 2026-09-02T04:06:13Z
+image_url: https://raw.githubusercontent.com/MohamedAush/site-scraper/main/ready_to_import/med/plchldr2.png
+image_alt: "Liquidation of SAN SIERRA MALDIVES PVT LTD"
 ---
 
 * September 2, 2026

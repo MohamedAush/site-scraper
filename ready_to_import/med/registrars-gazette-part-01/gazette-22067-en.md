@@ -6,6 +6,8 @@ title: "Liquidation of Coconut Radio Maldives Private Limited"
 source_type: Gazette
 description: "* August 3, 2025 * Liquidation * Reference Number: 22067"
 published_at: 2025-08-03T07:26:55Z
+image_url: https://raw.githubusercontent.com/MohamedAush/site-scraper/main/ready_to_import/med/plchldr2.png
+image_alt: "Liquidation of Coconut Radio Maldives Private Limited"
 ---
 
 * August 3, 2025

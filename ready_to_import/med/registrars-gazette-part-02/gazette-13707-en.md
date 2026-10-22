@@ -6,6 +6,8 @@ title: "Company Annual Fees Abolished Effective 1st January 2024"
 source_type: Gazette
 description: "* January 14, 2024 * Announcement * Reference Number: 13707"
 published_at: 2024-01-14T08:14:46Z
+image_url: https://raw.githubusercontent.com/MohamedAush/site-scraper/main/ready_to_import/med/plchldr2.png
+image_alt: "Company Annual Fees Abolished Effective 1st January 2024"
 ---
 
 * January 14, 2024

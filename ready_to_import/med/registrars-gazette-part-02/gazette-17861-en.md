@@ -6,6 +6,8 @@ title: "4K Maldives Private Limited Capital Decrease Notice"
 source_type: Gazette
 description: "* April 25, 2024 * Announcement * Reference Number: 17861"
 published_at: 2024-04-25T09:18:52Z
+image_url: https://raw.githubusercontent.com/MohamedAush/site-scraper/main/ready_to_import/med/plchldr2.png
+image_alt: "4K Maldives Private Limited Capital Decrease Notice"
 ---
 
 * April 25, 2024

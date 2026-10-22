@@ -6,6 +6,8 @@ title: "Liquidation of HAZELREEF PVT LTD"
 source_type: Gazette
 description: "* January 21, 2026 * Liquidation * Reference Number: 24802"
 published_at: 2026-01-21T11:06:33Z
+image_url: https://raw.githubusercontent.com/MohamedAush/site-scraper/main/ready_to_import/med/plchldr2.png
+image_alt: "Liquidation of HAZELREEF PVT LTD"
 ---
 
 * January 21, 2026

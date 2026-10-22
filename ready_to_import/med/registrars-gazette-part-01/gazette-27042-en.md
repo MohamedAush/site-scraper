@@ -6,6 +6,8 @@ title: "Liquidation of MALDIVES INTEGRATED TOURISM DEVELOPMENT CORPORATION LTD"
 source_type: Gazette
 description: "* June 23, 2026 * Liquidation * Reference Number: 27042"
 published_at: 2026-06-23T06:13:12Z
+image_url: https://raw.githubusercontent.com/MohamedAush/site-scraper/main/ready_to_import/med/plchldr2.png
+image_alt: "Liquidation of MALDIVES INTEGRATED TOURISM DEVELOPMENT CORPORATION LTD"
 ---
 
 * June 23, 2026

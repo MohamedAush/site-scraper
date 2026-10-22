@@ -6,6 +6,8 @@ title: "Liquidation of MARUHABA EXCHANGE PVT LTD"
 source_type: Gazette
 description: "* February 8, 2026 * Liquidation * Reference Number: 24929"
 published_at: 2026-02-08T03:37:26Z
+image_url: https://raw.githubusercontent.com/MohamedAush/site-scraper/main/ready_to_import/med/plchldr2.png
+image_alt: "Liquidation of MARUHABA EXCHANGE PVT LTD"
 ---
 
 * February 8, 2026

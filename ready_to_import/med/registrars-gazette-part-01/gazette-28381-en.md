@@ -6,6 +6,8 @@ title: "Liquidation of RFS PVT LTD"
 source_type: Gazette
 description: "* September 28, 2026 * Liquidation * Reference Number: 28381"
 published_at: 2026-09-28T08:25:47Z
+image_url: https://raw.githubusercontent.com/MohamedAush/site-scraper/main/ready_to_import/med/plchldr2.png
+image_alt: "Liquidation of RFS PVT LTD"
 ---
 
 * September 28, 2026

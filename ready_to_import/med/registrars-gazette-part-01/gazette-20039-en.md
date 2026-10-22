@@ -6,6 +6,8 @@ title: "Liquidation of TRIDENT INVEST MALDIVES PVT LTD"
 source_type: Gazette
 description: "* December 12, 2024 * Liquidation * Reference Number: 20039"
 published_at: 2024-12-12T08:02:03Z
+image_url: https://raw.githubusercontent.com/MohamedAush/site-scraper/main/ready_to_import/med/plchldr2.png
+image_alt: "Liquidation of TRIDENT INVEST MALDIVES PVT LTD"
 ---
 
 * December 12, 2024

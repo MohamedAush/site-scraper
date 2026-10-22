@@ -6,6 +6,8 @@ title: "Liquidation of Magma Construction Pvt Ltd"
 source_type: Gazette
 description: "* August 28, 2024 * Liquidation * Reference Number: 19022"
 published_at: 2024-08-28T06:06:18Z
+image_url: https://raw.githubusercontent.com/MohamedAush/site-scraper/main/ready_to_import/med/plchldr2.png
+image_alt: "Liquidation of Magma Construction Pvt Ltd"
 ---
 
 * August 28, 2024

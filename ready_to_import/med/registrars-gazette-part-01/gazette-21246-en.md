@@ -6,6 +6,8 @@ title: "Liquidation of FoodPath Pvt Ltd"
 source_type: Gazette
 description: "* April 27, 2025 * Liquidation * Reference Number: 21246"
 published_at: 2025-04-27T08:03:30Z
+image_url: https://raw.githubusercontent.com/MohamedAush/site-scraper/main/ready_to_import/med/plchldr2.png
+image_alt: "Liquidation of FoodPath Pvt Ltd"
 ---
 
 * April 27, 2025

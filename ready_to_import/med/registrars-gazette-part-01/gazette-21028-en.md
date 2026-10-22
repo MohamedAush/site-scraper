@@ -6,6 +6,8 @@ title: "Liquidation of Dimo Coastline Pvt Ltd"
 source_type: Gazette
 description: "* March 26, 2025 * Liquidation * Reference Number: 21028"
 published_at: 2025-03-26T06:47:12Z
+image_url: https://raw.githubusercontent.com/MohamedAush/site-scraper/main/ready_to_import/med/plchldr2.png
+image_alt: "Liquidation of Dimo Coastline Pvt Ltd"
 ---
 
 * March 26, 2025

@@ -6,6 +6,8 @@ title: "Liquidation of Para Dive Pvt Ltd"
 source_type: Gazette
 description: "* March 14, 2024 * Liquidation * Reference Number: 16651"
 published_at: 2024-03-14T06:08:41Z
+image_url: https://raw.githubusercontent.com/MohamedAush/site-scraper/main/ready_to_import/med/plchldr2.png
+image_alt: "Liquidation of Para Dive Pvt Ltd"
 ---
 
 * March 14, 2024

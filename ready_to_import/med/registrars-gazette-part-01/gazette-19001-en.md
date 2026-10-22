@@ -6,6 +6,8 @@ title: "Liquidation of Khan Industries Pvt Ltd"
 source_type: Gazette
 description: "* August 25, 2024 * Liquidation * Reference Number: 19001"
 published_at: 2024-08-25T03:41:05Z
+image_url: https://raw.githubusercontent.com/MohamedAush/site-scraper/main/ready_to_import/med/plchldr2.png
+image_alt: "Liquidation of Khan Industries Pvt Ltd"
 ---
 
 * August 25, 2024

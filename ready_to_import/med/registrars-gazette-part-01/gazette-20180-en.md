@@ -6,6 +6,8 @@ title: "Liquidation of IMPRESS PVT LTD"
 source_type: Gazette
 description: "* December 22, 2024 * Liquidation * Reference Number: 20180"
 published_at: 2024-12-22T10:40:07Z
+image_url: https://raw.githubusercontent.com/MohamedAush/site-scraper/main/ready_to_import/med/plchldr2.png
+image_alt: "Liquidation of IMPRESS PVT LTD"
 ---
 
 * December 22, 2024

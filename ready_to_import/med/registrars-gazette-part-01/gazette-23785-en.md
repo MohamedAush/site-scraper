@@ -6,6 +6,8 @@ title: "Liquidation of Ocenana Paradise Maldiverne.dk"
 source_type: Gazette
 description: "* October 7, 2025 * Liquidation * Reference Number: 23785"
 published_at: 2025-10-07T10:24:18Z
+image_url: https://raw.githubusercontent.com/MohamedAush/site-scraper/main/ready_to_import/med/plchldr2.png
+image_alt: "Liquidation of Ocenana Paradise Maldiverne.dk"
 ---
 
 * October 7, 2025

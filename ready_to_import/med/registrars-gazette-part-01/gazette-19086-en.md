@@ -6,6 +6,8 @@ title: "Liquidation of W.L.T PVT LTD"
 source_type: Gazette
 description: "* September 16, 2024 * Liquidation * Reference Number: 19086"
 published_at: 2024-09-16T04:22:02Z
+image_url: https://raw.githubusercontent.com/MohamedAush/site-scraper/main/ready_to_import/med/plchldr2.png
+image_alt: "Liquidation of W.L.T PVT LTD"
 ---
 
 * September 16, 2024

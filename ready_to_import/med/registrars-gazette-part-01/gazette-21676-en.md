@@ -6,6 +6,8 @@ title: "Liquidation of OAKUS PVT LTD"
 source_type: Gazette
 description: "* June 22, 2025 * Liquidation * Reference Number: 21676"
 published_at: 2025-06-22T05:02:33Z
+image_url: https://raw.githubusercontent.com/MohamedAush/site-scraper/main/ready_to_import/med/plchldr2.png
+image_alt: "Liquidation of OAKUS PVT LTD"
 ---
 
 * June 22, 2025

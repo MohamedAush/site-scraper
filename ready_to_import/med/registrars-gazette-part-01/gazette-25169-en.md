@@ -6,6 +6,8 @@ title: "GLOBAL PVT LTD Capital Decrease Notice"
 source_type: Gazette
 description: "* April 8, 2026 * Announcement * Reference Number: 25169"
 published_at: 2026-04-08T03:43:51Z
+image_url: https://raw.githubusercontent.com/MohamedAush/site-scraper/main/ready_to_import/med/plchldr2.png
+image_alt: "GLOBAL PVT LTD Capital Decrease Notice"
 ---
 
 * April 8, 2026

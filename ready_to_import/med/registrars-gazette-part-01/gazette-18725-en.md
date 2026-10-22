@@ -6,6 +6,8 @@ title: "True Nature Pvt Ltd Capital Decrease Notice"
 source_type: Gazette
 description: "* July 28, 2024 * Announcement * Reference Number: 18725"
 published_at: 2024-07-28T04:41:58Z
+image_url: https://raw.githubusercontent.com/MohamedAush/site-scraper/main/ready_to_import/med/plchldr2.png
+image_alt: "True Nature Pvt Ltd Capital Decrease Notice"
 ---
 
 * July 28, 2024

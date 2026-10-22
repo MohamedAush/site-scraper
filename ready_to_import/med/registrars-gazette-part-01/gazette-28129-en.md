@@ -6,6 +6,8 @@ title: "Liquidation of EM STUDIO PVT LTD"
 source_type: Gazette
 description: "* August 31, 2026 * Liquidation * Reference Number: 28129"
 published_at: 2026-08-31T09:14:13Z
+image_url: https://raw.githubusercontent.com/MohamedAush/site-scraper/main/ready_to_import/med/plchldr2.png
+image_alt: "Liquidation of EM STUDIO PVT LTD"
 ---
 
 * August 31, 2026

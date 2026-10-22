@@ -6,6 +6,8 @@ title: "Liquidation of KANIBEACH PRIVATE LIMITED"
 source_type: Gazette
 description: "* November 10, 2025 * Liquidation * Reference Number: 24285"
 published_at: 2025-11-10T05:48:33Z
+image_url: https://raw.githubusercontent.com/MohamedAush/site-scraper/main/ready_to_import/med/plchldr2.png
+image_alt: "Liquidation of KANIBEACH PRIVATE LIMITED"
 ---
 
 * November 10, 2025

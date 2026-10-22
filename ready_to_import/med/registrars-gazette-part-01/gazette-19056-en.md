@@ -6,6 +6,8 @@ title: "Liquidation of Mazara Inc Pvt Ltd"
 source_type: Gazette
 description: "* September 1, 2024 * Liquidation * Reference Number: 19056"
 published_at: 2024-09-01T09:19:53Z
+image_url: https://raw.githubusercontent.com/MohamedAush/site-scraper/main/ready_to_import/med/plchldr2.png
+image_alt: "Liquidation of Mazara Inc Pvt Ltd"
 ---
 
 * September 1, 2024

@@ -6,6 +6,8 @@ title: "Liquidation of MY CONSTRUCTION PVT LTD"
 source_type: Gazette
 description: "* February 25, 2025 * Liquidation * Reference Number: 20751"
 published_at: 2025-02-25T06:51:49Z
+image_url: https://raw.githubusercontent.com/MohamedAush/site-scraper/main/ready_to_import/med/plchldr2.png
+image_alt: "Liquidation of MY CONSTRUCTION PVT LTD"
 ---
 
 * February 25, 2025

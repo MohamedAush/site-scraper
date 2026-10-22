@@ -6,6 +6,8 @@ title: "Liquidation of ERIYADHU INVESTMENTS PVT LTD"
 source_type: Gazette
 description: "* July 14, 2026 * Liquidation * Reference Number: 27179"
 published_at: 2026-07-14T08:56:32Z
+image_url: https://raw.githubusercontent.com/MohamedAush/site-scraper/main/ready_to_import/med/plchldr2.png
+image_alt: "Liquidation of ERIYADHU INVESTMENTS PVT LTD"
 ---
 
 * July 14, 2026

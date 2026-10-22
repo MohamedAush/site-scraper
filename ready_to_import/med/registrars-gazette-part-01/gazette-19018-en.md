@@ -6,6 +6,8 @@ title: "Kailaan Trading and Investments Pvt Ltd Capital Decrease Notice"
 source_type: Gazette
 description: "* August 28, 2024 * Announcement * Reference Number: 19018"
 published_at: 2024-08-28T09:30:29Z
+image_url: https://raw.githubusercontent.com/MohamedAush/site-scraper/main/ready_to_import/med/plchldr2.png
+image_alt: "Kailaan Trading and Investments Pvt Ltd Capital Decrease Notice"
 ---
 
 * August 28, 2024

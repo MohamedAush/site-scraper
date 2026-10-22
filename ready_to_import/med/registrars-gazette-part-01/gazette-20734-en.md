@@ -6,6 +6,8 @@ title: "Liquidation of White Tree Pvt Ltd"
 source_type: Gazette
 description: "* February 19, 2025 * Liquidation * Reference Number: 20734"
 published_at: 2025-02-19T09:27:38Z
+image_url: https://raw.githubusercontent.com/MohamedAush/site-scraper/main/ready_to_import/med/plchldr2.png
+image_alt: "Liquidation of White Tree Pvt Ltd"
 ---
 
 * February 19, 2025

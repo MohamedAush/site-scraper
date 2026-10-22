@@ -6,6 +6,8 @@ title: "Liquidation of Aegis Holdings Pvt Ltd"
 source_type: Gazette
 description: "* December 22, 2024 * Liquidation * Reference Number: 20174"
 published_at: 2024-12-22T10:41:36Z
+image_url: https://raw.githubusercontent.com/MohamedAush/site-scraper/main/ready_to_import/med/plchldr2.png
+image_alt: "Liquidation of Aegis Holdings Pvt Ltd"
 ---
 
 * December 22, 2024

@@ -6,6 +6,8 @@ title: "Liquidation of THE NEW GREEN WAY PVT LTD"
 source_type: Gazette
 description: "* August 27, 2024 * Liquidation * Reference Number: 19012"
 published_at: 2024-08-27T09:24:10Z
+image_url: https://raw.githubusercontent.com/MohamedAush/site-scraper/main/ready_to_import/med/plchldr2.png
+image_alt: "Liquidation of THE NEW GREEN WAY PVT LTD"
 ---
 
 * August 27, 2024

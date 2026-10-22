@@ -6,6 +6,8 @@ title: "ޤާނޫނު ނަންބަރު 2023/7 (ކުންފުނީގެ ޤާނޫނު)
 source_type: Gazette
 description: "* 13/11/2024 * ލިކުއިޑޭޝަން * ރެފަރަންސް ނަމްބަރ: 19473"
 published_at: 2024-11-13T08:22:45Z
+image_url: https://raw.githubusercontent.com/MohamedAush/site-scraper/main/ready_to_import/med/plchldr2.png
+image_alt: "ޤާނޫނު ނަންބަރު 2023/7 (ކުންފުނީގެ ޤާނޫނު)ގެ 246 ވަނަ މާއްދާގެ ދަށުން އާންމުކުރި ލިސްޓުގައި ހިމެނޭ ކުންފުނިތަކާ ގުޅޭ"
 ---
 
 * 13/11/2024

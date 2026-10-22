@@ -6,6 +6,8 @@ title: "How to choose a company name"
 source_type: Gazette
 description: "* March 26, 2024 * Companies Act Guides * Featured News * Reference Number: 17296"
 published_at: 2024-03-26T07:53:50Z
+image_url: https://raw.githubusercontent.com/MohamedAush/site-scraper/main/ready_to_import/med/plchldr2.png
+image_alt: "How to choose a company name"
 ---
 
 * March 26, 2024

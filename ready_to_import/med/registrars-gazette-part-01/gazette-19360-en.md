@@ -6,6 +6,8 @@ title: "Liquidation of CMD FINANCE LEASING COMPANY PVT LTD"
 source_type: Gazette
 description: "* October 31, 2024 * Liquidation * Reference Number: 19360"
 published_at: 2024-10-31T07:13:01Z
+image_url: https://raw.githubusercontent.com/MohamedAush/site-scraper/main/ready_to_import/med/plchldr2.png
+image_alt: "Liquidation of CMD FINANCE LEASING COMPANY PVT LTD"
 ---
 
 * October 31, 2024

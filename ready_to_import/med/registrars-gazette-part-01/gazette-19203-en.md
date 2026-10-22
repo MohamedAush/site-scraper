@@ -6,6 +6,8 @@ title: "Liquidation of AMYR PVT LTD"
 source_type: Gazette
 description: "* September 26, 2024 * Liquidation * Reference Number: 19203"
 published_at: 2024-09-26T10:07:31Z
+image_url: https://raw.githubusercontent.com/MohamedAush/site-scraper/main/ready_to_import/med/plchldr2.png
+image_alt: "Liquidation of AMYR PVT LTD"
 ---
 
 * September 26, 2024

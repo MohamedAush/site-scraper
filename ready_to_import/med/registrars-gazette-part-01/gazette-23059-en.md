@@ -6,6 +6,8 @@ title: "Liquidation of ZYVER VENTURES PVT LTD"
 source_type: Gazette
 description: "* September 16, 2025 * Liquidation * Reference Number: 23059"
 published_at: 2025-09-16T06:27:23Z
+image_url: https://raw.githubusercontent.com/MohamedAush/site-scraper/main/ready_to_import/med/plchldr2.png
+image_alt: "Liquidation of ZYVER VENTURES PVT LTD"
 ---
 
 * September 16, 2025

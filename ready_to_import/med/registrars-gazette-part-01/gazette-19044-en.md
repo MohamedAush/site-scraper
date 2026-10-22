@@ -6,6 +6,8 @@ title: "Liquidation of Companies under Clause 196 of the Company Act (Law No: 7/
 source_type: Gazette
 description: "* September 9, 2024 * Liquidation * Reference Number: 19044"
 published_at: 2024-09-09T03:09:31Z
+image_url: https://raw.githubusercontent.com/MohamedAush/site-scraper/main/ready_to_import/med/plchldr2.png
+image_alt: "Liquidation of Companies under Clause 196 of the Company Act (Law No: 7/2023)"
 ---
 
 * September 9, 2024

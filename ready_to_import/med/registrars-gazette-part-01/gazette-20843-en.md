@@ -6,6 +6,8 @@ title: "Liquidation of H.M FRONTLINE PVT LTD"
 source_type: Gazette
 description: "* February 25, 2025 * Liquidation * Reference Number: 20843"
 published_at: 2025-02-25T06:52:00Z
+image_url: https://raw.githubusercontent.com/MohamedAush/site-scraper/main/ready_to_import/med/plchldr2.png
+image_alt: "Liquidation of H.M FRONTLINE PVT LTD"
 ---
 
 * February 25, 2025
