@@ -1,0 +1,93 @@
+{
+  "docs": [
+    {
+      "id": "announcement-18347",
+      "source_type": "Invest Maldives",
+      "category_slug": "invest-maldives",
+      "published_at": "2024-07-10T10:31:32Z",
+      "reference_number": null,
+      "deadline": null,
+      "featuredImage": null,
+      "files": [
+        {
+          "label": "Participation-Announcement-for-Maldives-Sichuan-Trade-and-Investment-Cooperation-Conference-6-Aug-2024",
+          "locale": "en",
+          "file": {
+            "url": "https://trade.gov.mv/wp-content/uploads/Participation-Announcement-for-Maldives-Sichuan-Trade-and-Investment-Cooperation-Conference-6-Aug-2024.pdf"
+          }
+        },
+        {
+          "label": "Participation-Announcement-for-Maldives-Sichuan-Trade-and-Investment-Cooperation-Conference-6-Aug-2024",
+          "locale": "dv",
+          "file": {
+            "url": "https://trade.gov.mv/wp-content/uploads/Participation-Announcement-for-Maldives-Sichuan-Trade-and-Investment-Cooperation-Conference-6-Aug-2024.pdf"
+          }
+        }
+      ],
+      "translations": {
+        "en": {
+          "title": "Participation Announcement for Maldives-Sichuan Trade and Investment Cooperation Conference",
+          "description": "",
+          "body": "Participation-Announcement-for-Maldives-Sichuan-Trade-and-Investment-Cooperation-Conference-6-Aug-2024",
+          "images": [],
+          "source_id": 18347,
+          "source_url": "https://trade.gov.mv/en/18347/"
+        },
+        "dv": {
+          "title": "ދިވެހިރާއްޖެއާއި ޗައިނާގެ ސިޝުއާން ޕްރޮވިންސް އާއި ދެމެދު ބޭއްވުމަށް ހަމަޖެހިފައިވާ ޓްރޭޑް އެންޑް އިންވެސްޓްމަންޓް ކޮންފަރަންސްގައި ބައިވެރިވުމުގެ ފުރުޞަތު ހުޅުވާލަން",
+          "description": "",
+          "body": "Participation-Announcement-for-Maldives-Sichuan-Trade-and-Investment-Cooperation-Conference-6-Aug-2024",
+          "images": [],
+          "source_id": 18344,
+          "source_url": "https://trade.gov.mv/18344/"
+        }
+      }
+    },
+    {
+      "id": "announcement-18333",
+      "source_type": "Invest Maldives",
+      "category_slug": "invest-maldives",
+      "published_at": "2024-07-04T10:37:57Z",
+      "reference_number": null,
+      "deadline": null,
+      "featuredImage": null,
+      "files": [
+        {
+          "label": "Announcement-FDI-Closed-Areas",
+          "locale": "en",
+          "file": {
+            "url": "https://trade.gov.mv/wp-content/uploads/Announcement-FDI-Closed-Areas.pdf"
+          }
+        },
+        {
+          "label": "އިއުލާން ޑައުންލޯޑް",
+          "locale": "dv",
+          "file": {
+            "url": "https://trade.gov.mv/wp-content/uploads/Announcement-FDI-Closed-Areas.pdf"
+          }
+        }
+      ],
+      "translations": {
+        "en": {
+          "title": "Fields that foreigners are prohibited from doing business in the Maldives",
+          "description": "",
+          "body": "Announcement-FDI-Closed-Areas",
+          "images": [],
+          "source_id": 18333,
+          "source_url": "https://trade.gov.mv/en/18333/"
+        },
+        "dv": {
+          "title": "ބިދޭސީން ދިވެހިރާއްޖޭގައި ވިޔަފާރި ކުރުން މަނާ ދާއިރާތަކާއި ގުޅޭ",
+          "description": "",
+          "body": "",
+          "images": [],
+          "source_id": 18330,
+          "source_url": "https://trade.gov.mv/18330/"
+        }
+      }
+    }
+  ],
+  "totalDocs": 2,
+  "hasNextPage": false,
+  "nextPage": null
+}

@@ -1,0 +1,91 @@
+{
+  "docs": [
+    {
+      "id": "announcement-dv-24559",
+      "source_type": "Uncategorised",
+      "category_slug": "uncategorised",
+      "published_at": "2025-12-10T08:53:09Z",
+      "reference_number": "(IUL119)",
+      "deadline": null,
+      "featuredImage": null,
+      "files": [
+        {
+          "label": "gazette.gov.mv_iulaan_print_371467",
+          "locale": "dv",
+          "file": {
+            "url": "https://trade.gov.mv/wp-content/uploads/gazette.gov_.mv_iulaan_print_371467.pdf"
+          }
+        }
+      ],
+      "translations": {
+        "dv": {
+          "title": "(IUL119) އެސިސްޓަންޓް ބިޒްނަސް އިންސްޕެކްޝަން އޮފިސަރ، ޕަބްލިކް ސަރވިސް ރޭންކު 4 – ސްޓެޕް 1",
+          "description": "",
+          "body": "gazette.gov.mv_iulaan_print_371467",
+          "images": [],
+          "source_id": 24559,
+          "source_url": "https://trade.gov.mv/24559/"
+        }
+      }
+    },
+    {
+      "id": "announcement-dv-19374",
+      "source_type": "Uncategorised",
+      "category_slug": "uncategorised",
+      "published_at": "2024-11-12T07:32:07Z",
+      "reference_number": null,
+      "deadline": null,
+      "featuredImage": null,
+      "files": [
+        {
+          "label": "Job Announcement",
+          "locale": "dv",
+          "file": {
+            "url": "https://trade.gov.mv/wp-content/uploads/Iulaan-1.pdf"
+          }
+        }
+      ],
+      "translations": {
+        "dv": {
+          "title": "Request for Expression of Interest Financial Management Specialist",
+          "description": "Job Announcement",
+          "body": "Job Announcement\n\nIulaan",
+          "images": [],
+          "source_id": 19374,
+          "source_url": "https://trade.gov.mv/19374/"
+        }
+      }
+    },
+    {
+      "id": "announcement-dv-19371",
+      "source_type": "Uncategorised",
+      "category_slug": "uncategorised",
+      "published_at": "2024-11-12T07:29:53Z",
+      "reference_number": null,
+      "deadline": null,
+      "featuredImage": null,
+      "files": [
+        {
+          "label": "Job Announcement",
+          "locale": "dv",
+          "file": {
+            "url": "https://trade.gov.mv/wp-content/uploads/Iulaan.pdf"
+          }
+        }
+      ],
+      "translations": {
+        "dv": {
+          "title": "Request for Expression of Interest Financial Management Specialist",
+          "description": "Job Announcement",
+          "body": "Job Announcement\n\nIulaan",
+          "images": [],
+          "source_id": 19371,
+          "source_url": "https://trade.gov.mv/19371/"
+        }
+      }
+    }
+  ],
+  "totalDocs": 3,
+  "hasNextPage": false,
+  "nextPage": null
+}
