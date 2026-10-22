@@ -1,7 +1,7 @@
 {
   "docs": [
     {
-      "id": "gallery-45248",
+      "id": "gallery-45248-part1",
       "category": {
         "name": "މޮސްކް ސެކްޝަން"
       },
@@ -222,7 +222,26 @@
         {
           "url": "https://islamicaffairs.gov.mv/wp-content/uploads/2026/09/Zuvaan-Khatheeb-5th-Round-Certificates-25-scaled.jpg",
           "alt": "ފޮޓޯ: ޒުވާން ޚަޠީބުން ތަމްރީނުކުރުމުގެ 5 ވަނަ ބުރުގެ ބައިވެރިންނަށް ސަނަދު ދިނުމުގެ ރަސްމިއްޔާތު"
-        },
+        }
+      ],
+      "translations": {
+        "dv": {
+          "title": "ފޮޓޯ: ޒުވާން ޚަޠީބުން ތަމްރީނުކުރުމުގެ 5 ވަނަ ބުރުގެ ބައިވެރިންނަށް ސަނަދު ދިނުމުގެ ރަސްމިއްޔާތު (1)"
+        }
+      },
+      "sourceUrl": "https://islamicaffairs.gov.mv/gallery/45248"
+    },
+    {
+      "id": "gallery-45248-part2",
+      "category": {
+        "name": "މޮސްކް ސެކްޝަން"
+      },
+      "publishedAt": "2026-08-25T03:50:03Z",
+      "coverPhoto": {
+        "url": "https://islamicaffairs.gov.mv/wp-content/uploads/2026/09/Zuvaan-Khatheeb-5th-Round-Certificates-26-scaled.jpg",
+        "alt": "ފޮޓޯ: ޒުވާން ޚަޠީބުން ތަމްރީނުކުރުމުގެ 5 ވަނަ ބުރުގެ ބައިވެރިންނަށް ސަނަދު ދިނުމުގެ ރަސްމިއްޔާތު"
+      },
+      "photos": [
         {
           "url": "https://islamicaffairs.gov.mv/wp-content/uploads/2026/09/Zuvaan-Khatheeb-5th-Round-Certificates-26-scaled.jpg",
           "alt": "ފޮޓޯ: ޒުވާން ޚަޠީބުން ތަމްރީނުކުރުމުގެ 5 ވަނަ ބުރުގެ ބައިވެރިންނަށް ސަނަދު ދިނުމުގެ ރަސްމިއްޔާތު"
@@ -438,7 +457,7 @@
       ],
       "translations": {
         "dv": {
-          "title": "ފޮޓޯ: ޒުވާން ޚަޠީބުން ތަމްރީނުކުރުމުގެ 5 ވަނަ ބުރުގެ ބައިވެރިންނަށް ސަނަދު ދިނުމުގެ ރަސްމިއްޔާތު"
+          "title": "ފޮޓޯ: ޒުވާން ޚަޠީބުން ތަމްރީނުކުރުމުގެ 5 ވަނަ ބުރުގެ ބައިވެރިންނަށް ސަނަދު ދިނުމުގެ ރަސްމިއްޔާތު (2)"
         }
       },
       "sourceUrl": "https://islamicaffairs.gov.mv/gallery/45248"
