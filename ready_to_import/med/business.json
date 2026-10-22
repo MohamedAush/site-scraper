@@ -7,7 +7,10 @@
       "published_at": "2024-12-29T11:21:41Z",
       "reference_number": null,
       "deadline": null,
-      "featuredImage": null,
+      "featuredImage": {
+        "url": "https://raw.githubusercontent.com/MohamedAush/site-scraper/main/ready_to_import/med/Placeholder.png",
+        "alt": "ނީލަންބާ އިންވެސްޓްމެންޓްސް ޕްރައިވެޓް ލިމިޓެޑް ރައުސުލްމާލް މަދުކުރުމާއި ބެހޭ ނޯޓިސް"
+      },
       "files": [],
       "translations": {
         "dv": {
@@ -27,7 +30,10 @@
       "published_at": "2024-08-28T04:31:45Z",
       "reference_number": null,
       "deadline": null,
-      "featuredImage": null,
+      "featuredImage": {
+        "url": "https://raw.githubusercontent.com/MohamedAush/site-scraper/main/ready_to_import/med/Placeholder.png",
+        "alt": "ކްރެސްޓާ ޕްރައިވެޓް ލިމިޓެޑް ރައުސުލްމާލް މަދުކުރުމާއި ބެހޭ ނޯޓިސް"
+      },
       "files": [],
       "translations": {
         "dv": {
@@ -49,7 +55,7 @@
       "deadline": null,
       "featuredImage": {
         "url": "https://trade.gov.mv/wp-content/uploads/producers_registry.jpg",
-        "alt": ""
+        "alt": "Register of Maldivian Producers"
       },
       "files": [],
       "translations": {
@@ -78,7 +84,10 @@
       "published_at": "2022-10-31T09:07:00Z",
       "reference_number": null,
       "deadline": null,
-      "featuredImage": null,
+      "featuredImage": {
+        "url": "https://raw.githubusercontent.com/MohamedAush/site-scraper/main/ready_to_import/med/Placeholder.png",
+        "alt": "All documents issued by MED to Registered Businesses will be issued electronically only"
+      },
       "files": [
         {
           "label": "Download Announcement",
@@ -121,7 +130,10 @@
       "published_at": "2022-10-24T09:02:00Z",
       "reference_number": null,
       "deadline": null,
-      "featuredImage": null,
+      "featuredImage": {
+        "url": "https://raw.githubusercontent.com/MohamedAush/site-scraper/main/ready_to_import/med/Placeholder.png",
+        "alt": "Business Registration Services Moved to 1500help Service Centre"
+      },
       "files": [
         {
           "label": "Download Announcement",
@@ -164,7 +176,10 @@
       "published_at": "2022-04-21T08:54:00Z",
       "reference_number": null,
       "deadline": null,
-      "featuredImage": null,
+      "featuredImage": {
+        "url": "https://raw.githubusercontent.com/MohamedAush/site-scraper/main/ready_to_import/med/Placeholder.png",
+        "alt": "Change in Email Address – Business Registration Services"
+      },
       "files": [
         {
           "label": "Download Announcement",
@@ -207,7 +222,10 @@
       "published_at": "2022-03-21T08:47:00Z",
       "reference_number": null,
       "deadline": null,
-      "featuredImage": null,
+      "featuredImage": {
+        "url": "https://raw.githubusercontent.com/MohamedAush/site-scraper/main/ready_to_import/med/Placeholder.png",
+        "alt": "24 Hour Business Permit Holders List"
+      },
       "files": [
         {
           "label": "Download List",
@@ -250,7 +268,10 @@
       "published_at": "2021-09-01T08:42:00Z",
       "reference_number": null,
       "deadline": null,
-      "featuredImage": null,
+      "featuredImage": {
+        "url": "https://raw.githubusercontent.com/MohamedAush/site-scraper/main/ready_to_import/med/Placeholder.png",
+        "alt": "Covid-19 Vaccination and Business Services"
+      },
       "files": [
         {
           "label": "Download Announcement",
@@ -293,7 +314,10 @@
       "published_at": "2021-07-09T05:36:00Z",
       "reference_number": null,
       "deadline": null,
-      "featuredImage": null,
+      "featuredImage": {
+        "url": "https://raw.githubusercontent.com/MohamedAush/site-scraper/main/ready_to_import/med/Placeholder.png",
+        "alt": "Regulation for winding up of companies registered between 1979 and 2001"
+      },
       "files": [
         {
           "label": "Download Announcement",
@@ -336,7 +360,10 @@
       "published_at": "2021-07-09T05:32:00Z",
       "reference_number": null,
       "deadline": null,
-      "featuredImage": null,
+      "featuredImage": {
+        "url": "https://raw.githubusercontent.com/MohamedAush/site-scraper/main/ready_to_import/med/Placeholder.png",
+        "alt": "Regulation for winding up of companies registered between 2002 and 2006"
+      },
       "files": [
         {
           "label": "Download Announcement",
@@ -379,7 +406,10 @@
       "published_at": "2021-07-09T05:29:00Z",
       "reference_number": null,
       "deadline": null,
-      "featuredImage": null,
+      "featuredImage": {
+        "url": "https://raw.githubusercontent.com/MohamedAush/site-scraper/main/ready_to_import/med/Placeholder.png",
+        "alt": "Regulation for winding up of companies registered between 2007 and 2011"
+      },
       "files": [
         {
           "label": "Download Announcement",
@@ -422,7 +452,10 @@
       "published_at": "2021-07-09T05:22:00Z",
       "reference_number": null,
       "deadline": null,
-      "featuredImage": null,
+      "featuredImage": {
+        "url": "https://raw.githubusercontent.com/MohamedAush/site-scraper/main/ready_to_import/med/Placeholder.png",
+        "alt": "Regulation for winding up of companies registered between 2012 and 2016"
+      },
       "files": [
         {
           "label": "Download Announcement",
@@ -465,7 +498,10 @@
       "published_at": "2021-07-09T05:01:00Z",
       "reference_number": null,
       "deadline": null,
-      "featuredImage": null,
+      "featuredImage": {
+        "url": "https://raw.githubusercontent.com/MohamedAush/site-scraper/main/ready_to_import/med/Placeholder.png",
+        "alt": "Regulation for winding up of companies registered between 2017 and 2018"
+      },
       "files": [
         {
           "label": "Download Announcement",
@@ -508,7 +544,10 @@
       "published_at": "2021-07-08T08:35:00Z",
       "reference_number": null,
       "deadline": null,
-      "featuredImage": null,
+      "featuredImage": {
+        "url": "https://raw.githubusercontent.com/MohamedAush/site-scraper/main/ready_to_import/med/Placeholder.png",
+        "alt": "Business Hours for shops and food establishments"
+      },
       "files": [
         {
           "label": "Download Announcement",
@@ -551,7 +590,10 @@
       "published_at": "2021-07-01T04:53:00Z",
       "reference_number": null,
       "deadline": null,
-      "featuredImage": null,
+      "featuredImage": {
+        "url": "https://raw.githubusercontent.com/MohamedAush/site-scraper/main/ready_to_import/med/Placeholder.png",
+        "alt": "List of Dissolved Companies by RoC"
+      },
       "files": [
         {
           "label": "Download List",
@@ -594,7 +636,10 @@
       "published_at": "2021-04-05T04:41:00Z",
       "reference_number": null,
       "deadline": null,
-      "featuredImage": null,
+      "featuredImage": {
+        "url": "https://raw.githubusercontent.com/MohamedAush/site-scraper/main/ready_to_import/med/Placeholder.png",
+        "alt": "List of Registered Freight Forwarders"
+      },
       "files": [
         {
           "label": "Download List",
@@ -651,7 +696,10 @@
       "published_at": "2021-02-08T07:54:00Z",
       "reference_number": null,
       "deadline": null,
-      "featuredImage": null,
+      "featuredImage": {
+        "url": "https://raw.githubusercontent.com/MohamedAush/site-scraper/main/ready_to_import/med/Placeholder.png",
+        "alt": "Notice to Foreign party(s) engaging in projects to comply with applicable government policies"
+      },
       "files": [
         {
           "label": "Download Announcement",
@@ -694,7 +742,10 @@
       "published_at": "2020-07-09T07:17:00Z",
       "reference_number": null,
       "deadline": null,
-      "featuredImage": null,
+      "featuredImage": {
+        "url": "https://raw.githubusercontent.com/MohamedAush/site-scraper/main/ready_to_import/med/Placeholder.png",
+        "alt": "Dissolved companies under section 7(b)"
+      },
       "files": [
         {
           "label": "Download Announcement",

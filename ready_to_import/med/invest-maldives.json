@@ -7,7 +7,10 @@
       "published_at": "2024-07-10T10:31:32Z",
       "reference_number": null,
       "deadline": null,
-      "featuredImage": null,
+      "featuredImage": {
+        "url": "https://raw.githubusercontent.com/MohamedAush/site-scraper/main/ready_to_import/med/Placeholder.png",
+        "alt": "Participation Announcement for Maldives-Sichuan Trade and Investment Cooperation Conference"
+      },
       "files": [
         {
           "label": "Participation-Announcement-for-Maldives-Sichuan-Trade-and-Investment-Cooperation-Conference-6-Aug-2024",
@@ -50,7 +53,10 @@
       "published_at": "2024-07-04T10:37:57Z",
       "reference_number": null,
       "deadline": null,
-      "featuredImage": null,
+      "featuredImage": {
+        "url": "https://raw.githubusercontent.com/MohamedAush/site-scraper/main/ready_to_import/med/Placeholder.png",
+        "alt": "Fields that foreigners are prohibited from doing business in the Maldives"
+      },
       "files": [
         {
           "label": "Announcement-FDI-Closed-Areas",

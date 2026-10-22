@@ -9,7 +9,7 @@
       "deadline": null,
       "featuredImage": {
         "url": "https://trade.gov.mv/wp-content/uploads/Press-Release-ENG-2.jpg",
-        "alt": ""
+        "alt": "Announcement: Establishing Restricted Hours During Which Certain Types of Vehicles Are Prohibited From Operating on Roads in the Malé Area"
       },
       "files": [],
       "translations": {
@@ -50,7 +50,7 @@
       "deadline": null,
       "featuredImage": {
         "url": "https://trade.gov.mv/wp-content/uploads/Press-Covers-1.png",
-        "alt": ""
+        "alt": "އިޢުލާން: އެއްގަމު ދަތުރުފަތުރުގެ ޤާނޫނު ތަންފީޒު ކުރުމަށް ޑިޖިޓަލް ނުވަތަ އިލެކްޓްރޯނިކް ވަސީލަތްތައް ބޭނުންކުރުމާ ގުޅޭ"
       },
       "files": [],
       "translations": {
@@ -78,7 +78,7 @@
       "deadline": null,
       "featuredImage": {
         "url": "https://trade.gov.mv/wp-content/uploads/price-display.png",
-        "alt": ""
+        "alt": "އިޢުލާން: ވިޔަފާރި ކުރާ ތަންތަނުގައި ވިއްކަން ބަހައްޓާފައި ހުންނަ މުދަލުގައި އަގު ޖެހުމާ ގުޅޭ"
       },
       "files": [],
       "translations": {
@@ -106,7 +106,7 @@
       "deadline": null,
       "featuredImage": {
         "url": "https://trade.gov.mv/wp-content/uploads/announcement.png",
-        "alt": ""
+        "alt": "Announcement: Foreign Investment Entry Requirements and Compliance"
       },
       "files": [],
       "translations": {
@@ -138,7 +138,7 @@
       "deadline": null,
       "featuredImage": {
         "url": "https://trade.gov.mv/wp-content/uploads/Press-Covers-2.jpg",
-        "alt": ""
+        "alt": "Announcement: Notice on Foreign Investment Transition Requirements"
       },
       "files": [],
       "translations": {
@@ -191,7 +191,7 @@
       "deadline": null,
       "featuredImage": {
         "url": "https://trade.gov.mv/wp-content/uploads/26.2.26-Maldives-Expo-2026-1.jpg",
-        "alt": ""
+        "alt": "Ministry’s Service Arrangements During Eid Al-Adha Holidays"
       },
       "files": [],
       "translations": {
@@ -238,7 +238,10 @@
       "published_at": "2024-08-19T08:53:09Z",
       "reference_number": null,
       "deadline": null,
-      "featuredImage": null,
+      "featuredImage": {
+        "url": "https://raw.githubusercontent.com/MohamedAush/site-scraper/main/ready_to_import/med/Placeholder.png",
+        "alt": "Exhibition Competition Guidelines (Maurazu) 2025"
+      },
       "files": [
         {
           "label": "Maurazu Usoolu 2025 18.8.2024",
@@ -281,7 +284,10 @@
       "published_at": "2024-04-28T12:06:00Z",
       "reference_number": null,
       "deadline": null,
-      "featuredImage": null,
+      "featuredImage": {
+        "url": "https://raw.githubusercontent.com/MohamedAush/site-scraper/main/ready_to_import/med/Placeholder.png",
+        "alt": "Request for Expression of Interest (REOI) – Maldives State-of-the-Art Video Production Facility: Creative Economy Initiative"
+      },
       "files": [
         {
           "label": "Request-for-Expression-of-Interest-REOI-Maldives-State-of-the-Art-Video-Production-Facility-Creative-Economy-Initiative",
@@ -324,7 +330,10 @@
       "published_at": "2024-04-28T00:02:00Z",
       "reference_number": null,
       "deadline": null,
-      "featuredImage": null,
+      "featuredImage": {
+        "url": "https://raw.githubusercontent.com/MohamedAush/site-scraper/main/ready_to_import/med/Placeholder.png",
+        "alt": "Request for Expression of Interest (REOI) – International School of Creative Arts: Creative Economy Initiative"
+      },
       "files": [
         {
           "label": "Request-for-Expression-of-Interest-REOI-International-School-of-Creative-Arts-Creative-Economy-Initiative",
@@ -367,7 +376,10 @@
       "published_at": "2023-07-11T09:10:08Z",
       "reference_number": null,
       "deadline": null,
-      "featuredImage": null,
+      "featuredImage": {
+        "url": "https://raw.githubusercontent.com/MohamedAush/site-scraper/main/ready_to_import/med/Placeholder.png",
+        "alt": "Opening of opportunities for participation in the 7th South Asia Exposition and 27th Kunming Import and Export Fair:"
+      },
       "files": [
         {
           "label": "Download Announcement",

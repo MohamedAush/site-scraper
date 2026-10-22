@@ -7,7 +7,10 @@
       "published_at": "2022-10-02T09:15:00Z",
       "reference_number": null,
       "deadline": null,
-      "featuredImage": null,
+      "featuredImage": {
+        "url": "https://raw.githubusercontent.com/MohamedAush/site-scraper/main/ready_to_import/med/Placeholder.png",
+        "alt": "Self Employed Grant"
+      },
       "files": [
         {
           "label": "Announcement",
@@ -42,7 +45,10 @@
       "published_at": "2022-10-02T09:07:00Z",
       "reference_number": null,
       "deadline": null,
-      "featuredImage": null,
+      "featuredImage": {
+        "url": "https://raw.githubusercontent.com/MohamedAush/site-scraper/main/ready_to_import/med/Placeholder.png",
+        "alt": "ސެލްފް އެމްޕްލޮއިޑް ގްރާންޓް"
+      },
       "files": [
         {
           "label": "އިއުލާން",
@@ -77,7 +83,10 @@
       "published_at": "2022-05-17T09:23:00Z",
       "reference_number": null,
       "deadline": null,
-      "featuredImage": null,
+      "featuredImage": {
+        "url": "https://raw.githubusercontent.com/MohamedAush/site-scraper/main/ready_to_import/med/Placeholder.png",
+        "alt": "Training Program Regulations (Amendment 1)"
+      },
       "files": [
         {
           "label": "training-programme-usoolu-1",
@@ -120,7 +129,10 @@
       "published_at": "2022-05-09T09:32:20Z",
       "reference_number": null,
       "deadline": null,
-      "featuredImage": null,
+      "featuredImage": {
+        "url": "https://raw.githubusercontent.com/MohamedAush/site-scraper/main/ready_to_import/med/Placeholder.png",
+        "alt": "Annoucement for Vendor Registration under COVID-19 Income Support Project (Round 2)"
+      },
       "files": [
         {
           "label": "Announcement",
@@ -191,7 +203,10 @@
       "published_at": "2022-04-04T09:55:00Z",
       "reference_number": null,
       "deadline": null,
-      "featuredImage": null,
+      "featuredImage": {
+        "url": "https://raw.githubusercontent.com/MohamedAush/site-scraper/main/ready_to_import/med/Placeholder.png",
+        "alt": "Annoucement for Vendor Registration under COVID-19 Income Support Project (Round 1)"
+      },
       "files": [
         {
           "label": "Announcement",
@@ -262,7 +277,10 @@
       "published_at": "2022-04-04T09:40:00Z",
       "reference_number": null,
       "deadline": null,
-      "featuredImage": null,
+      "featuredImage": {
+        "url": "https://raw.githubusercontent.com/MohamedAush/site-scraper/main/ready_to_import/med/Placeholder.png",
+        "alt": "Upskilling & Training under Maldives Covid-19 Emergency Income Support Project"
+      },
       "files": [
         {
           "label": "Project Announcement",
@@ -347,7 +365,10 @@
       "published_at": "2022-03-21T10:33:00Z",
       "reference_number": null,
       "deadline": null,
-      "featuredImage": null,
+      "featuredImage": {
+        "url": "https://raw.githubusercontent.com/MohamedAush/site-scraper/main/ready_to_import/med/Placeholder.png",
+        "alt": "Reporting on impact of jobs due to Covid-19"
+      },
       "files": [
         {
           "label": "Download Announcement",
@@ -390,7 +411,10 @@
       "published_at": "2021-05-02T09:10:00Z",
       "reference_number": null,
       "deadline": null,
-      "featuredImage": null,
+      "featuredImage": {
+        "url": "https://raw.githubusercontent.com/MohamedAush/site-scraper/main/ready_to_import/med/Placeholder.png",
+        "alt": "Deadline for the submission of support documents for Third Phase of Income Support Program"
+      },
       "files": [
         {
           "label": "Download Announcement",
@@ -433,7 +457,10 @@
       "published_at": "2021-04-08T09:25:00Z",
       "reference_number": null,
       "deadline": null,
-      "featuredImage": null,
+      "featuredImage": {
+        "url": "https://raw.githubusercontent.com/MohamedAush/site-scraper/main/ready_to_import/med/Placeholder.png",
+        "alt": "Readvertisement: Request for EOI Consultancy Individual IT Developer Services for the National Social Protection Agency (NSPA)"
+      },
       "files": [
         {
           "label": "Expression of Interest",
@@ -490,7 +517,10 @@
       "published_at": "2021-01-12T09:35:00Z",
       "reference_number": null,
       "deadline": null,
-      "featuredImage": null,
+      "featuredImage": {
+        "url": "https://raw.githubusercontent.com/MohamedAush/site-scraper/main/ready_to_import/med/Placeholder.png",
+        "alt": "Request for proposal: Internal Auditor for Income Support Project"
+      },
       "files": [
         {
           "label": "Download TOR",
@@ -533,7 +563,10 @@
       "published_at": "2020-12-07T09:43:00Z",
       "reference_number": null,
       "deadline": null,
-      "featuredImage": null,
+      "featuredImage": {
+        "url": "https://raw.githubusercontent.com/MohamedAush/site-scraper/main/ready_to_import/med/Placeholder.png",
+        "alt": "Extension of Income Support Project. Third Phase (Oct-Dec 2020)"
+      },
       "files": [
         {
           "label": "Download Announcement",
@@ -576,7 +609,10 @@
       "published_at": "2020-11-26T10:29:00Z",
       "reference_number": null,
       "deadline": null,
-      "featuredImage": null,
+      "featuredImage": {
+        "url": "https://raw.githubusercontent.com/MohamedAush/site-scraper/main/ready_to_import/med/Placeholder.png",
+        "alt": "Request for EOI: Consultancy for Development of Pension Strategy Study under Maldives COVID-19 Emergency Income Support Project"
+      },
       "files": [
         {
           "label": "Expression of Interest",
@@ -633,7 +669,10 @@
       "published_at": "2020-11-26T10:19:00Z",
       "reference_number": null,
       "deadline": null,
-      "featuredImage": null,
+      "featuredImage": {
+        "url": "https://raw.githubusercontent.com/MohamedAush/site-scraper/main/ready_to_import/med/Placeholder.png",
+        "alt": "Request for EOI: Consultancy for Development of Unemployment Insurance Benefit Scheme under Maldives COVID-19 Emergency Income Support Project"
+      },
       "files": [
         {
           "label": "Expression of Interest",
@@ -690,7 +729,10 @@
       "published_at": "2020-11-26T10:04:00Z",
       "reference_number": null,
       "deadline": null,
-      "featuredImage": null,
+      "featuredImage": {
+        "url": "https://raw.githubusercontent.com/MohamedAush/site-scraper/main/ready_to_import/med/Placeholder.png",
+        "alt": "Request for EOI: Consultancy on Social Protection Framework Development under Maldives COVID-19 Emergency Income Support Project"
+      },
       "files": [
         {
           "label": "Download TOR",
@@ -740,7 +782,10 @@
       "published_at": "2020-11-26T03:50:00Z",
       "reference_number": null,
       "deadline": null,
-      "featuredImage": null,
+      "featuredImage": {
+        "url": "https://raw.githubusercontent.com/MohamedAush/site-scraper/main/ready_to_import/med/Placeholder.png",
+        "alt": "Request for EOI: Consultancy Individual IT Developer Services for the National Social Protection Agency (NSPA)"
+      },
       "files": [
         {
           "label": "Expression of Interest",
@@ -797,7 +842,10 @@
       "published_at": "2020-11-18T07:10:00Z",
       "reference_number": null,
       "deadline": null,
-      "featuredImage": null,
+      "featuredImage": {
+        "url": "https://raw.githubusercontent.com/MohamedAush/site-scraper/main/ready_to_import/med/Placeholder.png",
+        "alt": "Procurement Notice: Acquisition of 30 office chairs and 30 office tables"
+      },
       "files": [
         {
           "label": "Download Procurement Notice",
@@ -840,7 +888,10 @@
       "published_at": "2020-11-18T04:02:00Z",
       "reference_number": null,
       "deadline": null,
-      "featuredImage": null,
+      "featuredImage": {
+        "url": "https://raw.githubusercontent.com/MohamedAush/site-scraper/main/ready_to_import/med/Placeholder.png",
+        "alt": "Procurement Notice: Acquisition of 30 laptops for the COVID-19 Income Support Project"
+      },
       "files": [
         {
           "label": "Download Procurement Note",
@@ -883,7 +934,10 @@
       "published_at": "2020-10-20T07:16:00Z",
       "reference_number": null,
       "deadline": null,
-      "featuredImage": null,
+      "featuredImage": {
+        "url": "https://raw.githubusercontent.com/MohamedAush/site-scraper/main/ready_to_import/med/Placeholder.png",
+        "alt": "Deadline date for submission of supporting documents for Income Support Allowance applications"
+      },
       "files": [
         {
           "label": "Download Announcement",
@@ -926,7 +980,10 @@
       "published_at": "2020-08-30T07:21:00Z",
       "reference_number": null,
       "deadline": null,
-      "featuredImage": null,
+      "featuredImage": {
+        "url": "https://raw.githubusercontent.com/MohamedAush/site-scraper/main/ready_to_import/med/Placeholder.png",
+        "alt": "Deadline extension: Income Support Application for July, August and September allowance"
+      },
       "files": [
         {
           "label": "Download Announcement",
@@ -969,7 +1026,10 @@
       "published_at": "2020-08-16T07:26:00Z",
       "reference_number": null,
       "deadline": null,
-      "featuredImage": null,
+      "featuredImage": {
+        "url": "https://raw.githubusercontent.com/MohamedAush/site-scraper/main/ready_to_import/med/Placeholder.png",
+        "alt": "General Procurement Notice – Emergency Income Support Project"
+      },
       "files": [
         {
           "label": "Download Procurement Notice",
@@ -1012,7 +1072,10 @@
       "published_at": "2020-08-09T07:33:00Z",
       "reference_number": null,
       "deadline": null,
-      "featuredImage": null,
+      "featuredImage": {
+        "url": "https://raw.githubusercontent.com/MohamedAush/site-scraper/main/ready_to_import/med/Placeholder.png",
+        "alt": "Income Support Allowance"
+      },
       "files": [
         {
           "label": "Download Announcement",
@@ -1055,7 +1118,10 @@
       "published_at": "2020-06-07T07:38:00Z",
       "reference_number": null,
       "deadline": null,
-      "featuredImage": null,
+      "featuredImage": {
+        "url": "https://raw.githubusercontent.com/MohamedAush/site-scraper/main/ready_to_import/med/Placeholder.png",
+        "alt": "Extension of deadline for May Income Support Application"
+      },
       "files": [
         {
           "label": "Download Announcement",
@@ -1098,7 +1164,10 @@
       "published_at": "2020-05-17T07:43:00Z",
       "reference_number": null,
       "deadline": null,
-      "featuredImage": null,
+      "featuredImage": {
+        "url": "https://raw.githubusercontent.com/MohamedAush/site-scraper/main/ready_to_import/med/Placeholder.png",
+        "alt": "Deadline for Income Support Application"
+      },
       "files": [
         {
           "label": "Download Announcement",

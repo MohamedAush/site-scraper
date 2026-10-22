@@ -9,7 +9,7 @@
       "deadline": null,
       "featuredImage": {
         "url": "https://trade.gov.mv/wp-content/uploads/Legal-invitation-for-comments.png",
-        "alt": ""
+        "alt": "Invitation for comments on the Trademark bill"
       },
       "files": [
         {
@@ -53,7 +53,10 @@
       "published_at": "2023-11-26T11:50:11Z",
       "reference_number": null,
       "deadline": null,
-      "featuredImage": null,
+      "featuredImage": {
+        "url": "https://raw.githubusercontent.com/MohamedAush/site-scraper/main/ready_to_import/med/Placeholder.png",
+        "alt": "Invitation for comments on Law no 23/2010 (Copyright and Related Rights Act)"
+      },
       "files": [
         {
           "label": "copyright-and-other-related-rights-Act-public-consultation-brief-English",

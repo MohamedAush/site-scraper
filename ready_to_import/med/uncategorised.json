@@ -7,7 +7,10 @@
       "published_at": "2025-12-10T08:53:09Z",
       "reference_number": "(IUL119)",
       "deadline": null,
-      "featuredImage": null,
+      "featuredImage": {
+        "url": "https://raw.githubusercontent.com/MohamedAush/site-scraper/main/ready_to_import/med/Placeholder.png",
+        "alt": "(IUL119) އެސިސްޓަންޓް ބިޒްނަސް އިންސްޕެކްޝަން އޮފިސަރ، ޕަބްލިކް ސަރވިސް ރޭންކު 4 – ސްޓެޕް 1"
+      },
       "files": [
         {
           "label": "gazette.gov.mv_iulaan_print_371467",
@@ -35,7 +38,10 @@
       "published_at": "2024-11-12T07:32:07Z",
       "reference_number": null,
       "deadline": null,
-      "featuredImage": null,
+      "featuredImage": {
+        "url": "https://raw.githubusercontent.com/MohamedAush/site-scraper/main/ready_to_import/med/Placeholder.png",
+        "alt": "Request for Expression of Interest Financial Management Specialist"
+      },
       "files": [
         {
           "label": "Job Announcement",
@@ -63,7 +69,10 @@
       "published_at": "2024-11-12T07:29:53Z",
       "reference_number": null,
       "deadline": null,
-      "featuredImage": null,
+      "featuredImage": {
+        "url": "https://raw.githubusercontent.com/MohamedAush/site-scraper/main/ready_to_import/med/Placeholder.png",
+        "alt": "Request for Expression of Interest Financial Management Specialist"
+      },
       "files": [
         {
           "label": "Job Announcement",

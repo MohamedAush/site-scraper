@@ -7,7 +7,10 @@
       "published_at": "2026-10-07T09:50:00Z",
       "reference_number": "(IUL 82)",
       "deadline": null,
-      "featuredImage": null,
+      "featuredImage": {
+        "url": "https://raw.githubusercontent.com/MohamedAush/site-scraper/main/ready_to_import/med/Placeholder.png",
+        "alt": "Revised -(IUL 82) Director, Trade Policy"
+      },
       "files": [
         {
           "label": "Revised – Screening Sheet – Director, Trade Policy",
@@ -50,7 +53,10 @@
       "published_at": "2026-10-05T06:00:15Z",
       "reference_number": "(IUL 84)",
       "deadline": null,
-      "featuredImage": null,
+      "featuredImage": {
+        "url": "https://raw.githubusercontent.com/MohamedAush/site-scraper/main/ready_to_import/med/Placeholder.png",
+        "alt": "(IUL 84) Director, Fair Trade"
+      },
       "files": [
         {
           "label": "Screening Sheet_(IUL 84) Director, Fair Trade",
@@ -93,7 +99,10 @@
       "published_at": "2026-10-05T05:30:10Z",
       "reference_number": "(IUL-81)",
       "deadline": null,
-      "featuredImage": null,
+      "featuredImage": {
+        "url": "https://raw.githubusercontent.com/MohamedAush/site-scraper/main/ready_to_import/med/Placeholder.png",
+        "alt": "(IUL-81) Director, Business Facilitation"
+      },
       "files": [
         {
           "label": "Screening Sheet_(IUL 81) Director, Business Facilitation",
@@ -121,7 +130,10 @@
       "published_at": "2026-10-05T05:27:43Z",
       "reference_number": "(IUL 81)",
       "deadline": null,
-      "featuredImage": null,
+      "featuredImage": {
+        "url": "https://raw.githubusercontent.com/MohamedAush/site-scraper/main/ready_to_import/med/Placeholder.png",
+        "alt": "(IUL 81)ޑިރެކްޓަރ، ބިޒްނަސް ފެސިލިޓޭޝަން"
+      },
       "files": [
         {
           "label": "Screening Sheet_(IUL 81) Director, Business Facilitation",
@@ -149,7 +161,10 @@
       "published_at": "2026-09-08T06:29:52Z",
       "reference_number": "(IUL 73)",
       "deadline": null,
-      "featuredImage": null,
+      "featuredImage": {
+        "url": "https://raw.githubusercontent.com/MohamedAush/site-scraper/main/ready_to_import/med/Placeholder.png",
+        "alt": "(IUL 73) Senior Investment Licensing and Compliance Officer – Invest Maldives"
+      },
       "files": [
         {
           "label": "Screening Sheet",
@@ -192,7 +207,10 @@
       "published_at": "2026-08-17T06:32:13Z",
       "reference_number": "(IUL-63)",
       "deadline": null,
-      "featuredImage": null,
+      "featuredImage": {
+        "url": "https://raw.githubusercontent.com/MohamedAush/site-scraper/main/ready_to_import/med/Placeholder.png",
+        "alt": "(IUL-63) Assistant Business Inspection Officer"
+      },
       "files": [
         {
           "label": "Annex 3 – Screening results sheetjobmgpye.1ht",
@@ -235,7 +253,10 @@
       "published_at": "2026-07-28T08:31:45Z",
       "reference_number": "(IUL-58)",
       "deadline": null,
-      "featuredImage": null,
+      "featuredImage": {
+        "url": "https://raw.githubusercontent.com/MohamedAush/site-scraper/main/ready_to_import/med/Placeholder.png",
+        "alt": "(IUL-58) Senior Investment and Compliance Officer"
+      },
       "files": [
         {
           "label": "Screening Sheet",
@@ -278,7 +299,10 @@
       "published_at": "2026-07-16T07:47:02Z",
       "reference_number": "(IUL 56)",
       "deadline": null,
-      "featuredImage": null,
+      "featuredImage": {
+        "url": "https://raw.githubusercontent.com/MohamedAush/site-scraper/main/ready_to_import/med/Placeholder.png",
+        "alt": "(IUL 56) އެސިސްޓަންޓް ބިޒްނަސް އިންސްޕެކްޝަން އޮފިސަރ"
+      },
       "files": [
         {
           "label": "(IUL 56) Screening Sheet",
@@ -306,7 +330,10 @@
       "published_at": "2026-06-25T07:51:37Z",
       "reference_number": "(IUL 32)",
       "deadline": null,
-      "featuredImage": null,
+      "featuredImage": {
+        "url": "https://raw.githubusercontent.com/MohamedAush/site-scraper/main/ready_to_import/med/Placeholder.png",
+        "alt": "(IUL 32) Transport Registration Officer"
+      },
       "files": [
         {
           "label": "Transport Registration Officer",
@@ -334,7 +361,10 @@
       "published_at": "2026-06-25T07:47:15Z",
       "reference_number": "(IUL 32)",
       "deadline": null,
-      "featuredImage": null,
+      "featuredImage": {
+        "url": "https://raw.githubusercontent.com/MohamedAush/site-scraper/main/ready_to_import/med/Placeholder.png",
+        "alt": "(IUL 32)ޓްރާންސްޕޯޓް ރެޖިސްޓްރޭޝަން އޮފިސަރ"
+      },
       "files": [
         {
           "label": "Transport Registration Officer",
@@ -362,7 +392,10 @@
       "published_at": "2026-06-25T07:45:31Z",
       "reference_number": "(IUL 37)",
       "deadline": null,
-      "featuredImage": null,
+      "featuredImage": {
+        "url": "https://raw.githubusercontent.com/MohamedAush/site-scraper/main/ready_to_import/med/Placeholder.png",
+        "alt": "(IUL 37) އެސިސްޓްނެޓް އެޑްމިނިސްޓްރޭޓިވް އޮފިސަރ"
+      },
       "files": [
         {
           "label": "Assistant Administrtive Officer",
@@ -390,7 +423,10 @@
       "published_at": "2026-06-25T07:43:31Z",
       "reference_number": "(IUL 37)",
       "deadline": null,
-      "featuredImage": null,
+      "featuredImage": {
+        "url": "https://raw.githubusercontent.com/MohamedAush/site-scraper/main/ready_to_import/med/Placeholder.png",
+        "alt": "(IUL 37) Assistant Administrative Officer"
+      },
       "files": [
         {
           "label": "Assistant Administrtive Officer",
@@ -418,7 +454,10 @@
       "published_at": "2026-06-25T07:34:39Z",
       "reference_number": "(IUL38)",
       "deadline": null,
-      "featuredImage": null,
+      "featuredImage": {
+        "url": "https://raw.githubusercontent.com/MohamedAush/site-scraper/main/ready_to_import/med/Placeholder.png",
+        "alt": "(IUL38) Administrative Officer"
+      },
       "files": [
         {
           "label": "Administrative Officer",
@@ -446,7 +485,10 @@
       "published_at": "2026-06-25T07:27:41Z",
       "reference_number": "(IUL 38)",
       "deadline": null,
-      "featuredImage": null,
+      "featuredImage": {
+        "url": "https://raw.githubusercontent.com/MohamedAush/site-scraper/main/ready_to_import/med/Placeholder.png",
+        "alt": "(IUL 38) އެޑްމިނިސްޓްރޭޓިވް އޮފިސަރ"
+      },
       "files": [
         {
           "label": "Administrative Officer",
@@ -474,7 +516,10 @@
       "published_at": "2026-06-14T08:34:05Z",
       "reference_number": "(IUL38)",
       "deadline": null,
-      "featuredImage": null,
+      "featuredImage": {
+        "url": "https://raw.githubusercontent.com/MohamedAush/site-scraper/main/ready_to_import/med/Placeholder.png",
+        "alt": "(IUL38) Administrative Officer"
+      },
       "files": [
         {
           "label": "(IUL 38) Administative Officer",
@@ -502,7 +547,10 @@
       "published_at": "2026-06-14T08:32:38Z",
       "reference_number": "(IUL 38)",
       "deadline": null,
-      "featuredImage": null,
+      "featuredImage": {
+        "url": "https://raw.githubusercontent.com/MohamedAush/site-scraper/main/ready_to_import/med/Placeholder.png",
+        "alt": "(IUL 38) އެޑްމިނިސްޓްރޭޓިވް އޮފިސަރ"
+      },
       "files": [
         {
           "label": "(IUL 38) Administative Officer",
@@ -530,7 +578,10 @@
       "published_at": "2026-06-14T08:30:51Z",
       "reference_number": "(IUL 37)",
       "deadline": null,
-      "featuredImage": null,
+      "featuredImage": {
+        "url": "https://raw.githubusercontent.com/MohamedAush/site-scraper/main/ready_to_import/med/Placeholder.png",
+        "alt": "(IUL 37) Assistant Administrative Officer"
+      },
       "files": [
         {
           "label": "(IUL 37) Assistant Administrative Officer",
@@ -558,7 +609,10 @@
       "published_at": "2026-06-14T08:29:56Z",
       "reference_number": "(IUL 37)",
       "deadline": null,
-      "featuredImage": null,
+      "featuredImage": {
+        "url": "https://raw.githubusercontent.com/MohamedAush/site-scraper/main/ready_to_import/med/Placeholder.png",
+        "alt": "(IUL 37) އެސިސްޓްނެޓް އެޑްމިނިސްޓްރޭޓިވް އޮފިސަރ"
+      },
       "files": [
         {
           "label": "(IUL 37) Assistant Administrative Officer",
@@ -586,7 +640,10 @@
       "published_at": "2026-06-14T08:27:30Z",
       "reference_number": "(IUL 32)",
       "deadline": null,
-      "featuredImage": null,
+      "featuredImage": {
+        "url": "https://raw.githubusercontent.com/MohamedAush/site-scraper/main/ready_to_import/med/Placeholder.png",
+        "alt": "(IUL 32) Transport Registration Officer"
+      },
       "files": [
         {
           "label": "(IUL 32) Transport Registration Officer",
@@ -614,7 +671,10 @@
       "published_at": "2026-06-14T08:26:40Z",
       "reference_number": "(IUL 32)",
       "deadline": null,
-      "featuredImage": null,
+      "featuredImage": {
+        "url": "https://raw.githubusercontent.com/MohamedAush/site-scraper/main/ready_to_import/med/Placeholder.png",
+        "alt": "(IUL 32)ޓްރާންސްޕޯޓް ރެޖިސްޓްރޭޝަން އޮފިސަރ"
+      },
       "files": [
         {
           "label": "(IUL 32) Transport Registration Officer",
@@ -642,7 +702,10 @@
       "published_at": "2026-06-14T08:23:12Z",
       "reference_number": "(IUL 31)",
       "deadline": null,
-      "featuredImage": null,
+      "featuredImage": {
+        "url": "https://raw.githubusercontent.com/MohamedAush/site-scraper/main/ready_to_import/med/Placeholder.png",
+        "alt": "(IUL 31) Principal Transport Officer"
+      },
       "files": [
         {
           "label": "(IUL 31) Principal Transport Offficer",
@@ -685,7 +748,10 @@
       "published_at": "2026-05-21T05:43:20Z",
       "reference_number": "(IUL-36)",
       "deadline": null,
-      "featuredImage": null,
+      "featuredImage": {
+        "url": "https://raw.githubusercontent.com/MohamedAush/site-scraper/main/ready_to_import/med/Placeholder.png",
+        "alt": "(IUL-36) Senior Investment Licensing and Compliance Officer – Invest Maldives"
+      },
       "files": [
         {
           "label": "Annex 3 – Screening results sheet",
@@ -728,7 +794,10 @@
       "published_at": "2026-04-16T08:25:42Z",
       "reference_number": "(IUL 25)",
       "deadline": null,
-      "featuredImage": null,
+      "featuredImage": {
+        "url": "https://raw.githubusercontent.com/MohamedAush/site-scraper/main/ready_to_import/med/Placeholder.png",
+        "alt": "(IUL 25) Human Resource Officer"
+      },
       "files": [
         {
           "label": "Screening Sheet – Human Resource Officer",
@@ -771,7 +840,10 @@
       "published_at": "2026-04-14T06:33:18Z",
       "reference_number": "(IUL-21)",
       "deadline": null,
-      "featuredImage": null,
+      "featuredImage": {
+        "url": "https://raw.githubusercontent.com/MohamedAush/site-scraper/main/ready_to_import/med/Placeholder.png",
+        "alt": "(IUL-21) Assistant Trade Analyst PSR 7 STEP 1"
+      },
       "files": [
         {
           "label": "IUL 21 Screening Sheet (Assistant Trade Analyst)",
@@ -814,7 +886,10 @@
       "published_at": "2026-04-14T06:25:46Z",
       "reference_number": "(IUL-20)",
       "deadline": null,
-      "featuredImage": null,
+      "featuredImage": {
+        "url": "https://raw.githubusercontent.com/MohamedAush/site-scraper/main/ready_to_import/med/Placeholder.png",
+        "alt": "(IUL-20) Business Registration Officer PSR 5, STEP 1"
+      },
       "files": [
         {
           "label": "IUL 20 Screening Sheet (Business Registration officer)",
@@ -857,7 +932,10 @@
       "published_at": "2026-02-23T07:09:49Z",
       "reference_number": "(IUL 09)",
       "deadline": null,
-      "featuredImage": null,
+      "featuredImage": {
+        "url": "https://raw.githubusercontent.com/MohamedAush/site-scraper/main/ready_to_import/med/Placeholder.png",
+        "alt": "(IUL 09) Senior Investment Licensing and Compliance Officer"
+      },
       "files": [
         {
           "label": "Screening Sheet",
@@ -900,7 +978,10 @@
       "published_at": "2026-02-23T07:07:22Z",
       "reference_number": "(IUL07)",
       "deadline": null,
-      "featuredImage": null,
+      "featuredImage": {
+        "url": "https://raw.githubusercontent.com/MohamedAush/site-scraper/main/ready_to_import/med/Placeholder.png",
+        "alt": "(IUl 07) Senior Business Registration Officer"
+      },
       "files": [
         {
           "label": "Screening Sheet",
@@ -943,7 +1024,10 @@
       "published_at": "2026-02-12T06:27:55Z",
       "reference_number": "(IUL-4)",
       "deadline": null,
-      "featuredImage": null,
+      "featuredImage": {
+        "url": "https://raw.githubusercontent.com/MohamedAush/site-scraper/main/ready_to_import/med/Placeholder.png",
+        "alt": "(IUL-4) Senior Registration Assistant"
+      },
       "files": [
         {
           "label": "Screening Results Sheet",
@@ -986,7 +1070,10 @@
       "published_at": "2026-02-03T08:41:02Z",
       "reference_number": "(IUL-2)",
       "deadline": null,
-      "featuredImage": null,
+      "featuredImage": {
+        "url": "https://raw.githubusercontent.com/MohamedAush/site-scraper/main/ready_to_import/med/Placeholder.png",
+        "alt": "(IUL-2) Senior Investment Licensing and Compliance Officer"
+      },
       "files": [
         {
           "label": "Screening results",
@@ -1029,7 +1116,10 @@
       "published_at": "2026-01-11T10:11:29Z",
       "reference_number": "(IUL 127)",
       "deadline": null,
-      "featuredImage": null,
+      "featuredImage": {
+        "url": "https://raw.githubusercontent.com/MohamedAush/site-scraper/main/ready_to_import/med/Placeholder.png",
+        "alt": "(IUL 127) Senior Business Registration Officer"
+      },
       "files": [
         {
           "label": "Screening sheet_BR officer",
@@ -1072,7 +1162,10 @@
       "published_at": "2026-01-11T10:08:24Z",
       "reference_number": "(IUL 125)",
       "deadline": null,
-      "featuredImage": null,
+      "featuredImage": {
+        "url": "https://raw.githubusercontent.com/MohamedAush/site-scraper/main/ready_to_import/med/Placeholder.png",
+        "alt": "(IUL 125) Procurement Officer"
+      },
       "files": [
         {
           "label": "Screening Sheet_Procurement Officer",
@@ -1115,7 +1208,10 @@
       "published_at": "2026-01-11T10:05:45Z",
       "reference_number": "(IUL 126)",
       "deadline": null,
-      "featuredImage": null,
+      "featuredImage": {
+        "url": "https://raw.githubusercontent.com/MohamedAush/site-scraper/main/ready_to_import/med/Placeholder.png",
+        "alt": "(IUL 126) Assistant Trade Analyst"
+      },
       "files": [
         {
           "label": "Screening Sheet",
@@ -1158,7 +1254,10 @@
       "published_at": "2026-01-06T07:28:10Z",
       "reference_number": "(IUL 122)",
       "deadline": null,
-      "featuredImage": null,
+      "featuredImage": {
+        "url": "https://raw.githubusercontent.com/MohamedAush/site-scraper/main/ready_to_import/med/Placeholder.png",
+        "alt": "(IUL 122) Assistant Business Inspection Officer"
+      },
       "files": [
         {
           "label": "Screening Sheet (IUL 122)",
@@ -1201,7 +1300,10 @@
       "published_at": "2025-12-21T08:34:55Z",
       "reference_number": "(IUL 119)",
       "deadline": null,
-      "featuredImage": null,
+      "featuredImage": {
+        "url": "https://raw.githubusercontent.com/MohamedAush/site-scraper/main/ready_to_import/med/Placeholder.png",
+        "alt": "(IUL 119) Assistant Business Inspection Officer"
+      },
       "files": [
         {
           "label": "Screening results sheet",
@@ -1229,7 +1331,10 @@
       "published_at": "2025-12-21T08:33:39Z",
       "reference_number": "(IUL119)",
       "deadline": null,
-      "featuredImage": null,
+      "featuredImage": {
+        "url": "https://raw.githubusercontent.com/MohamedAush/site-scraper/main/ready_to_import/med/Placeholder.png",
+        "alt": "(IUL119) އެސިސްޓަންޓް ބިޒްނަސް އިންސްޕެކްޝަން އޮފިސަރ"
+      },
       "files": [
         {
           "label": "Screening results sheet",
@@ -1257,7 +1362,10 @@
       "published_at": "2025-12-01T07:10:42Z",
       "reference_number": "(IUL 114)",
       "deadline": null,
-      "featuredImage": null,
+      "featuredImage": {
+        "url": "https://raw.githubusercontent.com/MohamedAush/site-scraper/main/ready_to_import/med/Placeholder.png",
+        "alt": "(IUL 114) Economic Development Officer, MS2"
+      },
       "files": [
         {
           "label": "Screening Sheet – Economic Development  Officer MS2",
@@ -1285,7 +1393,10 @@
       "published_at": "2025-12-01T07:09:51Z",
       "reference_number": "(IUL 114)",
       "deadline": null,
-      "featuredImage": null,
+      "featuredImage": {
+        "url": "https://raw.githubusercontent.com/MohamedAush/site-scraper/main/ready_to_import/med/Placeholder.png",
+        "alt": "(IUL 114) އިކޮނޮމިކް ޑިވެލޮޕްމަންޓް އޮފިސަރ، އެމް.އެސް 2"
+      },
       "files": [
         {
           "label": "Screening Sheet – Economic Development  Officer MS2",
@@ -1313,7 +1424,10 @@
       "published_at": "2025-12-01T07:08:12Z",
       "reference_number": "(IUL 113)",
       "deadline": null,
-      "featuredImage": null,
+      "featuredImage": {
+        "url": "https://raw.githubusercontent.com/MohamedAush/site-scraper/main/ready_to_import/med/Placeholder.png",
+        "alt": "(IUL 113) Director, EX1"
+      },
       "files": [
         {
           "label": "Screening Sheet – Director Ex1 – J-321853",
@@ -1356,7 +1470,10 @@
       "published_at": "2025-12-01T07:06:01Z",
       "reference_number": "(IUL 112)",
       "deadline": null,
-      "featuredImage": null,
+      "featuredImage": {
+        "url": "https://raw.githubusercontent.com/MohamedAush/site-scraper/main/ready_to_import/med/Placeholder.png",
+        "alt": "(IUL 112) Director, EX1"
+      },
       "files": [
         {
           "label": "Screening Sheet – Director Ex1 -J-321885",
@@ -1399,7 +1516,10 @@
       "published_at": "2025-12-01T07:03:42Z",
       "reference_number": "(IUL 111)",
       "deadline": null,
-      "featuredImage": null,
+      "featuredImage": {
+        "url": "https://raw.githubusercontent.com/MohamedAush/site-scraper/main/ready_to_import/med/Placeholder.png",
+        "alt": "(IUL 111) Senior Administrative Officer MS1"
+      },
       "files": [
         {
           "label": "Screening Sheet – Senior Administrative Officer MS1",
@@ -1442,7 +1562,10 @@
       "published_at": "2025-10-29T08:45:00Z",
       "reference_number": "(IUL 109)",
       "deadline": null,
-      "featuredImage": null,
+      "featuredImage": {
+        "url": "https://raw.githubusercontent.com/MohamedAush/site-scraper/main/ready_to_import/med/Placeholder.png",
+        "alt": "(IUL 109) Human Resource Officer, MS2"
+      },
       "files": [
         {
           "label": "Screening Sheet – Human Resource Officer MS2",
@@ -1485,7 +1608,10 @@
       "published_at": "2025-10-29T08:22:11Z",
       "reference_number": "(IUL 108)",
       "deadline": null,
-      "featuredImage": null,
+      "featuredImage": {
+        "url": "https://raw.githubusercontent.com/MohamedAush/site-scraper/main/ready_to_import/med/Placeholder.png",
+        "alt": "(IUL 108) Administrative Officer, GS3"
+      },
       "files": [
         {
           "label": "Screening Sheet – Administrative Officer GS3",
@@ -1528,7 +1654,10 @@
       "published_at": "2025-10-27T09:27:17Z",
       "reference_number": "(IUL 104)",
       "deadline": null,
-      "featuredImage": null,
+      "featuredImage": {
+        "url": "https://raw.githubusercontent.com/MohamedAush/site-scraper/main/ready_to_import/med/Placeholder.png",
+        "alt": "(IUL 104) Senior Administrative Officer"
+      },
       "files": [
         {
           "label": "Annex 3 – Screening results sheetjobmgpye.1ht",
@@ -1571,7 +1700,10 @@
       "published_at": "2025-10-27T09:23:12Z",
       "reference_number": "(IUL 103)",
       "deadline": null,
-      "featuredImage": null,
+      "featuredImage": {
+        "url": "https://raw.githubusercontent.com/MohamedAush/site-scraper/main/ready_to_import/med/Placeholder.png",
+        "alt": "(IUL 103) Computer Technician MS1"
+      },
       "files": [
         {
           "label": "Annex 3 – Screening results sheetjobmgpye.1ht (1)",
@@ -1614,7 +1746,10 @@
       "published_at": "2025-10-27T09:20:20Z",
       "reference_number": "(IUL 101)",
       "deadline": null,
-      "featuredImage": null,
+      "featuredImage": {
+        "url": "https://raw.githubusercontent.com/MohamedAush/site-scraper/main/ready_to_import/med/Placeholder.png",
+        "alt": "(IUL 101) Procurement Officer, MS1"
+      },
       "files": [
         {
           "label": "Annex 3 – Screening results sheetjobmgpye.1ht",
@@ -1657,7 +1792,10 @@
       "published_at": "2025-10-20T08:28:52Z",
       "reference_number": "(IUL 102)",
       "deadline": null,
-      "featuredImage": null,
+      "featuredImage": {
+        "url": "https://raw.githubusercontent.com/MohamedAush/site-scraper/main/ready_to_import/med/Placeholder.png",
+        "alt": "(IUL 102) Senior Administrative Officer, MS1"
+      },
       "files": [
         {
           "label": "Job Announcement",
@@ -1700,7 +1838,10 @@
       "published_at": "2025-10-16T09:53:49Z",
       "reference_number": "(IUL 100)",
       "deadline": null,
-      "featuredImage": null,
+      "featuredImage": {
+        "url": "https://raw.githubusercontent.com/MohamedAush/site-scraper/main/ready_to_import/med/Placeholder.png",
+        "alt": "(IUL 100) Senior Administrative Officer, MS2"
+      },
       "files": [
         {
           "label": "Screening Sheet",
@@ -1743,7 +1884,10 @@
       "published_at": "2025-10-13T08:53:23Z",
       "reference_number": "(IUL 99)",
       "deadline": null,
-      "featuredImage": null,
+      "featuredImage": {
+        "url": "https://raw.githubusercontent.com/MohamedAush/site-scraper/main/ready_to_import/med/Placeholder.png",
+        "alt": "(IUL 99) Director, Ex1"
+      },
       "files": [
         {
           "label": "Screening Sheet",
@@ -1786,7 +1930,10 @@
       "published_at": "2025-10-09T09:13:58Z",
       "reference_number": "(IUL 95)",
       "deadline": null,
-      "featuredImage": null,
+      "featuredImage": {
+        "url": "https://raw.githubusercontent.com/MohamedAush/site-scraper/main/ready_to_import/med/Placeholder.png",
+        "alt": "(IUL 95) Director, Ex1"
+      },
       "files": [
         {
           "label": "HR Screening Sheet",
@@ -1829,7 +1976,10 @@
       "published_at": "2025-10-07T08:46:03Z",
       "reference_number": "(IUL 94)",
       "deadline": null,
-      "featuredImage": null,
+      "featuredImage": {
+        "url": "https://raw.githubusercontent.com/MohamedAush/site-scraper/main/ready_to_import/med/Placeholder.png",
+        "alt": "(IUL 94) Assistant Director, MS3"
+      },
       "files": [
         {
           "label": "HR Screening Sheet",
@@ -1872,7 +2022,10 @@
       "published_at": "2025-10-07T08:42:13Z",
       "reference_number": "(IUL 93)",
       "deadline": null,
-      "featuredImage": null,
+      "featuredImage": {
+        "url": "https://raw.githubusercontent.com/MohamedAush/site-scraper/main/ready_to_import/med/Placeholder.png",
+        "alt": "(IUL 93) Economic Development Officer, MS2"
+      },
       "files": [
         {
           "label": "HR Screening Sheet",
@@ -1915,7 +2068,10 @@
       "published_at": "2025-10-06T08:54:25Z",
       "reference_number": "(IUL 92)",
       "deadline": null,
-      "featuredImage": null,
+      "featuredImage": {
+        "url": "https://raw.githubusercontent.com/MohamedAush/site-scraper/main/ready_to_import/med/Placeholder.png",
+        "alt": "(IUL 92) Senior Administrative Officer, MS2"
+      },
       "files": [
         {
           "label": "HR Screening Sheet",
@@ -1958,7 +2114,10 @@
       "published_at": "2025-10-06T08:51:30Z",
       "reference_number": "(IUL 91)",
       "deadline": null,
-      "featuredImage": null,
+      "featuredImage": {
+        "url": "https://raw.githubusercontent.com/MohamedAush/site-scraper/main/ready_to_import/med/Placeholder.png",
+        "alt": "(IUL 91) Administrative Officer, GS3"
+      },
       "files": [
         {
           "label": "HR Screening Sheet",
@@ -2001,7 +2160,10 @@
       "published_at": "2025-10-06T08:47:59Z",
       "reference_number": "(IUL 90)",
       "deadline": null,
-      "featuredImage": null,
+      "featuredImage": {
+        "url": "https://raw.githubusercontent.com/MohamedAush/site-scraper/main/ready_to_import/med/Placeholder.png",
+        "alt": "(IUL 90) Administrative Officer, GS4"
+      },
       "files": [
         {
           "label": "HR Screening Sheet",
@@ -2044,7 +2206,10 @@
       "published_at": "2025-10-06T08:44:46Z",
       "reference_number": "(IUL 89)",
       "deadline": null,
-      "featuredImage": null,
+      "featuredImage": {
+        "url": "https://raw.githubusercontent.com/MohamedAush/site-scraper/main/ready_to_import/med/Placeholder.png",
+        "alt": "(IUL 89) Administrative Officer, GS3"
+      },
       "files": [
         {
           "label": "HR Screening Sheet",
@@ -2087,7 +2252,10 @@
       "published_at": "2025-10-01T08:47:19Z",
       "reference_number": "(IUL 88)",
       "deadline": null,
-      "featuredImage": null,
+      "featuredImage": {
+        "url": "https://raw.githubusercontent.com/MohamedAush/site-scraper/main/ready_to_import/med/Placeholder.png",
+        "alt": "(IUL 88) Senior Administrative Officer MS1"
+      },
       "files": [
         {
           "label": "HR Screening Sheet",
@@ -2130,7 +2298,10 @@
       "published_at": "2025-10-01T06:53:05Z",
       "reference_number": "(IUL 87)",
       "deadline": null,
-      "featuredImage": null,
+      "featuredImage": {
+        "url": "https://raw.githubusercontent.com/MohamedAush/site-scraper/main/ready_to_import/med/Placeholder.png",
+        "alt": "(IUL 87) Director Ex1"
+      },
       "files": [
         {
           "label": "HR Screening Sheet",
@@ -2173,7 +2344,10 @@
       "published_at": "2025-10-01T06:50:31Z",
       "reference_number": "(IUL 80)",
       "deadline": null,
-      "featuredImage": null,
+      "featuredImage": {
+        "url": "https://raw.githubusercontent.com/MohamedAush/site-scraper/main/ready_to_import/med/Placeholder.png",
+        "alt": "(IUL 80) Senior Administrative Officer, MS2"
+      },
       "files": [
         {
           "label": "HR Screening Sheet",
@@ -2216,7 +2390,10 @@
       "published_at": "2025-10-01T06:47:30Z",
       "reference_number": "(IUL 79)",
       "deadline": null,
-      "featuredImage": null,
+      "featuredImage": {
+        "url": "https://raw.githubusercontent.com/MohamedAush/site-scraper/main/ready_to_import/med/Placeholder.png",
+        "alt": "(IUL 79) Economic Development Officer, MS2"
+      },
       "files": [
         {
           "label": "HR Screening Sheet",
@@ -2259,7 +2436,10 @@
       "published_at": "2025-10-01T06:42:44Z",
       "reference_number": "(IUL 78)",
       "deadline": null,
-      "featuredImage": null,
+      "featuredImage": {
+        "url": "https://raw.githubusercontent.com/MohamedAush/site-scraper/main/ready_to_import/med/Placeholder.png",
+        "alt": "(IUL 78) Senior Policy Officer, MS3"
+      },
       "files": [
         {
           "label": "HR Screening Sheet",
@@ -2302,7 +2482,10 @@
       "published_at": "2025-09-28T08:47:57Z",
       "reference_number": "(IUL 74)",
       "deadline": null,
-      "featuredImage": null,
+      "featuredImage": {
+        "url": "https://raw.githubusercontent.com/MohamedAush/site-scraper/main/ready_to_import/med/Placeholder.png",
+        "alt": "(IUL 74) Senior Administrative Officer, MS.2 – Invest Maldives"
+      },
       "files": [
         {
           "label": "Screening Sheet",
@@ -2345,7 +2528,10 @@
       "published_at": "2025-09-10T08:43:59Z",
       "reference_number": "(IUL 73)",
       "deadline": null,
-      "featuredImage": null,
+      "featuredImage": {
+        "url": "https://raw.githubusercontent.com/MohamedAush/site-scraper/main/ready_to_import/med/Placeholder.png",
+        "alt": "(IUL 73) Senior Human Resource Officer, MS3"
+      },
       "files": [
         {
           "label": "Screening Sheet",
@@ -2388,7 +2574,10 @@
       "published_at": "2025-09-09T09:15:03Z",
       "reference_number": "(IUL 72)",
       "deadline": null,
-      "featuredImage": null,
+      "featuredImage": {
+        "url": "https://raw.githubusercontent.com/MohamedAush/site-scraper/main/ready_to_import/med/Placeholder.png",
+        "alt": "(IUL 72) Senior Administrative Officer, MS2"
+      },
       "files": [
         {
           "label": "Screening Sheet",
@@ -2431,7 +2620,10 @@
       "published_at": "2025-09-09T09:11:25Z",
       "reference_number": "(IUL 68)",
       "deadline": null,
-      "featuredImage": null,
+      "featuredImage": {
+        "url": "https://raw.githubusercontent.com/MohamedAush/site-scraper/main/ready_to_import/med/Placeholder.png",
+        "alt": "(IUL 68) Economic Development Officer"
+      },
       "files": [
         {
           "label": "Screening Sheet",
@@ -2474,7 +2666,10 @@
       "published_at": "2025-09-09T09:01:57Z",
       "reference_number": "(IUL 67)",
       "deadline": null,
-      "featuredImage": null,
+      "featuredImage": {
+        "url": "https://raw.githubusercontent.com/MohamedAush/site-scraper/main/ready_to_import/med/Placeholder.png",
+        "alt": "(IUL 67) Director, EX1"
+      },
       "files": [
         {
           "label": "Screening Sheet",
@@ -2517,7 +2712,10 @@
       "published_at": "2025-09-09T08:54:52Z",
       "reference_number": "(IUL 66)",
       "deadline": null,
-      "featuredImage": null,
+      "featuredImage": {
+        "url": "https://raw.githubusercontent.com/MohamedAush/site-scraper/main/ready_to_import/med/Placeholder.png",
+        "alt": "(IUL 66) Senior Policy Officer, MS3"
+      },
       "files": [
         {
           "label": "Screening Sheet",
@@ -2560,7 +2758,10 @@
       "published_at": "2025-09-07T05:10:13Z",
       "reference_number": "(IUL 71)",
       "deadline": null,
-      "featuredImage": null,
+      "featuredImage": {
+        "url": "https://raw.githubusercontent.com/MohamedAush/site-scraper/main/ready_to_import/med/Placeholder.png",
+        "alt": "(IUL 71) Economic Development Officer"
+      },
       "files": [
         {
           "label": "Screening Sheet",
@@ -2603,7 +2804,10 @@
       "published_at": "2025-08-28T08:56:45Z",
       "reference_number": "(IUL-65)",
       "deadline": null,
-      "featuredImage": null,
+      "featuredImage": {
+        "url": "https://raw.githubusercontent.com/MohamedAush/site-scraper/main/ready_to_import/med/Placeholder.png",
+        "alt": "(IUL-65) Administrative Officer, GS3"
+      },
       "files": [
         {
           "label": "HR SCREENING SHEET",
@@ -2646,7 +2850,10 @@
       "published_at": "2025-08-28T08:40:04Z",
       "reference_number": "(IUL-64)",
       "deadline": null,
-      "featuredImage": null,
+      "featuredImage": {
+        "url": "https://raw.githubusercontent.com/MohamedAush/site-scraper/main/ready_to_import/med/Placeholder.png",
+        "alt": "(IUL-64) Administrative Officer, GS3"
+      },
       "files": [
         {
           "label": "HR Screening Sheet",
@@ -2689,7 +2896,10 @@
       "published_at": "2025-08-28T04:39:45Z",
       "reference_number": "(IUL-62)",
       "deadline": null,
-      "featuredImage": null,
+      "featuredImage": {
+        "url": "https://raw.githubusercontent.com/MohamedAush/site-scraper/main/ready_to_import/med/Placeholder.png",
+        "alt": "(IUL-62) Computer Technician MS2"
+      },
       "files": [
         {
           "label": "HR SCREENING SHEET",
@@ -2732,7 +2942,10 @@
       "published_at": "2025-08-27T05:37:11Z",
       "reference_number": "(IUL-58)",
       "deadline": null,
-      "featuredImage": null,
+      "featuredImage": {
+        "url": "https://raw.githubusercontent.com/MohamedAush/site-scraper/main/ready_to_import/med/Placeholder.png",
+        "alt": "(IUL-58) Administrative Officer GS4"
+      },
       "files": [
         {
           "label": "HR Screening Sheet",
@@ -2775,7 +2988,10 @@
       "published_at": "2025-08-21T07:57:11Z",
       "reference_number": "(IUL-63)",
       "deadline": null,
-      "featuredImage": null,
+      "featuredImage": {
+        "url": "https://raw.githubusercontent.com/MohamedAush/site-scraper/main/ready_to_import/med/Placeholder.png",
+        "alt": "(IUL-63) Director, EX1"
+      },
       "files": [
         {
           "label": "Screening Sheet",
@@ -2818,7 +3034,10 @@
       "published_at": "2025-08-19T11:19:45Z",
       "reference_number": "(IUL-59)",
       "deadline": null,
-      "featuredImage": null,
+      "featuredImage": {
+        "url": "https://raw.githubusercontent.com/MohamedAush/site-scraper/main/ready_to_import/med/Placeholder.png",
+        "alt": "(IUL-59) Senior Policy Officer MS3"
+      },
       "files": [
         {
           "label": "Screening Sheet",
@@ -2861,7 +3080,10 @@
       "published_at": "2025-08-19T11:00:13Z",
       "reference_number": "(IUL-58)",
       "deadline": null,
-      "featuredImage": null,
+      "featuredImage": {
+        "url": "https://raw.githubusercontent.com/MohamedAush/site-scraper/main/ready_to_import/med/Placeholder.png",
+        "alt": "އެޑްމިނިސްޓްރޭޓިވް އޮފިސަރ، ޖީ.އެސް 4 (IUL-58)"
+      },
       "files": [
         {
           "label": "ސްކްރީނިންގ ޝީޓް",
@@ -2889,7 +3111,10 @@
       "published_at": "2025-08-19T10:53:26Z",
       "reference_number": "(IUL-61)",
       "deadline": null,
-      "featuredImage": null,
+      "featuredImage": {
+        "url": "https://raw.githubusercontent.com/MohamedAush/site-scraper/main/ready_to_import/med/Placeholder.png",
+        "alt": "(IUL-61) Director EX1"
+      },
       "files": [
         {
           "label": "Screening Sheet",
@@ -2932,7 +3157,10 @@
       "published_at": "2025-08-19T10:27:03Z",
       "reference_number": "(IUL-60)",
       "deadline": null,
-      "featuredImage": null,
+      "featuredImage": {
+        "url": "https://raw.githubusercontent.com/MohamedAush/site-scraper/main/ready_to_import/med/Placeholder.png",
+        "alt": "(IUL-60) Senior Administrative Officer"
+      },
       "files": [
         {
           "label": "Screening Sheet",
@@ -2975,7 +3203,10 @@
       "published_at": "2025-07-24T07:12:29Z",
       "reference_number": "(IUL 49)",
       "deadline": null,
-      "featuredImage": null,
+      "featuredImage": {
+        "url": "https://raw.githubusercontent.com/MohamedAush/site-scraper/main/ready_to_import/med/Placeholder.png",
+        "alt": "(IUL 49) Procurement Officer, MS.1"
+      },
       "files": [
         {
           "label": "Screening Sheet",
@@ -3018,7 +3249,10 @@
       "published_at": "2025-07-20T09:02:30Z",
       "reference_number": "(IUL 50)",
       "deadline": null,
-      "featuredImage": null,
+      "featuredImage": {
+        "url": "https://raw.githubusercontent.com/MohamedAush/site-scraper/main/ready_to_import/med/Placeholder.png",
+        "alt": "(IUL 50) Assistant Director, Invest Maldives"
+      },
       "files": [
         {
           "label": "HR Screening Sheet",
@@ -3061,7 +3295,10 @@
       "published_at": "2025-06-03T04:20:36Z",
       "reference_number": "(IUL 32)",
       "deadline": null,
-      "featuredImage": null,
+      "featuredImage": {
+        "url": "https://raw.githubusercontent.com/MohamedAush/site-scraper/main/ready_to_import/med/Placeholder.png",
+        "alt": "(IUL 32) Director General, EX5"
+      },
       "files": [
         {
           "label": "HR Screening Sheet",
@@ -3104,7 +3341,10 @@
       "published_at": "2025-05-29T07:56:09Z",
       "reference_number": "(IUL 33)",
       "deadline": null,
-      "featuredImage": null,
+      "featuredImage": {
+        "url": "https://raw.githubusercontent.com/MohamedAush/site-scraper/main/ready_to_import/med/Placeholder.png",
+        "alt": "(IUL 33) Director General, Ex5"
+      },
       "files": [
         {
           "label": "HR Screening Sheet",
@@ -3147,7 +3387,10 @@
       "published_at": "2025-05-26T11:45:55Z",
       "reference_number": "(IUL 29)",
       "deadline": null,
-      "featuredImage": null,
+      "featuredImage": {
+        "url": "https://raw.githubusercontent.com/MohamedAush/site-scraper/main/ready_to_import/med/Placeholder.png",
+        "alt": "(IUL 29) Director General, Ex5"
+      },
       "files": [
         {
           "label": "HR Screening Sheet",
@@ -3190,7 +3433,10 @@
       "published_at": "2025-05-26T11:01:06Z",
       "reference_number": "(IUL 30)",
       "deadline": null,
-      "featuredImage": null,
+      "featuredImage": {
+        "url": "https://raw.githubusercontent.com/MohamedAush/site-scraper/main/ready_to_import/med/Placeholder.png",
+        "alt": "(IUL 30) Director General, EX5"
+      },
       "files": [
         {
           "label": "HR Screening Sheet",
@@ -3233,7 +3479,10 @@
       "published_at": "2025-05-21T04:02:46Z",
       "reference_number": "(IUL 28)",
       "deadline": null,
-      "featuredImage": null,
+      "featuredImage": {
+        "url": "https://raw.githubusercontent.com/MohamedAush/site-scraper/main/ready_to_import/med/Placeholder.png",
+        "alt": "(IUL 28) Director, EX1"
+      },
       "files": [
         {
           "label": "Screening Sheet",
@@ -3276,7 +3525,10 @@
       "published_at": "2025-05-11T07:18:52Z",
       "reference_number": "(IUL 24)",
       "deadline": null,
-      "featuredImage": null,
+      "featuredImage": {
+        "url": "https://raw.githubusercontent.com/MohamedAush/site-scraper/main/ready_to_import/med/Placeholder.png",
+        "alt": "(IUL 24) Computer Technician MS2"
+      },
       "files": [
         {
           "label": "Screening Sheet",
@@ -3319,7 +3571,10 @@
       "published_at": "2025-04-23T09:28:42Z",
       "reference_number": "(IUL 19)",
       "deadline": null,
-      "featuredImage": null,
+      "featuredImage": {
+        "url": "https://raw.githubusercontent.com/MohamedAush/site-scraper/main/ready_to_import/med/Placeholder.png",
+        "alt": "(IUL 19) Inspection Officer MS1"
+      },
       "files": [
         {
           "label": "Screening Sheet",
@@ -3362,7 +3617,10 @@
       "published_at": "2025-04-23T08:58:49Z",
       "reference_number": "(IUL 18)",
       "deadline": null,
-      "featuredImage": null,
+      "featuredImage": {
+        "url": "https://raw.githubusercontent.com/MohamedAush/site-scraper/main/ready_to_import/med/Placeholder.png",
+        "alt": "(IUL 18) Investigation Officer MS2"
+      },
       "files": [
         {
           "label": "Screening Sheet",
@@ -3405,7 +3663,10 @@
       "published_at": "2025-04-23T08:54:46Z",
       "reference_number": "(IUL 16)",
       "deadline": null,
-      "featuredImage": null,
+      "featuredImage": {
+        "url": "https://raw.githubusercontent.com/MohamedAush/site-scraper/main/ready_to_import/med/Placeholder.png",
+        "alt": "(IUL 16) Computer Technician MS2"
+      },
       "files": [
         {
           "label": "Screening Sheet",
@@ -3448,7 +3709,10 @@
       "published_at": "2025-04-23T08:53:12Z",
       "reference_number": "(IUL 15)",
       "deadline": null,
-      "featuredImage": null,
+      "featuredImage": {
+        "url": "https://raw.githubusercontent.com/MohamedAush/site-scraper/main/ready_to_import/med/Placeholder.png",
+        "alt": "(IUL 15) Computer Technician MS2"
+      },
       "files": [
         {
           "label": "Screening Sheet",
@@ -3491,7 +3755,10 @@
       "published_at": "2025-04-23T08:51:52Z",
       "reference_number": "(IUL 17)",
       "deadline": null,
-      "featuredImage": null,
+      "featuredImage": {
+        "url": "https://raw.githubusercontent.com/MohamedAush/site-scraper/main/ready_to_import/med/Placeholder.png",
+        "alt": "(IUL 17) Procurement Officer, MS1"
+      },
       "files": [
         {
           "label": "Screening Sheet",
@@ -3534,7 +3801,10 @@
       "published_at": "2025-01-06T05:40:52Z",
       "reference_number": "(IUL 96)",
       "deadline": null,
-      "featuredImage": null,
+      "featuredImage": {
+        "url": "https://raw.githubusercontent.com/MohamedAush/site-scraper/main/ready_to_import/med/Placeholder.png",
+        "alt": "(IUL 96) Economic Development Officer, MS.2"
+      },
       "files": [
         {
           "label": "Screening Sheet",
@@ -3577,7 +3847,10 @@
       "published_at": "2025-01-06T05:37:45Z",
       "reference_number": "(IUL 95)",
       "deadline": null,
-      "featuredImage": null,
+      "featuredImage": {
+        "url": "https://raw.githubusercontent.com/MohamedAush/site-scraper/main/ready_to_import/med/Placeholder.png",
+        "alt": "(IUL 95) Director, Ex.1"
+      },
       "files": [
         {
           "label": "Screening Sheet",
@@ -3620,7 +3893,10 @@
       "published_at": "2025-01-06T05:34:34Z",
       "reference_number": "(IUL 94)",
       "deadline": null,
-      "featuredImage": null,
+      "featuredImage": {
+        "url": "https://raw.githubusercontent.com/MohamedAush/site-scraper/main/ready_to_import/med/Placeholder.png",
+        "alt": "(IUL 94) Economic Development Officer, MS.2"
+      },
       "files": [
         {
           "label": "Screening Sheet",
@@ -3663,7 +3939,10 @@
       "published_at": "2024-12-17T08:13:11Z",
       "reference_number": "(IUL 93)",
       "deadline": null,
-      "featuredImage": null,
+      "featuredImage": {
+        "url": "https://raw.githubusercontent.com/MohamedAush/site-scraper/main/ready_to_import/med/Placeholder.png",
+        "alt": "(IUL 93) Driver, SS2"
+      },
       "files": [
         {
           "label": "Screening Sheet",
@@ -3706,7 +3985,10 @@
       "published_at": "2024-10-27T07:14:45Z",
       "reference_number": "(IUL 84)",
       "deadline": null,
-      "featuredImage": null,
+      "featuredImage": {
+        "url": "https://raw.githubusercontent.com/MohamedAush/site-scraper/main/ready_to_import/med/Placeholder.png",
+        "alt": "(IUL 84) Driver, SS2"
+      },
       "files": [
         {
           "label": "Screening Sheet",
@@ -3749,7 +4031,10 @@
       "published_at": "2024-09-08T04:27:11Z",
       "reference_number": "(IUL 80)",
       "deadline": null,
-      "featuredImage": null,
+      "featuredImage": {
+        "url": "https://raw.githubusercontent.com/MohamedAush/site-scraper/main/ready_to_import/med/Placeholder.png",
+        "alt": "(IUL 80) Assistant Director, MS3"
+      },
       "files": [
         {
           "label": "HR Screening Sheet",
@@ -3792,7 +4077,10 @@
       "published_at": "2024-08-22T06:12:50Z",
       "reference_number": "(IUL 77)",
       "deadline": null,
-      "featuredImage": null,
+      "featuredImage": {
+        "url": "https://raw.githubusercontent.com/MohamedAush/site-scraper/main/ready_to_import/med/Placeholder.png",
+        "alt": "(IUL 77) Administrative Officer. GS3"
+      },
       "files": [
         {
           "label": "HR Screening Sheet",
@@ -3835,7 +4123,10 @@
       "published_at": "2024-08-18T05:09:59Z",
       "reference_number": "(IUL 74)",
       "deadline": null,
-      "featuredImage": null,
+      "featuredImage": {
+        "url": "https://raw.githubusercontent.com/MohamedAush/site-scraper/main/ready_to_import/med/Placeholder.png",
+        "alt": "(IUL 74) Computer Technician MS1"
+      },
       "files": [
         {
           "label": "HR Screening Sheet",
@@ -3878,7 +4169,10 @@
       "published_at": "2024-08-01T05:45:26Z",
       "reference_number": "(IUL 70)",
       "deadline": null,
-      "featuredImage": null,
+      "featuredImage": {
+        "url": "https://raw.githubusercontent.com/MohamedAush/site-scraper/main/ready_to_import/med/Placeholder.png",
+        "alt": "(IUL 70) Computer Technician MS2"
+      },
       "files": [
         {
           "label": "HR Screening Sheet",
@@ -3921,7 +4215,10 @@
       "published_at": "2024-07-30T09:20:59Z",
       "reference_number": "(IUL 69)",
       "deadline": null,
-      "featuredImage": null,
+      "featuredImage": {
+        "url": "https://raw.githubusercontent.com/MohamedAush/site-scraper/main/ready_to_import/med/Placeholder.png",
+        "alt": "(IUL 69) Human Resource Officer MS1"
+      },
       "files": [
         {
           "label": "Screening Sheet",
@@ -3949,7 +4246,10 @@
       "published_at": "2024-07-30T09:17:32Z",
       "reference_number": "(IUL 69)",
       "deadline": null,
-      "featuredImage": null,
+      "featuredImage": {
+        "url": "https://raw.githubusercontent.com/MohamedAush/site-scraper/main/ready_to_import/med/Placeholder.png",
+        "alt": "(IUL 69)ހިއުމަން ރިސޯސް އޮފިސަރ، އެމް.އެސް 1"
+      },
       "files": [
         {
           "label": "އެޗް.އާރ ސްކްރީނިންގ ޝީޓް",
@@ -3977,7 +4277,10 @@
       "published_at": "2024-07-15T07:12:17Z",
       "reference_number": "(IUL 67)",
       "deadline": null,
-      "featuredImage": null,
+      "featuredImage": {
+        "url": "https://raw.githubusercontent.com/MohamedAush/site-scraper/main/ready_to_import/med/Placeholder.png",
+        "alt": "(IUL 67) Human Resource Officer MS1"
+      },
       "files": [
         {
           "label": "Screening Sheet",
@@ -4020,7 +4323,10 @@
       "published_at": "2024-06-26T09:40:33Z",
       "reference_number": "(IUL 64)",
       "deadline": null,
-      "featuredImage": null,
+      "featuredImage": {
+        "url": "https://raw.githubusercontent.com/MohamedAush/site-scraper/main/ready_to_import/med/Placeholder.png",
+        "alt": "(IUL 64) Human Resource Officer, MS1"
+      },
       "files": [
         {
           "label": "Screening Sheet",
@@ -4063,7 +4369,10 @@
       "published_at": "2024-06-26T09:36:40Z",
       "reference_number": "(IUL 63)",
       "deadline": null,
-      "featuredImage": null,
+      "featuredImage": {
+        "url": "https://raw.githubusercontent.com/MohamedAush/site-scraper/main/ready_to_import/med/Placeholder.png",
+        "alt": "(IUL 63) Driver, SS 2"
+      },
       "files": [
         {
           "label": "Screening Sheet",
@@ -4106,7 +4415,10 @@
       "published_at": "2024-05-30T09:35:15Z",
       "reference_number": "(IUL 56)",
       "deadline": null,
-      "featuredImage": null,
+      "featuredImage": {
+        "url": "https://raw.githubusercontent.com/MohamedAush/site-scraper/main/ready_to_import/med/Placeholder.png",
+        "alt": "(IUL 56) Senior Finance Officer MS3"
+      },
       "files": [
         {
           "label": "HR Screening Result",
@@ -4149,7 +4461,10 @@
       "published_at": "2024-05-29T07:01:36Z",
       "reference_number": "(IUL 49)",
       "deadline": null,
-      "featuredImage": null,
+      "featuredImage": {
+        "url": "https://raw.githubusercontent.com/MohamedAush/site-scraper/main/ready_to_import/med/Placeholder.png",
+        "alt": "(IUL 49) Human Resource Officer"
+      },
       "files": [
         {
           "label": "HR Screening Result",
@@ -4192,7 +4507,10 @@
       "published_at": "2024-05-29T06:57:37Z",
       "reference_number": "(IUL 46)",
       "deadline": null,
-      "featuredImage": null,
+      "featuredImage": {
+        "url": "https://raw.githubusercontent.com/MohamedAush/site-scraper/main/ready_to_import/med/Placeholder.png",
+        "alt": "(IUL 46) Senior Computer Technician MS3"
+      },
       "files": [
         {
           "label": "HR Screening Result",
@@ -4235,7 +4553,10 @@
       "published_at": "2024-05-27T07:44:14Z",
       "reference_number": "(IUL 45)",
       "deadline": null,
-      "featuredImage": null,
+      "featuredImage": {
+        "url": "https://raw.githubusercontent.com/MohamedAush/site-scraper/main/ready_to_import/med/Placeholder.png",
+        "alt": "(IUL 45) Driver, SS 2"
+      },
       "files": [
         {
           "label": "Screening Sheet",
@@ -4278,7 +4599,10 @@
       "published_at": "2024-05-21T09:35:08Z",
       "reference_number": "(IUL 44)",
       "deadline": null,
-      "featuredImage": null,
+      "featuredImage": {
+        "url": "https://raw.githubusercontent.com/MohamedAush/site-scraper/main/ready_to_import/med/Placeholder.png",
+        "alt": "(IUL 44) Senior Administrative Officer MS1"
+      },
       "files": [
         {
           "label": "Screening-Sheet-to-Publish-Senior-Administrative-Officer-1-1",
@@ -4321,7 +4645,10 @@
       "published_at": "2024-05-14T08:13:44Z",
       "reference_number": "(IUL 39)",
       "deadline": null,
-      "featuredImage": null,
+      "featuredImage": {
+        "url": "https://raw.githubusercontent.com/MohamedAush/site-scraper/main/ready_to_import/med/Placeholder.png",
+        "alt": "(IUL 39) Computer Technician, MS 2"
+      },
       "files": [
         {
           "label": "Screening Sheet",
@@ -4364,7 +4691,10 @@
       "published_at": "2024-05-14T08:10:14Z",
       "reference_number": "(IUL – 38)",
       "deadline": null,
-      "featuredImage": null,
+      "featuredImage": {
+        "url": "https://raw.githubusercontent.com/MohamedAush/site-scraper/main/ready_to_import/med/Placeholder.png",
+        "alt": "(IUL – 38) Senior Computer Technician, MS3"
+      },
       "files": [
         {
           "label": "Screening Sheet",
@@ -4407,7 +4737,10 @@
       "published_at": "2024-04-29T09:34:07Z",
       "reference_number": "(IUL -37)",
       "deadline": null,
-      "featuredImage": null,
+      "featuredImage": {
+        "url": "https://raw.githubusercontent.com/MohamedAush/site-scraper/main/ready_to_import/med/Placeholder.png",
+        "alt": "(IUL -37) Computer Technician , MS 2"
+      },
       "files": [
         {
           "label": "HR Screening Sheet",
@@ -4450,7 +4783,10 @@
       "published_at": "2024-04-29T09:18:40Z",
       "reference_number": "(IUL -36)",
       "deadline": null,
-      "featuredImage": null,
+      "featuredImage": {
+        "url": "https://raw.githubusercontent.com/MohamedAush/site-scraper/main/ready_to_import/med/Placeholder.png",
+        "alt": "(IUL -36) Senior Computer Technician, MS3"
+      },
       "files": [
         {
           "label": "HR Screening Sheet",
@@ -4493,7 +4829,10 @@
       "published_at": "2024-04-29T09:14:27Z",
       "reference_number": "(IUL -35)",
       "deadline": null,
-      "featuredImage": null,
+      "featuredImage": {
+        "url": "https://raw.githubusercontent.com/MohamedAush/site-scraper/main/ready_to_import/med/Placeholder.png",
+        "alt": "(IUL -35) Senior Administrative Officer MS1"
+      },
       "files": [
         {
           "label": "Screening Sheet",
@@ -4536,7 +4875,10 @@
       "published_at": "2024-04-23T09:44:43Z",
       "reference_number": "(IUL -30)",
       "deadline": null,
-      "featuredImage": null,
+      "featuredImage": {
+        "url": "https://raw.githubusercontent.com/MohamedAush/site-scraper/main/ready_to_import/med/Placeholder.png",
+        "alt": "(IUL -30) Senior Administrative Officer MS – 2"
+      },
       "files": [
         {
           "label": "HR Screening Sheet",
@@ -4579,7 +4921,10 @@
       "published_at": "2024-03-26T07:59:39Z",
       "reference_number": "(IUL-28)",
       "deadline": null,
-      "featuredImage": null,
+      "featuredImage": {
+        "url": "https://raw.githubusercontent.com/MohamedAush/site-scraper/main/ready_to_import/med/Placeholder.png",
+        "alt": "(IUL-28) Senior Computer Technician MS-3"
+      },
       "files": [
         {
           "label": "Screening-Sheet-Sr.Computer-Technician-MS-3-1",
@@ -4622,7 +4967,10 @@
       "published_at": "2024-03-13T06:46:21Z",
       "reference_number": "(IUL-25)",
       "deadline": null,
-      "featuredImage": null,
+      "featuredImage": {
+        "url": "https://raw.githubusercontent.com/MohamedAush/site-scraper/main/ready_to_import/med/Placeholder.png",
+        "alt": "(IUL-25) Senior Administrative Officer MS-1"
+      },
       "files": [
         {
           "label": "Screening-Result-Sheet-Sr.Administrative-Officer-MS-1-1",
@@ -4665,7 +5013,10 @@
       "published_at": "2024-03-05T06:20:31Z",
       "reference_number": "(IUL 18)",
       "deadline": null,
-      "featuredImage": null,
+      "featuredImage": {
+        "url": "https://raw.githubusercontent.com/MohamedAush/site-scraper/main/ready_to_import/med/Placeholder.png",
+        "alt": "(IUL 18) Economic Development Officer"
+      },
       "files": [
         {
           "label": "Screening-Sheet-Economic-Development-Officer-MS2-3",
@@ -4708,7 +5059,10 @@
       "published_at": "2024-03-05T06:15:20Z",
       "reference_number": "(IUL 17)",
       "deadline": null,
-      "featuredImage": null,
+      "featuredImage": {
+        "url": "https://raw.githubusercontent.com/MohamedAush/site-scraper/main/ready_to_import/med/Placeholder.png",
+        "alt": "(IUL 17) Computer Technician"
+      },
       "files": [
         {
           "label": "Screening-Sheet-Computer-Technician-1",
@@ -4751,7 +5105,10 @@
       "published_at": "2024-02-25T05:15:49Z",
       "reference_number": "(IUL-13)",
       "deadline": null,
-      "featuredImage": null,
+      "featuredImage": {
+        "url": "https://raw.githubusercontent.com/MohamedAush/site-scraper/main/ready_to_import/med/Placeholder.png",
+        "alt": "(IUL-13) Driver SS-2"
+      },
       "files": [
         {
           "label": "Screening-Sheet-Driver-1",
@@ -4794,7 +5151,10 @@
       "published_at": "2024-02-25T05:08:24Z",
       "reference_number": "(IUL-14)",
       "deadline": null,
-      "featuredImage": null,
+      "featuredImage": {
+        "url": "https://raw.githubusercontent.com/MohamedAush/site-scraper/main/ready_to_import/med/Placeholder.png",
+        "alt": "(IUL-14) Economic Development Officer MS-2"
+      },
       "files": [
         {
           "label": "Screening-Sheet-Economic-Development-Officer-1",
@@ -4837,7 +5197,10 @@
       "published_at": "2024-02-25T04:58:54Z",
       "reference_number": "(IUL-10)",
       "deadline": null,
-      "featuredImage": null,
+      "featuredImage": {
+        "url": "https://raw.githubusercontent.com/MohamedAush/site-scraper/main/ready_to_import/med/Placeholder.png",
+        "alt": "(IUL-10) Senior Inspections Officer MS-3"
+      },
       "files": [
         {
           "label": "Screening-Sheet-Sr.-Inspections-Officer-1",
@@ -4880,7 +5243,10 @@
       "published_at": "2024-02-25T04:52:33Z",
       "reference_number": "(IUL-11)",
       "deadline": null,
-      "featuredImage": null,
+      "featuredImage": {
+        "url": "https://raw.githubusercontent.com/MohamedAush/site-scraper/main/ready_to_import/med/Placeholder.png",
+        "alt": "(IUL-11) Director EX-1"
+      },
       "files": [
         {
           "label": "Screening-Sheet-Director-EX-1-1",
@@ -4923,7 +5289,10 @@
       "published_at": "2023-10-25T10:00:58Z",
       "reference_number": "(IUL 208)",
       "deadline": null,
-      "featuredImage": null,
+      "featuredImage": {
+        "url": "https://raw.githubusercontent.com/MohamedAush/site-scraper/main/ready_to_import/med/Placeholder.png",
+        "alt": "(IUL 208) Senior Computer Technician, MS3"
+      },
       "files": [
         {
           "label": "Screening-Sheet-IUL-208-Senior-Computer-Technician-MS3-1",
@@ -4966,7 +5335,10 @@
       "published_at": "2023-09-25T07:57:56Z",
       "reference_number": "(IUL 201)",
       "deadline": null,
-      "featuredImage": null,
+      "featuredImage": {
+        "url": "https://raw.githubusercontent.com/MohamedAush/site-scraper/main/ready_to_import/med/Placeholder.png",
+        "alt": "(IUL 201) Computer Technician MS2"
+      },
       "files": [
         {
           "label": "Screening-Sheet-IUL-201Computer-Technician-MS2-1",
@@ -5009,7 +5381,10 @@
       "published_at": "2023-09-25T07:50:36Z",
       "reference_number": "(IUL 200)",
       "deadline": null,
-      "featuredImage": null,
+      "featuredImage": {
+        "url": "https://raw.githubusercontent.com/MohamedAush/site-scraper/main/ready_to_import/med/Placeholder.png",
+        "alt": "(IUL 200) Procurement Officer MS1"
+      },
       "files": [
         {
           "label": "Screening-Sheet-IUL-200-Procurement-Officer-MS1-1",
@@ -5052,7 +5427,10 @@
       "published_at": "2023-08-31T05:23:32Z",
       "reference_number": "(IUL 192)",
       "deadline": null,
-      "featuredImage": null,
+      "featuredImage": {
+        "url": "https://raw.githubusercontent.com/MohamedAush/site-scraper/main/ready_to_import/med/Placeholder.png",
+        "alt": "(IUL 192) Procurement Officer MS1"
+      },
       "files": [
         {
           "label": "Screening-Sheet-IUL-192-1",
@@ -5095,7 +5473,10 @@
       "published_at": "2023-08-24T08:50:46Z",
       "reference_number": "(IUL 189)",
       "deadline": null,
-      "featuredImage": null,
+      "featuredImage": {
+        "url": "https://raw.githubusercontent.com/MohamedAush/site-scraper/main/ready_to_import/med/Placeholder.png",
+        "alt": "(IUL 189) Finance Officer MS 1"
+      },
       "files": [
         {
           "label": "Screening-SheetFinance-Officer-MS1-1",
@@ -5138,7 +5519,10 @@
       "published_at": "2023-08-24T08:42:51Z",
       "reference_number": "(IUL 187)",
       "deadline": null,
-      "featuredImage": null,
+      "featuredImage": {
+        "url": "https://raw.githubusercontent.com/MohamedAush/site-scraper/main/ready_to_import/med/Placeholder.png",
+        "alt": "(IUL 187) Assistant Investigation Officer GS4"
+      },
       "files": [
         {
           "label": "Screening-Sheet-Assistant-Investigation-Officer-GS4-1",
@@ -5181,7 +5565,10 @@
       "published_at": "2023-08-21T08:01:42Z",
       "reference_number": "(IUL-188)",
       "deadline": null,
-      "featuredImage": null,
+      "featuredImage": {
+        "url": "https://raw.githubusercontent.com/MohamedAush/site-scraper/main/ready_to_import/med/Placeholder.png",
+        "alt": "(IUL-188) Senior Inspection Officer MS.3"
+      },
       "files": [
         {
           "label": "Screening-Sheet-Senior-Inspection-Officer-1",
@@ -5224,7 +5611,10 @@
       "published_at": "2023-08-21T07:44:28Z",
       "reference_number": "(IUL-185)",
       "deadline": null,
-      "featuredImage": null,
+      "featuredImage": {
+        "url": "https://raw.githubusercontent.com/MohamedAush/site-scraper/main/ready_to_import/med/Placeholder.png",
+        "alt": "(IUL-185) Assistant Director MS-3"
+      },
       "files": [
         {
           "label": "Screening-Sheet-Assistant-Director-MS.3",
@@ -5267,7 +5657,10 @@
       "published_at": "2023-08-20T07:32:19Z",
       "reference_number": "(IUL-186)",
       "deadline": null,
-      "featuredImage": null,
+      "featuredImage": {
+        "url": "https://raw.githubusercontent.com/MohamedAush/site-scraper/main/ready_to_import/med/Placeholder.png",
+        "alt": "(IUL-186) Inspection Officer MS.1"
+      },
       "files": [
         {
           "label": "Screening-Sheet-Inspection-Officer-MS.1-1",
@@ -5310,7 +5703,10 @@
       "published_at": "2023-08-20T07:13:50Z",
       "reference_number": "(IUL-184)",
       "deadline": null,
-      "featuredImage": null,
+      "featuredImage": {
+        "url": "https://raw.githubusercontent.com/MohamedAush/site-scraper/main/ready_to_import/med/Placeholder.png",
+        "alt": "(IUl-184) Computer Technician MS-2"
+      },
       "files": [
         {
           "label": "Screening-Sheet-Computer-Technician-MS.2-1",
@@ -5353,7 +5749,10 @@
       "published_at": "2023-08-15T10:00:57Z",
       "reference_number": "(IUL-181)",
       "deadline": null,
-      "featuredImage": null,
+      "featuredImage": {
+        "url": "https://raw.githubusercontent.com/MohamedAush/site-scraper/main/ready_to_import/med/Placeholder.png",
+        "alt": "(IUL-181) Assistant Director MS-3"
+      },
       "files": [
         {
           "label": "Screening-Sheet-Assistant-Director-Ms.3",
@@ -5396,7 +5795,10 @@
       "published_at": "2023-08-07T10:14:44Z",
       "reference_number": "(IUL-172)",
       "deadline": null,
-      "featuredImage": null,
+      "featuredImage": {
+        "url": "https://raw.githubusercontent.com/MohamedAush/site-scraper/main/ready_to_import/med/Placeholder.png",
+        "alt": "Finance Officer (IUL-172)"
+      },
       "files": [
         {
           "label": "Download Screening Results",
@@ -5439,7 +5841,10 @@
       "published_at": "2023-08-07T10:12:14Z",
       "reference_number": "(IUL-177)",
       "deadline": null,
-      "featuredImage": null,
+      "featuredImage": {
+        "url": "https://raw.githubusercontent.com/MohamedAush/site-scraper/main/ready_to_import/med/Placeholder.png",
+        "alt": "Human Resource Officer (IUL-177)"
+      },
       "files": [
         {
           "label": "Download Screening Results",
@@ -5482,7 +5887,10 @@
       "published_at": "2023-08-07T10:09:58Z",
       "reference_number": "(IUL-175)",
       "deadline": null,
-      "featuredImage": null,
+      "featuredImage": {
+        "url": "https://raw.githubusercontent.com/MohamedAush/site-scraper/main/ready_to_import/med/Placeholder.png",
+        "alt": "Assistant Inspection Officer (IUL-175)"
+      },
       "files": [
         {
           "label": "Download Screening Results",
@@ -5525,7 +5933,10 @@
       "published_at": "2023-07-20T08:49:15Z",
       "reference_number": "(IUL- 170)",
       "deadline": null,
-      "featuredImage": null,
+      "featuredImage": {
+        "url": "https://raw.githubusercontent.com/MohamedAush/site-scraper/main/ready_to_import/med/Placeholder.png",
+        "alt": "Human Resource Officer (IUL- 170)"
+      },
       "files": [
         {
           "label": "Download Screening Result",
@@ -5568,7 +5979,10 @@
       "published_at": "2023-07-20T08:44:40Z",
       "reference_number": "(IUL- 169)",
       "deadline": null,
-      "featuredImage": null,
+      "featuredImage": {
+        "url": "https://raw.githubusercontent.com/MohamedAush/site-scraper/main/ready_to_import/med/Placeholder.png",
+        "alt": "Assistant Inspection Officer (IUL- 169)"
+      },
       "files": [
         {
           "label": "Download Screening Result",
@@ -5611,7 +6025,10 @@
       "published_at": "2023-07-18T04:27:47Z",
       "reference_number": "(IUL-166)",
       "deadline": null,
-      "featuredImage": null,
+      "featuredImage": {
+        "url": "https://raw.githubusercontent.com/MohamedAush/site-scraper/main/ready_to_import/med/Placeholder.png",
+        "alt": "Assistant Director MS3 (IUL-166)"
+      },
       "files": [
         {
           "label": "Download Screening Result",
@@ -5654,7 +6071,10 @@
       "published_at": "2023-07-16T09:19:00Z",
       "reference_number": "(IUL- 165)",
       "deadline": null,
-      "featuredImage": null,
+      "featuredImage": {
+        "url": "https://raw.githubusercontent.com/MohamedAush/site-scraper/main/ready_to_import/med/Placeholder.png",
+        "alt": "Assistant Inspection Officer GS4 (IUL- 165)"
+      },
       "files": [
         {
           "label": "Download Screening Result",
@@ -5697,7 +6117,10 @@
       "published_at": "2023-06-19T08:24:00Z",
       "reference_number": "(IUL- 151)",
       "deadline": null,
-      "featuredImage": null,
+      "featuredImage": {
+        "url": "https://raw.githubusercontent.com/MohamedAush/site-scraper/main/ready_to_import/med/Placeholder.png",
+        "alt": "Procurement Officer MS2 (IUL- 151)"
+      },
       "files": [
         {
           "label": "Download Screening Results",
@@ -5740,7 +6163,10 @@
       "published_at": "2023-06-18T08:11:00Z",
       "reference_number": "(IUL- 147)",
       "deadline": null,
-      "featuredImage": null,
+      "featuredImage": {
+        "url": "https://raw.githubusercontent.com/MohamedAush/site-scraper/main/ready_to_import/med/Placeholder.png",
+        "alt": "Human Resource Officer MS2 (IUL- 147)"
+      },
       "files": [
         {
           "label": "Download Screening Results",
@@ -5783,7 +6209,10 @@
       "published_at": "2023-06-12T08:08:00Z",
       "reference_number": "(IUL- 138)",
       "deadline": null,
-      "featuredImage": null,
+      "featuredImage": {
+        "url": "https://raw.githubusercontent.com/MohamedAush/site-scraper/main/ready_to_import/med/Placeholder.png",
+        "alt": "Assistant Investigation Officer GS4 (IUL- 138)"
+      },
       "files": [
         {
           "label": "Download Screening Results",
@@ -5826,7 +6255,10 @@
       "published_at": "2023-06-12T08:03:00Z",
       "reference_number": "(IUL- 137)",
       "deadline": null,
-      "featuredImage": null,
+      "featuredImage": {
+        "url": "https://raw.githubusercontent.com/MohamedAush/site-scraper/main/ready_to_import/med/Placeholder.png",
+        "alt": "Assistant Inspection Officer GS4 (IUL- 137)"
+      },
       "files": [
         {
           "label": "Download Screening Results",
@@ -5869,7 +6301,10 @@
       "published_at": "2023-05-25T07:58:00Z",
       "reference_number": "(IUL-123)",
       "deadline": null,
-      "featuredImage": null,
+      "featuredImage": {
+        "url": "https://raw.githubusercontent.com/MohamedAush/site-scraper/main/ready_to_import/med/Placeholder.png",
+        "alt": "Computer Technician MS2 (IUL-123)"
+      },
       "files": [
         {
           "label": "Download Screening Results",
@@ -5912,7 +6347,10 @@
       "published_at": "2023-05-25T07:54:00Z",
       "reference_number": "(IUL-124)",
       "deadline": null,
-      "featuredImage": null,
+      "featuredImage": {
+        "url": "https://raw.githubusercontent.com/MohamedAush/site-scraper/main/ready_to_import/med/Placeholder.png",
+        "alt": "Human Resource Officer MS2 (IUL-124)"
+      },
       "files": [
         {
           "label": "Download Screening Results",
@@ -5955,7 +6393,10 @@
       "published_at": "2023-05-24T07:49:00Z",
       "reference_number": "(IUL- 122)",
       "deadline": null,
-      "featuredImage": null,
+      "featuredImage": {
+        "url": "https://raw.githubusercontent.com/MohamedAush/site-scraper/main/ready_to_import/med/Placeholder.png",
+        "alt": "Assistant Director MS3 (IUL- 122)"
+      },
       "files": [
         {
           "label": "Download Screening Results",
@@ -5998,7 +6439,10 @@
       "published_at": "2023-05-23T07:42:00Z",
       "reference_number": "(IUL-119)",
       "deadline": null,
-      "featuredImage": null,
+      "featuredImage": {
+        "url": "https://raw.githubusercontent.com/MohamedAush/site-scraper/main/ready_to_import/med/Placeholder.png",
+        "alt": "Computer Technician MS1 (IUL-119)"
+      },
       "files": [
         {
           "label": "Download Screening Results",
@@ -6041,7 +6485,10 @@
       "published_at": "2023-05-18T07:34:00Z",
       "reference_number": "(IUL-116)",
       "deadline": null,
-      "featuredImage": null,
+      "featuredImage": {
+        "url": "https://raw.githubusercontent.com/MohamedAush/site-scraper/main/ready_to_import/med/Placeholder.png",
+        "alt": "Assistant Investigation Officer MS2 (IUL-116)"
+      },
       "files": [
         {
           "label": "Download Screening Results",
@@ -6084,7 +6531,10 @@
       "published_at": "2023-05-18T07:27:00Z",
       "reference_number": "(IUL-115)",
       "deadline": null,
-      "featuredImage": null,
+      "featuredImage": {
+        "url": "https://raw.githubusercontent.com/MohamedAush/site-scraper/main/ready_to_import/med/Placeholder.png",
+        "alt": "Assistant Inspection Officer GS4 (IUL-115)"
+      },
       "files": [
         {
           "label": "Download Screening Results",
@@ -6127,7 +6577,10 @@
       "published_at": "2023-05-07T07:21:00Z",
       "reference_number": "(IUL-110)",
       "deadline": null,
-      "featuredImage": null,
+      "featuredImage": {
+        "url": "https://raw.githubusercontent.com/MohamedAush/site-scraper/main/ready_to_import/med/Placeholder.png",
+        "alt": "Procurement Officer MS2 (IUL-110)"
+      },
       "files": [
         {
           "label": "Download Screening Results",
@@ -6170,7 +6623,10 @@
       "published_at": "2023-04-13T07:15:00Z",
       "reference_number": "(IUL- 95)",
       "deadline": null,
-      "featuredImage": null,
+      "featuredImage": {
+        "url": "https://raw.githubusercontent.com/MohamedAush/site-scraper/main/ready_to_import/med/Placeholder.png",
+        "alt": "Computer Technician (IUL- 95)"
+      },
       "files": [
         {
           "label": "Download Screening Results",
