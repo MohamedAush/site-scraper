@@ -1,0 +1,115 @@
+{
+  "docs": [
+    {
+      "id": "announcement-73",
+      "source_type": "Announcement",
+      "source_url": "https://www.defence.gov.mv/publications/announcements/73",
+      "published_at": "2026-03-09T06:05:00Z",
+      "reference_number": null,
+      "files": [
+        {
+          "label": "Maldives National Service",
+          "file": {
+            "url": "https://hash-test-media.s3.ap-south-1.amazonaws.com/defence/675/MNS-Iulaan_091139MAR26-(1).pdf"
+          }
+        }
+      ],
+      "translations": {
+        "en": {
+          "title": "Maldives National Service",
+          "description": "",
+          "body": ""
+        },
+        "dv": {
+          "title": "ދިވެހި ވަޠަނީ ޚިދުމަތުގެ ޕްރޮގްރާމު (މޯލްޑިވްސް ނޭޝަނަލް ސަރވިސް) ގައި ބައިވެރިވުމަށް ހުޅުވާލުން",
+          "description": "",
+          "body": ""
+        }
+      }
+    },
+    {
+      "id": "announcement-68",
+      "source_type": "Announcement",
+      "source_url": "https://www.defence.gov.mv/publications/announcements/68",
+      "published_at": "2026-03-07T19:00:00Z",
+      "reference_number": null,
+      "files": [
+        {
+          "label": "Opening hours during ramadan 1447",
+          "file": {
+            "url": "https://hash-test-media.s3.ap-south-1.amazonaws.com/defence/570/Iulaan_08032026112037.pdf"
+          }
+        }
+      ],
+      "translations": {
+        "en": {
+          "title": "Opening hours during ramadan 1447",
+          "description": "",
+          "body": ""
+        },
+        "dv": {
+          "title": "1447 ގެ ރަމަޟާން މަހުގެ 20 އިން 30 އަށް ސަރުކާރު ބަންދު ދުވަސްތަކުގައި މި ވުޒާރާއިން ޚިދުމަތް ދިނުމަށް ހަމަޖެހިފައިވާގޮތް",
+          "description": "",
+          "body": ""
+        }
+      }
+    },
+    {
+      "id": "announcement-58",
+      "source_type": "Announcement",
+      "source_url": "https://www.defence.gov.mv/publications/announcements/58",
+      "published_at": "2025-04-30T17:30:00Z",
+      "reference_number": null,
+      "files": [
+        {
+          "label": "Application for National Service Program",
+          "file": {
+            "url": "https://hash-test-media.s3.ap-south-1.amazonaws.com/defence/369/IUL_2025_98-(1).pdf"
+          }
+        }
+      ],
+      "translations": {
+        "en": {
+          "title": "Application for National Service Program",
+          "description": "",
+          "body": ""
+        },
+        "dv": {
+          "title": "ދިވެހިރާއްޖޭގެ ޤައުމީ ޚިދުމަތުގެ ޕުރޮގުރާމު (މޯލްޑިވްސް ނެޝަނަލް ސަރވިސް)ގައި ބައިވެރިވުމަށް ހުޅުވައިލުން",
+          "description": "",
+          "body": "ދިވެހިރާއްޖޭގެ ޤައުމީ ޚިދުމަތުގެ ޕުރޮގުރާމު (މޯލްޑިވްސް ނެޝަނަލް ސަރވިސް)ގައި ބައިވެރިވުމަށް ހުޅުވައިލުން"
+        }
+      }
+    },
+    {
+      "id": "announcement-48",
+      "source_type": "Announcement",
+      "source_url": "https://www.defence.gov.mv/publications/announcements/48",
+      "published_at": "2023-06-08T07:22:00Z",
+      "reference_number": "(IUL)28-AD-2/1/2023/161",
+      "files": [
+        {
+          "label": "Iulaan No: (IUL)28-AD-2/1/2023/161",
+          "file": {
+            "url": "https://hash-test-media.s3.ap-south-1.amazonaws.com/defence/248/List-iulaan-161.pdf"
+          }
+        }
+      ],
+      "translations": {
+        "en": {
+          "title": "Iulaan No: (IUL)28-AD-2/1/2023/161",
+          "description": "",
+          "body": ""
+        },
+        "dv": {
+          "title": "އިޢުލާން ނަންބަރު:2023/161، މިނިސްޓްރީ ގައި ހުރި ބައުވެ ހަލާކުވެފައިވާ ބައެއް ތަކެތި ނީލަންކިޔުމާގުޅޭ",
+          "description": "",
+          "body": ""
+        }
+      }
+    }
+  ],
+  "totalDocs": 4,
+  "hasNextPage": false,
+  "nextPage": null
+}

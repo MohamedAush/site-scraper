@@ -1,0 +1,347 @@
+{
+  "docs": [
+    {
+      "id": "download-925",
+      "title": "Private Sector Initiated Proposals",
+      "description": "",
+      "date": "2026-09-17T10:45:17Z",
+      "type": {
+        "name": "Others",
+        "slug": "others"
+      },
+      "files": [
+        {
+          "label": "Private Sector Initiated Proposals",
+          "file": {
+            "url": "https://hash-test-media.s3.ap-south-1.amazonaws.com/defence/925/PSIP-Application-Form.pdf"
+          }
+        }
+      ],
+      "translations": {
+        "en": {
+          "title": "Private Sector Initiated Proposals",
+          "description": "",
+          "type": "Others"
+        },
+        "dv": {
+          "title": "ޕްރައިވެޓް ސެކްޓަރ އިނީޝިއޭޓެޑް ޕްރޮޕޯޒަލްސް އެޕްލިކޭޝަން ފޯރމް",
+          "description": "",
+          "type": "އެހެނިހެން"
+        }
+      },
+      "source_url": "https://www.defence.gov.mv/downloads3"
+    },
+    {
+      "id": "download-917",
+      "title": "Application for a permit to sell chemicals",
+      "description": "",
+      "date": "2026-08-31T06:31:17Z",
+      "type": {
+        "name": "Chemical Related",
+        "slug": "chemical-related"
+      },
+      "files": [
+        {
+          "label": "Application for a permit to sell chemicals",
+          "file": {
+            "url": "https://hash-test-media.s3.ap-south-1.amazonaws.com/defence/917/chemical-vikkumuge-huhdha-ah-edhey-form.pdf"
+          }
+        }
+      ],
+      "translations": {
+        "en": {
+          "title": "Application for a permit to sell chemicals",
+          "description": "",
+          "type": "Chemical Related"
+        },
+        "dv": {
+          "title": "ކެމިކަލް ވިއްކުމުގެ ހުއްދަ އަށް އެދޭ ފޯރމް",
+          "description": "",
+          "type": "ކެމިކަލްއާއި ގުޅޭ"
+        }
+      },
+      "source_url": "https://www.defence.gov.mv/downloads3"
+    },
+    {
+      "id": "download-383",
+      "title": "Application To Undertake Fire Safety Work",
+      "description": "",
+      "date": "2025-05-29T08:41:28Z",
+      "type": {
+        "name": "Fire related forms",
+        "slug": "fire-related-forms"
+      },
+      "files": [
+        {
+          "label": "Application To Undertake Fire Safety Work",
+          "file": {
+            "url": "https://hash-test-media.s3.ap-south-1.amazonaws.com/defence/383/Application-to-undertake-firesafety-work.pdf"
+          }
+        }
+      ],
+      "translations": {
+        "en": {
+          "title": "Application To Undertake Fire Safety Work",
+          "description": "",
+          "type": "Fire related forms"
+        },
+        "dv": {
+          "title": "އަލިފާނުން ރައްކާތެރިވުމުގެ މަސައްކަތް ކުރުމުގެ ހުއްދަޔަށް އެދޭ ފޯރމް",
+          "description": "",
+          "type": "އަލިފާނުގެ ސަލާމަތާއި ގުޅޭ"
+        }
+      },
+      "source_url": "https://www.defence.gov.mv/downloads3"
+    },
+    {
+      "id": "download-155",
+      "title": "Application for Permit to Store Fuel",
+      "description": "",
+      "date": "2024-07-15T18:25:55Z",
+      "type": {
+        "name": "Fire related forms",
+        "slug": "fire-related-forms"
+      },
+      "files": [
+        {
+          "label": "Application for Permit to Store Fuel",
+          "file": {
+            "url": "https://hash-test-media.s3.ap-south-1.amazonaws.com/defence/155/PERMIT-TO-STORE-FUEL-APPLICATION-FORM.pdf"
+          }
+        }
+      ],
+      "translations": {
+        "en": {
+          "title": "Application for Permit to Store Fuel",
+          "description": "",
+          "type": "Fire related forms"
+        },
+        "dv": {
+          "title": "ތެލުގެ ބާވަތްތައް ގުދަންކުރުމުގެ ހުއްދައަށް އެދޭ ފޯމް",
+          "description": "",
+          "type": "އަލިފާނުގެ ސަލާމަތާއި ގުޅޭ"
+        }
+      },
+      "source_url": "https://www.defence.gov.mv/downloads3"
+    },
+    {
+      "id": "download-153",
+      "title": "Application for permit to import flare",
+      "description": "",
+      "date": "2024-07-15T18:25:54Z",
+      "type": {
+        "name": "Fire related forms",
+        "slug": "fire-related-forms"
+      },
+      "files": [
+        {
+          "label": "Application for permit to import flare",
+          "file": {
+            "url": "https://hash-test-media.s3.ap-south-1.amazonaws.com/defence/153/IMPORT-FLARES-APPLICATION-FORM.pdf"
+          }
+        }
+      ],
+      "translations": {
+        "en": {
+          "title": "Application for permit to import flare",
+          "description": "",
+          "type": "Fire related forms"
+        },
+        "dv": {
+          "title": "ފްލެއަރ އެތެރެކުރުމުގެ ހުއްދައަށް އެދޭ ފޯމް",
+          "description": "",
+          "type": "އަލިފާނުގެ ސަލާމަތާއި ގުޅޭ"
+        }
+      },
+      "source_url": "https://www.defence.gov.mv/downloads3"
+    },
+    {
+      "id": "download-146",
+      "title": "Application for Permit to Carry Fuel in Vehicle/Vessel",
+      "description": "",
+      "date": "2024-07-15T18:25:49Z",
+      "type": {
+        "name": "Fire related forms",
+        "slug": "fire-related-forms"
+      },
+      "files": [
+        {
+          "label": "Application for Permit to Carry Fuel in Vehicle/Vessel",
+          "file": {
+            "url": "https://hash-test-media.s3.ap-south-1.amazonaws.com/defence/146/CARRY-FUEL-IN-VEHICLE-OR-VESSEL-APPLICATION-FORM.pdf"
+          }
+        }
+      ],
+      "translations": {
+        "en": {
+          "title": "Application for Permit to Carry Fuel in Vehicle/Vessel",
+          "description": "",
+          "type": "Fire related forms"
+        },
+        "dv": {
+          "title": "ތެލުގެ ބާވަތްތައް އުފުލާ އުޅަނދު ފަހަރުގެ ހުއްދައަށް އެދޭ ފޯމް",
+          "description": "",
+          "type": "އަލިފާނުގެ ސަލާމަތާއި ގުޅޭ"
+        }
+      },
+      "source_url": "https://www.defence.gov.mv/downloads3"
+    },
+    {
+      "id": "download-145",
+      "title": "Application form to approve fire safety equipment / specification",
+      "description": "",
+      "date": "2024-07-15T18:25:48Z",
+      "type": {
+        "name": "Fire related forms",
+        "slug": "fire-related-forms"
+      },
+      "files": [
+        {
+          "label": "Application form to approve fire safety equipment / specification",
+          "file": {
+            "url": "https://hash-test-media.s3.ap-south-1.amazonaws.com/defence/145/APPROVE-FIRE-SAFETY-EQUIPMENT-SPECIFICATION.pdf"
+          }
+        }
+      ],
+      "translations": {
+        "en": {
+          "title": "Application form to approve fire safety equipment / specification",
+          "description": "",
+          "type": "Fire related forms"
+        },
+        "dv": {
+          "title": "ފަޔަރ ސޭފްޓީ އިކުއިޕްމެންޓް / ސްޕެސިފިކޭޝަން އެޕްރޫވް ކުރުމަށް ހުށަހަޅާ ފޯމް",
+          "description": "",
+          "type": "އަލިފާނުގެ ސަލާމަތާއި ގުޅޭ"
+        }
+      },
+      "source_url": "https://www.defence.gov.mv/downloads3"
+    },
+    {
+      "id": "download-156",
+      "title": "Application for Authorization of Chemical Storage Facility",
+      "description": "",
+      "date": "2024-07-15T18:25:55Z",
+      "type": {
+        "name": "Chemical Related",
+        "slug": "chemical-related"
+      },
+      "files": [
+        {
+          "label": "Application for Authorization of Chemical Storage Facility",
+          "file": {
+            "url": "https://hash-test-media.s3.ap-south-1.amazonaws.com/defence/156/warehouse-form-final-dec-2019.pdf"
+          }
+        }
+      ],
+      "translations": {
+        "en": {
+          "title": "Application for Authorization of Chemical Storage Facility",
+          "description": "",
+          "type": "Chemical Related"
+        },
+        "dv": {
+          "title": "ކެމިކަލް ރައްކާކުރާ ތަނުގެ ހުއްދައަށް އެދޭ ފޯމް",
+          "description": "",
+          "type": "ކެމިކަލްއާއި ގުޅޭ"
+        }
+      },
+      "source_url": "https://www.defence.gov.mv/downloads3"
+    },
+    {
+      "id": "download-148",
+      "title": "Application for permit to import chemicals",
+      "description": "",
+      "date": "2024-07-15T18:25:50Z",
+      "type": {
+        "name": "Chemical Related",
+        "slug": "chemical-related"
+      },
+      "files": [
+        {
+          "label": "Application for permit to import chemicals",
+          "file": {
+            "url": "https://hash-test-media.s3.ap-south-1.amazonaws.com/defence/148/chemical-permit-application-form-final.pdf"
+          }
+        }
+      ],
+      "translations": {
+        "en": {
+          "title": "Application for permit to import chemicals",
+          "description": "",
+          "type": "Chemical Related"
+        },
+        "dv": {
+          "title": "ރާއްޖެއަށް ކެމިކަލް އެތެރެކުރުމުގެ ހުއްދައަށް އެދޭ ފޯމް",
+          "description": "",
+          "type": "ކެމިކަލްއާއި ގުޅޭ"
+        }
+      },
+      "source_url": "https://www.defence.gov.mv/downloads3"
+    },
+    {
+      "id": "download-735",
+      "title": "Green Zone Application form",
+      "description": "",
+      "date": "2026-06-07T04:35:21Z",
+      "type": {
+        "name": "Administrative Related",
+        "slug": "administrative-related"
+      },
+      "files": [
+        {
+          "label": "Green Zone Application form",
+          "file": {
+            "url": "https://hash-test-media.s3.ap-south-1.amazonaws.com/defence/735/Security-Zone---application-form--2026.pdf"
+          }
+        }
+      ],
+      "translations": {
+        "en": {
+          "title": "Green Zone Application form",
+          "description": "",
+          "type": "Administrative Related"
+        },
+        "dv": {
+          "title": "ސެކިއުރިޓީ ޒޯނުގެ ތެރޭގައި ހިމެނޭ ސަރަހައްދުތަކުގައި މަސައްކަތްކުރުމަށް ނުވަތަ ހަރަކާތް ހިންގުމުގެ ހުއްދައަށް އެދޭ ފޯމް",
+          "description": "",
+          "type": "އިދާރީ ކަންކަމާއި ގުޅޭ"
+        }
+      },
+      "source_url": "https://www.defence.gov.mv/downloads3"
+    },
+    {
+      "id": "download-150",
+      "title": "Drone Operation Application Form",
+      "description": "",
+      "date": "2024-07-15T18:25:52Z",
+      "type": {
+        "name": "Administrative Related",
+        "slug": "administrative-related"
+      },
+      "files": [
+        {
+          "label": "Drone Operation Application Form",
+          "file": {
+            "url": "https://hash-test-media.s3.ap-south-1.amazonaws.com/defence/150/DRONE-OPERATION-APPLICATION-FORM.pdf"
+          }
+        }
+      ],
+      "translations": {
+        "en": {
+          "title": "Drone Operation Application Form",
+          "description": "",
+          "type": "Administrative Related"
+        },
+        "dv": {
+          "title": "ޑްރޯން އޮޕަރޭޓް ކުރުމުގެ ހުއްދައަށް އެދޭ ފޯމް",
+          "description": "",
+          "type": "އިދާރީ ކަންކަމާއި ގުޅޭ"
+        }
+      },
+      "source_url": "https://www.defence.gov.mv/downloads3"
+    }
+  ],
+  "totalDocs": 11,
+  "hasNextPage": false
+}
