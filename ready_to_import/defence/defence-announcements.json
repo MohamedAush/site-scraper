@@ -1,33 +1,6 @@
 {
   "docs": [
     {
-      "id": "announcement-74",
-      "source_type": "Announcement",
-      "source_url": "https://www.defence.gov.mv/publications/announcements/74",
-      "published_at": "2026-04-05T06:10:00Z",
-      "reference_number": null,
-      "files": [
-        {
-          "label": "Maldives National Services",
-          "file": {
-            "url": "https://hash-test-media.s3.ap-south-1.amazonaws.com/defence/676/MNS-Iulaan_Deadline-extended_05APR26.pdf"
-          }
-        }
-      ],
-      "translations": {
-        "en": {
-          "title": "Maldives National Services",
-          "description": "",
-          "body": ""
-        },
-        "dv": {
-          "title": "ދިވެހި ވަޠަނީ ޚިދުމަތުގެ ޕްރޮގްރާމު (މޯލްޑިވްސް ނޭޝަނަލް ސަރވިސް) ގައި ބައިވެރިވުމުގެ މުއްދަތު އިތުރުކުރުން",
-          "description": "",
-          "body": ""
-        }
-      }
-    },
-    {
       "id": "announcement-73",
       "source_type": "Announcement",
       "source_url": "https://www.defence.gov.mv/publications/announcements/73",
@@ -109,33 +82,6 @@
       }
     },
     {
-      "id": "announcement-57",
-      "source_type": "Announcement",
-      "source_url": "https://www.defence.gov.mv/publications/announcements/57",
-      "published_at": "2024-05-18T19:00:00Z",
-      "reference_number": "(IUL)28-AD-1/1/2024/60",
-      "files": [
-        {
-          "label": "Drone operation Iulaan",
-          "file": {
-            "url": "https://hash-test-media.s3.ap-south-1.amazonaws.com/defence/226/drone-iulaan-no.pdf"
-          }
-        }
-      ],
-      "translations": {
-        "en": {
-          "title": "Drone operation Iulaan",
-          "description": "",
-          "body": ""
-        },
-        "dv": {
-          "title": "ސިފައިން ސެކިއުރިޓީ ބަލަހައްޓާ ސަރަހައްދުތަކާއި، އެއަރޕޯރޓްތައް ހިމެނޭ ސަރަޙައްދުތަކުގައި، އަންމޭންޑް އޭރިއަލް ވެހިކަލް ނުވަތަ ޑްރޯން ފަދަތަކެތި އޮޕަރޭޓް ކުރުމާއިބެހޭ",
-          "description": "",
-          "body": ""
-        }
-      }
-    },
-    {
       "id": "announcement-48",
       "source_type": "Announcement",
       "source_url": "https://www.defence.gov.mv/publications/announcements/48",
@@ -163,7 +109,7 @@
       }
     }
   ],
-  "totalDocs": 6,
+  "totalDocs": 4,
   "hasNextPage": false,
   "nextPage": null
 }

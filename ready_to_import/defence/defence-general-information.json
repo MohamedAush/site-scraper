@@ -1,0 +1,385 @@
+{
+  "docs": [
+    {
+      "id": "general-information-81",
+      "source_type": "General Information",
+      "source_url": "https://www.defence.gov.mv/publications/general-information/81",
+      "published_at": "2026-10-20T19:00:00Z",
+      "reference_number": null,
+      "files": [
+        {
+          "label": "Incidents on gas leaking",
+          "file": {
+            "url": "https://hash-test-media.s3.ap-south-1.amazonaws.com/defence/930/gas-leak-vumaa-mauloomaath.pdf"
+          }
+        }
+      ],
+      "translations": {
+        "en": {
+          "title": "Incidents on gas leaking",
+          "description": "",
+          "body": ""
+        },
+        "dv": {
+          "title": "ގޭސް ލީކުވުމުގެ ހާދިސާތަކާއި ބެހޭ މައުލޫމާތު",
+          "description": "",
+          "body": ""
+        }
+      }
+    },
+    {
+      "id": "general-information-80",
+      "source_type": "General Information",
+      "source_url": "https://www.defence.gov.mv/publications/general-information/80",
+      "published_at": "2026-07-28T19:00:00Z",
+      "reference_number": null,
+      "files": [
+        {
+          "label": "Maldives Aviation Security Screening Technology List (MASSTL)",
+          "file": {
+            "url": "https://hash-test-media.s3.ap-south-1.amazonaws.com/defence/871/Equipment-list-2-3-R3--1.pdf"
+          }
+        }
+      ],
+      "translations": {
+        "en": {
+          "title": "Maldives Aviation Security Screening Technology List (MASSTL)",
+          "description": "",
+          "body": ""
+        },
+        "dv": {
+          "title": "މޯލްޑިވްސް އޭވިއޭޝަން ސެކިއުރިޓީ ސްކްރީނިންގ ޓެކްނޯލޮޖީ ލިސްޓް (އެމްއޭއެސްއެސްޓީއެލް)",
+          "description": "",
+          "body": ""
+        }
+      }
+    },
+    {
+      "id": "general-information-78",
+      "source_type": "General Information",
+      "source_url": "https://www.defence.gov.mv/publications/general-information/78",
+      "published_at": "2026-06-03T04:09:00Z",
+      "reference_number": null,
+      "files": [
+        {
+          "label": "Procedure for requesting information from the Ministry",
+          "file": {
+            "url": "https://hash-test-media.s3.ap-south-1.amazonaws.com/defence/700/web-list-9.pdf"
+          }
+        }
+      ],
+      "translations": {
+        "en": {
+          "title": "Procedure for requesting information from the Ministry",
+          "description": "",
+          "body": ""
+        },
+        "dv": {
+          "title": "ވުޒާރާ އިން މަޢުލޫމާތަށް އެދުމުގައި ޢަމަލުކުރަންވީ އުސޫލު",
+          "description": "",
+          "body": ""
+        }
+      }
+    },
+    {
+      "id": "general-information-77",
+      "source_type": "General Information",
+      "source_url": "https://www.defence.gov.mv/publications/general-information/77",
+      "published_at": "2026-05-31T08:04:00Z",
+      "reference_number": null,
+      "files": [
+        {
+          "label": "List of Chemicals that do not require an import permit",
+          "file": {
+            "url": "https://hash-test-media.s3.ap-south-1.amazonaws.com/defence/699/open-list-final-excel-version-30-04-2023.pdf"
+          }
+        }
+      ],
+      "translations": {
+        "en": {
+          "title": "List of Chemicals that do not require an import permit",
+          "description": "",
+          "body": ""
+        },
+        "dv": {
+          "title": "ހުއްދަ ނުނަގާ އެތެރެކުރެވޭނެ ކެމިކަލްތަކުގެ ލިސްޓް",
+          "description": "",
+          "body": ""
+        }
+      }
+    },
+    {
+      "id": "general-information-71",
+      "source_type": "General Information",
+      "source_url": "https://www.defence.gov.mv/publications/general-information/71",
+      "published_at": "2026-05-17T09:22:00Z",
+      "reference_number": null,
+      "files": [
+        {
+          "label": "Executive Responsibilities",
+          "file": {
+            "url": "https://hash-test-media.s3.ap-south-1.amazonaws.com/defence/648/Isveringe-zinamaathah.pdf"
+          }
+        }
+      ],
+      "translations": {
+        "en": {
+          "title": "Executive Responsibilities",
+          "description": "",
+          "body": ""
+        },
+        "dv": {
+          "title": "މިނިސްޓްރީގެ އިސްވެރިންގެ މަސްއޫލިއްޔަތުތަކީއި ޒިންމާތަކާއި ބާރުތައް",
+          "description": "",
+          "body": ""
+        }
+      }
+    },
+    {
+      "id": "general-information-64",
+      "source_type": "General Information",
+      "source_url": "https://www.defence.gov.mv/publications/general-information/64",
+      "published_at": "2025-07-10T03:59:00Z",
+      "reference_number": "28-DASA/CIR/2025/6",
+      "files": [
+        {
+          "label": "Conduct of Aviation Security Training",
+          "file": {
+            "url": "https://hash-test-media.s3.ap-south-1.amazonaws.com/defence/416/28-DASA-CIR-2025-6_.pdf"
+          }
+        }
+      ],
+      "translations": {
+        "en": {
+          "title": "Conduct of Aviation Security Training",
+          "description": "",
+          "body": ""
+        },
+        "dv": {
+          "title": "އޭވިއޭޝިން ސެކުރިޓީ ތަމްރީންތައް ދިނުމާއި ގުޅޭ",
+          "description": "",
+          "body": ""
+        }
+      }
+    },
+    {
+      "id": "general-information-54",
+      "source_type": "General Information",
+      "source_url": "https://www.defence.gov.mv/publications/general-information/54",
+      "published_at": "2025-03-18T19:00:00Z",
+      "reference_number": "1/2025",
+      "files": [
+        {
+          "label": "Dhennevun 1/2025",
+          "file": {
+            "url": "https://hash-test-media.s3.ap-south-1.amazonaws.com/defence/359/Work-from-home_19032025125905.pdf"
+          }
+        }
+      ],
+      "translations": {
+        "en": {
+          "title": "Dhennevun 1/2025",
+          "description": "",
+          "body": ""
+        },
+        "dv": {
+          "title": "ދެންނެވުން 1/2025",
+          "description": "",
+          "body": ""
+        }
+      }
+    },
+    {
+      "id": "general-information-50",
+      "source_type": "General Information",
+      "source_url": "https://www.defence.gov.mv/publications/general-information/50",
+      "published_at": "2024-11-16T19:00:00Z",
+      "reference_number": null,
+      "files": [
+        {
+          "label": "Achievements of Ministry of Defence in 52 weeks",
+          "file": {
+            "url": "https://hash-test-media.s3.ap-south-1.amazonaws.com/defence/306/MOD-Achievements-Book-Web-copy.pdf"
+          }
+        }
+      ],
+      "translations": {
+        "en": {
+          "title": "Achievements of Ministry of Defence in 52 weeks",
+          "description": "",
+          "body": ""
+        },
+        "dv": {
+          "title": "ދިފާޢީ ވުޒާރާއިން 52 ހަފްތާގައި ހޯދާފައިވާ ކުރިއެރުމާއި ކާމިޔާބީތައް.",
+          "description": "",
+          "body": ""
+        }
+      }
+    },
+    {
+      "id": "general-information-37",
+      "source_type": "General Information",
+      "source_url": "https://www.defence.gov.mv/publications/general-information/37",
+      "published_at": "2024-09-18T08:50:00Z",
+      "reference_number": null,
+      "files": [
+        {
+          "label": "List of Approved brands of Fire safety Equipment's.",
+          "file": {
+            "url": "https://hash-test-media.s3.ap-south-1.amazonaws.com/defence/225/list-06202023131751.pdf"
+          }
+        }
+      ],
+      "translations": {
+        "en": {
+          "title": "List of Approved brands of Fire safety Equipment's.",
+          "description": "",
+          "body": ""
+        },
+        "dv": {
+          "title": "ފަޔަރ ސޭފްޓީ ސިސްޓަމްތަކުގައި ބޭނުންކުރުމަށް އެޕްރޫވްކޮށްފައިވާ ލިސްޓް",
+          "description": "",
+          "body": ""
+        }
+      }
+    },
+    {
+      "id": "general-information-34",
+      "source_type": "General Information",
+      "source_url": "https://www.defence.gov.mv/publications/general-information/34",
+      "published_at": "2024-09-18T08:47:00Z",
+      "reference_number": null,
+      "files": [
+        {
+          "label": "Ministry of Defence Financial Audit Report 2021",
+          "file": {
+            "url": "https://hash-test-media.s3.ap-south-1.amazonaws.com/defence/222/ministry-of-defence-audit-report-2021.pdf"
+          }
+        }
+      ],
+      "translations": {
+        "en": {
+          "title": "Ministry of Defence Financial Audit Report 2021",
+          "description": "",
+          "body": ""
+        },
+        "dv": {
+          "title": "މިނިސްޓްރީ އޮފް ޑިފެންސް ގެ 2021 ވަނަ އަހަރުގެ މާލީ އޮޑިޓް ރިޕޯޓް",
+          "description": "",
+          "body": ""
+        }
+      }
+    },
+    {
+      "id": "general-information-32",
+      "source_type": "General Information",
+      "source_url": "https://www.defence.gov.mv/publications/general-information/32",
+      "published_at": "2024-09-18T08:41:00Z",
+      "reference_number": null,
+      "files": [
+        {
+          "label": "Circular 2024/7",
+          "file": {
+            "url": "https://hash-test-media.s3.ap-south-1.amazonaws.com/defence/142/cir-2024-7.pdf"
+          }
+        }
+      ],
+      "translations": {
+        "en": {
+          "title": "Circular 2024/7",
+          "description": "",
+          "body": ""
+        },
+        "dv": {
+          "title": "އެތެރޭގެ އުދުހުންތަކުގެ ބޭނުން ކުރާ މަދަނީ ވައިގެ އުޅަނދު ފަހަރުގެ ކެބިންތެރެއަށް ދިޔާތަކެތި އެރުވުމާއި ގުޅޭ ސާކިއުލަރ",
+          "description": "",
+          "body": ""
+        }
+      }
+    },
+    {
+      "id": "general-information-27",
+      "source_type": "General Information",
+      "source_url": "https://www.defence.gov.mv/publications/general-information/27",
+      "published_at": "2024-09-18T08:37:00Z",
+      "reference_number": null,
+      "files": [
+        {
+          "label": "Salaries and Allowances for MOD Jobs February 2024",
+          "file": {
+            "url": "https://hash-test-media.s3.ap-south-1.amazonaws.com/defence/216/salary-detail-mod-february-2024-03112024214535.pdf"
+          }
+        }
+      ],
+      "translations": {
+        "en": {
+          "title": "Salaries and Allowances for MOD Jobs February 2024",
+          "description": "",
+          "body": ""
+        },
+        "dv": {
+          "title": "މިނިސްޓްރީ އޮފް ޑިފެންސްގެ މަޤާމްތަކުގެ މުސާރައާއި ޢިނާޔަތްތައް ފެބުރުވަރީ 2024",
+          "description": "",
+          "body": ""
+        }
+      }
+    },
+    {
+      "id": "general-information-26",
+      "source_type": "General Information",
+      "source_url": "https://www.defence.gov.mv/publications/general-information/26",
+      "published_at": "2024-09-18T08:35:00Z",
+      "reference_number": null,
+      "files": [
+        {
+          "label": "Salaries and Allowances for MOD Jobs March 2024",
+          "file": {
+            "url": "https://hash-test-media.s3.ap-south-1.amazonaws.com/defence/215/salary-detail-march-2024-04152024210309.pdf"
+          }
+        }
+      ],
+      "translations": {
+        "en": {
+          "title": "Salaries and Allowances for MOD Jobs March 2024",
+          "description": "",
+          "body": ""
+        },
+        "dv": {
+          "title": "މިނިސްޓްރީ އޮފް ޑިފެންސްގެ މަޤާމްތަކުގެ މުސާރައާއި ޢިނާޔަތްތައް މާރިޗު 2024",
+          "description": "",
+          "body": ""
+        }
+      }
+    },
+    {
+      "id": "general-information-55",
+      "source_type": "General Information",
+      "source_url": "https://www.defence.gov.mv/publications/general-information/55",
+      "published_at": "2024-04-06T19:00:00Z",
+      "reference_number": null,
+      "files": [
+        {
+          "label": "Maldives Aviation Security Screening Technology List (MASSTL)",
+          "file": {
+            "url": "https://hash-test-media.s3.ap-south-1.amazonaws.com/defence/227/masstl.pdf"
+          }
+        }
+      ],
+      "translations": {
+        "en": {
+          "title": "Maldives Aviation Security Screening Technology List (MASSTL)",
+          "description": "",
+          "body": ""
+        },
+        "dv": {
+          "title": "މޯލްޑިވްސް އޭވިއޭޝަން ސެކިއުރިޓީ ސްކްރީނިންގ ޓެކްނޯލޮޖީ ލިސްޓް (އެމްއޭއެސްއެސްޓީއެލް)",
+          "description": "",
+          "body": ""
+        }
+      }
+    }
+  ],
+  "totalDocs": 14,
+  "hasNextPage": false,
+  "nextPage": null
+}
