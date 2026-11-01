@@ -6048,7 +6048,7 @@
       "sourceUrl": "https://islamicaffairs.gov.mv/gallery/39915"
     },
     {
-      "id": "gallery-39746",
+      "id": "gallery-39746-part1",
       "category": null,
       "publishedAt": "2026-01-22T04:40:04Z",
       "coverPhoto": {
@@ -6331,7 +6331,24 @@
         {
           "url": "https://islamicaffairs.gov.mv/wp-content/uploads/2026/01/Z-5-16.jpg",
           "alt": "ފޮޓޯ: އިސްލާމިކް ލީޑަރޝިޕް ޕްރޮގްރާމް (ޖަނަވަރީ 2026)"
-        },
+        }
+      ],
+      "translations": {
+        "dv": {
+          "title": "ފޮޓޯ: އިސްލާމިކް ލީޑަރޝިޕް ޕްރޮގްރާމް (ޖަނަވަރީ 2026) (1)"
+        }
+      },
+      "sourceUrl": "https://islamicaffairs.gov.mv/gallery/39746"
+    },
+    {
+      "id": "gallery-39746-part2",
+      "category": null,
+      "publishedAt": "2026-01-22T04:40:04Z",
+      "coverPhoto": {
+        "url": "https://islamicaffairs.gov.mv/wp-content/uploads/2026/01/Z-6-18.jpg",
+        "alt": "ފޮޓޯ: އިސްލާމިކް ލީޑަރޝިޕް ޕްރޮގްރާމް (ޖަނަވަރީ 2026)"
+      },
+      "photos": [
         {
           "url": "https://islamicaffairs.gov.mv/wp-content/uploads/2026/01/Z-6-18.jpg",
           "alt": "ފޮޓޯ: އިސްލާމިކް ލީޑަރޝިޕް ޕްރޮގްރާމް (ޖަނަވަރީ 2026)"
@@ -6611,7 +6628,7 @@
       ],
       "translations": {
         "dv": {
-          "title": "ފޮޓޯ: އިސްލާމިކް ލީޑަރޝިޕް ޕްރޮގްރާމް (ޖަނަވަރީ 2026)"
+          "title": "ފޮޓޯ: އިސްލާމިކް ލީޑަރޝިޕް ޕްރޮގްރާމް (ޖަނަވަރީ 2026) (2)"
         }
       },
       "sourceUrl": "https://islamicaffairs.gov.mv/gallery/39746"
