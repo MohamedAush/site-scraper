@@ -7942,7 +7942,7 @@
       "sourceUrl": "https://islamicaffairs.gov.mv/gallery/39351"
     },
     {
-      "id": "gallery-39227",
+      "id": "gallery-39227-part1",
       "category": null,
       "publishedAt": "2025-12-13T10:00:00Z",
       "coverPhoto": {
@@ -8197,7 +8197,24 @@
         {
           "url": "https://islamicaffairs.gov.mv/wp-content/uploads/2026/01/Z-13-6.jpg",
           "alt": "ފޮޓޯ: ދީނީ އިޖްތިމާޢީ މަސައްކަތްކުރާ ޖަމްޢިއްޔާތަކުގެ އަހަރީ ބައްދަލުވުން 2025"
-        },
+        }
+      ],
+      "translations": {
+        "dv": {
+          "title": "ފޮޓޯ: ދީނީ އިޖްތިމާޢީ މަސައްކަތްކުރާ ޖަމްޢިއްޔާތަކުގެ އަހަރީ ބައްދަލުވުން 2025 (1)"
+        }
+      },
+      "sourceUrl": "https://islamicaffairs.gov.mv/gallery/39227"
+    },
+    {
+      "id": "gallery-39227-part2",
+      "category": null,
+      "publishedAt": "2025-12-13T10:00:00Z",
+      "coverPhoto": {
+        "url": "https://islamicaffairs.gov.mv/wp-content/uploads/2026/01/Z-14-6.jpg",
+        "alt": "ފޮޓޯ: ދީނީ އިޖްތިމާޢީ މަސައްކަތްކުރާ ޖަމްޢިއްޔާތަކުގެ އަހަރީ ބައްދަލުވުން 2025"
+      },
+      "photos": [
         {
           "url": "https://islamicaffairs.gov.mv/wp-content/uploads/2026/01/Z-14-6.jpg",
           "alt": "ފޮޓޯ: ދީނީ އިޖްތިމާޢީ މަސައްކަތްކުރާ ޖަމްޢިއްޔާތަކުގެ އަހަރީ ބައްދަލުވުން 2025"
@@ -8445,7 +8462,7 @@
       ],
       "translations": {
         "dv": {
-          "title": "ފޮޓޯ: ދީނީ އިޖްތިމާޢީ މަސައްކަތްކުރާ ޖަމްޢިއްޔާތަކުގެ އަހަރީ ބައްދަލުވުން 2025"
+          "title": "ފޮޓޯ: ދީނީ އިޖްތިމާޢީ މަސައްކަތްކުރާ ޖަމްޢިއްޔާތަކުގެ އަހަރީ ބައްދަލުވުން 2025 (2)"
         }
       },
       "sourceUrl": "https://islamicaffairs.gov.mv/gallery/39227"
@@ -8832,7 +8849,7 @@
       "sourceUrl": "https://islamicaffairs.gov.mv/gallery/39135"
     },
     {
-      "id": "gallery-38988",
+      "id": "gallery-38988-part1",
       "category": null,
       "publishedAt": "2025-12-06T16:00:48Z",
       "coverPhoto": {
@@ -9055,7 +9072,24 @@
         {
           "url": "https://islamicaffairs.gov.mv/wp-content/uploads/2026/01/a_18-1.jpg",
           "alt": "ފޮޓޯ: މީޑިއާ މައުރަޒު 2025"
-        },
+        }
+      ],
+      "translations": {
+        "dv": {
+          "title": "ފޮޓޯ: މީޑިއާ މައުރަޒު 2025 (1)"
+        }
+      },
+      "sourceUrl": "https://islamicaffairs.gov.mv/gallery/38988"
+    },
+    {
+      "id": "gallery-38988-part2",
+      "category": null,
+      "publishedAt": "2025-12-06T16:00:48Z",
+      "coverPhoto": {
+        "url": "https://islamicaffairs.gov.mv/wp-content/uploads/2026/01/a_19.jpg",
+        "alt": "ފޮޓޯ: މީޑިއާ މައުރަޒު 2025"
+      },
+      "photos": [
         {
           "url": "https://islamicaffairs.gov.mv/wp-content/uploads/2026/01/a_19.jpg",
           "alt": "ފޮޓޯ: މީޑިއާ މައުރަޒު 2025"
@@ -9271,7 +9305,7 @@
       ],
       "translations": {
         "dv": {
-          "title": "ފޮޓޯ: މީޑިއާ މައުރަޒު 2025"
+          "title": "ފޮޓޯ: މީޑިއާ މައުރަޒު 2025 (2)"
         }
       },
       "sourceUrl": "https://islamicaffairs.gov.mv/gallery/38988"
@@ -12822,7 +12856,7 @@
       "sourceUrl": "https://islamicaffairs.gov.mv/gallery/37091"
     },
     {
-      "id": "gallery-36611",
+      "id": "gallery-36611-part1",
       "category": null,
       "publishedAt": "2025-10-12T12:38:22Z",
       "coverPhoto": {
@@ -13149,7 +13183,24 @@
         {
           "url": "https://islamicaffairs.gov.mv/wp-content/uploads/2025/10/013A7025.jpg",
           "alt": "ފޮޓޯ: ކީރިތި ޤުރުއާން ކިޔެވުމުގެ 37 ވަނަ ޤައުމީ މުބާރާތް ނިންމުމުގެ ރަސްމިއްޔާތު"
-        },
+        }
+      ],
+      "translations": {
+        "dv": {
+          "title": "ފޮޓޯ: ކީރިތި ޤުރުއާން ކިޔެވުމުގެ 37 ވަނަ ޤައުމީ މުބާރާތް ނިންމުމުގެ ރަސްމިއްޔާތު (1)"
+        }
+      },
+      "sourceUrl": "https://islamicaffairs.gov.mv/gallery/36611"
+    },
+    {
+      "id": "gallery-36611-part2",
+      "category": null,
+      "publishedAt": "2025-10-12T12:38:22Z",
+      "coverPhoto": {
+        "url": "https://islamicaffairs.gov.mv/wp-content/uploads/2025/10/013A7038.jpg",
+        "alt": "ފޮޓޯ: ކީރިތި ޤުރުއާން ކިޔެވުމުގެ 37 ވަނަ ޤައުމީ މުބާރާތް ނިންމުމުގެ ރަސްމިއްޔާތު"
+      },
+      "photos": [
         {
           "url": "https://islamicaffairs.gov.mv/wp-content/uploads/2025/10/013A7038.jpg",
           "alt": "ފޮޓޯ: ކީރިތި ޤުރުއާން ކިޔެވުމުގެ 37 ވަނަ ޤައުމީ މުބާރާތް ނިންމުމުގެ ރަސްމިއްޔާތު"
@@ -13473,7 +13524,7 @@
       ],
       "translations": {
         "dv": {
-          "title": "ފޮޓޯ: ކީރިތި ޤުރުއާން ކިޔެވުމުގެ 37 ވަނަ ޤައުމީ މުބާރާތް ނިންމުމުގެ ރަސްމިއްޔާތު"
+          "title": "ފޮޓޯ: ކީރިތި ޤުރުއާން ކިޔެވުމުގެ 37 ވަނަ ޤައުމީ މުބާރާތް ނިންމުމުގެ ރަސްމިއްޔާތު (2)"
         }
       },
       "sourceUrl": "https://islamicaffairs.gov.mv/gallery/36611"
@@ -15999,7 +16050,7 @@
       "sourceUrl": "https://islamicaffairs.gov.mv/gallery/35689"
     },
     {
-      "id": "gallery-35475",
+      "id": "gallery-35475-part1",
       "category": {
         "name": "މޮސްކް ސެކްޝަން"
       },
@@ -16292,7 +16343,26 @@
         {
           "url": "https://islamicaffairs.gov.mv/wp-content/uploads/2025/09/Bacth-1-11-scaled.jpg",
           "alt": "ފޮޓޯ: ޒުވާން ޚަޠީބުންގެ 3 ވަނަ ބުރުގެ ސަނަދު ދިނުމުގެ ރަސްމިއްޔާތު"
-        },
+        }
+      ],
+      "translations": {
+        "dv": {
+          "title": "ފޮޓޯ: ޒުވާން ޚަޠީބުންގެ 3 ވަނަ ބުރުގެ ސަނަދު ދިނުމުގެ ރަސްމިއްޔާތު (1)"
+        }
+      },
+      "sourceUrl": "https://islamicaffairs.gov.mv/gallery/35475"
+    },
+    {
+      "id": "gallery-35475-part2",
+      "category": {
+        "name": "މޮސްކް ސެކްޝަން"
+      },
+      "publishedAt": "2025-08-13T04:13:15Z",
+      "coverPhoto": {
+        "url": "https://islamicaffairs.gov.mv/wp-content/uploads/2025/09/Bacth-1-12-scaled.jpg",
+        "alt": "ފޮޓޯ: ޒުވާން ޚަޠީބުންގެ 3 ވަނަ ބުރުގެ ސަނަދު ދިނުމުގެ ރަސްމިއްޔާތު"
+      },
+      "photos": [
         {
           "url": "https://islamicaffairs.gov.mv/wp-content/uploads/2025/09/Bacth-1-12-scaled.jpg",
           "alt": "ފޮޓޯ: ޒުވާން ޚަޠީބުންގެ 3 ވަނަ ބުރުގެ ސަނަދު ދިނުމުގެ ރަސްމިއްޔާތު"
@@ -16576,7 +16646,26 @@
         {
           "url": "https://islamicaffairs.gov.mv/wp-content/uploads/2025/09/Batch-2-4-scaled.jpg",
           "alt": "ފޮޓޯ: ޒުވާން ޚަޠީބުންގެ 3 ވަނަ ބުރުގެ ސަނަދު ދިނުމުގެ ރަސްމިއްޔާތު"
-        },
+        }
+      ],
+      "translations": {
+        "dv": {
+          "title": "ފޮޓޯ: ޒުވާން ޚަޠީބުންގެ 3 ވަނަ ބުރުގެ ސަނަދު ދިނުމުގެ ރަސްމިއްޔާތު (2)"
+        }
+      },
+      "sourceUrl": "https://islamicaffairs.gov.mv/gallery/35475"
+    },
+    {
+      "id": "gallery-35475-part3",
+      "category": {
+        "name": "މޮސްކް ސެކްޝަން"
+      },
+      "publishedAt": "2025-08-13T04:13:15Z",
+      "coverPhoto": {
+        "url": "https://islamicaffairs.gov.mv/wp-content/uploads/2025/09/Batch-2-5-scaled.jpg",
+        "alt": "ފޮޓޯ: ޒުވާން ޚަޠީބުންގެ 3 ވަނަ ބުރުގެ ސަނަދު ދިނުމުގެ ރަސްމިއްޔާތު"
+      },
+      "photos": [
         {
           "url": "https://islamicaffairs.gov.mv/wp-content/uploads/2025/09/Batch-2-5-scaled.jpg",
           "alt": "ފޮޓޯ: ޒުވާން ޚަޠީބުންގެ 3 ވަނަ ބުރުގެ ސަނަދު ދިނުމުގެ ރަސްމިއްޔާތު"
@@ -16864,7 +16953,7 @@
       ],
       "translations": {
         "dv": {
-          "title": "ފޮޓޯ: ޒުވާން ޚަޠީބުންގެ 3 ވަނަ ބުރުގެ ސަނަދު ދިނުމުގެ ރަސްމިއްޔާތު"
+          "title": "ފޮޓޯ: ޒުވާން ޚަޠީބުންގެ 3 ވަނަ ބުރުގެ ސަނަދު ދިނުމުގެ ރަސްމިއްޔާތު (3)"
         }
       },
       "sourceUrl": "https://islamicaffairs.gov.mv/gallery/35475"
@@ -17196,7 +17285,7 @@
       "sourceUrl": "https://islamicaffairs.gov.mv/gallery/34907"
     },
     {
-      "id": "gallery-34674",
+      "id": "gallery-34674-part1",
       "category": {
         "name": "އިސްލާމިކް ލައިބްރަރީ"
       },
@@ -17465,7 +17554,26 @@
         {
           "url": "https://islamicaffairs.gov.mv/wp-content/uploads/2025/07/052A0729.jpg",
           "alt": "ފޮޓޯ: އިސްލާމީ ކުތުބުޚާނާ ރަސްމީކޮށް ހުޅުވުމުގެ ރަސްމިއްޔާތު"
-        },
+        }
+      ],
+      "translations": {
+        "dv": {
+          "title": "ފޮޓޯ: އިސްލާމީ ކުތުބުޚާނާ ރަސްމީކޮށް ހުޅުވުމުގެ ރަސްމިއްޔާތު (1)"
+        }
+      },
+      "sourceUrl": "https://islamicaffairs.gov.mv/gallery/34674"
+    },
+    {
+      "id": "gallery-34674-part2",
+      "category": {
+        "name": "އިސްލާމިކް ލައިބްރަރީ"
+      },
+      "publishedAt": "2025-07-12T16:00:57Z",
+      "coverPhoto": {
+        "url": "https://islamicaffairs.gov.mv/wp-content/uploads/2025/07/052A0752.jpg",
+        "alt": "ފޮޓޯ: އިސްލާމީ ކުތުބުޚާނާ ރަސްމީކޮށް ހުޅުވުމުގެ ރަސްމިއްޔާތު"
+      },
+      "photos": [
         {
           "url": "https://islamicaffairs.gov.mv/wp-content/uploads/2025/07/052A0752.jpg",
           "alt": "ފޮޓޯ: އިސްލާމީ ކުތުބުޚާނާ ރަސްމީކޮށް ހުޅުވުމުގެ ރަސްމިއްޔާތު"
@@ -17725,7 +17833,7 @@
       ],
       "translations": {
         "dv": {
-          "title": "ފޮޓޯ: އިސްލާމީ ކުތުބުޚާނާ ރަސްމީކޮށް ހުޅުވުމުގެ ރަސްމިއްޔާތު"
+          "title": "ފޮޓޯ: އިސްލާމީ ކުތުބުޚާނާ ރަސްމީކޮށް ހުޅުވުމުގެ ރަސްމިއްޔާތު (2)"
         }
       },
       "sourceUrl": "https://islamicaffairs.gov.mv/gallery/34674"
@@ -24447,7 +24555,7 @@
       "sourceUrl": "https://islamicaffairs.gov.mv/gallery/31328"
     },
     {
-      "id": "gallery-31185",
+      "id": "gallery-31185-part1",
       "category": {
         "name": "މޮސްކް ސެކްޝަން"
       },
@@ -24740,7 +24848,26 @@
         {
           "url": "https://islamicaffairs.gov.mv/wp-content/uploads/2025/04/052A1000.jpg",
           "alt": "ފޮޓޯ: މަސްޖިދުއްނަބަވީގެ އިމާމު ފަޟީލަތުއްޝައިޚް ޑރ. ޞަލާޙުލް ބުދައިރު ޒުވާން ޚާފިޡުންނާއި، ޒުވާން ޚަޠީބުންނާއި އިމާމުން އަދި ޚަޠީބުންނާއި ބައްދަލު ކުރައްވައިފި"
-        },
+        }
+      ],
+      "translations": {
+        "dv": {
+          "title": "ފޮޓޯ: މަސްޖިދުއްނަބަވީގެ އިމާމު ފަޟީލަތުއްޝައިޚް ޑރ. ޞަލާޙުލް ބުދައިރު ޒުވާން ޚާފިޡުންނާއި، ޒުވާން ޚަޠީބުންނާއި އިމާމުން އަދި ޚަޠީބުންނާއި ބައްދަލު ކުރައްވައިފި (1)"
+        }
+      },
+      "sourceUrl": "https://islamicaffairs.gov.mv/gallery/31185"
+    },
+    {
+      "id": "gallery-31185-part2",
+      "category": {
+        "name": "މޮސްކް ސެކްޝަން"
+      },
+      "publishedAt": "2025-04-25T13:01:51Z",
+      "coverPhoto": {
+        "url": "https://islamicaffairs.gov.mv/wp-content/uploads/2025/04/052A1016.jpg",
+        "alt": "ފޮޓޯ: މަސްޖިދުއްނަބަވީގެ އިމާމު ފަޟީލަތުއްޝައިޚް ޑރ. ޞަލާޙުލް ބުދައިރު ޒުވާން ޚާފިޡުންނާއި، ޒުވާން ޚަޠީބުންނާއި އިމާމުން އަދި ޚަޠީބުންނާއި ބައްދަލު ކުރައްވައިފި"
+      },
+      "photos": [
         {
           "url": "https://islamicaffairs.gov.mv/wp-content/uploads/2025/04/052A1016.jpg",
           "alt": "ފޮޓޯ: މަސްޖިދުއްނަބަވީގެ އިމާމު ފަޟީލަތުއްޝައިޚް ޑރ. ޞަލާޙުލް ބުދައިރު ޒުވާން ޚާފިޡުންނާއި، ޒުވާން ޚަޠީބުންނާއި އިމާމުން އަދި ޚަޠީބުންނާއި ބައްދަލު ކުރައްވައިފި"
@@ -25028,7 +25155,7 @@
       ],
       "translations": {
         "dv": {
-          "title": "ފޮޓޯ: މަސްޖިދުއްނަބަވީގެ އިމާމު ފަޟީލަތުއްޝައިޚް ޑރ. ޞަލާޙުލް ބުދައިރު ޒުވާން ޚާފިޡުންނާއި، ޒުވާން ޚަޠީބުންނާއި އިމާމުން އަދި ޚަޠީބުންނާއި ބައްދަލު ކުރައްވައިފި"
+          "title": "ފޮޓޯ: މަސްޖިދުއްނަބަވީގެ އިމާމު ފަޟީލަތުއްޝައިޚް ޑރ. ޞަލާޙުލް ބުދައިރު ޒުވާން ޚާފިޡުންނާއި، ޒުވާން ޚަޠީބުންނާއި އިމާމުން އަދި ޚަޠީބުންނާއި ބައްދަލު ކުރައްވައިފި (2)"
         }
       },
       "sourceUrl": "https://islamicaffairs.gov.mv/gallery/31185"
@@ -34505,7 +34632,7 @@
       "sourceUrl": "https://islamicaffairs.gov.mv/gallery/26821"
     },
     {
-      "id": "gallery-26708",
+      "id": "gallery-26708-part1",
       "category": null,
       "publishedAt": "2024-12-10T04:50:21Z",
       "coverPhoto": {
@@ -34736,7 +34863,24 @@
         {
           "url": "https://islamicaffairs.gov.mv/wp-content/uploads/2024/12/052A8113.jpg",
           "alt": "ފޮޓޯ: ހިއުމަން ރިސޯސް ފޯރަމް 2024"
-        },
+        }
+      ],
+      "translations": {
+        "dv": {
+          "title": "ފޮޓޯ: ހިއުމަން ރިސޯސް ފޯރަމް 2024 (1)"
+        }
+      },
+      "sourceUrl": "https://islamicaffairs.gov.mv/gallery/26708"
+    },
+    {
+      "id": "gallery-26708-part2",
+      "category": null,
+      "publishedAt": "2024-12-10T04:50:21Z",
+      "coverPhoto": {
+        "url": "https://islamicaffairs.gov.mv/wp-content/uploads/2024/12/052A8126.jpg",
+        "alt": "ފޮޓޯ: ހިއުމަން ރިސޯސް ފޯރަމް 2024"
+      },
+      "photos": [
         {
           "url": "https://islamicaffairs.gov.mv/wp-content/uploads/2024/12/052A8126.jpg",
           "alt": "ފޮޓޯ: ހިއުމަން ރިސޯސް ފޯރަމް 2024"
@@ -34964,7 +35108,7 @@
       ],
       "translations": {
         "dv": {
-          "title": "ފޮޓޯ: ހިއުމަން ރިސޯސް ފޯރަމް 2024"
+          "title": "ފޮޓޯ: ހިއުމަން ރިސޯސް ފޯރަމް 2024 (2)"
         }
       },
       "sourceUrl": "https://islamicaffairs.gov.mv/gallery/26708"
@@ -35043,7 +35187,7 @@
       "sourceUrl": "https://islamicaffairs.gov.mv/gallery/26692"
     },
     {
-      "id": "gallery-26500",
+      "id": "gallery-26500-part1",
       "category": null,
       "publishedAt": "2024-12-07T15:30:58Z",
       "coverPhoto": {
@@ -35434,7 +35578,24 @@
         {
           "url": "https://islamicaffairs.gov.mv/wp-content/uploads/2024/12/0K0A6967-Enhanced-NR.jpg",
           "alt": "ފޮޓޯ: މުވައްޒަފުންގެ އަގުވަޒަންކުރުން 2024"
-        },
+        }
+      ],
+      "translations": {
+        "dv": {
+          "title": "ފޮޓޯ: މުވައްޒަފުންގެ އަގުވަޒަންކުރުން 2024 (1)"
+        }
+      },
+      "sourceUrl": "https://islamicaffairs.gov.mv/gallery/26500"
+    },
+    {
+      "id": "gallery-26500-part2",
+      "category": null,
+      "publishedAt": "2024-12-07T15:30:58Z",
+      "coverPhoto": {
+        "url": "https://islamicaffairs.gov.mv/wp-content/uploads/2024/12/0K0A6968-Enhanced-NR.jpg",
+        "alt": "ފޮޓޯ: މުވައްޒަފުންގެ އަގުވަޒަންކުރުން 2024"
+      },
+      "photos": [
         {
           "url": "https://islamicaffairs.gov.mv/wp-content/uploads/2024/12/0K0A6968-Enhanced-NR.jpg",
           "alt": "ފޮޓޯ: މުވައްޒަފުންގެ އަގުވަޒަންކުރުން 2024"
@@ -35818,7 +35979,7 @@
       ],
       "translations": {
         "dv": {
-          "title": "ފޮޓޯ: މުވައްޒަފުންގެ އަގުވަޒަންކުރުން 2024"
+          "title": "ފޮޓޯ: މުވައްޒަފުންގެ އަގުވަޒަންކުރުން 2024 (2)"
         }
       },
       "sourceUrl": "https://islamicaffairs.gov.mv/gallery/26500"
@@ -36344,7 +36505,7 @@
       "sourceUrl": "https://islamicaffairs.gov.mv/gallery/26383"
     },
     {
-      "id": "gallery-26061",
+      "id": "gallery-26061-part1",
       "category": null,
       "publishedAt": "2024-11-28T15:00:32Z",
       "coverPhoto": {
@@ -36667,7 +36828,24 @@
         {
           "url": "https://islamicaffairs.gov.mv/wp-content/uploads/2024/12/052A1430.jpg",
           "alt": "ފޮޓޯ: ބައިނަލްއަޤުވާމީ ޒަކާތު މަހާސިންތާ 2024"
-        },
+        }
+      ],
+      "translations": {
+        "dv": {
+          "title": "ފޮޓޯ: ބައިނަލްއަޤުވާމީ ޒަކާތު މަހާސިންތާ 2024 (1)"
+        }
+      },
+      "sourceUrl": "https://islamicaffairs.gov.mv/gallery/26061"
+    },
+    {
+      "id": "gallery-26061-part2",
+      "category": null,
+      "publishedAt": "2024-11-28T15:00:32Z",
+      "coverPhoto": {
+        "url": "https://islamicaffairs.gov.mv/wp-content/uploads/2024/12/052A1441.jpg",
+        "alt": "ފޮޓޯ: ބައިނަލްއަޤުވާމީ ޒަކާތު މަހާސިންތާ 2024"
+      },
+      "photos": [
         {
           "url": "https://islamicaffairs.gov.mv/wp-content/uploads/2024/12/052A1441.jpg",
           "alt": "ފޮޓޯ: ބައިނަލްއަޤުވާމީ ޒަކާތު މަހާސިންތާ 2024"
@@ -36987,7 +37165,7 @@
       ],
       "translations": {
         "dv": {
-          "title": "ފޮޓޯ: ބައިނަލްއަޤުވާމީ ޒަކާތު މަހާސިންތާ 2024"
+          "title": "ފޮޓޯ: ބައިނަލްއަޤުވާމީ ޒަކާތު މަހާސިންތާ 2024 (2)"
         }
       },
       "sourceUrl": "https://islamicaffairs.gov.mv/gallery/26061"
@@ -37659,7 +37837,7 @@
       "sourceUrl": "https://islamicaffairs.gov.mv/gallery/25725"
     },
     {
-      "id": "gallery-25584",
+      "id": "gallery-25584-part1",
       "category": null,
       "publishedAt": "2024-11-23T03:00:11Z",
       "coverPhoto": {
@@ -37918,7 +38096,24 @@
         {
           "url": "https://islamicaffairs.gov.mv/wp-content/uploads/2024/11/052A0325.jpg",
           "alt": "ފޮޓޯ: ފަތުވާ މަހާސިންތާ 2024"
-        },
+        }
+      ],
+      "translations": {
+        "dv": {
+          "title": "ފޮޓޯ: ފަތުވާ މަހާސިންތާ 2024 (1)"
+        }
+      },
+      "sourceUrl": "https://islamicaffairs.gov.mv/gallery/25584"
+    },
+    {
+      "id": "gallery-25584-part2",
+      "category": null,
+      "publishedAt": "2024-11-23T03:00:11Z",
+      "coverPhoto": {
+        "url": "https://islamicaffairs.gov.mv/wp-content/uploads/2024/11/052A0331.jpg",
+        "alt": "ފޮޓޯ: ފަތުވާ މަހާސިންތާ 2024"
+      },
+      "photos": [
         {
           "url": "https://islamicaffairs.gov.mv/wp-content/uploads/2024/11/052A0331.jpg",
           "alt": "ފޮޓޯ: ފަތުވާ މަހާސިންތާ 2024"
@@ -38174,7 +38369,7 @@
       ],
       "translations": {
         "dv": {
-          "title": "ފޮޓޯ: ފަތުވާ މަހާސިންތާ 2024"
+          "title": "ފޮޓޯ: ފަތުވާ މަހާސިންތާ 2024 (2)"
         }
       },
       "sourceUrl": "https://islamicaffairs.gov.mv/gallery/25584"
@@ -39701,7 +39896,7 @@
       "sourceUrl": "https://islamicaffairs.gov.mv/gallery/24820"
     },
     {
-      "id": "gallery-24674",
+      "id": "gallery-24674-part1",
       "category": null,
       "publishedAt": "2024-10-31T13:00:53Z",
       "coverPhoto": {
@@ -40000,7 +40195,24 @@
         {
           "url": "https://islamicaffairs.gov.mv/wp-content/uploads/2024/11/052A1016-Enhanced-NR.jpg",
           "alt": "ފޮޓޯ: ޙައްޖު، ޢުމްރާ ކޮންފަރެންސް 2024"
-        },
+        }
+      ],
+      "translations": {
+        "dv": {
+          "title": "ފޮޓޯ: ޙައްޖު، ޢުމްރާ ކޮންފަރެންސް 2024 (1)"
+        }
+      },
+      "sourceUrl": "https://islamicaffairs.gov.mv/gallery/24674"
+    },
+    {
+      "id": "gallery-24674-part2",
+      "category": null,
+      "publishedAt": "2024-10-31T13:00:53Z",
+      "coverPhoto": {
+        "url": "https://islamicaffairs.gov.mv/wp-content/uploads/2024/11/052A1027-Enhanced-NR.jpg",
+        "alt": "ފޮޓޯ: ޙައްޖު، ޢުމްރާ ކޮންފަރެންސް 2024"
+      },
+      "photos": [
         {
           "url": "https://islamicaffairs.gov.mv/wp-content/uploads/2024/11/052A1027-Enhanced-NR.jpg",
           "alt": "ފޮޓޯ: ޙައްޖު، ޢުމްރާ ކޮންފަރެންސް 2024"
@@ -40292,7 +40504,7 @@
       ],
       "translations": {
         "dv": {
-          "title": "ފޮޓޯ: ޙައްޖު، ޢުމްރާ ކޮންފަރެންސް 2024"
+          "title": "ފޮޓޯ: ޙައްޖު، ޢުމްރާ ކޮންފަރެންސް 2024 (2)"
         }
       },
       "sourceUrl": "https://islamicaffairs.gov.mv/gallery/24674"
@@ -40792,7 +41004,7 @@
       "sourceUrl": "https://islamicaffairs.gov.mv/gallery/24414"
     },
     {
-      "id": "gallery-24301",
+      "id": "gallery-24301-part1",
       "category": null,
       "publishedAt": "2024-10-22T04:00:24Z",
       "coverPhoto": {
@@ -41023,7 +41235,24 @@
         {
           "url": "https://islamicaffairs.gov.mv/wp-content/uploads/2024/10/052A0077.jpg",
           "alt": "ފޮޓޯ: އިސްލާމީ އަޤީދާގެ ތިން ވަނަ ދައުރާ"
-        },
+        }
+      ],
+      "translations": {
+        "dv": {
+          "title": "ފޮޓޯ: އިސްލާމީ އަޤީދާގެ ތިން ވަނަ ދައުރާ (1)"
+        }
+      },
+      "sourceUrl": "https://islamicaffairs.gov.mv/gallery/24301"
+    },
+    {
+      "id": "gallery-24301-part2",
+      "category": null,
+      "publishedAt": "2024-10-22T04:00:24Z",
+      "coverPhoto": {
+        "url": "https://islamicaffairs.gov.mv/wp-content/uploads/2024/10/052A0090.jpg",
+        "alt": "ފޮޓޯ: އިސްލާމީ އަޤީދާގެ ތިން ވަނަ ދައުރާ"
+      },
+      "photos": [
         {
           "url": "https://islamicaffairs.gov.mv/wp-content/uploads/2024/10/052A0090.jpg",
           "alt": "ފޮޓޯ: އިސްލާމީ އަޤީދާގެ ތިން ވަނަ ދައުރާ"
@@ -41251,7 +41480,7 @@
       ],
       "translations": {
         "dv": {
-          "title": "ފޮޓޯ: އިސްލާމީ އަޤީދާގެ ތިން ވަނަ ދައުރާ"
+          "title": "ފޮޓޯ: އިސްލާމީ އަޤީދާގެ ތިން ވަނަ ދައުރާ (2)"
         }
       },
       "sourceUrl": "https://islamicaffairs.gov.mv/gallery/24301"
@@ -42922,7 +43151,7 @@
       "sourceUrl": "https://islamicaffairs.gov.mv/gallery/22899"
     },
     {
-      "id": "gallery-22639",
+      "id": "gallery-22639-part1",
       "category": null,
       "publishedAt": "2024-09-21T15:00:27Z",
       "coverPhoto": {
@@ -43273,7 +43502,24 @@
         {
           "url": "https://islamicaffairs.gov.mv/wp-content/uploads/2024/09/052A5401.jpg",
           "alt": "ފޮޓޯ: އިމާމުންގެ މަހާސިންތާ 2024"
-        },
+        }
+      ],
+      "translations": {
+        "dv": {
+          "title": "ފޮޓޯ: އިމާމުންގެ މަހާސިންތާ 2024 (1)"
+        }
+      },
+      "sourceUrl": "https://islamicaffairs.gov.mv/gallery/22639"
+    },
+    {
+      "id": "gallery-22639-part2",
+      "category": null,
+      "publishedAt": "2024-09-21T15:00:27Z",
+      "coverPhoto": {
+        "url": "https://islamicaffairs.gov.mv/wp-content/uploads/2024/09/052A5403.jpg",
+        "alt": "ފޮޓޯ: އިމާމުންގެ މަހާސިންތާ 2024"
+      },
+      "photos": [
         {
           "url": "https://islamicaffairs.gov.mv/wp-content/uploads/2024/09/052A5403.jpg",
           "alt": "ފޮޓޯ: އިމާމުންގެ މަހާސިންތާ 2024"
@@ -43617,7 +43863,24 @@
         {
           "url": "https://islamicaffairs.gov.mv/wp-content/uploads/2024/09/052A5736.jpg",
           "alt": "ފޮޓޯ: އިމާމުންގެ މަހާސިންތާ 2024"
-        },
+        }
+      ],
+      "translations": {
+        "dv": {
+          "title": "ފޮޓޯ: އިމާމުންގެ މަހާސިންތާ 2024 (2)"
+        }
+      },
+      "sourceUrl": "https://islamicaffairs.gov.mv/gallery/22639"
+    },
+    {
+      "id": "gallery-22639-part3",
+      "category": null,
+      "publishedAt": "2024-09-21T15:00:27Z",
+      "coverPhoto": {
+        "url": "https://islamicaffairs.gov.mv/wp-content/uploads/2024/09/052A5741.jpg",
+        "alt": "ފޮޓޯ: އިމާމުންގެ މަހާސިންތާ 2024"
+      },
+      "photos": [
         {
           "url": "https://islamicaffairs.gov.mv/wp-content/uploads/2024/09/052A5741.jpg",
           "alt": "ފޮޓޯ: އިމާމުންގެ މަހާސިންތާ 2024"
@@ -43957,7 +44220,7 @@
       ],
       "translations": {
         "dv": {
-          "title": "ފޮޓޯ: އިމާމުންގެ މަހާސިންތާ 2024"
+          "title": "ފޮޓޯ: އިމާމުންގެ މަހާސިންތާ 2024 (3)"
         }
       },
       "sourceUrl": "https://islamicaffairs.gov.mv/gallery/22639"
@@ -45310,7 +45573,7 @@
       "sourceUrl": "https://islamicaffairs.gov.mv/gallery/21677"
     },
     {
-      "id": "gallery-21522",
+      "id": "gallery-21522-part1",
       "category": {
         "name": "މޮސްކް ސެކްޝަން"
       },
@@ -45567,7 +45830,26 @@
         {
           "url": "https://islamicaffairs.gov.mv/wp-content/uploads/2024/09/052A0344.jpg",
           "alt": "ފޮޓޯ: ޒުވާން ޚަޠީބުން ޕްރޮގުރާމުގެ ދެވަނަ ބެޗުގައި ޚަޠީބުކަމުގެ ސަނަދު ހާސިލްކުރި 209 ޚަޠީބުންނަށް ސަނަދު އެރުވުމުގެ ރަސްމިއްޔާތު"
-        },
+        }
+      ],
+      "translations": {
+        "dv": {
+          "title": "ފޮޓޯ: ޒުވާން ޚަޠީބުން ޕްރޮގުރާމުގެ ދެވަނަ ބެޗުގައި ޚަޠީބުކަމުގެ ސަނަދު ހާސިލްކުރި 209 ޚަޠީބުންނަށް ސަނަދު އެރުވުމުގެ ރަސްމިއްޔާތު (1)"
+        }
+      },
+      "sourceUrl": "https://islamicaffairs.gov.mv/gallery/21522"
+    },
+    {
+      "id": "gallery-21522-part2",
+      "category": {
+        "name": "މޮސްކް ސެކްޝަން"
+      },
+      "publishedAt": "2024-08-31T13:00:12Z",
+      "coverPhoto": {
+        "url": "https://islamicaffairs.gov.mv/wp-content/uploads/2024/09/052A0345.jpg",
+        "alt": "ފޮޓޯ: ޒުވާން ޚަޠީބުން ޕްރޮގުރާމުގެ ދެވަނަ ބެޗުގައި ޚަޠީބުކަމުގެ ސަނަދު ހާސިލްކުރި 209 ޚަޠީބުންނަށް ސަނަދު އެރުވުމުގެ ރަސްމިއްޔާތު"
+      },
+      "photos": [
         {
           "url": "https://islamicaffairs.gov.mv/wp-content/uploads/2024/09/052A0345.jpg",
           "alt": "ފޮޓޯ: ޒުވާން ޚަޠީބުން ޕްރޮގުރާމުގެ ދެވަނަ ބެޗުގައި ޚަޠީބުކަމުގެ ސަނަދު ހާސިލްކުރި 209 ޚަޠީބުންނަށް ސަނަދު އެރުވުމުގެ ރަސްމިއްޔާތު"
@@ -45819,7 +46101,7 @@
       ],
       "translations": {
         "dv": {
-          "title": "ފޮޓޯ: ޒުވާން ޚަޠީބުން ޕްރޮގުރާމުގެ ދެވަނަ ބެޗުގައި ޚަޠީބުކަމުގެ ސަނަދު ހާސިލްކުރި 209 ޚަޠީބުންނަށް ސަނަދު އެރުވުމުގެ ރަސްމިއްޔާތު"
+          "title": "ފޮޓޯ: ޒުވާން ޚަޠީބުން ޕްރޮގުރާމުގެ ދެވަނަ ބެޗުގައި ޚަޠީބުކަމުގެ ސަނަދު ހާސިލްކުރި 209 ޚަޠީބުންނަށް ސަނަދު އެރުވުމުގެ ރަސްމިއްޔާތު (2)"
         }
       },
       "sourceUrl": "https://islamicaffairs.gov.mv/gallery/21522"
@@ -46143,7 +46425,7 @@
       "sourceUrl": "https://islamicaffairs.gov.mv/gallery/20795"
     },
     {
-      "id": "gallery-20646",
+      "id": "gallery-20646-part1",
       "category": null,
       "publishedAt": "2024-08-24T13:46:37Z",
       "coverPhoto": {
@@ -46406,7 +46688,24 @@
         {
           "url": "https://islamicaffairs.gov.mv/wp-content/uploads/2024/08/052A8136.jpg",
           "alt": "ފޮޓޯ: ދިވެހިރާއްޖޭގެ ދީނީ ޢިލްމުވެރިންގެ އަހަރީ ބައްދަލުވުން 2024"
-        },
+        }
+      ],
+      "translations": {
+        "dv": {
+          "title": "ފޮޓޯ: ދިވެހިރާއްޖޭގެ ދީނީ ޢިލްމުވެރިންގެ އަހަރީ ބައްދަލުވުން 2024 (1)"
+        }
+      },
+      "sourceUrl": "https://islamicaffairs.gov.mv/gallery/20646"
+    },
+    {
+      "id": "gallery-20646-part2",
+      "category": null,
+      "publishedAt": "2024-08-24T13:46:37Z",
+      "coverPhoto": {
+        "url": "https://islamicaffairs.gov.mv/wp-content/uploads/2024/08/052A8138.jpg",
+        "alt": "ފޮޓޯ: ދިވެހިރާއްޖޭގެ ދީނީ ޢިލްމުވެރިންގެ އަހަރީ ބައްދަލުވުން 2024"
+      },
+      "photos": [
         {
           "url": "https://islamicaffairs.gov.mv/wp-content/uploads/2024/08/052A8138.jpg",
           "alt": "ފޮޓޯ: ދިވެހިރާއްޖޭގެ ދީނީ ޢިލްމުވެރިންގެ އަހަރީ ބައްދަލުވުން 2024"
@@ -46662,7 +46961,7 @@
       ],
       "translations": {
         "dv": {
-          "title": "ފޮޓޯ: ދިވެހިރާއްޖޭގެ ދީނީ ޢިލްމުވެރިންގެ އަހަރީ ބައްދަލުވުން 2024"
+          "title": "ފޮޓޯ: ދިވެހިރާއްޖޭގެ ދީނީ ޢިލްމުވެރިންގެ އަހަރީ ބައްދަލުވުން 2024 (2)"
         }
       },
       "sourceUrl": "https://islamicaffairs.gov.mv/gallery/20646"
@@ -50486,7 +50785,7 @@
       "sourceUrl": "https://islamicaffairs.gov.mv/gallery/18027"
     },
     {
-      "id": "gallery-17866",
+      "id": "gallery-17866-part1",
       "category": null,
       "publishedAt": "2024-07-16T18:30:31Z",
       "coverPhoto": {
@@ -50813,7 +51112,24 @@
         {
           "url": "https://islamicaffairs.gov.mv/wp-content/uploads/2024/07/0K0A4426-scaled.jpg",
           "alt": "ކީރިތި ޤުރުއާން ކިޔެވުމުގެ 36ވަނަ ޤައުމީ މުބާރާތުގެ ނިންމުމުގެ ރަސްމިއްޔާތު"
-        },
+        }
+      ],
+      "translations": {
+        "dv": {
+          "title": "ކީރިތި ޤުރުއާން ކިޔެވުމުގެ 36ވަނަ ޤައުމީ މުބާރާތުގެ ނިންމުމުގެ ރަސްމިއްޔާތު (1)"
+        }
+      },
+      "sourceUrl": "https://islamicaffairs.gov.mv/gallery/17866"
+    },
+    {
+      "id": "gallery-17866-part2",
+      "category": null,
+      "publishedAt": "2024-07-16T18:30:31Z",
+      "coverPhoto": {
+        "url": "https://islamicaffairs.gov.mv/wp-content/uploads/2024/07/0K0A4433-scaled.jpg",
+        "alt": "ކީރިތި ޤުރުއާން ކިޔެވުމުގެ 36ވަނަ ޤައުމީ މުބާރާތުގެ ނިންމުމުގެ ރަސްމިއްޔާތު"
+      },
+      "photos": [
         {
           "url": "https://islamicaffairs.gov.mv/wp-content/uploads/2024/07/0K0A4433-scaled.jpg",
           "alt": "ކީރިތި ޤުރުއާން ކިޔެވުމުގެ 36ވަނަ ޤައުމީ މުބާރާތުގެ ނިންމުމުގެ ރަސްމިއްޔާތު"
@@ -51137,7 +51453,7 @@
       ],
       "translations": {
         "dv": {
-          "title": "ކީރިތި ޤުރުއާން ކިޔެވުމުގެ 36ވަނަ ޤައުމީ މުބާރާތުގެ ނިންމުމުގެ ރަސްމިއްޔާތު"
+          "title": "ކީރިތި ޤުރުއާން ކިޔެވުމުގެ 36ވަނަ ޤައުމީ މުބާރާތުގެ ނިންމުމުގެ ރަސްމިއްޔާތު (2)"
         }
       },
       "sourceUrl": "https://islamicaffairs.gov.mv/gallery/17866"
@@ -52419,7 +52735,7 @@
       "sourceUrl": "https://islamicaffairs.gov.mv/gallery/15673"
     },
     {
-      "id": "gallery-15484",
+      "id": "gallery-15484-part1",
       "category": null,
       "publishedAt": "2024-06-29T17:00:59Z",
       "coverPhoto": {
@@ -52722,7 +53038,24 @@
         {
           "url": "https://islamicaffairs.gov.mv/wp-content/uploads/2024/07/BSP05597-scaled.jpg",
           "alt": "ކީރިތި ޤުރްއާން ކިޔެވުމުގެ 36 ވަނަ ޤައުމީ މުބާރާތް އިފްތިތާޙް ކުރުމުގެ ރަސްމިއްޔާތު"
-        },
+        }
+      ],
+      "translations": {
+        "dv": {
+          "title": "ކީރިތި ޤުރްއާން ކިޔެވުމުގެ 36 ވަނަ ޤައުމީ މުބާރާތް އިފްތިތާޙް ކުރުމުގެ ރަސްމިއްޔާތު (1)"
+        }
+      },
+      "sourceUrl": "https://islamicaffairs.gov.mv/gallery/15484"
+    },
+    {
+      "id": "gallery-15484-part2",
+      "category": null,
+      "publishedAt": "2024-06-29T17:00:59Z",
+      "coverPhoto": {
+        "url": "https://islamicaffairs.gov.mv/wp-content/uploads/2024/07/BSP05598-scaled.jpg",
+        "alt": "ކީރިތި ޤުރްއާން ކިޔެވުމުގެ 36 ވަނަ ޤައުމީ މުބާރާތް އިފްތިތާޙް ކުރުމުގެ ރަސްމިއްޔާތު"
+      },
+      "photos": [
         {
           "url": "https://islamicaffairs.gov.mv/wp-content/uploads/2024/07/BSP05598-scaled.jpg",
           "alt": "ކީރިތި ޤުރްއާން ކިޔެވުމުގެ 36 ވަނަ ޤައުމީ މުބާރާތް އިފްތިތާޙް ކުރުމުގެ ރަސްމިއްޔާތު"
@@ -53018,7 +53351,7 @@
       ],
       "translations": {
         "dv": {
-          "title": "ކީރިތި ޤުރްއާން ކިޔެވުމުގެ 36 ވަނަ ޤައުމީ މުބާރާތް އިފްތިތާޙް ކުރުމުގެ ރަސްމިއްޔާތު"
+          "title": "ކީރިތި ޤުރްއާން ކިޔެވުމުގެ 36 ވަނަ ޤައުމީ މުބާރާތް އިފްތިތާޙް ކުރުމުގެ ރަސްމިއްޔާތު (2)"
         }
       },
       "sourceUrl": "https://islamicaffairs.gov.mv/gallery/15484"
