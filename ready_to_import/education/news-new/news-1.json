@@ -3,6 +3,7 @@
     {
       "id": "moe-news-473",
       "source_type": "General",
+      "type": "General",
       "published_at": "2026-10-08T00:00:00Z",
       "featuredImage": {
         "url": "https://www.moe.gov.mv/storage/img/news/2026/01M4JTZ1S737HXS65BHPYYJHYB.jpg",
@@ -37,6 +38,7 @@
     {
       "id": "moe-news-465",
       "source_type": "General",
+      "type": "General",
       "published_at": "2026-10-05T00:00:00Z",
       "featuredImage": {
         "url": "https://www.moe.gov.mv/storage/img/news/2026/01M4AKP6994180R8KQXFBX34SF.jpg",
@@ -62,6 +64,7 @@
     {
       "id": "moe-news-463",
       "source_type": "General",
+      "type": "General",
       "published_at": "2026-09-30T00:00:00Z",
       "featuredImage": {
         "url": "https://www.moe.gov.mv/storage/img/news/2026/01M48596YRXFD4RNKJQ56AYCXN.jpg",
@@ -95,6 +98,7 @@
     {
       "id": "moe-news-471",
       "source_type": "General",
+      "type": "General",
       "published_at": "2026-09-12T00:00:00Z",
       "featuredImage": {
         "url": "https://www.moe.gov.mv/storage/img/news/2026/01M4D8XENPVBMSKT24V7WHHZ0B.jpg",
@@ -129,6 +133,7 @@
     {
       "id": "moe-news-467",
       "source_type": "General",
+      "type": "General",
       "published_at": "2026-09-12T00:00:00Z",
       "featuredImage": {
         "url": "https://www.moe.gov.mv/storage/img/news/2026/01M4AYCDZG2EVB0Y0B0R6AA349.jpg",
@@ -163,6 +168,7 @@
     {
       "id": "moe-news-462",
       "source_type": "General",
+      "type": "General",
       "published_at": "2026-09-06T12:44:28Z",
       "featuredImage": {
         "url": "https://www.moe.gov.mv/storage/img/news/2026/01M4AEX9MTR8PDNX33E09M4G2J.jpg",
@@ -197,6 +203,7 @@
     {
       "id": "moe-news-461",
       "source_type": "General",
+      "type": "General",
       "published_at": "2026-09-01T10:56:12Z",
       "featuredImage": {
         "url": "https://www.moe.gov.mv/storage/img/news/2026/01M1DRM6GCPNXP4TNTECP45QNG.jpg",
@@ -219,6 +226,7 @@
     {
       "id": "moe-news-466",
       "source_type": "Trainings",
+      "type": "Trainings",
       "published_at": "2026-08-27T00:00:00Z",
       "featuredImage": {
         "url": "https://www.moe.gov.mv/storage/img/news/2026/01M4AXRTDREZVBSS1RY978RFRA.jpg",
@@ -250,6 +258,7 @@
     {
       "id": "moe-news-464",
       "source_type": "Trainings",
+      "type": "Trainings",
       "published_at": "2026-08-24T00:00:00Z",
       "featuredImage": {
         "url": "https://www.moe.gov.mv/storage/img/news/2026/01M486GFVP21Z8H6ZFZJ51Q883.jpg",
@@ -280,6 +289,7 @@
     {
       "id": "moe-news-459",
       "source_type": "General",
+      "type": "General",
       "published_at": "2026-08-19T14:22:29Z",
       "featuredImage": {
         "url": "https://www.moe.gov.mv/storage/img/news/2026/01M0CNEE2JPFCZBVFYF4S33BAJ.jpg",
@@ -302,6 +312,7 @@
     {
       "id": "moe-news-469",
       "source_type": "General",
+      "type": "General",
       "published_at": "2026-08-17T00:00:00Z",
       "featuredImage": {
         "url": "https://www.moe.gov.mv/storage/img/news/2026/01M4CX2X1JT3VVCXAEQD134YQR.jpg",
@@ -330,6 +341,7 @@
     {
       "id": "moe-news-470",
       "source_type": "General",
+      "type": "General",
       "published_at": "2026-08-03T00:00:00Z",
       "featuredImage": {
         "url": "https://www.moe.gov.mv/storage/img/news/2026/01M4CXZ7KYDD808F9T4GWDKTHT.jpg",
@@ -357,6 +369,7 @@
     {
       "id": "moe-news-458",
       "source_type": "General",
+      "type": "General",
       "published_at": "2026-08-03T09:21:13Z",
       "featuredImage": {
         "url": "https://www.moe.gov.mv/storage/img/news/2026/01KZ2XNEH2ED6SMC8665WWN06A.jpg",
@@ -379,6 +392,7 @@
     {
       "id": "moe-news-457",
       "source_type": "General",
+      "type": "General",
       "published_at": "2026-07-30T14:07:50Z",
       "featuredImage": {
         "url": "https://www.moe.gov.mv/storage/img/news/2026/01KZ0DA00XNB34E3HAT3S0XFMR.jpg",
@@ -405,6 +419,7 @@
     {
       "id": "moe-news-456",
       "source_type": "President's Award & High Achievers Scholarship 2025",
+      "type": "President's Award & High Achievers Scholarship 2025",
       "published_at": "2026-07-12T13:55:40Z",
       "featuredImage": {
         "url": "https://www.moe.gov.mv/storage/img/news/2026/01KXJ8NTTXNA4Y8HZQQN670CAT.jpg",
@@ -427,6 +442,7 @@
     {
       "id": "moe-news-455",
       "source_type": "President's Award & High Achievers Scholarship 2025",
+      "type": "President's Award & High Achievers Scholarship 2025",
       "published_at": "2026-07-12T13:53:45Z",
       "featuredImage": {
         "url": "https://www.moe.gov.mv/storage/img/news/2026/01KXBR2Y7Y45B7NZ7BX45M1C3W.jpg",
@@ -457,6 +473,7 @@
     {
       "id": "moe-news-454",
       "source_type": "President's Award & High Achievers Scholarship 2025",
+      "type": "President's Award & High Achievers Scholarship 2025",
       "published_at": "2026-07-11T00:00:00Z",
       "featuredImage": {
         "url": "https://www.moe.gov.mv/storage/img/news/2026/01KXAM46VQ1F0FQ3799GHE5A1Y.png",
@@ -485,6 +502,7 @@
     {
       "id": "moe-news-453",
       "source_type": "President's Award & High Achievers Scholarship 2025",
+      "type": "President's Award & High Achievers Scholarship 2025",
       "published_at": "2026-07-11T00:00:00Z",
       "featuredImage": {
         "url": "https://www.moe.gov.mv/storage/img/news/2026/01KXBQYQR3KTQMBQR2M1ZXZDSS.jpg",
@@ -514,6 +532,7 @@
     {
       "id": "moe-news-452",
       "source_type": "President's Award & High Achievers Scholarship 2025",
+      "type": "President's Award & High Achievers Scholarship 2025",
       "published_at": "2026-07-11T00:00:00Z",
       "featuredImage": {
         "url": "https://www.moe.gov.mv/storage/img/news/2026/01KXBPH03Y9XX77X96WP80V42K.jpg",
@@ -546,6 +565,7 @@
     {
       "id": "moe-news-451",
       "source_type": "President's Award & High Achievers Scholarship 2025",
+      "type": "President's Award & High Achievers Scholarship 2025",
       "published_at": "2026-07-09T00:00:00Z",
       "featuredImage": {
         "url": "https://www.moe.gov.mv/storage/img/news/2026/01KXCWT9V717NCJWZZ40GTYRCM.jpg",
@@ -571,6 +591,7 @@
     {
       "id": "moe-news-450",
       "source_type": "General",
+      "type": "General",
       "published_at": "2026-06-10T14:29:22Z",
       "featuredImage": {
         "url": "https://www.moe.gov.mv/storage/img/news/2026/01KTRDTVR5NJX6XFT84F255EM5.webp",
@@ -593,6 +614,7 @@
     {
       "id": "moe-news-449",
       "source_type": "General",
+      "type": "General",
       "published_at": "2026-06-07T00:00:00Z",
       "featuredImage": {
         "url": "https://www.moe.gov.mv/storage/img/news/2026/01KTQY86WKEC7JSW9858FEF26W.jpg",
@@ -615,6 +637,7 @@
     {
       "id": "moe-news-448",
       "source_type": "General",
+      "type": "General",
       "published_at": "2026-06-04T13:50:33Z",
       "featuredImage": {
         "url": "https://www.moe.gov.mv/storage/img/news/2026/01KT8Z1DAEA666W86AZ052D3H5.jpg",
@@ -637,6 +660,7 @@
     {
       "id": "moe-news-447",
       "source_type": "General",
+      "type": "General",
       "published_at": "2026-06-03T13:18:01Z",
       "featuredImage": {
         "url": "https://www.moe.gov.mv/storage/img/news/2026/01KT68Z6FWXMBM97FBJWXCPMHQ.jpeg",
@@ -659,6 +683,7 @@
     {
       "id": "moe-news-446",
       "source_type": "General",
+      "type": "General",
       "published_at": "2026-03-26T14:25:04Z",
       "featuredImage": {
         "url": "https://www.moe.gov.mv/storage/img/news/2026/01KMMQCBVSVFM9ND830BZXWQ6D.jpeg",
@@ -681,6 +706,7 @@
     {
       "id": "moe-news-445",
       "source_type": "Trainings",
+      "type": "Trainings",
       "published_at": "2026-02-15T00:00:00Z",
       "featuredImage": {
         "url": "https://www.moe.gov.mv/storage/img/news/2026/01KHKS51WHDWXKEJ3HJP654HD5.jpg",
@@ -703,6 +729,7 @@
     {
       "id": "moe-news-444",
       "source_type": "Trainings",
+      "type": "Trainings",
       "published_at": "2026-02-14T00:00:00Z",
       "featuredImage": {
         "url": "https://www.moe.gov.mv/storage/img/news/2026/01KHJZ7T35BB29Z2R16NPAAEWF.jpeg",
@@ -729,6 +756,7 @@
     {
       "id": "moe-news-443",
       "source_type": "Trainings",
+      "type": "Trainings",
       "published_at": "2026-02-14T00:00:00Z",
       "featuredImage": {
         "url": "https://www.moe.gov.mv/storage/img/news/2026/01KHJXMWAF3WSRRQGW00ZWDF18.jpeg",
@@ -751,6 +779,7 @@
     {
       "id": "moe-news-442",
       "source_type": "Infrastructure Projects",
+      "type": "Infrastructure Projects",
       "published_at": "2026-02-04T00:00:00Z",
       "featuredImage": {
         "url": "https://www.moe.gov.mv/storage/img/news/2026/01KGXSBCJF422518WJAC6F548P.jpg",
@@ -773,6 +802,7 @@
     {
       "id": "moe-news-441",
       "source_type": "Infrastructure Projects",
+      "type": "Infrastructure Projects",
       "published_at": "2026-02-04T00:00:00Z",
       "featuredImage": {
         "url": "https://www.moe.gov.mv/storage/img/news/2026/01KGXRMHP1975WXBKSVCS7G8A4.jpg",
@@ -800,6 +830,7 @@
     {
       "id": "moe-news-440",
       "source_type": "School",
+      "type": "School",
       "published_at": "2026-02-02T00:00:00Z",
       "featuredImage": {
         "url": "https://www.moe.gov.mv/storage/img/news/2026/01KGXR0253W8GMHBGMDDFGFPQD.webp",
@@ -822,6 +853,7 @@
     {
       "id": "moe-news-439",
       "source_type": "General",
+      "type": "General",
       "published_at": "2026-02-02T00:00:00Z",
       "featuredImage": {
         "url": "https://www.moe.gov.mv/storage/img/news/2026/01KGMA5ADFQRJH6ADF628AP6C5.jpeg",
@@ -844,6 +876,7 @@
     {
       "id": "moe-news-438",
       "source_type": "General",
+      "type": "General",
       "published_at": "2026-01-28T00:00:00Z",
       "featuredImage": {
         "url": "https://www.moe.gov.mv/storage/img/news/2026/01KGGZ1632K8AZWEBZDP7GD7JZ.jpg",
@@ -866,6 +899,7 @@
     {
       "id": "moe-news-437",
       "source_type": "General",
+      "type": "General",
       "published_at": "2026-01-25T13:09:40Z",
       "featuredImage": {
         "url": "https://www.moe.gov.mv/storage/img/news/2026/01KGEJRCPNZ2B5Y5WV4W08QQQK.jpg",
@@ -888,6 +922,7 @@
     {
       "id": "moe-news-435",
       "source_type": "General",
+      "type": "General",
       "published_at": "2026-01-11T10:10:46Z",
       "featuredImage": {
         "url": "https://www.moe.gov.mv/storage/img/news/2026/01KEQ0RVC83FAQ8HA11PZYDZC4.jpeg",
@@ -910,6 +945,7 @@
     {
       "id": "moe-news-433",
       "source_type": "General",
+      "type": "General",
       "published_at": "2025-12-23T00:00:00Z",
       "featuredImage": {
         "url": "https://www.moe.gov.mv/storage/img/news/2025/01KDMD9F1SRED37H05ENDMD8TK.webp",
@@ -932,6 +968,7 @@
     {
       "id": "moe-news-432",
       "source_type": "General",
+      "type": "General",
       "published_at": "2025-12-22T00:00:00Z",
       "featuredImage": {
         "url": "https://www.moe.gov.mv/storage/img/news/2025/01KD7KSF41W4V4B40P268Q5BG4.webp",
@@ -954,6 +991,7 @@
     {
       "id": "moe-news-431",
       "source_type": "General",
+      "type": "General",
       "published_at": "2025-12-17T14:36:35Z",
       "featuredImage": {
         "url": "https://www.moe.gov.mv/storage/img/news/2025/01KD54N61XCGCEZ03G0BTHP2HS.jpg",
@@ -976,6 +1014,7 @@
     {
       "id": "moe-news-430",
       "source_type": "School",
+      "type": "School",
       "published_at": "2025-12-11T15:52:29Z",
       "featuredImage": {
         "url": "https://www.moe.gov.mv/storage/img/news/2025/01KC6GMZ7GE8N2EACG0ZE63EH5.jpg",
@@ -998,6 +1037,7 @@
     {
       "id": "moe-news-429",
       "source_type": "School",
+      "type": "School",
       "published_at": "2025-12-05T00:00:00Z",
       "featuredImage": {
         "url": "https://www.moe.gov.mv/storage/img/news/2025/01KBVY2ZR7WE95DCSKTGE734QZ.jpg",
@@ -1023,6 +1063,7 @@
     {
       "id": "moe-news-428",
       "source_type": "General",
+      "type": "General",
       "published_at": "2025-11-27T00:00:00Z",
       "featuredImage": {
         "url": "https://www.moe.gov.mv/storage/img/news/2025/01KB9PBZYBZ3EDHMR36X42EH14.webp",
@@ -1045,6 +1086,7 @@
     {
       "id": "moe-news-427",
       "source_type": "School",
+      "type": "School",
       "published_at": "2025-11-26T17:10:55Z",
       "featuredImage": {
         "url": "https://www.moe.gov.mv/storage/img/news/2025/01KB2EYVZ513BX3RN40Z8JB9D4.jpg",
@@ -1070,6 +1112,7 @@
     {
       "id": "moe-news-426",
       "source_type": "General",
+      "type": "General",
       "published_at": "2025-11-24T08:25:01Z",
       "featuredImage": {
         "url": "https://www.moe.gov.mv/storage/img/news/2025/01KATHC36PD7EZRRE977178AMM.jpg",
@@ -1092,6 +1135,7 @@
     {
       "id": "moe-news-425",
       "source_type": "General",
+      "type": "General",
       "published_at": "2025-11-23T13:34:46Z",
       "featuredImage": {
         "url": "https://www.moe.gov.mv/storage/img/news/2025/01KAQXKVWNEVV386RFCT903KMN.JPG",
@@ -1114,6 +1158,7 @@
     {
       "id": "moe-news-423",
       "source_type": "General",
+      "type": "General",
       "published_at": "2025-11-10T10:28:42Z",
       "featuredImage": {
         "url": "https://www.moe.gov.mv/storage/img/news/2025/01K9V7FMFQ0PJG0RXT7A72CAY8.jpg",
@@ -1136,6 +1181,7 @@
     {
       "id": "moe-news-422",
       "source_type": "Infrastructure Projects",
+      "type": "Infrastructure Projects",
       "published_at": "2025-11-06T00:00:00Z",
       "featuredImage": {
         "url": "https://www.moe.gov.mv/storage/img/news/2025/01K9FSSB355724R3XW9VYJDPJC.webp",
@@ -1158,6 +1204,7 @@
     {
       "id": "moe-news-421",
       "source_type": "Infrastructure Projects",
+      "type": "Infrastructure Projects",
       "published_at": "2025-11-06T00:00:00Z",
       "featuredImage": {
         "url": "https://www.moe.gov.mv/storage/img/news/2025/01K9FSS883RA5KA5E5SDJ927PX.webp",
@@ -1180,6 +1227,7 @@
     {
       "id": "moe-news-420",
       "source_type": "Infrastructure Projects",
+      "type": "Infrastructure Projects",
       "published_at": "2025-11-06T00:00:00Z",
       "featuredImage": {
         "url": "https://www.moe.gov.mv/storage/img/news/2025/01K9FSS3TEPSE6BCJ4C8GMA0H8.webp",
@@ -1202,6 +1250,7 @@
     {
       "id": "moe-news-419",
       "source_type": "General",
+      "type": "General",
       "published_at": "2025-11-05T10:06:31Z",
       "featuredImage": {
         "url": "https://www.moe.gov.mv/storage/img/news/2025/01K9A8MM2VYX17RSY0W900WVXD.jpg",
@@ -1227,6 +1276,7 @@
     {
       "id": "moe-news-418",
       "source_type": "General",
+      "type": "General",
       "published_at": "2025-11-01T00:00:00Z",
       "featuredImage": {
         "url": "https://www.moe.gov.mv/storage/img/news/2025/01K987SP74E0ED8G06QQT9QX8J.jpg",
@@ -1258,6 +1308,7 @@
     {
       "id": "moe-news-417",
       "source_type": "General",
+      "type": "General",
       "published_at": "2025-11-01T00:00:00Z",
       "featuredImage": {
         "url": "https://www.moe.gov.mv/storage/img/news/2025/01K986HVACKR8PPPDKR9X9RYEW.jpg",
@@ -1285,6 +1336,7 @@
     {
       "id": "moe-news-416",
       "source_type": "General",
+      "type": "General",
       "published_at": "2025-11-01T00:00:00Z",
       "featuredImage": {
         "url": "https://www.moe.gov.mv/storage/img/news/2025/01K984JYTCQ2EB4GZDN10JB506.JPG",
@@ -1307,6 +1359,7 @@
     {
       "id": "moe-news-415",
       "source_type": "General",
+      "type": "General",
       "published_at": "2025-10-30T17:28:52Z",
       "featuredImage": {
         "url": "https://www.moe.gov.mv/storage/img/news/2025/01K983YX0HPE6CT8D7AB67KFHW.png",
@@ -1332,6 +1385,7 @@
     {
       "id": "moe-news-414",
       "source_type": "General",
+      "type": "General",
       "published_at": "2025-10-20T00:00:00Z",
       "featuredImage": {
         "url": "https://www.moe.gov.mv/storage/img/news/2025/01K82KKBJ3NVTH1M0W26KJG6D0.webp",
@@ -1354,6 +1408,7 @@
     {
       "id": "moe-news-413",
       "source_type": "General",
+      "type": "General",
       "published_at": "2025-10-11T00:00:00Z",
       "featuredImage": {
         "url": "https://www.moe.gov.mv/storage/img/news/2025/01K7GT6W5P36KM1YH828ZG9Y8J.JPG",
@@ -1376,6 +1431,7 @@
     {
       "id": "moe-news-412",
       "source_type": "General",
+      "type": "General",
       "published_at": "2025-10-11T00:00:00Z",
       "featuredImage": {
         "url": "https://www.moe.gov.mv/storage/img/news/2025/01K7GPD336H7VGXNR764MR21T9.JPG",
@@ -1398,6 +1454,7 @@
     {
       "id": "moe-news-411",
       "source_type": "Infrastructure Projects",
+      "type": "Infrastructure Projects",
       "published_at": "2025-10-08T14:49:58Z",
       "translations": {
         "en": {
@@ -1416,6 +1473,7 @@
     {
       "id": "moe-news-410",
       "source_type": "Infrastructure Projects",
+      "type": "Infrastructure Projects",
       "published_at": "2025-10-08T14:00:01Z",
       "featuredImage": {
         "url": "https://www.moe.gov.mv/storage/img/news/2025/01K71GS144Q8TDX8AMTDPNYZTH.jpg",
@@ -1438,6 +1496,7 @@
     {
       "id": "moe-news-409",
       "source_type": "Infrastructure Projects",
+      "type": "Infrastructure Projects",
       "published_at": "2025-10-07T00:00:00Z",
       "featuredImage": {
         "url": "https://www.moe.gov.mv/storage/img/news/2025/01K70XPQ3HR7Y59TRDG4BWK0FQ.jpg",
@@ -1460,6 +1519,7 @@
     {
       "id": "moe-news-408",
       "source_type": "Infrastructure Projects",
+      "type": "Infrastructure Projects",
       "published_at": "2025-10-07T14:37:50Z",
       "featuredImage": {
         "url": "https://www.moe.gov.mv/storage/img/news/2025/01K6Z0HHGWEJ9A7CYXJ8C67WE5.JPG",
@@ -1482,6 +1542,7 @@
     {
       "id": "moe-news-407",
       "source_type": "Infrastructure Projects",
+      "type": "Infrastructure Projects",
       "published_at": "2025-10-06T00:00:00Z",
       "featuredImage": {
         "url": "https://www.moe.gov.mv/storage/img/news/2025/01K6X2JWRM0T4C6ESTA8N2G3VY.webp",
@@ -1504,6 +1565,7 @@
     {
       "id": "moe-news-406",
       "source_type": "Infrastructure Projects",
+      "type": "Infrastructure Projects",
       "published_at": "2025-10-06T11:12:58Z",
       "featuredImage": {
         "url": "https://www.moe.gov.mv/storage/img/news/2025/01K6W2DQF4SHE26N019J2CMT6Y.jpeg",
@@ -1526,6 +1588,7 @@
     {
       "id": "moe-news-405",
       "source_type": "General",
+      "type": "General",
       "published_at": "2025-10-05T00:00:00Z",
       "featuredImage": {
         "url": "https://www.moe.gov.mv/storage/img/news/2025/01K6VQK0HPPK9A1D93QHHF8QMK.webp",
@@ -1548,6 +1611,7 @@
     {
       "id": "moe-news-404",
       "source_type": "General",
+      "type": "General",
       "published_at": "2025-09-28T00:00:00Z",
       "featuredImage": {
         "url": "https://www.moe.gov.mv/storage/img/news/2025/01K6CQ1BHJGD90TGN59SX5E6X9.webp",
@@ -1570,6 +1634,7 @@
     {
       "id": "moe-news-403",
       "source_type": "National Teacher Training Program",
+      "type": "National Teacher Training Program",
       "published_at": "2025-09-22T14:20:14Z",
       "featuredImage": {
         "url": "https://www.moe.gov.mv/storage/img/news/2025/01K5RBJHQFB6W4JDS6S2XQTR4D.webp",
@@ -1592,6 +1657,7 @@
     {
       "id": "moe-news-402",
       "source_type": "Infrastructure Projects",
+      "type": "Infrastructure Projects",
       "published_at": "2025-09-21T10:15:33Z",
       "featuredImage": {
         "url": "https://www.moe.gov.mv/storage/img/news/2025/01K5NB5SXNHA9C12A8BDB6GMJ7.JPG",
@@ -1614,6 +1680,7 @@
     {
       "id": "moe-news-401",
       "source_type": "Infrastructure Projects",
+      "type": "Infrastructure Projects",
       "published_at": "2025-09-21T10:14:53Z",
       "featuredImage": {
         "url": "https://www.moe.gov.mv/storage/img/news/2025/01K5NB4JJ6SJ2EDREP9E324SWF.jpg",
@@ -1636,6 +1703,7 @@
     {
       "id": "moe-news-400",
       "source_type": "Infrastructure Projects",
+      "type": "Infrastructure Projects",
       "published_at": "2025-09-21T10:13:10Z",
       "featuredImage": {
         "url": "https://www.moe.gov.mv/storage/img/news/2025/01K5NB1ECC4WPNMVXJH50V9MBJ.JPG",
@@ -1658,6 +1726,7 @@
     {
       "id": "moe-news-399",
       "source_type": "Infrastructure Projects",
+      "type": "Infrastructure Projects",
       "published_at": "2025-09-21T10:12:14Z",
       "featuredImage": {
         "url": "https://www.moe.gov.mv/storage/img/news/2025/01K5NAZQRFK835P6AM5VHGNXNY.JPG",
@@ -1680,6 +1749,7 @@
     {
       "id": "moe-news-397",
       "source_type": "General",
+      "type": "General",
       "published_at": "2025-09-11T11:09:13Z",
       "featuredImage": {
         "url": "https://www.moe.gov.mv/storage/img/news/2025/01K4VP8WQDEA09TADZB5XS15KP.webp",
@@ -1702,6 +1772,7 @@
     {
       "id": "moe-news-396",
       "source_type": "Trainings",
+      "type": "Trainings",
       "published_at": "2025-09-08T00:00:00Z",
       "featuredImage": {
         "url": "https://www.moe.gov.mv/storage/img/news/2025/01K4RS5E6A142J5H6ZBZQ1289G.JPG",
@@ -1724,6 +1795,7 @@
     {
       "id": "moe-news-395",
       "source_type": "General",
+      "type": "General",
       "published_at": "2025-09-08T13:29:10Z",
       "featuredImage": {
         "url": "https://www.moe.gov.mv/storage/img/news/2025/01K4M72Z50967WFFK5SC39F84K.jpg",
@@ -1746,6 +1818,7 @@
     {
       "id": "moe-news-394",
       "source_type": "General",
+      "type": "General",
       "published_at": "2025-09-07T00:00:00Z",
       "featuredImage": {
         "url": "https://www.moe.gov.mv/storage/img/news/2025/01K4JFFY43JNEPMENHQYPWM3KJ.png",
@@ -1768,6 +1841,7 @@
     {
       "id": "moe-news-393",
       "source_type": "School",
+      "type": "School",
       "published_at": "2025-09-02T00:00:00Z",
       "featuredImage": {
         "url": "https://www.moe.gov.mv/storage/img/news/2025/01K47F0J6HAWT4HSSPVNG58T1N.png",
@@ -1790,6 +1864,7 @@
     {
       "id": "moe-news-390",
       "source_type": "Trainings",
+      "type": "Trainings",
       "published_at": "2025-08-31T09:57:39Z",
       "featuredImage": {
         "url": "https://www.moe.gov.mv/storage/img/news/2025/01K423ARSZ8AV6W89BZ4K33RWF.webp",
@@ -1812,6 +1887,7 @@
     {
       "id": "moe-news-387",
       "source_type": "Infrastructure Projects",
+      "type": "Infrastructure Projects",
       "published_at": "2025-08-27T16:07:28Z",
       "featuredImage": {
         "url": "https://www.moe.gov.mv/storage/img/news/2025/01K3QDX5Y0M0G2X6A0XTVTVDAC.jpg",
@@ -1834,6 +1910,7 @@
     {
       "id": "moe-news-386",
       "source_type": "Infrastructure Projects",
+      "type": "Infrastructure Projects",
       "published_at": "2025-08-27T15:59:20Z",
       "featuredImage": {
         "url": "https://www.moe.gov.mv/storage/img/news/2025/01K3NJXAQENM4H6F0B0Q00TCA0.jpg",
@@ -1856,6 +1933,7 @@
     {
       "id": "moe-news-384",
       "source_type": "Infrastructure Projects",
+      "type": "Infrastructure Projects",
       "published_at": "2025-08-27T15:41:21Z",
       "featuredImage": {
         "url": "https://www.moe.gov.mv/storage/img/news/2025/01K3NHWCB6P84VF3Y9HTM7NX4X.jpg",
@@ -1878,6 +1956,7 @@
     {
       "id": "moe-news-383",
       "source_type": "Infrastructure Projects",
+      "type": "Infrastructure Projects",
       "published_at": "2025-08-24T00:00:00Z",
       "featuredImage": {
         "url": "https://www.moe.gov.mv/storage/img/news/2025/01K3NGEFV1BWG6HJ9YPQK00RGV.webp",
@@ -1900,6 +1979,7 @@
     {
       "id": "moe-news-380",
       "source_type": "Infrastructure Projects",
+      "type": "Infrastructure Projects",
       "published_at": "2025-08-20T00:00:00Z",
       "featuredImage": {
         "url": "https://www.moe.gov.mv/storage/img/news/2025/01K3KRJPNKY0TY2G4CZ978Q0Y0.png",
@@ -1925,6 +2005,7 @@
     {
       "id": "moe-news-379",
       "source_type": "Infrastructure Projects",
+      "type": "Infrastructure Projects",
       "published_at": "2025-08-20T00:00:00Z",
       "featuredImage": {
         "url": "https://www.moe.gov.mv/storage/img/news/2025/01K3H0EGQ9K8Q1XCH9CW6TBFP3.webp",
@@ -1947,6 +2028,7 @@
     {
       "id": "moe-news-378",
       "source_type": "General",
+      "type": "General",
       "published_at": "2025-08-20T00:00:00Z",
       "featuredImage": {
         "url": "https://www.moe.gov.mv/storage/img/news/2025/01K3FQJF44DX0ZJHJ01H3VE3VQ.webp",
@@ -1969,6 +2051,7 @@
     {
       "id": "moe-news-377",
       "source_type": "Infrastructure Projects",
+      "type": "Infrastructure Projects",
       "published_at": "2025-08-20T00:00:00Z",
       "featuredImage": {
         "url": "https://www.moe.gov.mv/storage/img/news/2025/01K3KQRZ66FNPDGF5XZGRJ4F7X.webp",
@@ -1991,6 +2074,7 @@
     {
       "id": "moe-news-375",
       "source_type": "Infrastructure Projects",
+      "type": "Infrastructure Projects",
       "published_at": "2025-08-20T00:00:00Z",
       "featuredImage": {
         "url": "https://www.moe.gov.mv/storage/img/news/2025/01K35NF5FZTY6VYDXCT1M7TRRR.webp",
@@ -2013,6 +2097,7 @@
     {
       "id": "moe-news-376",
       "source_type": "General",
+      "type": "General",
       "published_at": "2025-08-19T00:00:00Z",
       "featuredImage": {
         "url": "https://www.moe.gov.mv/storage/img/news/2025/01K35R8K4EF853DPQPS8713YAH.webp",
@@ -2035,6 +2120,7 @@
     {
       "id": "moe-news-374",
       "source_type": "General",
+      "type": "General",
       "published_at": "2025-08-19T00:00:00Z",
       "featuredImage": {
         "url": "https://www.moe.gov.mv/storage/img/news/2025/01K35J794QTW6933GDJ1NS3YQ3.webp",
@@ -2057,6 +2143,7 @@
     {
       "id": "moe-news-392",
       "source_type": "School",
+      "type": "School",
       "published_at": "2025-08-15T00:00:00Z",
       "featuredImage": {
         "url": "https://www.moe.gov.mv/storage/img/news/2025/01K45DHEFYW1H89JSHN9KCW9MN.jpeg",
@@ -2079,6 +2166,7 @@
     {
       "id": "moe-news-391",
       "source_type": "School",
+      "type": "School",
       "published_at": "2025-08-15T00:00:00Z",
       "featuredImage": {
         "url": "https://www.moe.gov.mv/storage/img/news/2025/01K459EEYTD90ETYBTEF306SJZ.jpg",
@@ -2105,6 +2193,7 @@
     {
       "id": "moe-news-388",
       "source_type": "Infrastructure Projects",
+      "type": "Infrastructure Projects",
       "published_at": "2025-08-14T00:00:00Z",
       "featuredImage": {
         "url": "https://www.moe.gov.mv/storage/img/news/2025/01K3QSGVR9QHQAHHSKK6BYNXH3.webp",
@@ -2127,6 +2216,7 @@
     {
       "id": "moe-news-385",
       "source_type": "Infrastructure Projects",
+      "type": "Infrastructure Projects",
       "published_at": "2025-08-14T00:00:00Z",
       "featuredImage": {
         "url": "https://www.moe.gov.mv/storage/img/news/2025/01K3NJJ1YNAA4SJT00A7JA98X7.webp",
@@ -2149,6 +2239,7 @@
     {
       "id": "moe-news-382",
       "source_type": "Infrastructure Projects",
+      "type": "Infrastructure Projects",
       "published_at": "2025-08-14T00:00:00Z",
       "featuredImage": {
         "url": "https://www.moe.gov.mv/storage/img/news/2025/01K3NHJMMY76H7ZJSB7XN5F442.png",
@@ -2174,6 +2265,7 @@
     {
       "id": "moe-news-389",
       "source_type": "Infrastructure Projects",
+      "type": "Infrastructure Projects",
       "published_at": "2025-08-13T00:00:00Z",
       "featuredImage": {
         "url": "https://www.moe.gov.mv/storage/img/news/2025/01K3R2AAMKSSKYWF5X0FWC3P7W.webp",
@@ -2196,6 +2288,7 @@
     {
       "id": "moe-news-372",
       "source_type": "Infrastructure Projects",
+      "type": "Infrastructure Projects",
       "published_at": "2025-08-11T14:45:23Z",
       "featuredImage": {
         "url": "https://www.moe.gov.mv/storage/img/news/2025/01K2C8ADDEZSS7P51K88GSTFPM.jpg",
@@ -2218,6 +2311,7 @@
     {
       "id": "moe-news-371",
       "source_type": "Trainings",
+      "type": "Trainings",
       "published_at": "2025-08-11T10:39:34Z",
       "featuredImage": {
         "url": "https://www.moe.gov.mv/storage/img/news/2025/01K2BT89QV7CJKEJFPZ42FSNHZ.webp",
@@ -2240,6 +2334,7 @@
     {
       "id": "moe-news-373",
       "source_type": "General",
+      "type": "General",
       "published_at": "2025-08-10T00:00:00Z",
       "featuredImage": {
         "url": "https://www.moe.gov.mv/storage/img/news/2025/01K2EBTHG2PNHV1FZMX6H0E9MM.webp",
@@ -2262,6 +2357,7 @@
     {
       "id": "moe-news-370",
       "source_type": "Trainings",
+      "type": "Trainings",
       "published_at": "2025-08-07T00:00:00Z",
       "featuredImage": {
         "url": "https://www.moe.gov.mv/storage/img/news/2025/01K2BT7DQXEHY0GAQPF605C7ZH.webp",
@@ -2284,6 +2380,7 @@
     {
       "id": "moe-news-368",
       "source_type": "General",
+      "type": "General",
       "published_at": "2025-08-06T00:00:00Z",
       "featuredImage": {
         "url": "https://www.moe.gov.mv/storage/img/news/2025/01K29KT9MVJRA5V58WK6ZEGWH1.jpg",
@@ -2306,6 +2403,7 @@
     {
       "id": "moe-news-367",
       "source_type": "General",
+      "type": "General",
       "published_at": "2025-08-06T00:00:00Z",
       "featuredImage": {
         "url": "https://www.moe.gov.mv/storage/img/news/2025/01K29KSFWZYEAQXEJ84XZDNRR6.JPG",
@@ -2328,6 +2426,7 @@
     {
       "id": "moe-news-369",
       "source_type": "General",
+      "type": "General",
       "published_at": "2025-07-31T00:00:00Z",
       "featuredImage": {
         "url": "https://www.moe.gov.mv/storage/img/news/2025/01K29PCC0ZTF34MHEARWT6HXJS.jpg",
@@ -2350,6 +2449,7 @@
     {
       "id": "moe-news-365",
       "source_type": "General",
+      "type": "General",
       "published_at": "2025-07-23T12:19:36Z",
       "featuredImage": {
         "url": "https://www.moe.gov.mv/storage/img/news/2025/01K0V2DT6FS2N8065TNCWPSYGX.jpeg",

@@ -3,6 +3,7 @@
     {
       "id": "moe-news-261",
       "source_type": "Trainings",
+      "type": "Trainings",
       "published_at": "2024-12-02T13:56:32Z",
       "featuredImage": {
         "url": "https://www.moe.gov.mv/storage/img/news/2024/01JE39BTMPZAYEZGKRBWD3KY75.JPG",
@@ -30,6 +31,7 @@
     {
       "id": "moe-news-260",
       "source_type": "General",
+      "type": "General",
       "published_at": "2024-11-28T13:50:34Z",
       "featuredImage": {
         "url": "https://www.moe.gov.mv/storage/img/news/2024/01JDS0QSQNPPGHQTWF9J0FC65M.JPG",
@@ -56,6 +58,7 @@
     {
       "id": "moe-news-258",
       "source_type": "General",
+      "type": "General",
       "published_at": "2024-11-28T13:38:02Z",
       "featuredImage": {
         "url": "https://www.moe.gov.mv/storage/img/news/2024/01JDRYQ2RVX363RAJXB6KYEMCZ.jpg",
@@ -84,6 +87,7 @@
     {
       "id": "moe-news-257",
       "source_type": "Trainings",
+      "type": "Trainings",
       "published_at": "2024-11-24T15:12:34Z",
       "featuredImage": {
         "url": "https://www.moe.gov.mv/storage/img/news/2024/01JDETHA1TJD8QS27WXM8JQ5GW.jpeg",
@@ -110,6 +114,7 @@
     {
       "id": "moe-news-256",
       "source_type": "General",
+      "type": "General",
       "published_at": "2024-11-24T13:04:47Z",
       "featuredImage": {
         "url": "https://www.moe.gov.mv/storage/img/news/2024/01JDEK7AQS2S471980KX04FS1W.jpg",
@@ -138,6 +143,7 @@
     {
       "id": "moe-news-255",
       "source_type": "General",
+      "type": "General",
       "published_at": "2024-11-24T09:12:48Z",
       "featuredImage": {
         "url": "https://www.moe.gov.mv/storage/img/news/2024/01JDE5YJ1B9EF0BXS0BTNHC4FP.jpg",
@@ -166,6 +172,7 @@
     {
       "id": "moe-news-254",
       "source_type": "General",
+      "type": "General",
       "published_at": "2024-11-23T02:19:34Z",
       "featuredImage": {
         "url": "https://www.moe.gov.mv/storage/img/news/2024/01JDAVX65FMFA4XYZQSPDWWFJ2.png",
@@ -188,6 +195,7 @@
     {
       "id": "moe-news-253",
       "source_type": "General",
+      "type": "General",
       "published_at": "2024-11-21T13:38:45Z",
       "featuredImage": {
         "url": "https://www.moe.gov.mv/storage/img/news/2024/01JD6XZBJKK73QFZD17EE0Z7Z1.jpg",
@@ -210,6 +218,7 @@
     {
       "id": "moe-news-252",
       "source_type": "General",
+      "type": "General",
       "published_at": "2024-11-21T12:53:20Z",
       "featuredImage": {
         "url": "https://www.moe.gov.mv/storage/img/news/2024/01JD6VC6KWW6S0XJZJD9A03ZZX.jpg",
@@ -232,6 +241,7 @@
     {
       "id": "moe-news-251",
       "source_type": "Trainings",
+      "type": "Trainings",
       "published_at": "2024-11-20T16:37:29Z",
       "featuredImage": {
         "url": "https://www.moe.gov.mv/storage/img/news/2024/01JD4NSXCA0CPX7MX0JNXWHPJ8.JPG",
@@ -259,6 +269,7 @@
     {
       "id": "moe-news-250",
       "source_type": "General",
+      "type": "General",
       "published_at": "2024-11-20T15:11:09Z",
       "featuredImage": {
         "url": "https://www.moe.gov.mv/storage/img/news/2024/01JD4GVTWYXDZS6DRW7QEZ6678.JPG",
@@ -281,6 +292,7 @@
     {
       "id": "moe-news-249",
       "source_type": "General",
+      "type": "General",
       "published_at": "2024-11-19T18:42:00Z",
       "featuredImage": {
         "url": "https://www.moe.gov.mv/storage/img/news/2024/01JD2AH6MFTZ3RRDMNFPW3VMX2.JPG",
@@ -310,6 +322,7 @@
     {
       "id": "moe-news-248",
       "source_type": "Trainings",
+      "type": "Trainings",
       "published_at": "2024-11-19T11:47:05Z",
       "featuredImage": {
         "url": "https://www.moe.gov.mv/storage/img/news/2024/01JD1JSF8E0ZC8ZXSY6QG291ZZ.JPG",
@@ -339,6 +352,7 @@
     {
       "id": "moe-news-247",
       "source_type": "General",
+      "type": "General",
       "published_at": "2024-11-19T08:24:45Z",
       "featuredImage": {
         "url": "https://www.moe.gov.mv/storage/img/news/2024/01JD176ZN0ZSHYKP0ZMHRT8RFJ.jpg",
@@ -366,6 +380,7 @@
     {
       "id": "moe-news-246",
       "source_type": "General",
+      "type": "General",
       "published_at": "2024-11-17T18:59:20Z",
       "featuredImage": {
         "url": "https://www.moe.gov.mv/storage/img/news/2024/01JCX6QGA0GSRMXARF7D61K8GT.JPG",
@@ -393,6 +408,7 @@
     {
       "id": "moe-news-245",
       "source_type": "General",
+      "type": "General",
       "published_at": "2024-11-14T15:14:03Z",
       "featuredImage": {
         "url": "https://www.moe.gov.mv/storage/img/news/2024/01JCN7YTFPMTBQVJ95WP367WQZ.JPG",
@@ -420,6 +436,7 @@
     {
       "id": "moe-news-244",
       "source_type": "General",
+      "type": "General",
       "published_at": "2024-11-14T14:16:47Z",
       "featuredImage": {
         "url": "https://www.moe.gov.mv/storage/img/news/2024/01JD1FDNS3C5MB6EWGHY9SK2VE.jpg",
@@ -446,6 +463,7 @@
     {
       "id": "moe-news-243",
       "source_type": "General",
+      "type": "General",
       "published_at": "2024-11-13T18:53:35Z",
       "featuredImage": {
         "url": "https://www.moe.gov.mv/storage/img/news/2024/01JCJWT2XB5SZME8GMKSJD8D6W.jpeg",
@@ -472,6 +490,7 @@
     {
       "id": "moe-news-242",
       "source_type": "Trainings",
+      "type": "Trainings",
       "published_at": "2024-11-07T17:13:45Z",
       "featuredImage": {
         "url": "https://www.moe.gov.mv/storage/img/news/2024/01JC3TPAMWW0BYEBW9G10CDDV4.JPG",
@@ -500,6 +519,7 @@
     {
       "id": "moe-news-241",
       "source_type": "General",
+      "type": "General",
       "published_at": "2024-11-07T16:40:23Z",
       "featuredImage": {
         "url": "https://www.moe.gov.mv/storage/img/news/2024/01JC36SWF010KCFMC6XBV3VJ79.jpg",
@@ -522,6 +542,7 @@
     {
       "id": "moe-news-240",
       "source_type": "National Teacher Training Program",
+      "type": "National Teacher Training Program",
       "published_at": "2024-11-07T12:07:42Z",
       "featuredImage": {
         "url": "https://www.moe.gov.mv/storage/img/news/2024/01JC2Q6KGG6KWG23MDDKDYFXN4.jpg",
@@ -544,6 +565,7 @@
     {
       "id": "moe-news-239",
       "source_type": "General",
+      "type": "General",
       "published_at": "2024-11-05T00:00:00Z",
       "featuredImage": {
         "url": "https://www.moe.gov.mv/storage/img/news/2024/01JBYB146K76CR6RGHEM1VH4CZ.JPG",
@@ -566,6 +588,7 @@
     {
       "id": "moe-news-238",
       "source_type": "General",
+      "type": "General",
       "published_at": "2024-11-05T14:25:30Z",
       "translations": {
         "en": {
@@ -584,6 +607,7 @@
     {
       "id": "moe-news-237",
       "source_type": "General",
+      "type": "General",
       "published_at": "2024-11-04T17:51:38Z",
       "featuredImage": {
         "url": "https://www.moe.gov.mv/storage/img/news/2024/01JBW8QGZSN1516XVV7Y7RMBWZ.jpg",
@@ -611,6 +635,7 @@
     {
       "id": "moe-news-236",
       "source_type": "General",
+      "type": "General",
       "published_at": "2024-11-04T12:52:20Z",
       "featuredImage": {
         "url": "https://www.moe.gov.mv/storage/img/news/2024/01JBVDR1HE11FWJYZ38MKCS9DF.JPEG",
@@ -642,6 +667,7 @@
     {
       "id": "moe-news-235",
       "source_type": "General",
+      "type": "General",
       "published_at": "2024-10-30T14:42:03Z",
       "featuredImage": {
         "url": "https://www.moe.gov.mv/storage/img/news/2024/01JBEJNGPP96BZXZWF63MHVFPX.jpg",
@@ -664,6 +690,7 @@
     {
       "id": "moe-news-234",
       "source_type": "General",
+      "type": "General",
       "published_at": "2024-10-30T14:38:34Z",
       "featuredImage": {
         "url": "https://www.moe.gov.mv/storage/img/news/2024/01JBECN371Z1FA2JVAM30XJDNF.jpg",
@@ -690,6 +717,7 @@
     {
       "id": "moe-news-233",
       "source_type": "General",
+      "type": "General",
       "published_at": "2024-10-28T15:25:41Z",
       "featuredImage": {
         "url": "https://www.moe.gov.mv/storage/img/news/2024/01JBC44F03WTTZ2V8RHQX47D0K.png",
@@ -712,6 +740,7 @@
     {
       "id": "moe-news-232",
       "source_type": "General",
+      "type": "General",
       "published_at": "2024-10-27T14:18:39Z",
       "featuredImage": {
         "url": "https://www.moe.gov.mv/storage/img/news/2024/01JB9EN5XJC08N81STCBZN0C92.jpeg",
@@ -738,6 +767,7 @@
     {
       "id": "moe-news-231",
       "source_type": "Trainings",
+      "type": "Trainings",
       "published_at": "2024-10-24T18:54:46Z",
       "featuredImage": {
         "url": "https://www.moe.gov.mv/storage/img/news/2024/01JAZCXWRVFZJXJPRYC57F08K5.JPG",
@@ -766,6 +796,7 @@
     {
       "id": "moe-news-230",
       "source_type": "Trainings",
+      "type": "Trainings",
       "published_at": "2024-10-22T17:55:57Z",
       "featuredImage": {
         "url": "https://www.moe.gov.mv/storage/img/news/2024/01JAT4RRDCEVRFFGCVECHDH3WC.jpeg",
@@ -788,6 +819,7 @@
     {
       "id": "moe-news-229",
       "source_type": "Trainings",
+      "type": "Trainings",
       "published_at": "2024-10-21T18:48:02Z",
       "featuredImage": {
         "url": "https://www.moe.gov.mv/storage/img/news/2024/01JAQNBD4D3VVA7MGJFVEFBYQ8.jpeg",
@@ -817,6 +849,7 @@
     {
       "id": "moe-news-228",
       "source_type": "Trainings",
+      "type": "Trainings",
       "published_at": "2024-10-20T15:55:49Z",
       "featuredImage": {
         "url": "https://www.moe.gov.mv/storage/img/news/2024/01JAMS3B7C01ZE8XM11ZD7JJ4G.JPG",
@@ -845,6 +878,7 @@
     {
       "id": "moe-news-227",
       "source_type": "General",
+      "type": "General",
       "published_at": "2024-10-20T13:57:28Z",
       "featuredImage": {
         "url": "https://www.moe.gov.mv/storage/img/news/2024/01JAMJAM94GYX33ZTD8CP3K3WH.jpg",
@@ -871,6 +905,7 @@
     {
       "id": "moe-news-226",
       "source_type": "Trainings",
+      "type": "Trainings",
       "published_at": "2024-10-17T00:00:00Z",
       "featuredImage": {
         "url": "https://www.moe.gov.mv/storage/img/news/2024/01JADFGTHEFWY2TPW8ZYBB2S8D.JPG",
@@ -897,6 +932,7 @@
     {
       "id": "moe-news-225",
       "source_type": "National Teacher Training Program",
+      "type": "National Teacher Training Program",
       "published_at": "2024-10-16T14:26:03Z",
       "featuredImage": {
         "url": "https://www.moe.gov.mv/storage/img/news/2024/01JAAAC3WB4BSJQGXGW03TNM41.jpg",
@@ -923,6 +959,7 @@
     {
       "id": "moe-news-224",
       "source_type": "General",
+      "type": "General",
       "published_at": "2024-10-15T15:45:44Z",
       "featuredImage": {
         "url": "https://www.moe.gov.mv/storage/img/news/2024/01JA7WH9KZ72MG5XS11B86RKSE.jpg",
@@ -945,6 +982,7 @@
     {
       "id": "moe-news-223",
       "source_type": "Trainings",
+      "type": "Trainings",
       "published_at": "2024-10-14T14:55:47Z",
       "featuredImage": {
         "url": "https://www.moe.gov.mv/storage/img/news/2024/01JA5793D725NPXY509CJ3ZERH.jpg",
@@ -973,6 +1011,7 @@
     {
       "id": "moe-news-222",
       "source_type": "Trainings",
+      "type": "Trainings",
       "published_at": "2024-10-13T16:27:22Z",
       "featuredImage": {
         "url": "https://www.moe.gov.mv/storage/img/news/2024/01JA2T42QRFZY1MTHAG5EW9M0J.jpg",
@@ -1000,6 +1039,7 @@
     {
       "id": "moe-news-221",
       "source_type": "General",
+      "type": "General",
       "published_at": "2024-10-13T15:10:29Z",
       "featuredImage": {
         "url": "https://www.moe.gov.mv/storage/img/news/2024/01JA2NQAD43X2TZTQYAP8Q79S8.jpg",
@@ -1022,6 +1062,7 @@
     {
       "id": "moe-news-220",
       "source_type": "General",
+      "type": "General",
       "published_at": "2024-10-12T02:34:32Z",
       "featuredImage": {
         "url": "https://www.moe.gov.mv/storage/img/news/2024/01J9YR2CJ65ZPY4TCZPNGEPG4V.webp",
@@ -1044,6 +1085,7 @@
     {
       "id": "moe-news-219",
       "source_type": "General",
+      "type": "General",
       "published_at": "2024-10-10T13:22:50Z",
       "featuredImage": {
         "url": "https://www.moe.gov.mv/storage/img/news/2024/01J9TRC19PJESGQR8F2KMHP2PM.jpg",
@@ -1071,6 +1113,7 @@
     {
       "id": "moe-news-218",
       "source_type": "General",
+      "type": "General",
       "published_at": "2024-10-10T12:55:06Z",
       "featuredImage": {
         "url": "https://www.moe.gov.mv/storage/img/news/2024/01J9TRD5YGJ2K91FQ4ECKW1GFF.JPG",
@@ -1098,6 +1141,7 @@
     {
       "id": "moe-news-216",
       "source_type": "General",
+      "type": "General",
       "published_at": "2024-10-03T00:00:00Z",
       "featuredImage": {
         "url": "https://www.moe.gov.mv/storage/img/news/2024/01J9RE671HPANDNS26E8G57X52.jpg",
@@ -1123,6 +1167,7 @@
     {
       "id": "moe-news-217",
       "source_type": "General",
+      "type": "General",
       "published_at": "2024-10-02T00:00:00Z",
       "featuredImage": {
         "url": "https://www.moe.gov.mv/storage/img/news/2024/01J9RF0DCVMW1X96HXJFYQGNY9.jpg",
@@ -1150,6 +1195,7 @@
     {
       "id": "moe-news-214",
       "source_type": "General",
+      "type": "General",
       "published_at": "2024-10-02T00:00:00Z",
       "featuredImage": {
         "url": "https://www.moe.gov.mv/storage/img/news/2024/01J9QS95D9PG0AYHYX2DJD7720.jpg",
@@ -1178,6 +1224,7 @@
     {
       "id": "moe-news-213",
       "source_type": "General",
+      "type": "General",
       "published_at": "2024-10-01T00:00:00Z",
       "featuredImage": {
         "url": "https://www.moe.gov.mv/storage/img/news/2024/01J9N727591KZB16QEC9SNPMQP.jpg",
@@ -1206,6 +1253,7 @@
     {
       "id": "moe-news-215",
       "source_type": "General",
+      "type": "General",
       "published_at": "2024-09-26T00:00:00Z",
       "featuredImage": {
         "url": "https://www.moe.gov.mv/storage/img/news/2024/01J9RDXEKGFRFFREA1G0RP0X7F.jpg",
@@ -1235,6 +1283,7 @@
     {
       "id": "moe-news-211",
       "source_type": "National Teacher Training Program",
+      "type": "National Teacher Training Program",
       "published_at": "2024-09-19T18:23:32Z",
       "featuredImage": {
         "url": "https://www.moe.gov.mv/storage/img/news/2024/01J8577HJBJ7VHA35ND932QBTR.jpg",
@@ -1263,6 +1312,7 @@
     {
       "id": "moe-news-212",
       "source_type": "General",
+      "type": "General",
       "published_at": "2024-09-18T00:00:00Z",
       "featuredImage": {
         "url": "https://www.moe.gov.mv/storage/img/news/2024/01J857XN0NYBZRADB35WTQV57K.jpg",
@@ -1290,6 +1340,7 @@
     {
       "id": "moe-news-210",
       "source_type": "General",
+      "type": "General",
       "published_at": "2024-09-13T00:00:00Z",
       "featuredImage": {
         "url": "https://www.moe.gov.mv/storage/img/news/2024/01J7X48FJV6P5G23QZAPGD1W6J.webp",
@@ -1312,6 +1363,7 @@
     {
       "id": "moe-news-209",
       "source_type": "General",
+      "type": "General",
       "published_at": "2024-09-13T00:00:00Z",
       "featuredImage": {
         "url": "https://www.moe.gov.mv/storage/img/news/2024/01J7X3M8MXDZWQ1PGMMXNMDXYJ.webp",
@@ -1339,6 +1391,7 @@
     {
       "id": "moe-news-208",
       "source_type": "General",
+      "type": "General",
       "published_at": "2024-09-12T00:00:00Z",
       "featuredImage": {
         "url": "https://www.moe.gov.mv/storage/img/news/2024/01J7X38RW29FKA0506H7Q4EKAY.webp",
@@ -1365,6 +1418,7 @@
     {
       "id": "moe-news-207",
       "source_type": "General",
+      "type": "General",
       "published_at": "2024-09-12T00:00:00Z",
       "featuredImage": {
         "url": "https://www.moe.gov.mv/storage/img/news/2024/01J7X320RVM4HJ71ACAVRGTSQ9.webp",
@@ -1387,6 +1441,7 @@
     {
       "id": "moe-news-206",
       "source_type": "General",
+      "type": "General",
       "published_at": "2024-09-12T00:00:00Z",
       "featuredImage": {
         "url": "https://www.moe.gov.mv/storage/img/news/2024/01J7X2SQYX83XX4GZ26XD27SJX.webp",
@@ -1413,6 +1468,7 @@
     {
       "id": "moe-news-205",
       "source_type": "School",
+      "type": "School",
       "published_at": "2024-09-11T00:00:00Z",
       "featuredImage": {
         "url": "https://www.moe.gov.mv/storage/img/news/2024/01J7X2GE7G16HHXMKX642D141H.webp",
@@ -1435,6 +1491,7 @@
     {
       "id": "moe-news-199",
       "source_type": "General",
+      "type": "General",
       "published_at": "2024-09-11T00:00:00Z",
       "featuredImage": {
         "url": "https://www.moe.gov.mv/storage/img/news/2024/01J7WZ51C3PA6W8NPMGSB8ZDCD.webp",
@@ -1457,6 +1514,7 @@
     {
       "id": "moe-news-201",
       "source_type": "General",
+      "type": "General",
       "published_at": "2024-09-10T00:00:00Z",
       "featuredImage": {
         "url": "https://www.moe.gov.mv/storage/img/news/2024/01J7WZJH8PT00QKG1YB74F300Z.webp",
@@ -1479,6 +1537,7 @@
     {
       "id": "moe-news-200",
       "source_type": "General",
+      "type": "General",
       "published_at": "2024-09-10T00:00:00Z",
       "featuredImage": {
         "url": "https://www.moe.gov.mv/storage/img/news/2024/01J7WZA3Q4BWK24RE0R3RWF7H2.webp",
@@ -1501,6 +1560,7 @@
     {
       "id": "moe-news-203",
       "source_type": "General",
+      "type": "General",
       "published_at": "2024-09-09T00:00:00Z",
       "featuredImage": {
         "url": "https://www.moe.gov.mv/storage/img/news/2024/01J7X047DBMNSHX3ZQD8VKFRT9.webp",
@@ -1523,6 +1583,7 @@
     {
       "id": "moe-news-202",
       "source_type": "General",
+      "type": "General",
       "published_at": "2024-09-09T00:00:00Z",
       "featuredImage": {
         "url": "https://www.moe.gov.mv/storage/img/news/2024/01J7WZTQT9BBV8G1BPJSBSSJ42.webp",
@@ -1545,6 +1606,7 @@
     {
       "id": "moe-news-204",
       "source_type": "General",
+      "type": "General",
       "published_at": "2024-09-08T00:00:00Z",
       "featuredImage": {
         "url": "https://www.moe.gov.mv/storage/img/news/2024/01J7X0C4R42JDQ009J0EZVM53M.webp",
@@ -1571,6 +1633,7 @@
     {
       "id": "moe-news-196",
       "source_type": "General",
+      "type": "General",
       "published_at": "2024-09-08T00:00:00Z",
       "featuredImage": {
         "url": "https://www.moe.gov.mv/storage/img/news/2024/01J7WY3ZMB0W7D3NXNQ5EY9AD3.webp",
@@ -1597,6 +1660,7 @@
     {
       "id": "moe-news-195",
       "source_type": "General",
+      "type": "General",
       "published_at": "2024-09-08T00:00:00Z",
       "featuredImage": {
         "url": "https://www.moe.gov.mv/storage/img/news/2024/01J7WXVV1F9XKJY8AT10E2T7XH.webp",
@@ -1619,6 +1683,7 @@
     {
       "id": "moe-news-198",
       "source_type": "General",
+      "type": "General",
       "published_at": "2024-09-03T00:00:00Z",
       "featuredImage": {
         "url": "https://www.moe.gov.mv/storage/img/news/2024/01J7WYT0J9TA7AYG3WFXF0YC4K.webp",
@@ -1641,6 +1706,7 @@
     {
       "id": "moe-news-197",
       "source_type": "General",
+      "type": "General",
       "published_at": "2024-09-03T00:00:00Z",
       "featuredImage": {
         "url": "https://www.moe.gov.mv/storage/img/news/2024/01J7WY9YS2RHNHNV4BR68GFD9E.webp",
@@ -1663,6 +1729,7 @@
     {
       "id": "moe-news-191",
       "source_type": "General",
+      "type": "General",
       "published_at": "2024-09-03T00:00:00Z",
       "featuredImage": {
         "url": "https://www.moe.gov.mv/storage/img/news/2024/01J7WTNJ1K46P53C53S0YE8DF7.webp",
@@ -1685,6 +1752,7 @@
     {
       "id": "moe-news-192",
       "source_type": "General",
+      "type": "General",
       "published_at": "2024-08-22T00:00:00Z",
       "featuredImage": {
         "url": "https://www.moe.gov.mv/storage/img/news/2024/01J9RF8QAQ5EXK2K45X9HZ8JSS.jpg",
@@ -1711,6 +1779,7 @@
     {
       "id": "moe-news-193",
       "source_type": "General",
+      "type": "General",
       "published_at": "2024-08-12T00:00:00Z",
       "featuredImage": {
         "url": "https://www.moe.gov.mv/storage/img/news/2024/01J7WVDKTBHQNT50A33DPKRDVD.webp",
@@ -1737,6 +1806,7 @@
     {
       "id": "moe-news-194",
       "source_type": "General",
+      "type": "General",
       "published_at": "2024-08-10T00:00:00Z",
       "featuredImage": {
         "url": "https://www.moe.gov.mv/storage/img/news/2024/01J7WXN87PZ8RAQ762N6AMD6JZ.webp",
@@ -1759,6 +1829,7 @@
     {
       "id": "moe-news-187",
       "source_type": "General",
+      "type": "General",
       "published_at": "2024-08-05T00:00:00Z",
       "featuredImage": {
         "url": "https://www.moe.gov.mv/storage/img/news/2024/01J7WSEPMWKWP564RBKFY3TDMQ.webp",
@@ -1781,6 +1852,7 @@
     {
       "id": "moe-news-188",
       "source_type": "General",
+      "type": "General",
       "published_at": "2024-07-31T00:00:00Z",
       "featuredImage": {
         "url": "https://www.moe.gov.mv/storage/img/news/2024/01J7WSP5AG92MQDGFX2M1RC8GR.webp",
@@ -1803,6 +1875,7 @@
     {
       "id": "moe-news-189",
       "source_type": "General",
+      "type": "General",
       "published_at": "2024-07-28T00:00:00Z",
       "featuredImage": {
         "url": "https://www.moe.gov.mv/storage/img/news/2024/01J7WSX709KXMCDBN8RWCFHQYE.webp",
@@ -1825,6 +1898,7 @@
     {
       "id": "moe-news-190",
       "source_type": "General",
+      "type": "General",
       "published_at": "2024-07-25T00:00:00Z",
       "featuredImage": {
         "url": "https://www.moe.gov.mv/storage/img/news/2024/01J7WTEQN2QME7VP5KND7CVTP7.webp",
@@ -1852,6 +1926,7 @@
     {
       "id": "moe-news-185",
       "source_type": "School",
+      "type": "School",
       "published_at": "2024-07-23T00:00:00Z",
       "featuredImage": {
         "url": "https://www.moe.gov.mv/storage/img/news/2024/01J7WRFS72NPWTV9MH8YNTC067.webp",
@@ -1878,6 +1953,7 @@
     {
       "id": "moe-news-21",
       "source_type": "General",
+      "type": "General",
       "published_at": "2024-07-23T00:00:00Z",
       "featuredImage": {
         "url": "https://www.moe.gov.mv/storage/img/news/2024/362911_4dc08aab_1_.jpg",
@@ -1903,6 +1979,7 @@
     {
       "id": "moe-news-20",
       "source_type": "General",
+      "type": "General",
       "published_at": "2024-07-22T00:00:00Z",
       "featuredImage": {
         "url": "https://www.moe.gov.mv/storage/img/news/2024/330967751_5978087418951637_4037516271148766713_n.jpg",
@@ -1924,6 +2001,7 @@
     {
       "id": "moe-news-186",
       "source_type": "General",
+      "type": "General",
       "published_at": "2024-07-21T00:00:00Z",
       "featuredImage": {
         "url": "https://www.moe.gov.mv/storage/img/news/2024/01J7WRZQ8W295SG0V1PX7ZRYES.webp",
@@ -1951,6 +2029,7 @@
     {
       "id": "moe-news-17",
       "source_type": "General",
+      "type": "General",
       "published_at": "2024-07-13T00:00:00Z",
       "featuredImage": {
         "url": "https://www.moe.gov.mv/storage/img/news/2024/450586213_872063434957076_4731765555897450210_n.jpg",
@@ -1983,6 +2062,7 @@
     {
       "id": "moe-news-19",
       "source_type": "General",
+      "type": "General",
       "published_at": "2024-07-12T00:00:00Z",
       "featuredImage": {
         "url": "https://www.moe.gov.mv/storage/img/news/2024/450649914_872219488274804_5213529522163227148_n.jpg",
@@ -2013,6 +2093,7 @@
     {
       "id": "moe-news-18",
       "source_type": "General",
+      "type": "General",
       "published_at": "2024-07-12T00:00:00Z",
       "featuredImage": {
         "url": "https://www.moe.gov.mv/storage/img/news/2024/450461362_871882384975181_1670111262081290353_n1.jpg",
@@ -2038,6 +2119,7 @@
     {
       "id": "moe-news-16",
       "source_type": "General",
+      "type": "General",
       "published_at": "2024-07-09T00:00:00Z",
       "featuredImage": {
         "url": "https://www.moe.gov.mv/storage/img/news/2024/3.png",
@@ -2063,6 +2145,7 @@
     {
       "id": "moe-news-15",
       "source_type": "General",
+      "type": "General",
       "published_at": "2024-07-04T00:00:00Z",
       "featuredImage": {
         "url": "https://www.moe.gov.mv/storage/img/news/2024/IMG_9142.JPG",
@@ -2090,6 +2173,7 @@
     {
       "id": "moe-news-14",
       "source_type": "General",
+      "type": "General",
       "published_at": "2024-07-01T00:00:00Z",
       "featuredImage": {
         "url": "https://www.moe.gov.mv/storage/img/news/2024/110.JPG",
@@ -2117,6 +2201,7 @@
     {
       "id": "moe-news-13",
       "source_type": "General",
+      "type": "General",
       "published_at": "2024-06-30T00:00:00Z",
       "featuredImage": {
         "url": "https://www.moe.gov.mv/storage/img/news/2024/19.JPG",
@@ -2142,6 +2227,7 @@
     {
       "id": "moe-news-12",
       "source_type": "General",
+      "type": "General",
       "published_at": "2024-06-29T00:00:00Z",
       "featuredImage": {
         "url": "https://www.moe.gov.mv/storage/img/news/2024/IMG_8671.JPG",
@@ -2171,6 +2257,7 @@
     {
       "id": "moe-news-11",
       "source_type": "General",
+      "type": "General",
       "published_at": "2024-06-24T00:00:00Z",
       "featuredImage": {
         "url": "https://www.moe.gov.mv/storage/img/news/2024/tot_photo_2.JPG",
@@ -2201,6 +2288,7 @@
     {
       "id": "moe-news-10",
       "source_type": "General",
+      "type": "General",
       "published_at": "2024-06-13T00:00:00Z",
       "featuredImage": {
         "url": "https://www.moe.gov.mv/storage/img/news/2024/IMG_1936.JPG",
@@ -2226,6 +2314,7 @@
     {
       "id": "moe-news-9",
       "source_type": "General",
+      "type": "General",
       "published_at": "2024-06-13T00:00:00Z",
       "featuredImage": {
         "url": "https://www.moe.gov.mv/storage/img/news/2024/unnamed_1_.png",
@@ -2247,6 +2336,7 @@
     {
       "id": "moe-news-8",
       "source_type": "General",
+      "type": "General",
       "published_at": "2024-06-04T00:00:00Z",
       "featuredImage": {
         "url": "https://www.moe.gov.mv/storage/img/news/2024/IMG_7056.JPG",
@@ -2268,6 +2358,7 @@
     {
       "id": "moe-news-7",
       "source_type": "General",
+      "type": "General",
       "published_at": "2024-06-03T00:00:00Z",
       "featuredImage": {
         "url": "https://www.moe.gov.mv/storage/img/news/2024/IMG_0689.JPG",
@@ -2289,6 +2380,7 @@
     {
       "id": "moe-news-6",
       "source_type": "General",
+      "type": "General",
       "published_at": "2024-06-02T00:00:00Z",
       "featuredImage": {
         "url": "https://www.moe.gov.mv/storage/img/news/2024/447499562_846665507496869_5877986609063442892_n.jpg",
@@ -2321,6 +2413,7 @@
     {
       "id": "moe-news-5",
       "source_type": "General",
+      "type": "General",
       "published_at": "2024-05-29T00:00:00Z",
       "featuredImage": {
         "url": "https://www.moe.gov.mv/storage/img/news/2024/IMG_04722.JPG",
@@ -2366,6 +2459,7 @@
     {
       "id": "moe-news-4",
       "source_type": "General",
+      "type": "General",
       "published_at": "2024-05-28T00:00:00Z",
       "featuredImage": {
         "url": "https://www.moe.gov.mv/storage/img/news/2024/IMG_0079.JPG",
@@ -2387,6 +2481,7 @@
     {
       "id": "moe-news-3",
       "source_type": "General",
+      "type": "General",
       "published_at": "2024-05-27T00:00:00Z",
       "featuredImage": {
         "url": "https://www.moe.gov.mv/storage/img/news/2024/18.JPG",
@@ -2415,6 +2510,7 @@
     {
       "id": "moe-news-1",
       "source_type": "General",
+      "type": "General",
       "published_at": "2024-05-22T00:00:00Z",
       "featuredImage": {
         "url": "https://www.moe.gov.mv/storage/img/news/2024/441601062_839320934897993_8434420462426593938_n1.jpg",
@@ -2452,6 +2548,7 @@
     {
       "id": "moe-news-2",
       "source_type": "General",
+      "type": "General",
       "published_at": "2024-05-17T00:00:00Z",
       "featuredImage": {
         "url": "https://www.moe.gov.mv/storage/img/news/2024/436221298_836086588554761_7631063661972039463_n1.jpg",
@@ -2488,6 +2585,7 @@
     {
       "id": "moe-news-32",
       "source_type": "General",
+      "type": "General",
       "published_at": "2024-04-09T00:00:00Z",
       "translations": {
         "en": {
@@ -2504,6 +2602,7 @@
     {
       "id": "moe-news-23",
       "source_type": "General",
+      "type": "General",
       "published_at": "2023-12-27T00:00:00Z",
       "featuredImage": {
         "url": "https://www.moe.gov.mv/storage/img/news/2023/e2481b3f_5c75_4044_bca7_0e8aa88969b9.jpg",
@@ -2531,6 +2630,7 @@
     {
       "id": "moe-news-24",
       "source_type": "General",
+      "type": "General",
       "published_at": "2023-12-25T00:00:00Z",
       "featuredImage": {
         "url": "https://www.moe.gov.mv/storage/img/news/2023/414235638_757227403103262_7714538244612043793_n1.jpg",
